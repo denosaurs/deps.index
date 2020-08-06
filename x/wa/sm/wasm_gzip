@@ -1,0 +1,1 @@
+{"name":"wasm_gzip","desc":"Gzip encryption and decryption wasm implementation, support Deno","repo":"manyuanrong/wasm_gzip","reg":"x","vers":"1.0.0"}

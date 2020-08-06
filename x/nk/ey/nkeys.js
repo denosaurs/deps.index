@@ -1,0 +1,3 @@
+{"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"nats-io/nkeys.js","reg":"x","vers":"1.0.0-2"}
+{"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"nats-io/nkeys.js","reg":"x","vers":"1.0.0-3"}
+{"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"nats-io/nkeys.js","reg":"x","vers":"1.0.0-5"}

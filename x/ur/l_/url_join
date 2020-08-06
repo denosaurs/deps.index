@@ -1,0 +1,1 @@
+{"name":"url_join","desc":"A simple port of the NodeJS module url-join to Deno with typescript","repo":"roonie007/url-join","reg":"x","vers":"1.0.0"}

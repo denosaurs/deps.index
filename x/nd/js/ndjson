@@ -1,0 +1,3 @@
+{"name":"ndjson","desc":"Read, write, parse and serialize new line delimited JSON in deno: http://ndjson.org/","repo":"FaberVitale/deno-ndjson","reg":"x","vers":"1.0.0"}
+{"name":"ndjson","desc":"Read, write, parse and serialize new line delimited JSON in deno: http://ndjson.org/","repo":"FaberVitale/deno-ndjson","reg":"x","vers":"1.0.1"}
+{"name":"ndjson","desc":"Read, write, parse and serialize new line delimited JSON in deno: http://ndjson.org/","repo":"FaberVitale/deno-ndjson","reg":"x","vers":"1.0.2"}

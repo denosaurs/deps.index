@@ -1,0 +1,1 @@
+{"name":"transform","desc":"This package provides reader wrappers that transform the bytes passing through as well as multiple built-in transformers.","repo":"https://github.com/marcosc90/transform","reg":"nest","vers":"0.4.0"}

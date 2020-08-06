@@ -1,0 +1,3 @@
+{"name":"maybe","desc":"A deno module for handling null and undefined values, inspired by Rusts Option<T>","repo":"iMarv/Maybe","reg":"x","vers":"1.0.0"}
+{"name":"maybe","desc":"A deno module for handling null and undefined values, inspired by Rusts Option<T>","repo":"iMarv/Maybe","reg":"x","vers":"1.1.0"}
+{"name":"maybe","desc":"A deno module for handling null and undefined values, inspired by Rusts Option<T>","repo":"iMarv/Maybe","reg":"x","vers":"2.0.0"}

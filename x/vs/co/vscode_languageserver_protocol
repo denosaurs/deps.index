@@ -1,0 +1,1 @@
+{"name":"vscode_languageserver_protocol","desc":"Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on Deno.","repo":null,"reg":"x","vers":"0.1.0"}

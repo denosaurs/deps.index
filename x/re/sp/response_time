@@ -1,0 +1,1 @@
+{"name":"response_time","desc":"X-Response-Time middleware for Deno serve.","repo":"johannlai/response-time","reg":"x","vers":"1.0.0"}

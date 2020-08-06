@@ -1,0 +1,2 @@
+{"name":"flux_annotated_csv_parser","desc":"Parser for Flux annotated CSV data https://v2.docs.influxdata.com/v2.0/reference/syntax/annotated-csv/","repo":"tiagostutz/annotated-csv-parser","reg":"x","vers":"0.1.0"}
+{"name":"flux_annotated_csv_parser","desc":"Parser for Flux annotated CSV data https://v2.docs.influxdata.com/v2.0/reference/syntax/annotated-csv/","repo":"tiagostutz/annotated-csv-parser","reg":"x","vers":"0.1.1"}

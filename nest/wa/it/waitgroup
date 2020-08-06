@@ -1,0 +1,1 @@
+{"name":"waitgroup","desc":"A tiny version of Golang's WaitGroup with promises and zero dependencies outside of `std`.","repo":null,"reg":"nest","vers":"0.0.1"}

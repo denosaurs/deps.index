@@ -1,0 +1,1 @@
+{"name":"waitgroup","desc":"A tiny version of Golang's WaitGroup for Deno with promises and zero dependencies.","repo":"jpwilliams/waitgroup-deno","reg":"x","vers":"1.0.0"}

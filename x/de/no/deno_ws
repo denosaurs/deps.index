@@ -1,0 +1,2 @@
+{"name":"deno_ws","desc":"Event-driven WebSocket wrapper for Deno, utilizing the deno-std ws module.","repo":"envis10n/deno-ws","reg":"x","vers":"0.1.3"}
+{"name":"deno_ws","desc":"Event-driven WebSocket wrapper for Deno, utilizing the deno-std ws module.","repo":"envis10n/deno-ws","reg":"x","vers":"0.1.4"}

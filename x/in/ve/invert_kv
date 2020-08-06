@@ -1,0 +1,2 @@
+{"name":"invert_kv","desc":"🙃 Invert key-value pairs in an object, e.g., { foo: \"bar\" } → { bar: \"foo\" }","repo":"denorg/invert-kv","reg":"x","vers":"1.0.0"}
+{"name":"invert_kv","desc":"🙃 Invert key-value pairs in an object, e.g., { foo: \"bar\" } → { bar: \"foo\" }","repo":"denorg/invert-kv","reg":"x","vers":"2.0.0"}

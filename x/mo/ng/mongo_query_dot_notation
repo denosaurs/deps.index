@@ -1,0 +1,1 @@
+{"name":"mongo_query_dot_notation","desc":"Fast, lightweight library to transform objects to mongo update instructions using operators and dot notation. Ported from Node to Deno.","repo":"skyledge/mongo_query_dot_notation","reg":"x","vers":"1.0.0"}

@@ -1,0 +1,3 @@
+{"name":"Humanizer.ts","desc":"Humanizer meets all your TypeScript needs for manipulating and displaying strings, dates, times, timespans, numbers and quantities.","repo":null,"reg":"nest","vers":"0.0.1"}
+{"name":"Humanizer.ts","desc":"Humanizer meets all your TypeScript needs for manipulating and displaying strings, dates, times, timespans, numbers and quantities.","repo":null,"reg":"nest","vers":"0.0.2"}
+{"name":"Humanizer.ts","desc":"Humanizer meets all your TypeScript needs for manipulating and displaying strings, dates, times, timespans, numbers and quantities.","repo":null,"reg":"nest","vers":"0.0.3"}

@@ -1,0 +1,1 @@
+{"name":"pg_format","desc":"Deno implementation of PostgreSQL's format() to safely create dynamic SQL queries.","repo":"grantcarthew/deno-pg-format","reg":"x","vers":"1.0.0"}

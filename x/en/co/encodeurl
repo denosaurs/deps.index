@@ -1,0 +1,1 @@
+{"name":"encodeurl","desc":"Encode a URL to a percent-encoded form, excluding already-encoded sequences. Build for Deno","repo":"ako-deno/encodeurl","reg":"x","vers":"1.0.0"}

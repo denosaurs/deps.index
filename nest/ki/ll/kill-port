@@ -1,0 +1,2 @@
+{"name":"kill-port","desc":"Module that kills the process of an informed port","repo":"https://github.com/gustavofabro/deno_kill_port","reg":"nest","vers":"1.0.0"}
+{"name":"kill-port","desc":"Module that kills the process of an informed port","repo":"https://github.com/gustavofabro/deno_kill_port","reg":"nest","vers":"1.0.1"}

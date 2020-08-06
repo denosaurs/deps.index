@@ -1,0 +1,4 @@
+{"name":"transform","desc":"This package provides wrappers for Deno.Reader that transform the bytes passing through as well as multiple built-in transformers.","repo":"marcosc90/transform","reg":"x","vers":"0.1.0"}
+{"name":"transform","desc":"This package provides wrappers for Deno.Reader that transform the bytes passing through as well as multiple built-in transformers.","repo":"marcosc90/transform","reg":"x","vers":"0.2.0"}
+{"name":"transform","desc":"This package provides wrappers for Deno.Reader that transform the bytes passing through as well as multiple built-in transformers.","repo":"marcosc90/transform","reg":"x","vers":"0.3.0"}
+{"name":"transform","desc":"This package provides wrappers for Deno.Reader that transform the bytes passing through as well as multiple built-in transformers.","repo":"marcosc90/transform","reg":"x","vers":"0.4.0"}

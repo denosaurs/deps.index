@@ -1,0 +1,1 @@
+{"name":"env_paths","desc":"Get paths for storing things like data, config, cache, etc with Deno.","repo":"lemarier/deno-env-paths","reg":"x","vers":"0.1.0"}

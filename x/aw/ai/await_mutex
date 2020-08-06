@@ -1,0 +1,2 @@
+{"name":"await_mutex","desc":"Deno module for blocking execution of a section of code to one at a time","repo":"Matthew-Smith/awaitable_mutex","reg":"x","vers":"1.0.0"}
+{"name":"await_mutex","desc":"Deno module for blocking execution of a section of code to one at a time","repo":"Matthew-Smith/awaitable_mutex","reg":"x","vers":"1.0.1"}

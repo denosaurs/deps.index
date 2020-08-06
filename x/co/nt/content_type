@@ -1,0 +1,2 @@
+{"name":"content_type","desc":"Create and parse HTTP Content-Type header according to RFC 7231 for Deno","repo":"ako-deno/content_type","reg":"x","vers":"1.0.0"}
+{"name":"content_type","desc":"Create and parse HTTP Content-Type header according to RFC 7231 for Deno","repo":"ako-deno/content_type","reg":"x","vers":"1.0.1"}
