@@ -1,0 +1,30 @@
+name: Bors
+
+on:
+  schedule:
+  - cron: "0 0 * * *"
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Download latest bors version
+      run: curl -sL $(curl -s https://api.github.com/repos/denosaurs/deps.bors/releases/latest | grep "/bors" | awk '{print $2}' | sed 's|[\"\,]*||g') > bors
+
+    - name: Add permissions to bors
+      run: chmod u+x bors
+
+    - name: Update registry
+      run: ./bors
+
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        coauthor_email: qu4k@users.noreply.github.com
+        coauthor_name: qu4k
