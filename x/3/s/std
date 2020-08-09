@@ -21,3 +21,4 @@
 {"name":"std","desc":"A secure JavaScript and TypeScript runtime","repo":"denoland/deno","reg":"x","vers":"0.61.0"}
 {"name":"std","desc":"A secure JavaScript and TypeScript runtime","repo":"denoland/deno","reg":"x","vers":"0.62.0"}
 {"name":"std","desc":"A secure JavaScript and TypeScript runtime","repo":"denoland/deno","reg":"x","vers":"0.63.0"}
+{"name":"std","desc":"A secure JavaScript and TypeScript runtime","repo":"denoland/deno","reg":"x","vers":"0.64.0"}

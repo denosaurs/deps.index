@@ -10,3 +10,4 @@
 {"name":"dexr","desc":null,"repo":"AkifumiSato/dexr","reg":"x","vers":"0.2.3"}
 {"name":"dexr","desc":null,"repo":"AkifumiSato/dexr","reg":"x","vers":"0.2.4"}
 {"name":"dexr","desc":null,"repo":"AkifumiSato/dexr","reg":"x","vers":"0.2.5"}
+{"name":"dexr","desc":"React SSR & hydrate library on Deno.","repo":"AkifumiSato/dexr","reg":"x","vers":"0.2.6"}
