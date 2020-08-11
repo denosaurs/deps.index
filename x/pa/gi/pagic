@@ -43,3 +43,7 @@
 {"name":"pagic","desc":"A static site generator powered by Deno + React","repo":null,"reg":"x","vers":"0.8.0"}
 {"name":"pagic","desc":"A static site generator powered by Deno + React","repo":null,"reg":"x","vers":"0.8.1"}
 {"name":"pagic","desc":"A static site generator powered by Deno + React","repo":null,"reg":"x","vers":"0.8.2"}
+{"name":"pagic","desc":"A static site generator powered by Deno + React","repo":"xcatliu/pagic","reg":"x","vers":"0.8.3"}
+{"name":"pagic","desc":"A static site generator powered by Deno + React","repo":"xcatliu/pagic","reg":"x","vers":"0.8.4"}
+{"name":"pagic","desc":"A static site generator powered by Deno + React","repo":"xcatliu/pagic","reg":"x","vers":"0.8.5"}
+{"name":"pagic","desc":"A static site generator powered by Deno + React","repo":"xcatliu/pagic","reg":"x","vers":"0.8.6"}

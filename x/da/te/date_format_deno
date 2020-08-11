@@ -1,1 +1,2 @@
 {"name":"date_format_deno","desc":"Simple helper for Deno to convert Date format to string. Possibility to use predefined or custom formats.","repo":"Uzumachi02/date-format-deno","reg":"x","vers":"1.0.1"}
+{"name":"date_format_deno","desc":"Simple helper for Deno to convert Date format to string. Possibility to use predefined or custom formats.","repo":"Uzumachi02/date-format-deno","reg":"x","vers":"1.1.0"}
