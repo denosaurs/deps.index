@@ -1,0 +1,2 @@
+{"name":"shell_tag","desc":"The simplest way to use a *nix tools in deno. let files = await sh`ls -a`","repo":"wtfaremyinitials/deno-shell-tag","reg":"x","vers":"0.0.0"}
+{"name":"shell_tag","desc":"The simplest way to use a *nix tools in deno. let files = await sh`ls -a`","repo":"wtfaremyinitials/deno-shell-tag","reg":"x","vers":"0.0.1"}

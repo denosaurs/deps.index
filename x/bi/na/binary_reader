@@ -1,0 +1,2 @@
+{"name":"binary_reader","desc":"A Deno module and helper class that provides an easy way to read different types from a binary array buffer.","repo":"jsimpson/binary_reader","reg":"x","vers":"0.1.0"}
+{"name":"binary_reader","desc":"A Deno module and helper class that provides an easy way to read different types from a binary array buffer.","repo":"jsimpson/binary_reader","reg":"x","vers":"0.1.1"}

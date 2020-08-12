@@ -1,1 +1,4 @@
 {"name":"sqs","desc":"Amazon SQS for Deno","repo":"lucacasonato/deno_sqs","reg":"x","vers":"0.1.0"}
+{"name":"sqs","desc":"Amazon SQS for Deno","repo":"lucacasonato/deno_sqs","reg":"x","vers":"0.2.0"}
+{"name":"sqs","desc":"Amazon SQS for Deno","repo":"lucacasonato/deno_sqs","reg":"x","vers":"0.3.0"}
+{"name":"sqs","desc":"Amazon SQS for Deno","repo":"lucacasonato/deno_sqs","reg":"x","vers":"0.3.1"}
