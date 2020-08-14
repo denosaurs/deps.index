@@ -42,3 +42,4 @@
 {"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"keroxp/deno-redis","reg":"x","vers":"1.0.0-rc1"}
 {"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"keroxp/deno-redis","reg":"x","vers":"1.0.0-rc2"}
 {"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"denolib/deno-redis","reg":"x","vers":"0.11.2"}
+{"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"denolib/deno-redis","reg":"x","vers":"0.12.0"}
