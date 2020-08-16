@@ -1,1 +1,3 @@
 {"name":"varint","desc":null,"repo":"keithamus/deno-varint","reg":"x","vers":"1.0.0"}
+{"name":"varint","desc":"Encode/Decode Number/BigInts into an array of Varint bytes","repo":"keithamus/deno-varint","reg":"x","vers":"1.0.1"}
+{"name":"varint","desc":"Encode/Decode Number/BigInts into an array of Varint bytes","repo":"keithamus/deno-varint","reg":"x","vers":"2.0.0"}
