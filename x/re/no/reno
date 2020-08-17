@@ -22,3 +22,5 @@
 {"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"reno-router/reno","reg":"x","vers":"1.2.0"}
 {"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"reno-router/reno","reg":"x","vers":"1.2.1"}
 {"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"reno-router/reno","reg":"x","vers":"1.2.2"}
+{"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"reno-router/reno","reg":"x","vers":"1.2.4"}
+{"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"reno-router/reno","reg":"x","vers":"1.3.0"}
