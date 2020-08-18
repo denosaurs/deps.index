@@ -6,3 +6,6 @@
 {"name":"fastro_function","desc":"Fast and simple web framework with dynamic routing","repo":"fastrodev/fastro","reg":"x","vers":"0.21.0"}
 {"name":"fastro_function","desc":"Fast and simple web framework with dynamic routing for Deno","repo":"fastrodev/fastro","reg":"x","vers":"0.22.0"}
 {"name":"fastro_function","desc":"Fast and simple web framework with dynamic routing for Deno","repo":"fastrodev/fastro","reg":"x","vers":"0.22.1"}
+{"name":"fastro_function","desc":"Fast and simple web framework with dynamic routing for Deno","repo":"fastrodev/fastro","reg":"x","vers":"0.22.2"}
+{"name":"fastro_function","desc":"Fast and simple web framework with dynamic routing for Deno","repo":"fastrodev/fastro","reg":"x","vers":"0.22.3"}
+{"name":"fastro_function","desc":"Fast and simple web framework with dynamic routing for Deno","repo":"fastrodev/fastro","reg":"x","vers":"0.22.4"}

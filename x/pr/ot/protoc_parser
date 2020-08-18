@@ -1,0 +1,1 @@
+{"name":"protoc_parser","desc":"Parse Google Protocol Buffer DSL into an AST, which can be converted into JSON or back into the Protocol Buffer DSL.","repo":"keithamus/deno-protoc-parser","reg":"x","vers":"0.1.0"}
