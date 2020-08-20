@@ -1,0 +1,1 @@
+{"name":"tmp_dir","desc":"Returns the path to the user's tmp directory.","repo":"justjavac/deno_tmp_dir","reg":"x","vers":"0.1.0"}

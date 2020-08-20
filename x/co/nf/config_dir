@@ -1,0 +1,2 @@
+{"name":"config_dir","desc":"Returns the path to the user's config directory.","repo":"justjavac/deno_config_dir","reg":"x","vers":"0.1.0"}
+{"name":"config_dir","desc":"Returns the path to the user's config directory.","repo":"justjavac/deno_config_dir","reg":"x","vers":"0.1.1"}

@@ -1,0 +1,1 @@
+{"name":"font_dir","desc":"Returns the path to the user's font directory.","repo":"justjavac/deno_font_dir","reg":"x","vers":"0.1.0"}

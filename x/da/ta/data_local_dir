@@ -1,0 +1,1 @@
+{"name":"data_local_dir","desc":"Returns the path to the user's local data directory.","repo":"justjavac/deno_data_local_dir","reg":"x","vers":"0.1.0"}

@@ -1,0 +1,1 @@
+{"name":"video_dir","desc":"Returns the path to the user's video directory.","repo":"justjavac/deno_video_dir","reg":"x","vers":"0.1.0"}

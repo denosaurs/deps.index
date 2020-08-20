@@ -1,1 +1,1 @@
-[{"name":"dami","desc":"Asterisk Manager Interface (AMI) Client for Deno","repo":"https://github.com/ebebbington/dami","reg":"nest","vers":["0.0.1","1.0.5"]},{"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno to prevent overly permissive execution of your applications.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"nest","vers":["2.0.0","2.0.1"]},{"name":"torrent","desc":"A BitTorrent client for Deno","repo":null,"reg":"nest","vers":["0.0.1","0.0.2"]}]
+[]

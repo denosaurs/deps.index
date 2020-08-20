@@ -1,0 +1,1 @@
+{"name":"template_dir","desc":"Returns the path to the user's template directory.","repo":"justjavac/deno_template_dir","reg":"x","vers":"0.1.0"}

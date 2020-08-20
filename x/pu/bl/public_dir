@@ -1,0 +1,1 @@
+{"name":"public_dir","desc":"Returns the path to the user's public directory.","repo":"justjavac/deno_public_dir","reg":"x","vers":"0.1.0"}

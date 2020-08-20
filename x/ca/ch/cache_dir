@@ -1,0 +1,2 @@
+{"name":"cache_dir","desc":"Returns the path to the user's cache directory.","repo":"justjavac/deno_cache_dir","reg":"x","vers":"0.1.0"}
+{"name":"cache_dir","desc":"Returns the path to the user's cache directory.","repo":"justjavac/deno_cache_dir","reg":"x","vers":"0.1.1"}

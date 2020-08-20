@@ -1,0 +1,2 @@
+{"name":"desktop_dir","desc":"Returns the path to the user's desktop directory.","repo":"justjavac/deno_desktop_dir","reg":"x","vers":"0.1.0"}
+{"name":"desktop_dir","desc":"Returns the path to the user's desktop directory.","repo":"justjavac/deno_desktop_dir","reg":"x","vers":"0.1.1"}
