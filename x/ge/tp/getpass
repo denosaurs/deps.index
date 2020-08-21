@@ -1,1 +1,2 @@
 {"name":"getpass","desc":"Safely read passwords in a console application on Linux, OSX and Windows","repo":"justjavac/deno_getpass","reg":"x","vers":"0.1.0"}
+{"name":"getpass","desc":"Safely read passwords in a console application on Linux, OSX and Windows","repo":"justjavac/deno_getpass","reg":"x","vers":"0.1.1"}

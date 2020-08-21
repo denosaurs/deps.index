@@ -1,0 +1,1 @@
+{"name":"ssh","desc":"Bindings to libssh2 for interacting with SSH servers and executing remote commands, forwarding local ports, etc.","repo":"justjavac/deno_ssh","reg":"x","vers":"0.0.0"}
