@@ -1,0 +1,2 @@
+{"name":"chat","desc":"Deno module for chat related challenges and solutions - e.g. providing a mapping (and forwarding) between shared invitation links and original invitation links.","repo":"https://github.com/michael-spengler/chat","reg":"x","vers":"0.1.0"}
+{"name":"chat","desc":"Deno module for chat related challenges and solutions - e.g. providing a mapping (and forwarding) between shared invitation links and original invitation links.","repo":"https://github.com/michael-spengler/chat","reg":"x","vers":"0.1.1"}

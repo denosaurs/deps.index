@@ -5,3 +5,5 @@
 {"name":"denopack","desc":"🦕📦.  Bundling and minification toolset for Deno","repo":"denofn/denopack","reg":"x","vers":"0.4.0"}
 {"name":"denopack","desc":"🦕📦 Bundling and minification toolset for Deno","repo":"denofn/denopack","reg":"x","vers":"0.5.0"}
 {"name":"denopack","desc":"The bundling and minification toolset, made for Deno","repo":"denofn/denopack","reg":"x","vers":"0.6.0"}
+{"name":"denopack","desc":"The bundling and minification toolset, made for Deno","repo":"https://github.com/denofn/denopack","reg":"x","vers":"0.7.0"}
+{"name":"denopack","desc":"The bundling and minification toolset, made for Deno","repo":"https://github.com/denofn/denopack","reg":"x","vers":"0.7.1"}

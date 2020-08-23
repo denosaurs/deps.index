@@ -11,3 +11,5 @@
 {"name":"denopack","desc":"Bundling and minification toolset for Deno","repo":"https://github.com/denofn/denopack","reg":"nest","vers":"0.4.0"}
 {"name":"denopack","desc":"Bundling and minification toolset for Deno","repo":"https://github.com/denofn/denopack","reg":"nest","vers":"0.5.0"}
 {"name":"denopack","desc":"Bundling and minification toolset for Deno","repo":"https://github.com/denofn/denopack","reg":"nest","vers":"0.6.0"}
+{"name":"denopack","desc":"Bundling and minification toolset for Deno","repo":"https://github.com/denofn/denopack","reg":"nest","vers":"0.7.0"}
+{"name":"denopack","desc":"Bundling and minification toolset for Deno","repo":"https://github.com/denofn/denopack","reg":"nest","vers":"0.7.1"}
