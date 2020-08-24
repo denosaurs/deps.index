@@ -1,0 +1,1 @@
+{"name":"memserver","desc":"in-memory database/ORM and http mock server you can run in-browser and node environments. Extremely useful library for fast frontend tests, rapid prototyping and single-file SPA demo deployments.","repo":"https://github.com/izelnakri/memserver","reg":"x","vers":"2.1.0"}
