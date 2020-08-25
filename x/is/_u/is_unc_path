@@ -1,0 +1,1 @@
+{"name":"is_unc_path","desc":"Whether the filepath is a windows UNC file path.","repo":"https://github.com/justjavac/deno_is_unc_path","reg":"x","vers":"0.1.0"}

@@ -1,0 +1,1 @@
+{"name":"is_ssh","desc":"Whether the process is running inside SSH.","repo":"https://github.com/justjavac/deno_is_ssh","reg":"x","vers":"0.1.0"}

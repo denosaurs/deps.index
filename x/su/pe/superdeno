@@ -17,3 +17,4 @@
 {"name":"superdeno","desc":"Super-agent driven library for testing Deno HTTP servers.","repo":"asos-craigmorten/superdeno","reg":"x","vers":"2.1.0"}
 {"name":"superdeno","desc":"Super-agent driven library for testing Deno HTTP servers.","repo":"asos-craigmorten/superdeno","reg":"x","vers":"2.1.1"}
 {"name":"superdeno","desc":"Super-agent driven library for testing Deno HTTP servers.","repo":"asos-craigmorten/superdeno","reg":"x","vers":"2.2.0"}
+{"name":"superdeno","desc":"Super-agent driven library for testing Deno HTTP servers.","repo":"https://github.com/asos-craigmorten/superdeno","reg":"x","vers":"2.2.1"}

@@ -1,0 +1,1 @@
+{"name":"is_running","desc":"Return true if the given PID is running.","repo":"https://github.com/justjavac/deno_is_running","reg":"x","vers":"0.1.0"}
