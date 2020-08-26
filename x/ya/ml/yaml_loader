@@ -1,1 +1,2 @@
 {"name":"yaml_loader","desc":"A basic Yaml File loader for Deno","repo":"https://github.com/CodingCarter/yaml_loader","reg":"x","vers":"0.0.0"}
+{"name":"yaml_loader","desc":"A yaml file loader & parser module for Deno","repo":"https://github.com/CodingCarter/yaml_loader","reg":"x","vers":"0.1.0"}
