@@ -1,3 +1,4 @@
 {"name":"my_dummy_npm_and_deno_module","desc":"Example/tutorial on how to setup denoify","repo":"garronej/my_dummy_npm_and_deno_module","reg":"x","vers":"0.2.8"}
 {"name":"my_dummy_npm_and_deno_module","desc":"Example/tutorial on how to setup denoify","repo":"garronej/my_dummy_npm_and_deno_module","reg":"x","vers":"0.2.9"}
 {"name":"my_dummy_npm_and_deno_module","desc":"Example/tutorial on how to setup denoify","repo":"garronej/my_dummy_npm_and_deno_module","reg":"x","vers":"0.3.0"}
+{"name":"my_dummy_npm_and_deno_module","desc":"Example/tutorial on how to setup denoify","repo":"https://github.com/garronej/my_dummy_npm_and_deno_module","reg":"x","vers":"0.4.0"}

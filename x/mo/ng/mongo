@@ -14,3 +14,4 @@
 {"name":"mongo","desc":"MongoDB driver for Deno","repo":"manyuanrong/deno_mongo","reg":"x","vers":"0.9.1"}
 {"name":"mongo","desc":"MongoDB driver for Deno","repo":"manyuanrong/deno_mongo","reg":"x","vers":"0.9.2"}
 {"name":"mongo","desc":"MongoDB driver for Deno","repo":"manyuanrong/deno_mongo","reg":"x","vers":"0.10.1"}
+{"name":"mongo","desc":"MongoDB driver for Deno","repo":"https://github.com/manyuanrong/deno_mongo","reg":"x","vers":"0.11.0"}
