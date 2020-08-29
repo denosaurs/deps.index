@@ -55,3 +55,6 @@
 {"name":"i18next_locize_backend","desc":"A simple i18next backend for locize.com which can be used in Node.js, in the browser and for Deno.","repo":"locize/i18next-locize-backend","reg":"x","vers":"4.1.1"}
 {"name":"i18next_locize_backend","desc":"A simple i18next backend for locize.com which can be used in Node.js, in the browser and for Deno.","repo":"locize/i18next-locize-backend","reg":"x","vers":"4.1.2-rc.1"}
 {"name":"i18next_locize_backend","desc":"A simple i18next backend for locize.com which can be used in Node.js, in the browser and for Deno.","repo":"locize/i18next-locize-backend","reg":"x","vers":"4.1.2"}
+{"name":"i18next_locize_backend","desc":"A simple i18next backend for locize.com which can be used in Node.js, in the browser and for Deno.","repo":"https://github.com/locize/i18next-locize-backend","reg":"x","vers":"4.1.3"}
+{"name":"i18next_locize_backend","desc":"A simple i18next backend for locize.com which can be used in Node.js, in the browser and for Deno.","repo":"https://github.com/locize/i18next-locize-backend","reg":"x","vers":"4.1.4"}
+{"name":"i18next_locize_backend","desc":"A simple i18next backend for locize.com which can be used in Node.js, in the browser and for Deno.","repo":"https://github.com/locize/i18next-locize-backend","reg":"x","vers":"4.1.5"}
