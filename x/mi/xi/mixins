@@ -3,3 +3,4 @@
 {"name":"mixins","desc":"This module provides a few basic functions to help combine objects or build up classes from partial classes.","repo":"udibo/mixins","reg":"x","vers":"0.3.0"}
 {"name":"mixins","desc":"This module provides a few basic functions to help combine objects or build up classes from partial classes.","repo":"udibo/mixins","reg":"x","vers":"0.3.1"}
 {"name":"mixins","desc":"This module provides a few basic functions to help combine objects or build up classes from partial classes.","repo":"udibo/mixins","reg":"x","vers":"0.4.0"}
+{"name":"mixins","desc":"This module provides a few basic functions to help combine objects or build up classes from partial classes.","repo":"https://github.com/udibo/mixins","reg":"x","vers":"0.5.0"}

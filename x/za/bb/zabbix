@@ -1,1 +1,2 @@
 {"name":"zabbix","desc":"Zabbix Client for Deno","repo":"sumitgoelpw/deno-zabbix","reg":"x","vers":"1.0.0"}
+{"name":"zabbix","desc":"Zabbix API Client for JavaScript/TypeScript Deno runtime.","repo":"https://github.com/sumitgoelpw/deno-zabbix","reg":"x","vers":"1.0.1"}
