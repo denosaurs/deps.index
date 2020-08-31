@@ -1,3 +1,8 @@
 {"name":"log","desc":"A reasonably frequently used log configuration.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.1.0"}
 {"name":"log","desc":"A reasonably frequently used log configuration.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.2.0"}
 {"name":"log","desc":"A reasonably frequently used log configuration.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.2.1"}
+{"name":"log","desc":"A frequently used log configuration. Adding Date Time. Adding warnings and errors to file. Infos are green.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.3.0"}
+{"name":"log","desc":"A frequently used log configuration. Adding Date Time. Adding warnings and errors to file. Infos are green.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.4.0"}
+{"name":"log","desc":"A frequently used log configuration. Adding Date Time. Adding warnings and errors to file. Infos are green.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.5.0"}
+{"name":"log","desc":"A frequently used log configuration. Adding Date Time. Adding warnings and errors to file. Infos are green.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.6.0"}
+{"name":"log","desc":"A frequently used log configuration. Adding Date Time. Adding warnings and errors to file. Infos are green.","repo":"https://github.com/dance-planner/log","reg":"x","vers":"0.6.1"}
