@@ -1,0 +1,1 @@
+{"name":"promptpay","desc":"Generate Thai PromptPay QR code string and Base64-encoded images in Deno.","repo":"https://github.com/iamcmnut/deno-promptpay","reg":"x","vers":"1.1.1"}

@@ -1,1 +1,2 @@
 {"name":"simplecors","desc":"CORS - as simple and unsecure as it gets :) - you should only use this if you are not using any authentication / authorization mechanisms.","repo":"michael-spengler/simplecors","reg":"x","vers":"1.0.0"}
+{"name":"simplecors","desc":"As https://deno.land/x/cors seems pretty complete now I do no longer maintain simplecors.","repo":"https://github.com/michael-spengler/simplecors","reg":"x","vers":"1.1.0"}
