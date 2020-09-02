@@ -20,3 +20,4 @@
 {"name":"i18next_http_middleware","desc":"i18next-http-middleware is a middleware to be used with Node.js web frameworks like express or Fastify and also for Deno.","repo":"i18next/i18next-http-middleware","reg":"x","vers":"3.0.2"}
 {"name":"i18next_http_middleware","desc":"i18next-http-middleware is a middleware to be used with Node.js web frameworks like express or Fastify and also for Deno.","repo":"i18next/i18next-http-middleware","reg":"x","vers":"3.0.3-rc.1"}
 {"name":"i18next_http_middleware","desc":"i18next-http-middleware is a middleware to be used with Node.js web frameworks like express or Fastify and also for Deno.","repo":"https://github.com/i18next/i18next-http-middleware","reg":"x","vers":"3.0.3"}
+{"name":"i18next_http_middleware","desc":"i18next-http-middleware is a middleware to be used with Node.js web frameworks like express or Fastify and also for Deno.","repo":"https://github.com/i18next/i18next-http-middleware","reg":"x","vers":"3.0.4"}
