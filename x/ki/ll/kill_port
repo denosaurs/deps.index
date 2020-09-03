@@ -1,0 +1,1 @@
+{"name":"kill_port","desc":"Deno module that kills the process of an informed port.","repo":"https://github.com/gustavofabro/deno_kill_port","reg":"x","vers":"1.0.1"}
