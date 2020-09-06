@@ -1,3 +1,4 @@
 {"name":"murmurhash","desc":"An incremental implementation of MurmurHash3 for JavaScript","repo":"justjavac/deno-murmurhash","reg":"x","vers":"0.1.0"}
 {"name":"murmurhash","desc":"An incremental implementation of MurmurHash3 for JavaScript","repo":"justjavac/deno-murmurhash","reg":"x","vers":"0.1.1"}
 {"name":"murmurhash","desc":"An incremental implementation of MurmurHash3 for JavaScript","repo":"justjavac/deno-murmurhash","reg":"x","vers":"0.2.0"}
+{"name":"murmurhash","desc":"An incremental implementation of MurmurHash3 for JavaScript","repo":"https://github.com/justjavac/deno-murmurhash","reg":"x","vers":"1.0.0"}

@@ -1,0 +1,1 @@
+{"name":"hashwasm","desc":"Fast hash functions compiled to WebAssembly","repo":"https://github.com/Daninet/hash-wasm","reg":"x","vers":"4.1.0-deno2"}
