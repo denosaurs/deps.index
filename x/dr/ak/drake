@@ -36,3 +36,4 @@
 {"name":"drake","desc":"Drake is a make-like task runner for Deno.","repo":"srackham/drake","reg":"x","vers":"1.2.4"}
 {"name":"drake","desc":"Drake is a make-like task runner for Deno.","repo":"srackham/drake","reg":"x","vers":"1.2.5"}
 {"name":"drake","desc":"Drake is a make-like task runner for Deno.","repo":"srackham/drake","reg":"x","vers":"1.2.6"}
+{"name":"drake","desc":"Drake is a make-like task runner for Deno.","repo":"https://github.com/srackham/drake","reg":"x","vers":"1.3.1"}

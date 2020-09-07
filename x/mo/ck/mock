@@ -4,3 +4,4 @@
 {"name":"mock","desc":"This module provides utilities to help mock behavior and spy on function calls for tests.","repo":"udibo/mock","reg":"x","vers":"0.3.1"}
 {"name":"mock","desc":"This module provides utilities to help mock behavior and spy on function calls for tests.","repo":"udibo/mock","reg":"x","vers":"0.4.0"}
 {"name":"mock","desc":"This module provides utilities to help mock behavior and spy on function calls for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.5.0"}
+{"name":"mock","desc":"This module provides utilities to help mock behavior and spy on function calls for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.5.1"}
