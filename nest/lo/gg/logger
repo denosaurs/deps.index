@@ -1,0 +1,2 @@
+{"name":"logger","desc":"Frequently used logger configuration - writing warnings and errors into a file, adding date and time to each log entry, info messages are green","repo":null,"reg":"nest","vers":"0.0.1"}
+{"name":"logger","desc":"Frequently used logger configuration - writing warnings and errors into a file, adding date and time to each log entry, info messages are green","repo":null,"reg":"nest","vers":"1.0.0"}

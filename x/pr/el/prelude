@@ -1,1 +1,2 @@
 {"name":"prelude","desc":"","repo":"https://github.com/kress95/prelude","reg":"x","vers":"0.1.0"}
+{"name":"prelude","desc":"A base library for functional programming in deno.","repo":"https://github.com/kress95/prelude","reg":"x","vers":"0.1.1"}
