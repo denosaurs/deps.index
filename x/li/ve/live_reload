@@ -1,2 +1,3 @@
 {"name":"live_reload","desc":"Automatically reloads a deno server when a file is changed.","repo":"https://github.com/ryankpatterson/deno_reload","reg":"x","vers":"0.0.2"}
 {"name":"live_reload","desc":"Automatically reloads a deno server when a file is changed.","repo":"https://github.com/ryankpatterson/deno_reload","reg":"x","vers":"0.0.3"}
+{"name":"live_reload","desc":"Automatically reloads a deno server when a file is changed.","repo":"https://github.com/ryankpatterson/deno_reload","reg":"x","vers":"0.0.4"}
