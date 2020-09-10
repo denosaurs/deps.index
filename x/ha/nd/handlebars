@@ -5,3 +5,4 @@
 {"name":"handlebars","desc":"Handlebars template engine for Deno","repo":"alosaur/handlebars","reg":"x","vers":"0.2.3"}
 {"name":"handlebars","desc":"Handlebars template engine for Deno","repo":"alosaur/handlebars","reg":"x","vers":"0.3.0"}
 {"name":"handlebars","desc":"Handlebars template engine for Deno","repo":"alosaur/handlebars","reg":"x","vers":"0.3.1"}
+{"name":"handlebars","desc":"Handlebars template engine for Deno","repo":"https://github.com/alosaur/handlebars","reg":"x","vers":"0.4.1"}
