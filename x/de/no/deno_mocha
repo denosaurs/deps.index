@@ -1,3 +1,4 @@
 {"name":"deno_mocha","desc":"An intuitive wrapper for Mocha targeting Deno, supporting both JavaScript and TypeScript tests.","repo":"https://github.com/ahuggins-nhs/deno_mocha","reg":"x","vers":"0.1.0"}
 {"name":"deno_mocha","desc":"An intuitive wrapper for Mocha targeting Deno, supporting both JavaScript and TypeScript tests.","repo":"https://github.com/ahuggins-nhs/deno_mocha","reg":"x","vers":"0.1.1"}
 {"name":"deno_mocha","desc":"An intuitive wrapper for Mocha targeting Deno, supporting both JavaScript and TypeScript tests.","repo":"https://github.com/ahuggins-nhs/deno_mocha","reg":"x","vers":"0.1.2"}
+{"name":"deno_mocha","desc":"An intuitive wrapper for Mocha targeting Deno, supporting both JavaScript and TypeScript tests.","repo":"https://github.com/ahuggins-nhs/deno_mocha","reg":"x","vers":"0.2.0"}
