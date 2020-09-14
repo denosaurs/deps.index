@@ -1,2 +1,3 @@
 {"name":"functional_io","desc":"Deno IO methods as valid Task monads perfect to write great point-free software in JavaScript.","repo":"https://github.com/sebastienfilion/functional-deno-io","reg":"x","vers":"0.2.0"}
 {"name":"functional_io","desc":"Deno IO methods as valid Task monads perfect to write great point-free software in JavaScript.","repo":"https://github.com/sebastienfilion/functional-deno-io","reg":"x","vers":"0.2.1"}
+{"name":"functional_io","desc":"Deno IO methods as valid Task monads perfect to write great point-free software in JavaScript.","repo":"https://github.com/sebastienfilion/functional-deno-io","reg":"x","vers":"0.2.2"}

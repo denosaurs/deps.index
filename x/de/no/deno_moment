@@ -1,3 +1,5 @@
 {"name":"deno_moment","desc":"This moment.ts was ported from moment.js@2.24.0.","repo":"michael-spengler/deno_moment","reg":"x","vers":"0.1.0"}
 {"name":"deno_moment","desc":"This moment.ts was ported from moment.js@2.24.0.","repo":"michael-spengler/deno_moment","reg":"x","vers":"1.0.0"}
 {"name":"deno_moment","desc":"This moment.ts was ported from moment.js@2.24.0.","repo":"michael-spengler/deno_moment","reg":"x","vers":"1.0.1"}
+{"name":"deno_moment","desc":"Providing momentjs features in deno ","repo":"https://github.com/michael-spengler/deno_moment","reg":"x","vers":"1.1.0"}
+{"name":"deno_moment","desc":"Providing momentjs features in deno ","repo":"https://github.com/michael-spengler/deno_moment","reg":"x","vers":"1.1.1"}
