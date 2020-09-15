@@ -9,3 +9,4 @@
 {"name":"once","desc":"Create a function that calls and cache a function once","repo":"KSXGitHub/deno-once","reg":"x","vers":"0.2.0"}
 {"name":"once","desc":"Create a function that calls and cache a function once","repo":"KSXGitHub/deno-once","reg":"x","vers":"0.2.1-ts"}
 {"name":"once","desc":"Create a function that calls and cache a function once","repo":"KSXGitHub/deno-once","reg":"x","vers":"0.2.3"}
+{"name":"once","desc":"Create a function that calls and cache a function once","repo":"https://github.com/KSXGitHub/deno-once","reg":"x","vers":"0.3.0"}

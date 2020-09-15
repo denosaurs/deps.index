@@ -2,3 +2,5 @@
 {"name":"test_suite","desc":"This module extends Deno's built-in test runner to add setup/teardown hooks and the ability to organize tests.","repo":"https://github.com/udibo/test_suite","reg":"x","vers":"0.2.0"}
 {"name":"test_suite","desc":"This module extends Deno's built-in test runner to add setup/teardown hooks and the ability to organize tests.","repo":"https://github.com/udibo/test_suite","reg":"x","vers":"0.2.1"}
 {"name":"test_suite","desc":"This module extends Deno's built-in test runner to add setup/teardown hooks and the ability to organize tests.","repo":"https://github.com/udibo/test_suite","reg":"x","vers":"0.3.0"}
+{"name":"test_suite","desc":"This module extends Deno's built-in test runner to add setup/teardown hooks and the ability to organize tests.","repo":"https://github.com/udibo/test_suite","reg":"x","vers":"0.4.0"}
+{"name":"test_suite","desc":"This module extends Deno's built-in test runner to add setup/teardown hooks and the ability to organize tests.","repo":"https://github.com/udibo/test_suite","reg":"x","vers":"0.5.0"}
