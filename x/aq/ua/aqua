@@ -3,3 +3,4 @@
 {"name":"aqua","desc":"A minimal and fast web framework for Deno","repo":null,"reg":"x","vers":"1.0.2"}
 {"name":"aqua","desc":"A minimal and fast web framework for Deno","repo":null,"reg":"x","vers":"1.0.3"}
 {"name":"aqua","desc":"A minimal and fast web framework for Deno","repo":"https://github.com/l2ig/aqua","reg":"x","vers":"1.0.5"}
+{"name":"aqua","desc":"A minimal and fast 🏃 web framework for Deno","repo":"https://github.com/l2ig/aqua","reg":"x","vers":"1.0.6"}
