@@ -1,1 +1,2 @@
 {"name":"negotiator","desc":"An HTTP content negotiator for Deno.","repo":"ako-deno/negotiator","reg":"x","vers":"1.0.0"}
+{"name":"negotiator","desc":"An HTTP content negotiator for Deno.","repo":"https://github.com/ako-deno/negotiator","reg":"x","vers":"1.0.1"}

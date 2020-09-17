@@ -5,3 +5,4 @@
 {"name":"eta","desc":"Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript","repo":"https://github.com/eta-dev/eta","reg":"x","vers":"1.6.1"}
 {"name":"eta","desc":"Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript","repo":"https://github.com/eta-dev/eta","reg":"x","vers":"1.6.2"}
 {"name":"eta","desc":"Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript","repo":"https://github.com/eta-dev/eta","reg":"x","vers":"1.7.0"}
+{"name":"eta","desc":"Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript","repo":"https://github.com/eta-dev/eta","reg":"x","vers":"1.8.0"}
