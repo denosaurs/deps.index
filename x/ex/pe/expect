@@ -2,3 +2,4 @@
 {"name":"expect","desc":"helpers for writing jest like expect tests in deno","repo":"allain/expect","reg":"x","vers":"0.2.0"}
 {"name":"expect","desc":"helpers for writing jest like expect tests in deno","repo":"allain/expect","reg":"x","vers":"0.2.0"}
 {"name":"expect","desc":"helpers for writing jest like expect tests in deno","repo":"allain/expect","reg":"x","vers":"0.2.1"}
+{"name":"expect","desc":"helpers for writing jest like expect tests in deno","repo":"https://github.com/allain/expect","reg":"x","vers":"0.2.5"}

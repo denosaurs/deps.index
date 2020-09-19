@@ -1,3 +1,4 @@
 {"name":"http_errors","desc":"Create HTTP Error for Deno","repo":"ako-deno/http_errors","reg":"x","vers":"1.0.0"}
 {"name":"http_errors","desc":"Create HTTP Error for Deno","repo":"ako-deno/http_errors","reg":"x","vers":"2.0.0"}
 {"name":"http_errors","desc":"Create HTTP Error for Deno","repo":"ako-deno/http_errors","reg":"x","vers":"2.1.0"}
+{"name":"http_errors","desc":"Create HTTP Error for Deno","repo":"https://github.com/ako-deno/http_errors","reg":"x","vers":"3.0.0"}

@@ -1,1 +1,2 @@
 {"name":"vendors","desc":"List of vendor prefixes known to the web platform","repo":"justjavac/deno-vendors","reg":"x","vers":"0.1.0"}
+{"name":"vendors","desc":"List of vendor prefixes known to the web platform","repo":"https://github.com/justjavac/deno-vendors","reg":"x","vers":"0.2.0"}
