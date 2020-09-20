@@ -1,1 +1,2 @@
 {"name":"mqtt","desc":"MQTT in TypeScript for Deno, Node.js, and browsers","repo":"jdiamond/MQTT.ts","reg":"x","vers":"0.0.7"}
+{"name":"mqtt","desc":"MQTT in TypeScript for Deno, Node.js, and browsers","repo":"https://github.com/jdiamond/MQTT.ts","reg":"x","vers":"0.1.0"}
