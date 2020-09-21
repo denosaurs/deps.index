@@ -7,3 +7,4 @@
 {"name":"ssgo","desc":"A minimalist, unconfigurable static site generator for Deno.","repo":"mdubourg001/ssgo","reg":"x","vers":"0.10.0"}
 {"name":"ssgo","desc":"A minimalist, unconfigurable static site generator for Deno.","repo":"mdubourg001/ssgo","reg":"x","vers":"0.11.0"}
 {"name":"ssgo","desc":"A minimalistic, unconfigurable static site generator for Deno 🦕.","repo":"https://github.com/mdubourg001/ssgo","reg":"x","vers":"0.11.1"}
+{"name":"ssgo","desc":"A minimalistic, unconfigurable static site generator for Deno 🦕.","repo":"https://github.com/mdubourg001/ssgo","reg":"x","vers":"0.12.0"}
