@@ -1,1 +1,3 @@
 {"name":"duck_web_framework","desc":"A Deno express-like HTTP server","repo":"https://github.com/EntenKoeniq/Duck","reg":"x","vers":"0.0.1"}
+{"name":"duck_web_framework","desc":"A Deno express-like HTTP server","repo":"https://github.com/EntenKoeniq/Duck","reg":"x","vers":"0.1.0"}
+{"name":"duck_web_framework","desc":"A Deno express-like HTTP server","repo":"https://github.com/EntenKoeniq/Duck","reg":"x","vers":"0.1.1"}
