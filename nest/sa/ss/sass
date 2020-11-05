@@ -2,3 +2,4 @@
 {"name":"sass","desc":"High quality sass compiler binding to Deno","repo":"https://github.com/divy-work/deno_sass","reg":"nest","vers":"0.2.0"}
 {"name":"sass","desc":"High quality sass compiler binding to Deno","repo":"https://github.com/divy-work/deno_sass","reg":"nest","vers":"0.3.0"}
 {"name":"sass","desc":"High quality sass compiler binding to Deno","repo":"https://github.com/divy-work/deno_sass","reg":"nest","vers":"0.4.0"}
+{"name":"sass","desc":"Wasmified version of the near-feature-complete Grass Sass compiler for Deno.","repo":"https://github.com/littledivy/deno_sass2","reg":"nest","vers":"2.0.0"}

@@ -1,1 +1,2 @@
 {"name":"mailer","desc":"","repo":"https://github.com/Jinglong7/mailer","reg":"x","vers":"0.0.1"}
+{"name":"mailer","desc":"mailer is a standard module for Deno applications to allow easy as cake email sending.","repo":"https://github.com/Jinglong7/mailer","reg":"x","vers":"v0.0.2"}

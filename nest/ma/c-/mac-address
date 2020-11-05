@@ -1,1 +1,2 @@
 {"name":"mac-address","desc":"Provides the mac address of the current device","repo":"https://github.com/michael-spengler/mac-address","reg":"nest","vers":"1.0.0"}
+{"name":"mac-address","desc":"Provides the mac address of the current device","repo":"https://github.com/michael-spengler/mac-address","reg":"nest","vers":"v1.1.0"}

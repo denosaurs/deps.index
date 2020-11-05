@@ -1,2 +1,4 @@
 {"name":"distance-calculator","desc":"Calculating the distance between two places based on latitude and longitude geocoordinates","repo":null,"reg":"nest","vers":"0.0.1"}
 {"name":"distance-calculator","desc":"Calculating the distance between two places based on latitude and longitude geocoordinates","repo":null,"reg":"nest","vers":"1.0.0"}
+{"name":"distance-calculator","desc":"Module to calculate distances based on latitude & longitude geocoordinates.","repo":"https://github.com/michael-spengler/distance-calculator","reg":"nest","vers":"v1.1.3"}
+{"name":"distance-calculator","desc":"Module to calculate distances based on latitude & longitude geocoordinates.","repo":"https://github.com/michael-spengler/distance-calculator","reg":"nest","vers":"v1.1.4"}

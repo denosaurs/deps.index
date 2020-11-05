@@ -1,0 +1,2 @@
+{"name":"delay","desc":"The standard Deno module for delaying a specified amount of time.","repo":"https://github.com/deno-delay/delay","reg":"x","vers":"v0.0.1"}
+{"name":"delay","desc":"The standard Deno module for delaying a specified amount of time.","repo":"https://github.com/deno-delay/delay","reg":"x","vers":"v0.2.0"}

@@ -7,3 +7,4 @@
 {"name":"denon","desc":"Monitor any changes in you Deno application and automatically restart.","repo":"https://github.com/denosaurs/denon.git","reg":"nest","vers":"2.3.2"}
 {"name":"denon","desc":"Monitor any changes in you Deno application and automatically restart.","repo":"https://github.com/denosaurs/denon.git","reg":"nest","vers":"2.3.3"}
 {"name":"denon","desc":"👀 onitor any changes in you Deno application and automatically restart.","repo":"https://github.com/denosaurs/denon.git","reg":"nest","vers":"2.4.0"}
+{"name":"denon","desc":"👀 Monitor any changes in you Deno application and automatically restart.","repo":"https://github.com/denosaurs/denon.git","reg":"nest","vers":"2.4.4"}

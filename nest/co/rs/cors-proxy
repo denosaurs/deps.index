@@ -1,0 +1,1 @@
+{"name":"cors-proxy","desc":"This CORS proxy fetches remote URLs and adds CORS headers so that blocked Cross-Origin requests belong to the past.","repo":"https://github.com/hackathon-sidn/cors-proxy","reg":"nest","vers":"0.0.2"}

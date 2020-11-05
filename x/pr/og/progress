@@ -2,3 +2,4 @@
 {"name":"progress","desc":"ProgressBar in terminal for deno","repo":"deno-library/progress","reg":"x","vers":"1.1.0"}
 {"name":"progress","desc":"ProgressBar in terminal for deno","repo":"deno-library/progress","reg":"x","vers":"1.1.1"}
 {"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"1.1.3"}
+{"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.1.4"}

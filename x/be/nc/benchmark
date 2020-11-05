@@ -1,0 +1,1 @@
+{"name":"benchmark","desc":"The standard Deno benchmark module that supports high-resolution timers & returns statistically significant results.","repo":"https://github.com/deno-benchmark/benchmark","reg":"x","vers":"v0.0.1"}

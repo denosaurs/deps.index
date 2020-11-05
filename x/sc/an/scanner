@@ -1,1 +1,2 @@
 {"name":"scanner","desc":"","repo":"keithamus/deno-scanner","reg":"x","vers":"0.1.2"}
+{"name":"scanner","desc":"Take a Deno.Reader and perform Lexical Analysis/Tokenization on it, returning a stream of tokens.","repo":"https://github.com/keithamus/deno-scanner","reg":"x","vers":"v0.2.0"}

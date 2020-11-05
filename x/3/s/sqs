@@ -4,3 +4,4 @@
 {"name":"sqs","desc":"Amazon SQS for Deno","repo":"lucacasonato/deno_sqs","reg":"x","vers":"0.3.1"}
 {"name":"sqs","desc":"Amazon SQS for Deno","repo":"https://github.com/lucacasonato/deno_sqs","reg":"x","vers":"0.3.2"}
 {"name":"sqs","desc":"Amazon SQS for Deno","repo":"https://github.com/lucacasonato/deno_sqs","reg":"x","vers":"0.3.3"}
+{"name":"sqs","desc":"Amazon SQS for Deno","repo":"https://github.com/lucacasonato/deno_sqs","reg":"x","vers":"0.3.4"}

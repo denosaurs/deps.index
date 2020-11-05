@@ -1,2 +1,5 @@
 {"name":"deno_telnet","desc":"Telnet / GMCP helper and parser for Deno.","repo":"envis10n/deno-telnet","reg":"x","vers":"0.1.4"}
 {"name":"deno_telnet","desc":"Telnet / GMCP helper and parser for Deno.","repo":"envis10n/deno-telnet","reg":"x","vers":"0.1.5"}
+{"name":"deno_telnet","desc":"Telnet / GMCP helper and parser for Deno.","repo":"https://github.com/envis10n/deno-telnet","reg":"x","vers":"0.2.0"}
+{"name":"deno_telnet","desc":"Telnet / GMCP helper and parser for Deno.","repo":"https://github.com/envis10n/deno-telnet","reg":"x","vers":"0.2.2"}
+{"name":"deno_telnet","desc":"Telnet / GMCP helper and parser for Deno.","repo":"https://github.com/envis10n/deno-telnet","reg":"x","vers":"0.2.3"}

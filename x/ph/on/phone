@@ -1,0 +1,1 @@
+{"name":"phone","desc":"Phone is a standard Deno module for normalizing mobile phone numbers into E.164 format.","repo":"https://github.com/deno-phone/phone","reg":"x","vers":"v0.0.2"}

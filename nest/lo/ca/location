@@ -1,2 +1,3 @@
 {"name":"location","desc":"Location related services - e.g. IP Location, City Location","repo":null,"reg":"nest","vers":"0.1.0"}
 {"name":"location","desc":"Location related services - e.g. IP Location, City Location","repo":null,"reg":"nest","vers":"1.0.0"}
+{"name":"location","desc":"🦕 Module to get Location Data - e.g. for IP Adresses or for Cities e.g. on earth 🌍 or on mars 🚀👩‍🚀👯‍♀️🛰🌌","repo":"https://github.com/michael-spengler/location","reg":"nest","vers":"v1.3.0"}

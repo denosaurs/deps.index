@@ -1,0 +1,1 @@
+{"name":"oak-middleware-jwt","desc":"Oak middleware for JWT validation using djwt","repo":"https://github.com/halvardssm/oak-middleware-jwt","reg":"nest","vers":"1.0.0"}

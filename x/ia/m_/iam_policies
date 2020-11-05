@@ -16,3 +16,8 @@
 {"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"roggervalf/iam-policies","reg":"x","vers":"3.2.0"}
 {"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"roggervalf/iam-policies","reg":"x","vers":"3.3.0"}
 {"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"3.4.1"}
+{"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v3.5.0"}
+{"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.0.0"}
+{"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.0.1"}
+{"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.0.2"}
+{"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.0.3"}

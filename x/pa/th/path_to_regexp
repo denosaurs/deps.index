@@ -1,0 +1,1 @@
+{"name":"path_to_regexp","desc":"Turn a path string such as `/user/:name` into a regular expression","repo":"https://github.com/pillarjs/path-to-regexp","reg":"x","vers":"v6.2.0"}

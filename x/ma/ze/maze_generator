@@ -13,3 +13,4 @@
 {"name":"maze_generator","desc":"A work-in-progress Javascript maze generator module, compatible with both Deno and Node.","repo":"TheWizardBear/maze_generator","reg":"x","vers":"0.1.2"}
 {"name":"maze_generator","desc":"A work-in-progress Javascript maze generator module, compatible with both Deno and Node.","repo":"https://github.com/TheWizardBear/maze_generator","reg":"x","vers":"0.2.0"}
 {"name":"maze_generator","desc":"A work-in-progress Javascript maze generator module, compatible with both Deno and Node.","repo":"https://github.com/TheWizardBear/maze_generator","reg":"x","vers":"0.2.1"}
+{"name":"maze_generator","desc":"A work-in-progress Javascript maze generator module, compatible with both Deno and Node. 🌽","repo":"https://github.com/TheWizardBear/maze_generator","reg":"x","vers":"v0.3.0"}

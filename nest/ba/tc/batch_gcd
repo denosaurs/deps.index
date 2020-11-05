@@ -1,0 +1,1 @@
+{"name":"batch_gcd","desc":"A Deno module allowing you to check one aspect of RSA key security.","repo":"https://github.com/oplik0/deno-batch-gcd","reg":"nest","vers":"1.0.0"}

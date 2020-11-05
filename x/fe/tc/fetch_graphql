@@ -1,0 +1,1 @@
+{"name":"fetch_graphql","desc":"A lightweight client for creating and sending GraphQL requests over Fetch API (without Schema/GQL Types validation)","repo":"https://github.com/quaos/deno-fetch-graphql","reg":"x","vers":"v1.0.0"}

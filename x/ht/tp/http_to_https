@@ -1,2 +1,5 @@
 {"name":"http_to_https","desc":"🦕       module to forward unsafe requests from port 80 to safe port 443. ","repo":"michael-spengler/http_to_https","reg":"x","vers":"1.0.0"}
 {"name":"http_to_https","desc":"🦕       module to forward unsafe requests from port 80 to safe port 443. ","repo":"michael-spengler/http_to_https","reg":"x","vers":"1.1.0"}
+{"name":"http_to_https","desc":"🦕       module to forward unsafe requests from port 80 to safe port 443. ","repo":"https://github.com/michael-spengler/http_to_https","reg":"x","vers":"v1.1.1"}
+{"name":"http_to_https","desc":"🦕       module to forward unsafe requests from port 80 to safe port 443. ","repo":"https://github.com/michael-spengler/http_to_https","reg":"x","vers":"v1.1.2"}
+{"name":"http_to_https","desc":"🦕       module to forward unsafe requests from port 80 to safe port 443. ","repo":"https://github.com/michael-spengler/http_to_https","reg":"x","vers":"v1.1.3"}

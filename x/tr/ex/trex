@@ -15,3 +15,6 @@
 {"name":"trex","desc":"Package Manager for deno 🦕","repo":"crewdevio/Trex","reg":"x","vers":"1.2.0"}
 {"name":"trex","desc":"Package Manager for deno 🦕","repo":"https://github.com/crewdevio/Trex","reg":"x","vers":"1.2.1"}
 {"name":"trex","desc":"Package Manager for deno 🦕","repo":"https://github.com/crewdevio/Trex","reg":"x","vers":"1.2.2"}
+{"name":"trex","desc":"Package Manager for deno 🦕","repo":"https://github.com/crewdevio/Trex","reg":"x","vers":"v1.3.0"}
+{"name":"trex","desc":"Package Manager for deno 🦕","repo":"https://github.com/crewdevio/Trex","reg":"x","vers":"v1.3.1"}
+{"name":"trex","desc":"Package Manager for deno 🦕","repo":"https://github.com/crewdevio/Trex","reg":"x","vers":"v1.3.2"}

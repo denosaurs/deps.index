@@ -1,0 +1,1 @@
+{"name":"csv_parser","desc":"The standard Deno module for streaming CSV files.","repo":"https://github.com/deno-csv-parser/csv-parser","reg":"x","vers":"v0.0.1"}
