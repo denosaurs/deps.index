@@ -1,1 +1,1 @@
-[{"name":"code_contract_deno","desc":"Tiny code contract programming utility for Deno","repo":null,"reg":"x","vers":[]},{"name":"postcss_import","desc":"postcss-import plugin for Deno","repo":"https://github.com/oscarotero/postcss-deno-import","reg":"x","vers":["0.1.0"]}]
+[{"name":"is_archive","desc":"A tiny Deno module to check whether if a file is an archive or not. ","repo":null,"reg":"x","vers":[]},{"name":"ternary","desc":"Logical operations for the ternary numeral system.","repo":null,"reg":"x","vers":[]}]
