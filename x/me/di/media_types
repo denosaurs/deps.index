@@ -22,3 +22,4 @@
 {"name":"media_types","desc":"A module that assists in resolving media types and extensions.","repo":"https://github.com/oakserver/media_types","reg":"x","vers":"2.4.7"}
 {"name":"media_types","desc":"A module that assists in resolving media types and extensions.","repo":"https://github.com/oakserver/media_types","reg":"x","vers":"v2.5.0"}
 {"name":"media_types","desc":"A module that assists in resolving media types and extensions.","repo":"https://github.com/oakserver/media_types","reg":"x","vers":"v2.5.1"}
+{"name":"media_types","desc":"A module that assists in resolving media types and extensions.","repo":"https://github.com/oakserver/media_types","reg":"x","vers":"v2.5.2"}
