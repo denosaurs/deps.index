@@ -2,3 +2,4 @@
 {"name":"bytes_formater","desc":"Formatting bytes(Uint8Array、Uint16Array、Uint32Array、ArrayBufferView..) output, is very useful when debugging IO functions","repo":"manyuanrong/bytes_formater","reg":"x","vers":"1.1.0"}
 {"name":"bytes_formater","desc":"Formatting bytes(Uint8Array、Uint16Array、Uint32Array、ArrayBufferView..) output, is very useful when debugging IO functions","repo":"manyuanrong/bytes_formater","reg":"x","vers":"1.2.0"}
 {"name":"bytes_formater","desc":"Formatting bytes(Uint8Array、Uint16Array、Uint32Array、ArrayBufferView..) output, is very useful when debugging IO functions","repo":"manyuanrong/bytes_formater","reg":"x","vers":"1.3.0"}
+{"name":"bytes_formater","desc":"Formatting bytes(Uint8Array、Uint16Array、Uint32Array、ArrayBufferView..) output, is very useful when debugging IO functions","repo":"https://github.com/manyuanrong/bytes_formater","reg":"x","vers":"v1.4.0"}
