@@ -1,3 +1,4 @@
 {"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node and Deno","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"v3.0.0-rc1"}
 {"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node and Deno","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"v3.0.0"}
 {"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node and Deno","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"v4.0.0-rc1"}
+{"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"v5.0.0-beta1"}
