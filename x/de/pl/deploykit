@@ -1,2 +1,3 @@
 {"name":"deploykit","desc":"A Deno toolkit for generating deployment configuration files based on Typescript","repo":"Yshayy/deploykit","reg":"x","vers":"0.0.18"}
 {"name":"deploykit","desc":"A Deno toolkit for generating deployment configuration files based on Typescript","repo":"Yshayy/deploykit","reg":"x","vers":"0.0.19"}
+{"name":"deploykit","desc":"A Deno toolkit for generating deployment configuration files based on Typescript","repo":"https://github.com/Yshayy/deploykit","reg":"x","vers":"0.0.20"}

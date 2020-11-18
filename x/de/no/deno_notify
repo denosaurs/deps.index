@@ -5,3 +5,6 @@
 {"name":"deno_notify","desc":"Send desktop notifications on all platforms in Deno","repo":"PandawanFr/deno_notify","reg":"x","vers":"0.2.2"}
 {"name":"deno_notify","desc":"Send desktop notifications on all platforms in Deno","repo":"PandawanFr/deno_notify","reg":"x","vers":"0.3.0"}
 {"name":"deno_notify","desc":"Send desktop notifications on all platforms in Deno","repo":"PandawanFr/deno_notify","reg":"x","vers":"0.4.0"}
+{"name":"deno_notify","desc":"Send desktop notifications on all platforms in Deno","repo":"https://github.com/Pandawan/deno_notify","reg":"x","vers":"0.4.3"}
+{"name":"deno_notify","desc":"Send desktop notifications on all platforms in Deno","repo":"https://github.com/Pandawan/deno_notify","reg":"x","vers":"0.4.4"}
+{"name":"deno_notify","desc":"Send desktop notifications on all platforms in Deno","repo":"https://github.com/Pandawan/deno_notify","reg":"x","vers":"4.0.3"}
