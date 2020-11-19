@@ -33,3 +33,4 @@
 {"name":"mysql","desc":" MySQL driver for Deno","repo":"https://github.com/denodrivers/mysql","reg":"x","vers":"v2.5.0"}
 {"name":"mysql","desc":" MySQL driver for Deno","repo":"https://github.com/denodrivers/mysql","reg":"x","vers":"v2.6.0"}
 {"name":"mysql","desc":" MySQL driver for Deno","repo":"https://github.com/denodrivers/mysql","reg":"x","vers":"v2.6.1"}
+{"name":"mysql","desc":" MySQL driver for Deno","repo":"https://github.com/denodrivers/mysql","reg":"x","vers":"v2.7.0"}
