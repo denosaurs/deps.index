@@ -1,0 +1,1 @@
+{"name":"chokidar","desc":"An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents","repo":"https://github.com/cvkline/chokidar","reg":"x","vers":"3.4.3-deno"}
