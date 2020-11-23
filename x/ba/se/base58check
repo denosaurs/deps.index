@@ -1,0 +1,1 @@
+{"name":"base58check","desc":"Noble base58check. Typed, native, 0-dep port of bs58check module.","repo":"https://github.com/serh11p/noble-base58check","reg":"x","vers":"v0.1.2"}
