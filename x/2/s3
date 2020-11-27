@@ -4,3 +4,4 @@
 {"name":"s3","desc":"Amazon S3 for Deno","repo":"https://github.com/lucacasonato/deno_s3","reg":"x","vers":"0.1.3"}
 {"name":"s3","desc":"Amazon S3 for Deno","repo":"https://github.com/lucacasonato/deno_s3","reg":"x","vers":"0.2.0"}
 {"name":"s3","desc":"Amazon S3 for Deno","repo":"https://github.com/lucacasonato/deno_s3","reg":"x","vers":"0.2.1"}
+{"name":"s3","desc":"Amazon S3 for Deno","repo":"https://github.com/lucacasonato/deno_s3","reg":"x","vers":"0.3.0"}

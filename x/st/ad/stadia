@@ -5,3 +5,5 @@
 {"name":"stadia","desc":"Deno library for interacting with your Stadia account.","repo":"https://github.com/stadians/deno-stadia","reg":"x","vers":"0.0.5"}
 {"name":"stadia","desc":"Deno library for interacting with your Stadia account.","repo":"https://github.com/stadians/deno-stadia","reg":"x","vers":"0.0.6"}
 {"name":"stadia","desc":"Deno library for interacting with your Stadia account.","repo":"https://github.com/stadians/deno-stadia","reg":"x","vers":"0.0.7"}
+{"name":"stadia","desc":"Unofficial CLI tool and Deno TypeScript library for interacting with your Google Stadia account.","repo":"https://github.com/stadians/deno-stadia","reg":"x","vers":"0.0.8"}
+{"name":"stadia","desc":"Unofficial CLI tool and Deno TypeScript library for interacting with your Google Stadia account.","repo":"https://github.com/stadians/deno-stadia","reg":"x","vers":"0.0.9"}
