@@ -1,0 +1,1 @@
+{"name":"forever","desc":"A deno function to run a callback forever, until manually cancelled.","repo":"https://github.com/ihack2712/forever","reg":"x","vers":"1.0.0"}

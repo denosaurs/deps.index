@@ -1,1 +1,2 @@
 {"name":"subscription","desc":"An event object that calls subscriptions each time the event is dispatched.","repo":"https://github.com/ihack2712/subscription","reg":"x","vers":"1.0.0"}
+{"name":"subscription","desc":"An event object that calls subscriptions each time the event is dispatched.","repo":"https://github.com/ihack2712/subscription","reg":"x","vers":"1.0.1"}
