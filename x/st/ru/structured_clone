@@ -1,0 +1,1 @@
+{"name":"structured_clone","desc":"A cheap way to clone typed data for serialization.","repo":"https://github.com/hyurl/structured-clone","reg":"x","vers":"v0.3.0"}

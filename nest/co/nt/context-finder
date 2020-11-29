@@ -1,1 +1,2 @@
 {"name":"context-finder","desc":"Search a given file for specific sections/context data, collect this and write to a new file","repo":"https://github.com/ebebbington/context-finder","reg":"nest","vers":"1.1.0"}
+{"name":"context-finder","desc":"Search a given file for specific sections/context data, collect this and write to a new file","repo":"https://github.com/ebebbington/context-finder","reg":"nest","vers":"1.1.1"}
