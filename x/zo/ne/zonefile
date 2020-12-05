@@ -1,0 +1,1 @@
+{"name":"zonefile","desc":"A DNS zone file generator and parser written in Javascript.","repo":"https://github.com/elgs/dns-zonefile","reg":"x","vers":"0.2.6"}
