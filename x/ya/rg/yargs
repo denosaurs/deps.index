@@ -12,3 +12,5 @@
 {"name":"yargs","desc":" yargs the modern, pirate-themed successor to optimist.","repo":"https://github.com/yargs/yargs","reg":"x","vers":"v16.1.0"}
 {"name":"yargs","desc":" yargs the modern, pirate-themed successor to optimist.","repo":"https://github.com/yargs/yargs","reg":"x","vers":"v16.1.1-deno"}
 {"name":"yargs","desc":" yargs the modern, pirate-themed successor to optimist.","repo":"https://github.com/yargs/yargs","reg":"x","vers":"v16.1.1"}
+{"name":"yargs","desc":" yargs the modern, pirate-themed successor to optimist.","repo":"https://github.com/yargs/yargs","reg":"x","vers":"v16.2.0-deno"}
+{"name":"yargs","desc":" yargs the modern, pirate-themed successor to optimist.","repo":"https://github.com/yargs/yargs","reg":"x","vers":"v16.2.0"}

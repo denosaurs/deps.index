@@ -4,3 +4,5 @@
 {"name":"garn_yaml","desc":"load yaml as an object, supports environment interpolation","repo":"https://github.com/jupegarnica/garn-yaml","reg":"x","vers":"v0.1.3"}
 {"name":"garn_yaml","desc":"load yaml as an object, supports environment interpolation","repo":"https://github.com/jupegarnica/garn-yaml","reg":"x","vers":"v0.1.4"}
 {"name":"garn_yaml","desc":"load yaml as an object, supports environment interpolation","repo":"https://github.com/jupegarnica/garn-yaml","reg":"x","vers":"v0.1.5"}
+{"name":"garn_yaml","desc":"load yaml as an object, supports environment interpolation","repo":"https://github.com/jupegarnica/garn-yaml","reg":"x","vers":"0.2.0"}
+{"name":"garn_yaml","desc":"load yaml as an object, supports environment interpolation","repo":"https://github.com/jupegarnica/garn-yaml","reg":"x","vers":"0.2.1"}
