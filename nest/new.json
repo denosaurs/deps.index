@@ -1,1 +1,1 @@
-[{"name":"html-react-transformer","desc":"Tool for Transforming HTML/DOM to React element in Deno","repo":"https://github.com/quaos/deno-html-react-transformer","reg":"nest","vers":["1.0.0"]}]
+[{"name":"obsidian","desc":"GraphQL, built for Deno - a native GraphQL caching client and server module","repo":"https://github.com/open-source-labs/obsidian","reg":"nest","vers":["v1.1.0","v1.1.1"]},{"name":"fast_forward","desc":"An easy to use ffmpeg module for Deno","repo":null,"reg":"nest","vers":["0.1.0"]}]
