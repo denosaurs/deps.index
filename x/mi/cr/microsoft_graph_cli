@@ -4,3 +4,5 @@
 {"name":"microsoft_graph_cli","desc":"An unofficial command line utility for accessing the Microsoft Graph, written with Deno and Typescript","repo":"https://github.com/nakleiderer/microsoft-graph-cli","reg":"x","vers":"v1.0.3"}
 {"name":"microsoft_graph_cli","desc":"An unofficial command line utility for accessing the Microsoft Graph, written with Deno and Typescript","repo":"https://github.com/nakleiderer/microsoft-graph-cli","reg":"x","vers":"v1.1.0"}
 {"name":"microsoft_graph_cli","desc":"An unofficial command line utility for accessing the Microsoft Graph, written with Deno and Typescript","repo":"https://github.com/nakleiderer/microsoft-graph-cli","reg":"x","vers":"v1.1.1"}
+{"name":"microsoft_graph_cli","desc":"An unofficial command line utility for accessing the Microsoft Graph, written with Deno and Typescript","repo":"https://github.com/kleiderer/microsoft_graph_cli","reg":"x","vers":"v1.1.2"}
+{"name":"microsoft_graph_cli","desc":"An unofficial command line utility for accessing the Microsoft Graph, written with Deno and Typescript","repo":"https://github.com/kleiderer/microsoft_graph_cli","reg":"x","vers":"v1.1.3"}
