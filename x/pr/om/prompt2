@@ -1,0 +1,1 @@
+{"name":"prompt2","desc":"A rough sketch of an async version of window.prompt that has a bunch of different input types (date, <select>, color, file, etc)","repo":"https://github.com/josephrocca/prompt2","reg":"x","vers":"v0.0.3"}
