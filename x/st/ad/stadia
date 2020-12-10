@@ -10,3 +10,4 @@
 {"name":"stadia","desc":"Unofficial CLI tool and Deno TypeScript library for interacting with your Google Stadia account.","repo":"https://github.com/stadians/deno-stadia","reg":"x","vers":"0.1.0"}
 {"name":"stadia","desc":"Unofficial CLI tool and Deno TypeScript library for interacting with your Google Stadia account.","repo":"https://github.com/jeremyBanks/deno-stadia","reg":"x","vers":"0.1.1"}
 {"name":"stadia","desc":"Unofficial CLI tool and Deno TypeScript library for interacting with your Google Stadia account.","repo":"https://github.com/jeremyBanks/deno-stadia","reg":"x","vers":"0.1.2"}
+{"name":"stadia","desc":"Unofficial CLI tool and Deno TypeScript library for interacting with your Google Stadia account.","repo":"https://github.com/jeremyBanks/gaming","reg":"x","vers":"0.1.3"}
