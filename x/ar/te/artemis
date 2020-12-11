@@ -1,1 +1,2 @@
 {"name":"artemis","desc":"","repo":"https://github.com/oslabs-beta/projectArtemis","reg":"x","vers":"v0.2.1-alpha"}
+{"name":"artemis","desc":"An analytic tool for GraphQL queries to external APIs with a Graphical User Interface to view performance metrics.","repo":"https://github.com/oslabs-beta/projectArtemis","reg":"x","vers":"v1.0.1-beta"}

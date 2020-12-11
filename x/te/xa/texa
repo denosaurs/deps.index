@@ -39,3 +39,5 @@
 {"name":"texa","desc":"A Deno web framework inspired by Oak and Express. Built-in support for WebSockets, middleware and routing.","repo":"https://github.com/ihack2712/texa","reg":"x","vers":"0.7.14"}
 {"name":"texa","desc":"A Deno web framework inspired by Oak and Express. Built-in support for WebSockets, middleware and routing.","repo":"https://github.com/ihack2712/texa","reg":"x","vers":"0.7.15"}
 {"name":"texa","desc":"A Deno web framework inspired by Oak and Express. Built-in support for WebSockets, middleware and routing.","repo":"https://github.com/ihack2712/texa","reg":"x","vers":"0.7.16"}
+{"name":"texa","desc":"A Deno web framework inspired by Oak and Express. Built-in support for WebSockets, middleware and routing.","repo":"https://github.com/ihack2712/texa","reg":"x","vers":"0.8.0"}
+{"name":"texa","desc":"A Deno web framework inspired by Oak and Express. Built-in support for WebSockets, middleware and routing.","repo":"https://github.com/ihack2712/texa","reg":"x","vers":"0.8.1"}
