@@ -4,3 +4,4 @@
 {"name":"smallorm_sqlite","desc":"Very small Object-relational mapper (bare essential) to quickly setup embedded database in SQLite Deno/Typescript/Web.","repo":"https://github.com/cybertim/SmallSQLiteORM","reg":"x","vers":"0.1.3"}
 {"name":"smallorm_sqlite","desc":"Very small Object-relational mapper (bare essential) to quickly setup embedded database in SQLite Deno/Typescript/Web.","repo":"https://github.com/cybertim/SmallSQLiteORM","reg":"x","vers":"0.1.4"}
 {"name":"smallorm_sqlite","desc":"Very small Object-relational mapper (bare essential) to quickly setup embedded database in SQLite Deno/Typescript/Web.","repo":"https://github.com/cybertim/SmallSQLiteORM","reg":"x","vers":"0.1.5"}
+{"name":"smallorm_sqlite","desc":"Very small Object-relational mapper (bare essential) to quickly setup embedded database in SQLite Deno/Typescript/Web.","repo":"https://github.com/cybertim/SmallSQLiteORM","reg":"x","vers":"0.2.0"}

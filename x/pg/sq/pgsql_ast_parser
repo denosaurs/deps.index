@@ -20,3 +20,9 @@
 {"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.3.5"}
 {"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.3.6"}
 {"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.3.7"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.3.8"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.4.0"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.4.1"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.4.2"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.4.3"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"1.5.0"}
