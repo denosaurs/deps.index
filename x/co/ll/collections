@@ -7,3 +7,4 @@
 {"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.9.1"}
 {"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.10.0"}
 {"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.10.1"}
+{"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.10.2"}
