@@ -1,1 +1,2 @@
 {"name":"base32","desc":"Base32 encoder/decoder with support for multiple variants","repo":"scttcper/ts-base32","reg":"x","vers":"1.2.4"}
+{"name":"base32","desc":"Base32 encoder/decoder with support for multiple variants","repo":"https://github.com/scttcper/ts-base32","reg":"x","vers":"v1.2.5"}
