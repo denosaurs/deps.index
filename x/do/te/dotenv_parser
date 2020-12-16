@@ -4,3 +4,4 @@
 {"name":"dotenv_parser","desc":"A fast, zero-permission dotenv parser.","repo":"https://github.com/ymonb1291/dotenv-parser","reg":"x","vers":"0.2.0"}
 {"name":"dotenv_parser","desc":"A fast, zero-permission dotenv parser.","repo":"https://github.com/ymonb1291/dotenv-parser","reg":"x","vers":"1.0.0"}
 {"name":"dotenv_parser","desc":"A fast, zero-permission dotenv parser.","repo":"https://github.com/ymonb1291/dotenv-parser","reg":"x","vers":"1.0.1"}
+{"name":"dotenv_parser","desc":"A fast, zero-permission parser for '.env' files with support for multiline variables.","repo":"https://github.com/ymonb1291/dotenv-parser","reg":"x","vers":"v1.0.2"}

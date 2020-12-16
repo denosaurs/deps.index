@@ -20,3 +20,4 @@
 {"name":"flowed","desc":"A fast and reliable flow engine for orchestration in Node.js, Deno and the browser","repo":"danielduarte/flowed","reg":"x","vers":"1.9.0"}
 {"name":"flowed","desc":"A fast and reliable flow engine for orchestration in Node.js, Deno and the browser","repo":"danielduarte/flowed","reg":"x","vers":"1.9.1"}
 {"name":"flowed","desc":"A fast and reliable flow engine for orchestration and more uses in Node.js, Deno and the browser","repo":"https://github.com/danielduarte/flowed","reg":"x","vers":"v1.12.3"}
+{"name":"flowed","desc":"A fast and reliable flow engine for orchestration and more uses in Node.js, Deno and the browser","repo":"https://github.com/danielduarte/flowed","reg":"x","vers":"v1.12.4"}
