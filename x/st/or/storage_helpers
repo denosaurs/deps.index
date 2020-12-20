@@ -1,1 +1,2 @@
 {"name":"storage_helpers","desc":"","repo":"https://github.com/FaberVitale/storage-helpers","reg":"x","vers":"v0.3.0"}
+{"name":"storage_helpers","desc":"A set of tools to manage localStorage, sessionStorage and more  that run on browsers, node and deno. 💾","repo":"https://github.com/FaberVitale/storage-helpers","reg":"x","vers":"v0.4.0"}

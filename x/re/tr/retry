@@ -6,3 +6,4 @@
 {"name":"retry","desc":"Re-execute a function until it does not throw an error","repo":"https://github.com/franckLdx/retry","reg":"x","vers":"v0.1.6"}
 {"name":"retry","desc":"Re-execute a function until it does not throw an error or execute a function with a timeout.","repo":"https://github.com/franckLdx/retry","reg":"x","vers":"v0.2.0"}
 {"name":"retry","desc":"Re-execute a function until it does not throw an error or execute a function with a timeout.","repo":"https://github.com/franckLdx/retry","reg":"x","vers":"v0.2.1"}
+{"name":"retry","desc":"Re-execute a function until it does not throw an error or execute a function with a timeout.","repo":"https://github.com/franckLdx/retry","reg":"x","vers":"v0.3.0"}
