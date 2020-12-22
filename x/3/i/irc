@@ -4,3 +4,4 @@
 {"name":"irc","desc":"IRC client protocol module for Deno","repo":"https://github.com/jeromeludmann/deno-irc","reg":"x","vers":"v0.1.3"}
 {"name":"irc","desc":"IRC client protocol module for Deno","repo":"https://github.com/jeromeludmann/deno-irc","reg":"x","vers":"v0.2.0"}
 {"name":"irc","desc":"IRC client protocol module for Deno","repo":"https://github.com/jeromeludmann/deno-irc","reg":"x","vers":"v0.3.0"}
+{"name":"irc","desc":"IRC client protocol module for Deno","repo":"https://github.com/jeromeludmann/deno-irc","reg":"x","vers":"v0.4.0"}
