@@ -35,3 +35,4 @@
 {"name":"oak","desc":"A middleware framework for Deno's net server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v6.3.1"}
 {"name":"oak","desc":"A middleware framework for Deno's net server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v6.3.2"}
 {"name":"oak","desc":"A middleware framework for Deno's net server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v6.4.0"}
+{"name":"oak","desc":"A middleware framework for Deno's net server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v6.4.1"}

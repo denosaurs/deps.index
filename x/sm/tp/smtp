@@ -4,3 +4,4 @@
 {"name":"smtp","desc":"SMTP implements for deno","repo":"manyuanrong/deno-smtp","reg":"x","vers":"0.4.0"}
 {"name":"smtp","desc":"SMTP implements for deno","repo":"manyuanrong/deno-smtp","reg":"x","vers":"0.5.1"}
 {"name":"smtp","desc":"SMTP implements for deno","repo":"https://github.com/manyuanrong/deno-smtp","reg":"x","vers":"v0.6.0"}
+{"name":"smtp","desc":"SMTP implements for deno","repo":"https://github.com/manyuanrong/deno-smtp","reg":"x","vers":"v0.7.0"}
