@@ -3,3 +3,4 @@
 {"name":"typed_json_rpc","desc":"Strongly typed json-rpc module for deno.","repo":"https://github.com/hrsh7th/deno-json-rpc","reg":"x","vers":"v1.0.2"}
 {"name":"typed_json_rpc","desc":"Strongly typed json-rpc module for deno.","repo":"https://github.com/hrsh7th/deno-json-rpc","reg":"x","vers":"v1.0.3"}
 {"name":"typed_json_rpc","desc":"Strongly typed json-rpc module for deno.","repo":"https://github.com/hrsh7th/deno-json-rpc","reg":"x","vers":"v1.0.4"}
+{"name":"typed_json_rpc","desc":"Strongly typed json-rpc module for deno.","repo":"https://github.com/hrsh7th/deno-json-rpc","reg":"x","vers":"v1.0.5"}

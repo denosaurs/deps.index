@@ -2,3 +2,4 @@
 {"name":"dndb","desc":"A Deno 🦕 persistent database for JS & TS","repo":"https://github.com/denyncrawford/dndb","reg":"x","vers":"0.2.1"}
 {"name":"dndb","desc":"A Deno 🦕 persistent database for JS & TS","repo":"https://github.com/denyncrawford/dndb","reg":"x","vers":"0.2.2"}
 {"name":"dndb","desc":"A Deno 🦕 persistent database for JS & TS","repo":"https://github.com/denyncrawford/dndb","reg":"x","vers":"0.2.4"}
+{"name":"dndb","desc":"A Deno 🦕 persistent, embeddable and optimized NoSQL database for JS & TS","repo":"https://github.com/denyncrawford/dndb","reg":"x","vers":"0.2.6"}

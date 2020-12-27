@@ -38,3 +38,5 @@
 {"name":"hkts","desc":"Functional programming hkts, adts, and other utilities.","repo":"https://github.com/nullpub/hkts","reg":"x","vers":"v0.0.38"}
 {"name":"hkts","desc":"Functional programming hkts, adts, and other utilities.","repo":"https://github.com/nullpub/hkts","reg":"x","vers":"v0.0.39"}
 {"name":"hkts","desc":"Functional programming hkts, adts, and other utilities.","repo":"https://github.com/nullpub/hkts","reg":"x","vers":"v0.0.41"}
+{"name":"hkts","desc":"Functional programming tools: option, either, task, state, optics, etc.","repo":"https://github.com/nullpub/hkts","reg":"x","vers":"v0.0.42"}
+{"name":"hkts","desc":"Functional programming tools: option, either, task, state, optics, etc.","repo":"https://github.com/nullpub/hkts","reg":"x","vers":"v0.0.43"}

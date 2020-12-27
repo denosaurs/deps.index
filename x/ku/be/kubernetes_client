@@ -1,2 +1,3 @@
 {"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/danopia/deno-kubernetes_client","reg":"x","vers":"v0.1.0"}
 {"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/danopia/deno-kubernetes_client","reg":"x","vers":"v0.1.1"}
+{"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/danopia/deno-kubernetes_client","reg":"x","vers":"v0.1.2"}
