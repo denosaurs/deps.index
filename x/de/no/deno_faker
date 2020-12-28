@@ -2,3 +2,4 @@
 {"name":"deno_faker","desc":"Deno port of https://github.com/Marak/faker.js","repo":"jackfiszr/deno-faker","reg":"x","vers":"0.40.0"}
 {"name":"deno_faker","desc":"Deno port of https://github.com/Marak/faker.js","repo":"jackfiszr/deno-faker","reg":"x","vers":"0.42.0"}
 {"name":"deno_faker","desc":"Deno port of https://github.com/Marak/faker.js","repo":"jackfiszr/deno-faker","reg":"x","vers":"1.0.0"}
+{"name":"deno_faker","desc":"Deno port of https://github.com/Marak/faker.js","repo":"https://github.com/jackfiszr/deno-faker","reg":"x","vers":"v1.0.2"}
