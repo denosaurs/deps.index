@@ -2,3 +2,4 @@
 {"name":"functional_redis","desc":"A simple Redis client in tune with Functional Programming principles in JavaScript for Deno.","repo":"https://github.com/sebastienfilion/functional-redis","reg":"x","vers":"v0.1.1"}
 {"name":"functional_redis","desc":"A simple Redis client in tune with Functional Programming principles in JavaScript for Deno.","repo":"https://github.com/sebastienfilion/functional-redis","reg":"x","vers":"v0.1.2"}
 {"name":"functional_redis","desc":"A simple Redis client in tune with Functional Programming principles in JavaScript for Deno.","repo":"https://github.com/sebastienfilion/functional-redis","reg":"x","vers":"v0.1.3"}
+{"name":"functional_redis","desc":"A simple Redis client in tune with Functional Programming principles in JavaScript for Deno.","repo":"https://github.com/functionalland/functional-redis","reg":"x","vers":"v0.2.0"}
