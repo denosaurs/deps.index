@@ -1,2 +1,4 @@
 {"name":"unicode","desc":"Unicode lookup table for Deno","repo":"justjavac/deno_unicode","reg":"x","vers":"0.1.0"}
 {"name":"unicode","desc":"Unicode lookup table for Deno","repo":"justjavac/deno_unicode","reg":"x","vers":"0.1.1"}
+{"name":"unicode","desc":"Unicode lookup table for Deno","repo":"https://github.com/justjavac/deno_unicode","reg":"x","vers":"v1.0.0"}
+{"name":"unicode","desc":"Unicode lookup table for Deno","repo":"https://github.com/justjavac/deno_unicode","reg":"x","vers":"1.0.0"}
