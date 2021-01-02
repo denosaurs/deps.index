@@ -58,3 +58,4 @@
 {"name":"typeorm","desc":"Forked from https://github.com/typeorm/typeorm","repo":"denolib/typeorm","reg":"x","vers":"0.2.23-rc6"}
 {"name":"typeorm","desc":"Forked from https://github.com/typeorm/typeorm","repo":"denolib/typeorm","reg":"x","vers":"0.2.23-rc8"}
 {"name":"typeorm","desc":"Forked from https://github.com/typeorm/typeorm","repo":"https://github.com/denolib/typeorm","reg":"x","vers":"0.2.23-rc9"}
+{"name":"typeorm","desc":"Forked from https://github.com/typeorm/typeorm","repo":"https://github.com/denolib/typeorm","reg":"x","vers":"v0.2.23-rc10"}
