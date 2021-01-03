@@ -3,3 +3,4 @@
 {"name":"littlezip","desc":"memory-friendly basic zip compression, decompression, and single file extraction for deno framework","repo":"https://github.com/Nexxkinn/LittleZip","reg":"x","vers":"0.2.1"}
 {"name":"littlezip","desc":"memory-friendly basic zip compression, decompression, and single file extraction for deno framework","repo":"https://github.com/Nexxkinn/LittleZip","reg":"x","vers":"0.2.2"}
 {"name":"littlezip","desc":"memory-friendly basic zip compression, decompression, and single file extraction for deno framework","repo":"https://github.com/Nexxkinn/littleZip","reg":"x","vers":"0.3.0"}
+{"name":"littlezip","desc":"memory-friendly basic zip compression, decompression, and single file extraction for deno framework","repo":"https://github.com/Nexxkinn/littleZip","reg":"x","vers":"0.4.0"}
