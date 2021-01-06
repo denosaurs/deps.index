@@ -1,1 +1,2 @@
 {"name":"uwuifier","desc":"This very lightweight package allows you to uwuify any sentence or word (excluding URL's) with many configurable parameters while giving you access to many vewy kawaii sentences, stuttering and faces","repo":"https://github.com/Schotsl/Uwuifier","reg":"x","vers":"2.0.4"}
+{"name":"uwuifier","desc":"This repository contains the Uwuifier Deno package! It's made for Deno which means it's written in TypeScript, the package also makes use of the build-in Deno testing.","repo":"https://github.com/Schotsl/Uwuifier-deno","reg":"x","vers":"2.1.0"}
