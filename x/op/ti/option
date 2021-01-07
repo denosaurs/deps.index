@@ -1,0 +1,1 @@
+{"name":"option","desc":"A deno module for handling null and undefined values, inspired by Rusts Option<T>","repo":"https://github.com/iMarv/Option","reg":"x","vers":"3.0.1"}
