@@ -1,0 +1,1 @@
+{"name":"localstorage","desc":"localstorage polyfill for Deno runtime. Until supported by them","repo":"https://github.com/lowray/localstorage","reg":"x","vers":"0.1.0"}
