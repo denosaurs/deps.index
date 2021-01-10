@@ -7,3 +7,4 @@
 {"name":"lite","desc":"A minimal and slow, but simple, SQLite database wrapper for Deno, using SQL`…` tagged template string literals for SQL expressions with safe subexpression and value interpolation.","repo":"https://github.com/jeremyBanks/lite","reg":"x","vers":"0.0.7"}
 {"name":"lite","desc":"A minimal and slow, but simple, SQLite database wrapper for Deno, using SQL`…` tagged template string literals for SQL expressions with safe subexpression and value interpolation.","repo":"https://github.com/jeremyBanks/lite","reg":"x","vers":"0.0.9"}
 {"name":"lite","desc":"A minimal and slow, but simple, SQLite database wrapper for Deno, using SQL`…` tagged template string literals for SQL expressions with safe subexpression and value interpolation.","repo":"https://github.com/jeremyBanks/lite","reg":"x","vers":"0.0.10"}
+{"name":"lite","desc":"","repo":"https://github.com/jeremyBanks/lite","reg":"x","vers":"0.0.11"}
