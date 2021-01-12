@@ -1,1 +1,2 @@
 {"name":"graphviz","desc":"Graphviz library for Deno.","repo":"https://github.com/ts-graphviz/deno","reg":"nest","vers":"0.2.1"}
+{"name":"graphviz","desc":"Graphviz library for Deno.","repo":"https://github.com/ts-graphviz/deno","reg":"nest","vers":"0.3.0"}
