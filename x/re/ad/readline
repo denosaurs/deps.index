@@ -1,1 +1,3 @@
 {"name":"readline","desc":null,"repo":"vslinko/deno-readline","reg":"x","vers":"1.0.0"}
+{"name":"readline","desc":"Readline implementation for Deno","repo":"https://github.com/vslinko/deno-readline","reg":"x","vers":"v1.1.0-beta2"}
+{"name":"readline","desc":"Readline implementation for Deno","repo":"https://github.com/vslinko/deno-readline","reg":"x","vers":"v1.1.0"}
