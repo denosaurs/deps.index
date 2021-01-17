@@ -6,3 +6,4 @@
 {"name":"dropper","desc":"Custom event-based WebSockets framework for deno 🦕","repo":"https://github.com/denyncrawford/dropper-deno","reg":"x","vers":"1.6.0"}
 {"name":"dropper","desc":"Custom event-based WebSockets framework for building real-time apps on Deno 🦕","repo":"https://github.com/denyncrawford/dropper-deno","reg":"x","vers":"1.7.0"}
 {"name":"dropper","desc":"Custom event-based WebSockets framework for building real-time apps on Deno 🦕","repo":"https://github.com/denyncrawford/dropper-deno","reg":"x","vers":"1.8.0"}
+{"name":"dropper","desc":"Custom event-based WebSockets framework for building real-time apps on Deno 🦕","repo":"https://github.com/denyncrawford/dropper-deno","reg":"x","vers":"1.9.0"}
