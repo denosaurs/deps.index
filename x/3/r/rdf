@@ -1,2 +1,4 @@
 {"name":"rdf","desc":"","repo":"https://github.com/rdfland/rdf","reg":"x","vers":"0.1.0"}
 {"name":"rdf","desc":"","repo":"https://github.com/rdfland/rdf","reg":"x","vers":"0.2.0"}
+{"name":"rdf","desc":"RDF libraries for Deno","repo":"https://github.com/rdfland/rdf","reg":"x","vers":"0.3.0"}
+{"name":"rdf","desc":"RDF libraries for Deno","repo":"https://github.com/rdfland/rdf","reg":"x","vers":"0.4.0"}

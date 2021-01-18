@@ -12,3 +12,4 @@
 {"name":"lazy","desc":"A linq-like lazy-evaluation enumerable/iteration library that aims to support deno, node & browser","repo":"luvies/lazy","reg":"x","vers":"1.6.0"}
 {"name":"lazy","desc":"A linq-like lazy-evaluation enumerable/iteration library that aims to support deno, node & browser","repo":"luvies/lazy","reg":"x","vers":"1.7.0"}
 {"name":"lazy","desc":"A linq-like lazy-evaluation enumerable/iteration library that aims to support deno, node & browser","repo":"luvies/lazy","reg":"x","vers":"1.7.1"}
+{"name":"lazy","desc":"A linq-like lazy-evaluation enumerable/iteration library that aims to support deno, node & browser","repo":"https://github.com/luvies/lazy","reg":"x","vers":"v1.7.2"}

@@ -1,0 +1,1 @@
+{"name":"free","desc":"ADT for Free Monad Type, used to foldMap over interfaces to inject interpreters for managing implementation details separately from business logic","repo":null,"reg":"nest","vers":"1.0.0"}

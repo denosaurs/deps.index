@@ -1,1 +1,2 @@
 {"name":"os_paths","desc":"","repo":"https://github.com/rivy/js.os-paths","reg":"x","vers":"v6.0.0"}
+{"name":"os_paths","desc":"Generate portable common OS paths (home, temp, ...)","repo":"https://github.com/rivy/js.os-paths","reg":"x","vers":"v6.1.0"}
