@@ -8,3 +8,5 @@
 {"name":"ssgo","desc":"The minimalistic but flexible static site generator","repo":"https://github.com/mdubourg001/ssgo","reg":"nest","vers":"0.14.1"}
 {"name":"ssgo","desc":"The minimalistic but flexible static site generator","repo":"https://github.com/mdubourg001/ssgo","reg":"nest","vers":"0.16.0"}
 {"name":"ssgo","desc":"The minimalistic but flexible static site generator","repo":"https://github.com/mdubourg001/ssgo","reg":"nest","vers":"0.16.1"}
+{"name":"ssgo","desc":"The minimalistic but flexible static site generator","repo":"https://github.com/mdubourg001/ssgo","reg":"nest","vers":"0.18.2"}
+{"name":"ssgo","desc":"The minimalistic but flexible static site generator","repo":"https://github.com/mdubourg001/ssgo","reg":"nest","vers":"0.18.3"}
