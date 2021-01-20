@@ -7,3 +7,4 @@
 {"name":"i18next_fs_backend","desc":"i18next-fs-backend is a backend layer for i18next using in Node.js and for Deno to load translations from the filesystem.","repo":"i18next/i18next-fs-backend","reg":"x","vers":"1.0.6"}
 {"name":"i18next_fs_backend","desc":"i18next-fs-backend is a backend layer for i18next using in Node.js and for Deno to load translations from the filesystem.","repo":"i18next/i18next-fs-backend","reg":"x","vers":"1.0.7"}
 {"name":"i18next_fs_backend","desc":"i18next-fs-backend is a backend layer for i18next using in Node.js and for Deno to load translations from the filesystem.","repo":"i18next/i18next-fs-backend","reg":"x","vers":"1.0.8-rc.1"}
+{"name":"i18next_fs_backend","desc":"i18next-fs-backend is a backend layer for i18next using in Node.js and for Deno to load translations from the filesystem.","repo":"https://github.com/i18next/i18next-fs-backend","reg":"x","vers":"v1.0.8"}

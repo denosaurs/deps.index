@@ -1,1 +1,1 @@
-[{"name":"specify","desc":"validation library building blocks to create custom validation libraries using a functional approach","repo":null,"reg":"nest","vers":["0.0.1"]}]
+[{"name":"umajs_deno","desc":"[Umajs](https://github.com/wuba/Umajs) deno 版本，拥有 Umajs 全量功能。","repo":"https://github.com/Umajs/umajs-deno","reg":"nest","vers":["2.0.0","1.0.0"]},{"name":"LRU","desc":"Simple and powerful LRU cache for Deno","repo":"https://github.com/liltoto/LRU","reg":"nest","vers":["1.0.0","1.0.1"]}]

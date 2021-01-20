@@ -1,1 +1,4 @@
 {"name":"free","desc":"ADT for Free Monad Type, used to foldMap over interfaces to inject interpreters for managing implementation details separately from business logic","repo":null,"reg":"nest","vers":"1.0.0"}
+{"name":"free","desc":"Free ADT for separating interface from business logic","repo":"https://github.com/hyper63/free","reg":"nest","vers":"1.0.1"}
+{"name":"free","desc":"Free ADT for separating interface from business logic","repo":"https://github.com/hyper63/free","reg":"nest","vers":"1.0.2"}
+{"name":"free","desc":"Free ADT for separating interface from business logic","repo":"https://github.com/hyper63/free","reg":"nest","vers":"1.0.3"}
