@@ -1,0 +1,1 @@
+{"name":"port","desc":"Deno module to check if a port is available, get an available TCP port, or kill a process running on a port.","repo":"https://github.com/piyush-bhatt/deno-port","reg":"x","vers":"1.0.0"}
