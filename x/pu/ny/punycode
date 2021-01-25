@@ -1,0 +1,1 @@
+{"name":"punycode","desc":"A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.","repo":"https://github.com/oblador/deno-punycode","reg":"x","vers":"v2.1.1"}
