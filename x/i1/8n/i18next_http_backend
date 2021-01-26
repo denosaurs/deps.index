@@ -22,3 +22,4 @@
 {"name":"i18next_http_backend","desc":"i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.","repo":"https://github.com/i18next/i18next-http-backend","reg":"x","vers":"1.0.20"}
 {"name":"i18next_http_backend","desc":"i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.","repo":"https://github.com/i18next/i18next-http-backend","reg":"x","vers":"1.0.21"}
 {"name":"i18next_http_backend","desc":"i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.","repo":"https://github.com/i18next/i18next-http-backend","reg":"x","vers":"v1.0.22"}
+{"name":"i18next_http_backend","desc":"i18next-http-backend is a backend layer for i18next using in Node.js, in the browser and for Deno.","repo":"https://github.com/i18next/i18next-http-backend","reg":"x","vers":"v1.0.23"}

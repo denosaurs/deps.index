@@ -15,3 +15,5 @@
 {"name":"dvm","desc":"Deno Version Manager - Easy way to manage multiple active deno versions.","repo":"https://github.com/justjavac/dvm","reg":"x","vers":"1.1.9"}
 {"name":"dvm","desc":"Deno Version Manager - Easy way to manage multiple active deno versions.","repo":"https://github.com/justjavac/dvm","reg":"x","vers":"1.1.10"}
 {"name":"dvm","desc":"Deno Version Manager - Easy way to manage multiple active deno versions.","repo":"https://github.com/justjavac/dvm","reg":"x","vers":"v1.2.0"}
+{"name":"dvm","desc":"Deno Version Manager - Easy way to manage multiple active deno versions.","repo":"https://github.com/justjavac/dvm","reg":"x","vers":"v1.3.0"}
+{"name":"dvm","desc":"Deno Version Manager - Easy way to manage multiple active deno versions.","repo":"https://github.com/justjavac/dvm","reg":"x","vers":"v1.3.1"}
