@@ -1,0 +1,1 @@
+{"name":"acai_router","desc":"This repository contains the router module added by the Açai Framework. This is responsible for creating the routes list and doing a match with a url path, passing the information back to you.","repo":"https://github.com/AcaiFramework/router","reg":"x","vers":"1.0.0"}

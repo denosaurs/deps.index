@@ -7,3 +7,4 @@
 {"name":"regexbuilder","desc":"Build regexes from templates with a fluent API.","repo":"https://github.com/GJZwiers/regexbuilder-deno","reg":"x","vers":"0.4.1"}
 {"name":"regexbuilder","desc":"Build regexes using fluent APIs in Deno.","repo":"https://github.com/GJZwiers/regexbuilder-deno","reg":"x","vers":"0.4.2"}
 {"name":"regexbuilder","desc":"Build regexes using fluent APIs in Deno.","repo":"https://github.com/GJZwiers/regexbuilder-deno","reg":"x","vers":"0.4.3"}
+{"name":"regexbuilder","desc":"Build regexes using fluent APIs in Deno.","repo":"https://github.com/GJZwiers/regexbuilder-deno","reg":"x","vers":"0.5.0"}
