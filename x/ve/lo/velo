@@ -1,2 +1,3 @@
 {"name":"velo","desc":"Performant LRU, LFU, ARC and other Caches for Deno. ","repo":"velo-org/velo","reg":"x","vers":"0.1.3"}
 {"name":"velo","desc":"Performant Cache implementations for Deno. Supports LRU, LFU, ARC and other caching policies.","repo":"https://github.com/velo-org/velo","reg":"x","vers":"0.1.4"}
+{"name":"velo","desc":"Performant Cache implementations for Deno. Supports LRU, LFU, ARC and other caching policies.","repo":"https://github.com/velo-org/velo","reg":"x","vers":"0.1.5"}
