@@ -1,1 +1,2 @@
 {"name":"routine","desc":"Inline, Promise based wrapper around Deno Workers 🏃‍♂️","repo":"https://github.com/mdubourg001/deno-routine","reg":"x","vers":"v0.1.0"}
+{"name":"routine","desc":"Inline, Promise based wrapper around Deno Workers 🏃‍♂️","repo":"https://github.com/mdubourg001/deno-routine","reg":"x","vers":"v0.1.1"}

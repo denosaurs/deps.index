@@ -50,3 +50,4 @@
 {"name":"lambda","desc":"A deno runtime for AWS Lambda. Deploy deno via SAM, serverless, or bundle it yourself.","repo":"https://github.com/hayd/deno-lambda","reg":"x","vers":"1.6.1"}
 {"name":"lambda","desc":"A deno runtime for AWS Lambda. Deploy deno via SAM, serverless, or bundle it yourself.","repo":"https://github.com/hayd/deno-lambda","reg":"x","vers":"1.6.2"}
 {"name":"lambda","desc":"A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.","repo":"https://github.com/hayd/deno-lambda","reg":"x","vers":"1.7.0"}
+{"name":"lambda","desc":"A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.","repo":"https://github.com/hayd/deno-lambda","reg":"x","vers":"1.7.1"}
