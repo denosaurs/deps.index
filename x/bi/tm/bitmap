@@ -1,1 +1,2 @@
 {"name":"bitmap","desc":"Bitmap Encoder/Decoder for Deno","repo":"https://github.com/DevSnowflake/bitmap","reg":"x","vers":"v1.0.0"}
+{"name":"bitmap","desc":"Bitmap Encoder/Decoder for Deno based on Node's bmp-js.","repo":"https://github.com/DevSnowflake/bitmap","reg":"x","vers":"v1.0.1"}
