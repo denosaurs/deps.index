@@ -38,3 +38,4 @@
 {"name":"aleph","desc":"The React Framework in Deno.","repo":"https://github.com/alephjs/aleph.js","reg":"x","vers":"v0.2.26"}
 {"name":"aleph","desc":"The React Framework in Deno.","repo":"https://github.com/alephjs/aleph.js","reg":"x","vers":"v0.2.27"}
 {"name":"aleph","desc":"The React Framework in Deno.","repo":"https://github.com/alephjs/aleph.js","reg":"x","vers":"v0.2.28"}
+{"name":"aleph","desc":"The Full-stack Framework in Deno.","repo":"https://github.com/alephjs/aleph.js","reg":"x","vers":"v0.3.0-alpha.1"}

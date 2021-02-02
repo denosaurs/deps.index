@@ -2,3 +2,5 @@
 {"name":"storage","desc":"key-value storage for deno.","repo":"https://github.com/Rohan-ult/deno_storage","reg":"x","vers":"0.0.2"}
 {"name":"storage","desc":"key-value storage for deno.","repo":"https://github.com/Rohan-ult/deno_storage","reg":"x","vers":"0.0.3"}
 {"name":"storage","desc":"key-value storage for deno.","repo":"https://github.com/Rohan-ult/deno_storage","reg":"x","vers":"0.0.4"}
+{"name":"storage","desc":"key-value storage for deno.","repo":"https://github.com/Rohan-ult/deno_storage","reg":"x","vers":"0.0.5"}
+{"name":"storage","desc":"key-value storage for deno.","repo":"https://github.com/Rohan-ult/deno_storage","reg":"x","vers":"v0.0.5"}

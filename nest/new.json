@@ -1,1 +1,1 @@
-[{"name":"scriptor","desc":"Simple and easy to use module for basic scripting, used as a replacement for basic bash scripts to improve the display output","repo":null,"reg":"nest","vers":["1.0.0"]}]
+[{"name":"umajs","desc":"[Umajs](https://github.com/wuba/Umajs) deno 版本，拥有 Umajs 全量功能。","repo":"https://github.com/Umajs/umajs-deno","reg":"nest","vers":["0.0.1"]}]
