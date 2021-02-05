@@ -1,2 +1,3 @@
 {"name":"kaksik","desc":"Middleware library for creating apps with TypeScript for Gemini protocol, on top of Deno runtime","repo":"https://github.com/sergetymo/kaksik","reg":"x","vers":"v1.0.1"}
 {"name":"kaksik","desc":"Middleware library for creating apps for Gemini protocol on top of Deno runtime using TypeScript","repo":"https://github.com/sergetymo/kaksik","reg":"x","vers":"v1.1.0"}
+{"name":"kaksik","desc":"Middleware library for creating apps for Gemini protocol on top of Deno runtime using TypeScript","repo":"https://github.com/sergetymo/kaksik","reg":"x","vers":"v1.2.0"}
