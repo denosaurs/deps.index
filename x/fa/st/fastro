@@ -109,3 +109,4 @@
 {"name":"fastro","desc":"Fastro is a simple and fast deno web framework. Its speed is close to the raw deno http library. Written in typescript","repo":"https://github.com/fastrojs/fastro","reg":"x","vers":"v0.30.31"}
 {"name":"fastro","desc":"Fastro is a high performance deno web framework","repo":"https://github.com/fastrojs/fastro","reg":"x","vers":"v0.30.32"}
 {"name":"fastro","desc":"High performance deno web framework","repo":"https://github.com/fastrojs/fastro","reg":"x","vers":"v0.30.33"}
+{"name":"fastro","desc":"High performance deno web framework","repo":"https://github.com/fastrojs/fastro","reg":"x","vers":"v0.30.34"}
