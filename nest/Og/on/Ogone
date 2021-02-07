@@ -32,3 +32,5 @@
 {"name":"Ogone","desc":"Web-Components compiler to create modern Apps (SPA, PWA) inspired by Vue and Svelte","repo":"https://github.com/SRNV/Ogone","reg":"nest","vers":"0.22.0"}
 {"name":"Ogone","desc":"Web-Components compiler to create front-end modern Apps (SPA, PWA)","repo":"https://github.com/SRNV/Ogone","reg":"nest","vers":"0.23.0"}
 {"name":"Ogone","desc":"Web-Components compiler to create front-end modern Apps (SPA, PWA)","repo":"https://github.com/SRNV/Ogone","reg":"nest","vers":"0.25.0"}
+{"name":"Ogone","desc":"Advanced Web Composition for Future","repo":"https://github.com/SRNV/Ogone","reg":"nest","vers":"0.28.0"}
+{"name":"Ogone","desc":"Advanced Web Composition for Future","repo":"https://github.com/SRNV/Ogone","reg":"nest","vers":"0.28.1"}

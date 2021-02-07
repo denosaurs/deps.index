@@ -1,0 +1,1 @@
+{"name":"fetchline","desc":"Read text file (remote over HTTP(S) or local) line by line as async iterator, with Node, browsers and Deno","repo":"https://github.com/tomchen/fetchline","reg":"x","vers":"v1.0.1"}
