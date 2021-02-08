@@ -12,3 +12,5 @@
 {"name":"cliffy","desc":"Command line framework for Deno","repo":"https://github.com/c4spar/deno-cliffy/","reg":"nest","vers":"0.15.0"}
 {"name":"cliffy","desc":"Command line framework for Deno","repo":"https://github.com/c4spar/deno-cliffy/","reg":"nest","vers":"0.16.0"}
 {"name":"cliffy","desc":"Command line framework for Deno 🦕","repo":"https://cliffy.io","reg":"nest","vers":"0.17.0"}
+{"name":"cliffy","desc":"Command line framework for Deno 🦕","repo":"https://cliffy.io","reg":"nest","vers":"0.17.1"}
+{"name":"cliffy","desc":"Command line framework for Deno 🦕","repo":"https://cliffy.io","reg":"nest","vers":"0.17.2"}

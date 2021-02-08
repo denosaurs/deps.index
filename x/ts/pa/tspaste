@@ -1,3 +1,6 @@
 {"name":"tspaste","desc":"","repo":"https://github.com/AlexxTek/tspaste","reg":"x","vers":"6.0.0-1"}
 {"name":"tspaste","desc":"","repo":"https://github.com/AlexxTek/tspaste","reg":"x","vers":"6.0.0"}
 {"name":"tspaste","desc":"","repo":"https://github.com/AlexxTek/tspaste","reg":"x","vers":"6.0.0-2"}
+{"name":"tspaste","desc":"Pública y obtén datos de jspaste en Deno.","repo":"https://github.com/AlexxTek/dtspaste","reg":"x","vers":"7.0.0-1"}
+{"name":"tspaste","desc":"Pública y obtén datos de jspaste en Deno.","repo":"https://github.com/AlexxTek/dtspaste","reg":"x","vers":"7.0.0-2"}
+{"name":"tspaste","desc":"Pública y obtén datos de jspaste en Deno.","repo":"https://github.com/AlexxTek/dtspaste","reg":"x","vers":"7.0.0"}

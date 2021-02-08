@@ -50,3 +50,4 @@
 {"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"4.1.9"}
 {"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"4.1.10"}
 {"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"4.1.12"}
+{"name":"pgsql_ast_parser","desc":"Yet another simple Postgres SQL parser","repo":"https://github.com/oguimbal/pgsql-ast-parser","reg":"x","vers":"4.1.13"}
