@@ -1,1 +1,2 @@
 {"name":"deno_uri_template","desc":"A Typescript implementation of RFC6570","repo":"https://github.com/larshisken/deno_uri_template","reg":"x","vers":"0.1.0"}
+{"name":"deno_uri_template","desc":"A Typescript implementation of URI Template (RFC6570)","repo":"https://github.com/larshisken/deno_uri_template","reg":"x","vers":"v0.1.1"}

@@ -1,0 +1,2 @@
+{"name":"local8601","desc":"Generate a ISO8601 string with local timezone, like \"2021-02-09T12:20:04+08:00\".","repo":"https://github.com/skanfd/deno-local8601","reg":"x","vers":"v1.0.0"}
+{"name":"local8601","desc":"Generate a ISO8601 string with local timezone, like \"2021-02-09T12:20:04+08:00\".","repo":"https://github.com/skanfd/deno-local8601","reg":"x","vers":"v1.0.1"}

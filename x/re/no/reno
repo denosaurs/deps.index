@@ -33,3 +33,4 @@
 {"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno","reg":"x","vers":"v1.3.7"}
 {"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno","reg":"x","vers":"v1.3.8"}
 {"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno","reg":"x","vers":"v1.3.9"}
+{"name":"reno","desc":"A thin, testable routing library designed to sit on top of Deno's standard HTTP module","repo":"https://github.com/reno-router/reno","reg":"x","vers":"v1.3.10"}
