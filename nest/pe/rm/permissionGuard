@@ -2,3 +2,4 @@
 {"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno to prevent overly permissive execution of your applications.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"nest","vers":"2.0.1"}
 {"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno to prevent overly permissive execution of your applications.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"nest","vers":"2.1.1"}
 {"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno to prevent overly permissive execution of your applications.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"nest","vers":"2.2.0"}
+{"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno to prevent overly permissive execution of your applications.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"nest","vers":"2.3.0"}

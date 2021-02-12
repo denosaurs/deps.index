@@ -1,1 +1,2 @@
 {"name":"denowiki","desc":"A simple API for DenoJS to query Wikipedia and parse the results.","repo":"el3um4s/denowiki","reg":"x","vers":"0.1.0"}
+{"name":"denowiki","desc":"A simple API for DenoJS to query Wikipedia and parse the results.","repo":"https://github.com/el3um4s/DenoWiki","reg":"x","vers":"v0.2.1"}
