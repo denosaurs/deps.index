@@ -1,0 +1,3 @@
+{"name":"slack_oauth","desc":"Deno port of @slack/oauth","repo":"https://github.com/slack-deno/oauth","reg":"x","vers":"1.0.0"}
+{"name":"slack_oauth","desc":"Deno port of @slack/oauth","repo":"https://github.com/slack-deno/oauth","reg":"x","vers":"1.1.0"}
+{"name":"slack_oauth","desc":"Deno port of @slack/oauth","repo":"https://github.com/slack-deno/oauth","reg":"x","vers":"3.0.0"}
