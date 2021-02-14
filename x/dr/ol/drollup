@@ -6,3 +6,4 @@
 {"name":"drollup","desc":"Next-generation ES module bundler ported for Deno","repo":"https://github.com/cmorten/deno-rollup","reg":"x","vers":"2.38.1+0.7.4"}
 {"name":"drollup","desc":"Next-generation ES module bundler ported for Deno","repo":"https://github.com/cmorten/deno-rollup","reg":"x","vers":"2.38.4+0.8.0"}
 {"name":"drollup","desc":"Next-generation ES module bundler ported for Deno","repo":"https://github.com/cmorten/deno-rollup","reg":"x","vers":"2.38.5+0.11.0"}
+{"name":"drollup","desc":"Next-generation ES module bundler ported for Deno","repo":"https://github.com/cmorten/deno-rollup","reg":"x","vers":"2.39.0+0.14.0"}
