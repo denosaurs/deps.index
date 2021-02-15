@@ -9,3 +9,4 @@
 {"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"5.0.0"}
 {"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"5.0.1"}
 {"name":"leagueconnect","desc":":electric_plug: Promise based LCU Client for HTTP requests and websockets for Node","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"5.0.2"}
+{"name":"leagueconnect","desc":":electric_plug: Modern NodeJS interface to the League of Legends Client APIs","repo":"https://github.com/supergrecko/league-connect","reg":"x","vers":"5.1.0"}
