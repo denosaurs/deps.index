@@ -1,0 +1,1 @@
+{"name":"ip_num","desc":"A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations like parsing, validating etc. on them","repo":"https://github.com/ip-num/ip-num","reg":"x","vers":"v1.3.1"}
