@@ -1,0 +1,1 @@
+{"name":"linacc_gen","desc":"Deno module to read a file with keyed hierarchical structure, then codegen a new linear accessor file of that file.","repo":"https://github.com/5argon/linacc_gen","reg":"x","vers":"v0.1.0"}

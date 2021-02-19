@@ -8,3 +8,4 @@
 {"name":"deno_dom","desc":"Browser DOM in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.3-alpha2"}
 {"name":"deno_dom","desc":"Browser DOM in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.4-alpha"}
 {"name":"deno_dom","desc":"Browser DOM in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.5-alpha"}
+{"name":"deno_dom","desc":"Browser DOM in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.6-alpha"}
