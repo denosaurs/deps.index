@@ -1,1 +1,2 @@
 {"name":"local_ip","desc":"Tiny module for Deno to get local network interface address.","repo":"https://github.com/joakimunge/deno-local-ip","reg":"x","vers":"0.0.2"}
+{"name":"local_ip","desc":"Tiny module for Deno to get local network interface address.","repo":"https://github.com/joakimunge/deno-local-ip","reg":"x","vers":"0.0.3"}

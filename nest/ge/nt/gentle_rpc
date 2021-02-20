@@ -10,3 +10,4 @@
 {"name":"gentle_rpc","desc":"JSON-RPC 2.0 TypeScript library for deno and the browser","repo":"https://github.com/timonson/gentle_rpc","reg":"nest","vers":"0.0.11"}
 {"name":"gentle_rpc","desc":"JSON-RPC 2.0 TypeScript library for deno and the browser","repo":"https://github.com/timonson/gentle_rpc","reg":"nest","vers":"0.0.12"}
 {"name":"gentle_rpc","desc":"JSON-RPC 2.0 library with WebSockets and HTTP support for deno and the browser","repo":"https://github.com/timonson/gentle_rpc","reg":"nest","vers":"0.0.13"}
+{"name":"gentle_rpc","desc":"JSON-RPC 2.0 library with WebSockets and HTTP support for deno and the browser","repo":"https://github.com/timonson/gentle_rpc","reg":"nest","vers":"0.0.14"}

@@ -1,1 +1,1 @@
-[]
+[{"name":"csssr-charts-deployment","desc":null,"repo":null,"reg":"nest","vers":["1.0.0-alpha.1","1.0.0-alpha.2"]},{"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":["0.0.2","0.0.3"]},{"name":"wearetheworld-data-1-0","desc":"The best package ever you've never seen","repo":"https://krsw-wiki.org/","reg":"nest","vers":[]}]
