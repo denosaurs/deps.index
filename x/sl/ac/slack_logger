@@ -1,2 +1,3 @@
 {"name":"slack_logger","desc":"Deno port of https://github.com/slackapi/node-slack-sdk/tree/main/packages/logger","repo":"https://github.com/slack-deno/logger","reg":"x","vers":"3.0.0"}
 {"name":"slack_logger","desc":"Deno port of @slack/logger","repo":"https://github.com/slack-deno/logger","reg":"x","vers":"3.0.1"}
+{"name":"slack_logger","desc":"Logger for slack-deno packages. Deno port of @slack/logger","repo":"https://github.com/KhushrajRathod/slack-logger","reg":"x","vers":"3.0.2"}

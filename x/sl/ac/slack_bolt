@@ -1,2 +1,3 @@
 {"name":"slack_bolt","desc":"TypeScript framework to build Slack apps in a flash with the latest platform features. Deno port of @slack/bolt","repo":"https://github.com/slack-deno/bolt","reg":"x","vers":"0.0.1"}
 {"name":"slack_bolt","desc":"TypeScript framework to build Slack apps in a flash with the latest platform features. Deno port of @slack/bolt","repo":"https://github.com/slack-deno/bolt","reg":"x","vers":"0.0.2"}
+{"name":"slack_bolt","desc":"TypeScript framework to build Slack apps in a flash with the latest platform features. Deno port of @slack/bolt","repo":"https://github.com/KhushrajRathod/slack-bolt","reg":"x","vers":"0.0.3"}

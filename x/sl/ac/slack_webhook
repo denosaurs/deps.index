@@ -1,2 +1,3 @@
 {"name":"slack_webhook","desc":"Helper for making requests to Slack's Incoming Webhooks. Deno port of @slack/webhook","repo":"https://github.com/slack-deno/webhook","reg":"x","vers":"0.0.1"}
 {"name":"slack_webhook","desc":"Helper for making requests to Slack's Incoming Webhooks. Deno port of @slack/webhook","repo":"https://github.com/slack-deno/webhook","reg":"x","vers":"0.0.2"}
+{"name":"slack_webhook","desc":"Helper for making requests to Slack's Incoming Webhooks. Deno port of @slack/webhook","repo":"https://github.com/KhushrajRathod/slack-webhook","reg":"x","vers":"0.0.3"}

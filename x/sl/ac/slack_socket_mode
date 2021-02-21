@@ -1,1 +1,2 @@
 {"name":"slack_socket_mode","desc":"Recieve events from Slack's Events API over a WebSocket connection. Deno port of @slack/socket-mode","repo":"https://github.com/slack-deno/socket-mode","reg":"x","vers":"1.0.0"}
+{"name":"slack_socket_mode","desc":"Recieve events from Slack's Events API over a WebSocket connection. Deno port of @slack/socket-mode","repo":"https://github.com/KhushrajRathod/slack-socket-mode","reg":"x","vers":"1.0.1"}

@@ -6,3 +6,4 @@
 {"name":"slack_web_api","desc":"Deno port of https://www.npmjs.com/package/@slack/web-api","repo":"https://github.com/slack-deno/web-api","reg":"x","vers":"1.0.0"}
 {"name":"slack_web_api","desc":"Deno port of @slack/web-api","repo":"https://github.com/slack-deno/web-api","reg":"x","vers":"1.0.1"}
 {"name":"slack_web_api","desc":"Deno port of @slack/web-api","repo":"https://github.com/slack-deno/web-api","reg":"x","vers":"1.0.2"}
+{"name":"slack_web_api","desc":"Simple, convenient, and configurable HTTP client for making requests to Slack’s Web API. Deno port of @slack/web-api","repo":"https://github.com/KhushrajRathod/slack-web-api","reg":"x","vers":"1.0.3"}

@@ -1,0 +1,1 @@
+{"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v7.0.0"}

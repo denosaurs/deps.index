@@ -1,3 +1,4 @@
 {"name":"slack_types","desc":"Deno port of https://github.com/slackapi/node-slack-sdk/tree/main/packages/types","repo":"https://github.com/slack-deno/types","reg":"x","vers":"3.0.0"}
 {"name":"slack_types","desc":"Types for slack-deno packages. Deno port of @slack/types","repo":"https://github.com/slack-deno/types","reg":"x","vers":"3.0.1"}
 {"name":"slack_types","desc":"Types for slack-deno packages. Deno port of @slack/types","repo":"https://github.com/slack-deno/types","reg":"x","vers":"3.0.2"}
+{"name":"slack_types","desc":"Types for slack-deno packages. Deno port of @slack/types","repo":"https://github.com/KhushrajRathod/slack-types","reg":"x","vers":"3.0.3"}

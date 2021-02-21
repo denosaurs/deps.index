@@ -2,3 +2,4 @@
 {"name":"slack_oauth","desc":"Deno port of @slack/oauth","repo":"https://github.com/slack-deno/oauth","reg":"x","vers":"1.1.0"}
 {"name":"slack_oauth","desc":"Deno port of @slack/oauth","repo":"https://github.com/slack-deno/oauth","reg":"x","vers":"3.0.0"}
 {"name":"slack_oauth","desc":"Deno port of @slack/oauth","repo":"https://github.com/slack-deno/oauth","reg":"x","vers":"3.0.1"}
+{"name":"slack_oauth","desc":"Setup the OAuth flow for Slack apps easily. Deno port of @slack/oauth","repo":"https://github.com/KhushrajRathod/slack-oauth","reg":"x","vers":"3.0.2"}
