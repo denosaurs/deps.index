@@ -1,1 +1,2 @@
 {"name":"keydb","desc":"Simple Key-value storage module with support for multiple database backends.","repo":"https://github.com/DjDeveloperr/Keydb","reg":"x","vers":"0.9.0"}
+{"name":"keydb","desc":"Simple Key-value storage module with support for multiple database backends.","repo":"https://github.com/DjDeveloperr/Keydb","reg":"x","vers":"1.0.0"}

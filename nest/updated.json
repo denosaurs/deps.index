@@ -1,1 +1,1 @@
-[{"name":"dkill","desc":"Deno cli to kill processes and ports","repo":"https://github.com/sylc/dkill","reg":"nest","vers":["0.2.0","0.2.1","0.2.2","0.2.3","0.3.0","0.4.0","0.5.0"]}]
+[{"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":["0.0.2","0.0.3","0.0.4"]}]

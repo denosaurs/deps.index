@@ -5,3 +5,4 @@
 {"name":"p_retried","desc":"Deno port of https://github.com/sindresorhus/p-retry","repo":"https://github.com/KhushrajRathod/pRetried","reg":"x","vers":"1.0.4"}
 {"name":"p_retried","desc":"Deno port of https://github.com/sindresorhus/p-retry","repo":"https://github.com/KhushrajRathod/pRetried","reg":"x","vers":"1.0.5"}
 {"name":"p_retried","desc":"Deno port of https://github.com/sindresorhus/p-retry","repo":"https://github.com/KhushrajRathod/pRetried","reg":"x","vers":"1.0.6"}
+{"name":"p_retried","desc":"Retry a promise-returning or async function. Abstraction for exponential and custom retry strategies for failed operations","repo":"https://github.com/KhushrajRathod/pRetried","reg":"x","vers":"1.0.7"}
