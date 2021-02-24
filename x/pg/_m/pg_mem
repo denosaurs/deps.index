@@ -27,3 +27,5 @@
 {"name":"pg_mem","desc":"An in memory postgres DB instance for your unit tests","repo":"https://github.com/oguimbal/pg-mem","reg":"x","vers":"1.7.4"}
 {"name":"pg_mem","desc":"An in memory postgres DB instance for your unit tests","repo":"https://github.com/oguimbal/pg-mem","reg":"x","vers":"1.7.5"}
 {"name":"pg_mem","desc":"An in memory postgres DB instance for your unit tests","repo":"https://github.com/oguimbal/pg-mem","reg":"x","vers":"1.7.6"}
+{"name":"pg_mem","desc":"An in memory postgres DB instance for your unit tests","repo":"https://github.com/oguimbal/pg-mem","reg":"x","vers":"1.7.7"}
+{"name":"pg_mem","desc":"An in memory postgres DB instance for your unit tests","repo":"https://github.com/oguimbal/pg-mem","reg":"x","vers":"1.7.8"}
