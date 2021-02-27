@@ -1,0 +1,1 @@
+{"name":"get_release_url","desc":"Deno package + CLI for fetching GitHub/BitBucket/Custom provider release + asset links with pattern matching","repo":"https://github.com/KhushrajRathod/getReleaseURL","reg":"x","vers":"1.0.0"}
