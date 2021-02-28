@@ -17,3 +17,4 @@
 {"name":"rad","desc":"general purpose build tool. statically typed, batteries included. command, function, and make-style tasks supported","repo":"https://github.com/cdaringe/rad","reg":"x","vers":"4.1.0"}
 {"name":"rad","desc":"general purpose build tool. statically typed, batteries included. command, function, and make-style tasks supported","repo":"https://github.com/cdaringe/rad","reg":"x","vers":"4.1.1"}
 {"name":"rad","desc":"general purpose build tool. statically typed, batteries included. command, function, and make-style tasks supported","repo":"https://github.com/cdaringe/rad","reg":"x","vers":"v5.0.0"}
+{"name":"rad","desc":"general purpose build tool. statically typed, batteries included. command, function, and make-style tasks supported","repo":"https://github.com/cdaringe/rad","reg":"x","vers":"v6.0.0"}

@@ -1,0 +1,1 @@
+{"name":"shallow_equal","desc":"A port of \"https://npmjs.org/package/shallow-equal\" to Deno.","repo":"https://github.com/marcelsud/deno-shallow-equal","reg":"x","vers":"v0.1.3"}
