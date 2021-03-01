@@ -1,1 +1,1 @@
-[]
+[{"name":"deno_hosts","desc":"The hosts file parsing and resolver module for Deno","repo":"https://github.com/thelocalcoder/deno-hosts","reg":"nest","vers":["2.0.0","3.0.0","4.0.0"]}]

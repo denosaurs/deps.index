@@ -1,2 +1,3 @@
 {"name":"kubernetes_apis","desc":"REST focused Typescript classes for Kubernetes APIs, and tools for generating API interfaces","repo":"https://github.com/danopia/deno-kubernetes_apis","reg":"x","vers":"v0.1.0"}
 {"name":"kubernetes_apis","desc":"REST focused Typescript classes for Kubernetes APIs, and tools for generating API interfaces","repo":"https://github.com/danopia/deno-kubernetes_apis","reg":"x","vers":"v0.2.0"}
+{"name":"kubernetes_apis","desc":"REST focused Typescript classes for Kubernetes APIs, and tools for generating API interfaces","repo":"https://github.com/cloudydeno/deno-kubernetes_apis","reg":"x","vers":"v0.3.0"}
