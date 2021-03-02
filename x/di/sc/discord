@@ -1,1 +1,2 @@
 {"name":"discord","desc":"A discord API wrapper","repo":"https://github.com/jw2476/discord","reg":"x","vers":"0.0.1"}
+{"name":"discord","desc":"Discord API bindings written for deno","repo":"https://github.com/jw2476/discord","reg":"x","vers":"0.0.0"}
