@@ -1,0 +1,2 @@
+{"name":"stable_stringify","desc":"Deterministic JSON.stringify() for Deno","repo":"https://github.com/sxwei123/deno-quick-stable-stringify","reg":"x","vers":"v0.2.1"}
+{"name":"stable_stringify","desc":"Deterministic JSON.stringify() for Deno","repo":"https://github.com/sxwei123/deno-quick-stable-stringify","reg":"x","vers":"v1.0.0"}
