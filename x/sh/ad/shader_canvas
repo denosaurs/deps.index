@@ -5,3 +5,4 @@
 {"name":"shader_canvas","desc":"A rendering engine where you can write WebGL 2.0 shaders using custom tags.","repo":"https://github.com/HugoDaniel/shader_canvas","reg":"x","vers":"v0.0.4"}
 {"name":"shader_canvas","desc":"A rendering engine where you can write WebGL 2.0 shaders using custom tags.","repo":"https://github.com/HugoDaniel/shader_canvas","reg":"x","vers":"v0.0.5"}
 {"name":"shader_canvas","desc":"A rendering engine where you can write WebGL 2.0 shaders using custom tags.","repo":"https://github.com/HugoDaniel/shader_canvas","reg":"x","vers":"v0.0.6"}
+{"name":"shader_canvas","desc":"A rendering engine where you can write WebGL 2.0 shaders using custom tags.","repo":"https://github.com/HugoDaniel/shader_canvas","reg":"x","vers":"v1.0.0"}

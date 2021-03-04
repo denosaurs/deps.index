@@ -9,3 +9,5 @@
 {"name":"ngrok","desc":"Expose your localhost to the web. Ultra-simple deno wrapper for ngrok.","repo":"https://github.com/KhushrajRathod/ngrok","reg":"x","vers":"2.2.4"}
 {"name":"ngrok","desc":"Expose your localhost to the web. Ultra-simple deno wrapper for ngrok.","repo":"https://github.com/KhushrajRathod/ngrok","reg":"x","vers":"2.2.5"}
 {"name":"ngrok","desc":"Expose your localhost to the web. Ultra-simple deno wrapper for ngrok.","repo":"https://github.com/KhushrajRathod/ngrok","reg":"x","vers":"3.0.0"}
+{"name":"ngrok","desc":"Expose your localhost to the web. Ultra-simple deno wrapper for ngrok.","repo":"https://github.com/KhushrajRathod/ngrok","reg":"x","vers":"3.1.0"}
+{"name":"ngrok","desc":"Expose your localhost to the web. Ultra-simple deno wrapper for ngrok.","repo":"https://github.com/KhushrajRathod/ngrok","reg":"x","vers":"3.1.1"}
