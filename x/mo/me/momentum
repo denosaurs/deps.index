@@ -19,3 +19,4 @@
 {"name":"momentum","desc":"","repo":"https://github.com/momentumframework/momentum","reg":"x","vers":"0.7.5"}
 {"name":"momentum","desc":"","repo":"https://github.com/momentumframework/momentum","reg":"x","vers":"0.7.6"}
 {"name":"momentum","desc":"","repo":"https://github.com/momentumframework/momentum","reg":"x","vers":"v0.8.0"}
+{"name":"momentum","desc":"Momentum is an open-source framework for building server-side Deno applications in TypeScript. It provides the paradigms and design patterns to guide developers to create robust, scalable, and enterprise-grade applications.","repo":"https://github.com/momentumframework/momentum","reg":"x","vers":"v0.8.1"}
