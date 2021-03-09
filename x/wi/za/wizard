@@ -3,3 +3,6 @@
 {"name":"wizard","desc":"🧙🏼‍♂️ Minimal Jest-like wrapper for unit tests","repo":"https://github.com/deno-libs/wizard","reg":"x","vers":"v0.0.3"}
 {"name":"wizard","desc":"🧙🏼‍♂️ Minimal Jest-like wrapper for unit tests","repo":"https://github.com/deno-libs/wizard","reg":"x","vers":"0.0.4"}
 {"name":"wizard","desc":"🧙🏼‍♂️ Minimal Jest-like wrapper for unit tests in Deno","repo":"https://github.com/deno-libs/wizard","reg":"x","vers":"0.1.0"}
+{"name":"wizard","desc":"🧙🏼‍♂️ Minimal Jest-like unit testing framework for Deno.","repo":"https://github.com/deno-libs/wizard","reg":"x","vers":"0.1.1"}
+{"name":"wizard","desc":"🧙🏼‍♂️ Minimal Jest-like unit testing framework for Deno.","repo":"https://github.com/deno-libs/wizard","reg":"x","vers":"0.1.2"}
+{"name":"wizard","desc":"🧙🏼‍♂️ Minimal Jest-like unit testing framework for Deno.","repo":"https://github.com/deno-libs/wizard","reg":"x","vers":"0.1.3"}
