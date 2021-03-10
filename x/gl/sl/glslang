@@ -1,0 +1,2 @@
+{"name":"glslang","desc":"Compile GLSL to SPIR-V binary. Port of @webgpu/glslang (NPM).","repo":"https://github.com/DjDeveloperr/Glslang-Deno","reg":"x","vers":"1.0.0"}
+{"name":"glslang","desc":"Compile GLSL to SPIR-V binary. Port of @webgpu/glslang (NPM).","repo":"https://github.com/DjDeveloperr/Glslang-Deno","reg":"x","vers":"1.0.1"}
