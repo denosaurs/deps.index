@@ -1,0 +1,2 @@
+{"name":"maxminddb","desc":"A library that enables the usage of MaxmindDB geoIP databases by using the Rust library in a WASM module","repo":"https://github.com/josh-hemphill/maxminddb-deno","reg":"x","vers":"v1.1.0"}
+{"name":"maxminddb","desc":"A library that enables the usage of MaxmindDB geoIP databases by using the Rust library in a WASM module","repo":"https://github.com/josh-hemphill/maxminddb-deno","reg":"x","vers":"v1.2.0"}

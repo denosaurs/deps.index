@@ -8,3 +8,4 @@
 {"name":"gopher","desc":"RFC1436 Gopher protocol client for Deno","repo":"https://github.com/matt1/deno-gopher","reg":"x","vers":"v0.0.8-alpha"}
 {"name":"gopher","desc":"RFC1436 Gopher protocol client for Deno","repo":"https://github.com/matt1/deno-gopher","reg":"x","vers":"v0.0.9-alpha"}
 {"name":"gopher","desc":"RFC1436 Gopher protocol client for Deno","repo":"https://github.com/matt1/deno-gopher","reg":"x","vers":"v0.0.10-alpha"}
+{"name":"gopher","desc":"RFC1436 Gopher protocol client for Deno","repo":"https://github.com/matt1/deno-gopher","reg":"x","vers":"v0.0.11-alpha"}
