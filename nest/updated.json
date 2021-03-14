@@ -1,1 +1,1 @@
-[]
+[{"name":"harmony","desc":"An easy to use Discord API Library for Deno.","repo":"https://github.com/harmonyland/harmony","reg":"nest","vers":["v1.1.2","v1.1.3","v1.1.4"]},{"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":["0.0.2","0.0.3","0.0.4","0.0.5","0.0.6","0.0.7","0.0.8","0.0.9","0.0.10","0.0.11","0.0.12","0.0.13","0.0.14","0.0.16","0.0.17","0.0.19","0.0.20","0.0.21","0.0.22","0.0.23","0.0.24"]}]

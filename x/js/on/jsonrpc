@@ -1,1 +1,2 @@
 {"name":"jsonrpc","desc":"A JsonRPC library for Deno - client and server","repo":"https://github.com/Vehmloewff/jsonrpc","reg":"x","vers":"1.0.0"}
+{"name":"jsonrpc","desc":"A JsonRPC library for Deno - client and server","repo":"https://github.com/Vehmloewff/jsonrpc","reg":"x","vers":"1.1.0"}
