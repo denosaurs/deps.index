@@ -9,3 +9,4 @@
 {"name":"crypto","desc":"🔐 Pure Typescript crypto library for Deno.","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.3.5"}
 {"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.4.0"}
 {"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.4.1"}
+{"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.5.0"}

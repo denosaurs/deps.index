@@ -39,3 +39,4 @@
 {"name":"ts_serialize","desc":"A zero dependency library for serializing data","repo":"https://github.com/GameBridgeAI/ts_serialize","reg":"x","vers":"v1.2.2"}
 {"name":"ts_serialize","desc":"A zero dependency library for serializing data","repo":"https://github.com/GameBridgeAI/ts_serialize","reg":"x","vers":"v1.2.3"}
 {"name":"ts_serialize","desc":"A zero dependency library for serializing data","repo":"https://github.com/GameBridgeAI/ts_serialize","reg":"x","vers":"v1.3.0"}
+{"name":"ts_serialize","desc":"A zero dependency library for serializing data","repo":"https://github.com/GameBridgeAI/ts_serialize","reg":"x","vers":"v1.3.1"}

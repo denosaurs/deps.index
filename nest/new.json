@@ -1,1 +1,1 @@
-[]
+[{"name":"carol","desc":"Build cross-platform desktop apps with Deno, HTML, and Chrome","repo":"https://github.com/uki00a","reg":"nest","vers":["v1.0.2","v1.0.3"]},{"name":"codeview","desc":"Deno Coverage Webview Reporter 🦕","repo":"https://github.com/c4spar/deno-codeview/","reg":"nest","vers":["0.1.0","0.2.0"]},{"name":"srhtclient","desc":"A Deno client to sourcehut REST API","repo":"https://git.sr.ht/~ruivieira/srhtclient","reg":"nest","vers":["0.1.0"]}]
