@@ -1,2 +1,3 @@
 {"name":"httpcache","desc":"Web Cache API in Deno - in memory, on disk, and redis storage support","repo":"https://github.com/lucacasonato/deno_httpcache","reg":"x","vers":"0.1.0"}
 {"name":"httpcache","desc":"HTTP Caching for Deno - in memory and redis storage support. Inspired by the Service Worker Cache API.","repo":"https://github.com/lucacasonato/deno_httpcache","reg":"x","vers":"0.1.1"}
+{"name":"httpcache","desc":"HTTP Caching for Deno - in memory and redis storage support. Inspired by the Service Worker Cache API.","repo":"https://github.com/lucacasonato/deno_httpcache","reg":"x","vers":"0.1.2"}
