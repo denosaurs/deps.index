@@ -14,3 +14,5 @@
 {"name":"carol","desc":"Build cross-platform desktop apps with Deno and HTML","repo":"https://github.com/uki00a/carol","reg":"x","vers":"v1.0.1"}
 {"name":"carol","desc":"Build cross-platform desktop apps with Deno and HTML","repo":"https://github.com/uki00a/carol","reg":"x","vers":"v1.0.2"}
 {"name":"carol","desc":"Build cross-platform desktop apps with Deno, HTML, and Chrome","repo":"https://github.com/uki00a/carol","reg":"x","vers":"v1.0.3"}
+{"name":"carol","desc":"A Deno port of carlo","repo":"https://github.com/uki00a/carol","reg":"x","vers":"v1.0.4"}
+{"name":"carol","desc":"A Deno port of carlo","repo":"https://github.com/uki00a/carol","reg":"x","vers":"v1.0.5"}
