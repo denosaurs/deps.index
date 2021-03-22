@@ -1,1 +1,3 @@
 {"name":"cardinal","desc":"","repo":"https://github.com/satyarohith/cardinal","reg":"x","vers":"0.1.0"}
+{"name":"cardinal","desc":"A Deno module to get compass direction (16 directions) from degree.","repo":"https://github.com/satyarohith/cardinal","reg":"x","vers":"0.2.0"}
+{"name":"cardinal","desc":"A Deno module to get compass direction (16 directions) from degree.","repo":"https://github.com/satyarohith/cardinal","reg":"x","vers":"0.3.0"}
