@@ -5,3 +5,5 @@
 {"name":"tsx_static","desc":"A minimal Deno library for tsx prerender/SSG","repo":"https://github.com/yw662/deno-tsx","reg":"x","vers":"1.1.0"}
 {"name":"tsx_static","desc":"A minimal Deno library for tsx prerender/SSG","repo":"https://github.com/yw662/deno-tsx","reg":"x","vers":"1.1.1"}
 {"name":"tsx_static","desc":"A minimal Deno library for tsx prerender/SSG","repo":"https://github.com/yw662/deno-tsx","reg":"x","vers":"1.1.2"}
+{"name":"tsx_static","desc":"A minimal Deno library for tsx prerender/SSG","repo":"https://github.com/yw662/deno-tsx","reg":"x","vers":"1.1.3-readme"}
+{"name":"tsx_static","desc":"A minimal Deno library for tsx prerender/SSG","repo":"https://github.com/yw662/deno-tsx","reg":"x","vers":"1.1.3"}

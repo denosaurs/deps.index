@@ -8,3 +8,4 @@
 {"name":"sqlite","desc":"Deno SQLite module","repo":"dyedgreen/deno-sqlite","reg":"x","vers":"2.3.0"}
 {"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v2.3.1"}
 {"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v2.3.2"}
+{"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v2.4.0"}
