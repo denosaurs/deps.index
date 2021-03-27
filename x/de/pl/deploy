@@ -1,1 +1,2 @@
 {"name":"deploy","desc":"Command line tool for Deno Deploy","repo":"https://github.com/denoland/deployctl","reg":"x","vers":"0.0.1"}
+{"name":"deploy","desc":"Command line tool for Deno Deploy","repo":"https://github.com/denoland/deployctl","reg":"x","vers":"0.0.2"}
