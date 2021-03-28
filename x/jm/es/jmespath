@@ -1,2 +1,3 @@
 {"name":"jmespath","desc":"Typescript translation of the jmespath.js package","repo":"https://github.com/danopia/deno-jmespath","reg":"x","vers":"v0.2.0"}
 {"name":"jmespath","desc":"A query language for JSON, implemented in Typescript for Deno.","repo":"https://github.com/danopia/deno-jmespath","reg":"x","vers":"v0.2.1"}
+{"name":"jmespath","desc":"A query language for JSON, implemented in Typescript for Deno.","repo":"https://github.com/cloudydeno/deno-jmespath","reg":"x","vers":"v0.2.2"}
