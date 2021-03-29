@@ -3,3 +3,4 @@
 {"name":"aws_api","desc":"From-scratch Typescript client for accessing some AWS APIs","repo":"https://github.com/danopia/deno-aws_api","reg":"x","vers":"v0.2.0"}
 {"name":"aws_api","desc":"From-scratch Typescript client for accessing AWS APIs","repo":"https://github.com/danopia/deno-aws_api","reg":"x","vers":"v0.2.1"}
 {"name":"aws_api","desc":"From-scratch Typescript client for accessing AWS APIs","repo":"https://github.com/cloudydeno/deno-aws_api","reg":"x","vers":"v0.3.0"}
+{"name":"aws_api","desc":"From-scratch Typescript client for accessing AWS APIs","repo":"https://github.com/cloudydeno/deno-aws_api","reg":"x","vers":"v0.3.1"}
