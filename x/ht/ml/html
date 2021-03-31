@@ -1,1 +1,3 @@
 {"name":"html","desc":"Useful template literal tag for create html strings in ES2015+","repo":"denomod/deno_html","reg":"x","vers":"1.0.0"}
+{"name":"html","desc":"Useful template literal tag for create html strings in ES2015+","repo":"https://github.com/denomod/deno_html","reg":"x","vers":"v1.1.0"}
+{"name":"html","desc":"Useful template literal tag for create html strings in ES2015+","repo":"https://github.com/denomod/deno_html","reg":"x","vers":"v1.2.0"}
