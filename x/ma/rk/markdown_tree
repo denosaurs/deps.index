@@ -1,2 +1,3 @@
 {"name":"markdown_tree","desc":"A markdown to JSON tree converter for deno, based on rusty_markdown","repo":"https://github.com/yw662/deno_markdown_tree","reg":"x","vers":"1.0.0"}
 {"name":"markdown_tree","desc":"A markdown to JSON tree converter for deno, based on rusty_markdown","repo":"https://github.com/yw662/deno_markdown_tree","reg":"x","vers":"1.0.1"}
+{"name":"markdown_tree","desc":"A markdown to JSON tree converter for deno, based on rusty_markdown","repo":"https://github.com/yw662/deno_markdown_tree","reg":"x","vers":"1.1.0"}
