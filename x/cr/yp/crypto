@@ -13,3 +13,4 @@
 {"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish, HMAC","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.6.0"}
 {"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish, HMAC","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.7.0"}
 {"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish, HMAC, HKDF, PBKDF2","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.8.0"}
+{"name":"crypto","desc":"🔐 Fastest crypto library for Deno written in pure Typescript. AES, Blowfish, HMAC, HKDF, PBKDF2","repo":"https://github.com/aykxt/crypto","reg":"x","vers":"v0.9.0"}
