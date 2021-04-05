@@ -6,3 +6,4 @@
 {"name":"sift","desc":"","repo":"https://github.com/satyarohith/sift","reg":"x","vers":"0.1.5"}
 {"name":"sift","desc":"","repo":"https://github.com/satyarohith/sift","reg":"x","vers":"0.1.6"}
 {"name":"sift","desc":"","repo":"https://github.com/satyarohith/sift","reg":"x","vers":"0.1.7"}
+{"name":"sift","desc":"Sift is a routing and utility library for Deno Deploy.","repo":"https://github.com/satyarohith/sift","reg":"x","vers":"0.2.0"}

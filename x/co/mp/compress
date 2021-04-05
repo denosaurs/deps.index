@@ -12,3 +12,4 @@
 {"name":"compress","desc":"compress and uncompress for Deno","repo":"deno-library/compress","reg":"x","vers":"0.3.3"}
 {"name":"compress","desc":"compress and uncompress for Deno","repo":"https://github.com/deno-library/compress","reg":"x","vers":"0.3.5"}
 {"name":"compress","desc":"compress and uncompress for Deno","repo":"https://github.com/deno-library/compress","reg":"x","vers":"v0.3.6"}
+{"name":"compress","desc":"compress and uncompress for Deno","repo":"https://github.com/deno-library/compress","reg":"x","vers":"v0.3.7"}
