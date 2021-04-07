@@ -7,3 +7,4 @@
 {"name":"argon2","desc":"Argon2 encryption library for Deno","repo":"fdionisi/deno-argon2","reg":"x","vers":"0.5.2"}
 {"name":"argon2","desc":"Argon2 encryption library for Deno","repo":"fdionisi/deno-argon2","reg":"x","vers":"0.6.0"}
 {"name":"argon2","desc":"Argon2 encryption library for Deno","repo":"fdionisi/deno-argon2","reg":"x","vers":"0.7.0"}
+{"name":"argon2","desc":"Argon2 encryption library for Deno","repo":"https://github.com/fdionisi/deno-argon2","reg":"x","vers":"v0.9.2"}
