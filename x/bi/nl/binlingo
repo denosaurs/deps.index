@@ -1,3 +1,5 @@
 {"name":"binlingo","desc":"Speak binary with TypeScript! A binary reader and writer utility for Deno.","repo":"https://github.com/octavetoast/binlingo-deno","reg":"x","vers":"1.2.4"}
 {"name":"binlingo","desc":"Binary reader and writer utilities for Deno, Node.js and browsers.","repo":"https://github.com/octavetoast/binlingo","reg":"x","vers":"1.2.6"}
 {"name":"binlingo","desc":"Binary reader and writer utilities for Deno, Node.js and browsers.","repo":"https://github.com/octavetoast/binlingo","reg":"x","vers":"1.2.7"}
+{"name":"binlingo","desc":"Binary reader and writer utilities for Deno, Node.js and browsers.","repo":"https://github.com/octavetoast/binlingo","reg":"x","vers":"2.0.0"}
+{"name":"binlingo","desc":"Binary reader and writer utilities for Deno, Node.js and browsers.","repo":"https://github.com/octavetoast/binlingo","reg":"x","vers":"2.0.1"}
