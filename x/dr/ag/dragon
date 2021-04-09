@@ -8,3 +8,4 @@
 {"name":"dragon","desc":"⚡A powerful HTTP router and URL matcher for building Deno web servers with dragon 🐲.","repo":"https://github.com/xanny-projects/dragon","reg":"x","vers":"v1.1.2"}
 {"name":"dragon","desc":"⚡A powerful HTTP router and URL matcher for building Deno web servers with dragon 🐲.","repo":"https://github.com/xanny-projects/dragon","reg":"x","vers":"v1.1.4"}
 {"name":"dragon","desc":"⚡A powerful HTTP router and URL matcher for building Deno web servers.","repo":"https://github.com/xanny-projects/dragon","reg":"x","vers":"v1.1.5"}
+{"name":"dragon","desc":"⚡Fast , simple expressive web framework for deno 🦕.","repo":"https://github.com/xanny-projects/dragon","reg":"x","vers":"v1.1.6"}
