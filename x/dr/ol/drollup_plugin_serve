@@ -1,0 +1,2 @@
+{"name":"drollup_plugin_serve","desc":"Deno rebuilt/port from rollup-plugin-serve. Creates a development server for testing your front-end apps.","repo":"https://github.com/denyncrawford/deno-rollup-plugin-serve","reg":"x","vers":"1.1.0+0.1.1"}
+{"name":"drollup_plugin_serve","desc":"Deno rebuilt/port from rollup-plugin-serve. Creates a development server for testing your front-end apps.","repo":"https://github.com/denyncrawford/deno-rollup-plugin-serve","reg":"x","vers":"1.1.0+0.1.0"}
