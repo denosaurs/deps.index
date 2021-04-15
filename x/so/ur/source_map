@@ -1,1 +1,2 @@
 {"name":"source_map","desc":"Port of mozilla / source-map to deno.","repo":"https://github.com/oscarotero/deno-source-map","reg":"x","vers":"0.7.3"}
+{"name":"source_map","desc":"Port of mozilla / source-map to deno.","repo":"https://github.com/oscarotero/deno-source-map","reg":"x","vers":"0.7.4"}

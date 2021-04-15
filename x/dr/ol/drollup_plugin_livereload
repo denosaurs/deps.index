@@ -1,0 +1,1 @@
+{"name":"drollup_plugin_livereload","desc":"Rollup automatically reloads your browser when the filesystem changes.","repo":"https://github.com/denyncrawford/deno-rollup-plugin-livereload","reg":"x","vers":"0.1.0"}

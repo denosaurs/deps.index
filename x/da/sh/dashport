@@ -1,3 +1,5 @@
 {"name":"dashport","desc":"Authentication middleware for Deno","repo":"https://github.com/oslabs-beta/dashport","reg":"x","vers":"v1.0.0"}
 {"name":"dashport","desc":"Authentication middleware for Deno","repo":"https://github.com/oslabs-beta/dashport","reg":"x","vers":"v1.0.1"}
 {"name":"dashport","desc":"Local and OAuth authentication middleware for Deno","repo":"https://github.com/oslabs-beta/dashport","reg":"x","vers":"v1.1.0"}
+{"name":"dashport","desc":"Local and OAuth authentication middleware for Deno","repo":"https://github.com/oslabs-beta/dashport","reg":"x","vers":"v1.2.0"}
+{"name":"dashport","desc":"Local and OAuth authentication middleware for Deno","repo":"https://github.com/oslabs-beta/dashport","reg":"x","vers":"v1.2.1"}
