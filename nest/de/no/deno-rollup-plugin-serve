@@ -1,3 +1,4 @@
 {"name":"deno-rollup-plugin-serve","desc":"Deno rebuilt/port from rollup-plugin-serve","repo":"https://github.com/denyncrawford/deno-rollup-plugin-serve","reg":"nest","vers":"2.0.0"}
 {"name":"deno-rollup-plugin-serve","desc":"Deno rebuilt/port from rollup-plugin-serve","repo":"https://github.com/denyncrawford/deno-rollup-plugin-serve","reg":"nest","vers":"3.0.0"}
 {"name":"deno-rollup-plugin-serve","desc":"Deno rebuilt/port from rollup-plugin-serve","repo":"https://github.com/denyncrawford/deno-rollup-plugin-serve","reg":"nest","vers":"4.0.0"}
+{"name":"deno-rollup-plugin-serve","desc":"Deno rebuilt/port from rollup-plugin-serve","repo":"https://github.com/denyncrawford/deno-rollup-plugin-serve","reg":"nest","vers":"4.1.0"}

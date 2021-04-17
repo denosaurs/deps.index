@@ -3,3 +3,4 @@
 {"name":"space","desc":"A Discord API library for Deno.","repo":"https://github.com/Apacheli/Space","reg":"x","vers":"0.4.1-alpha"}
 {"name":"space","desc":"A Discord API library for Deno.","repo":"https://github.com/Apacheli/Space","reg":"x","vers":"0.4.2-alpha"}
 {"name":"space","desc":"A Discord API library for Deno.","repo":"https://github.com/Apacheli/Space","reg":"x","vers":"0.5.0-alpha"}
+{"name":"space","desc":"A low-level Deno module for interacting with Discord.","repo":"https://github.com/Apacheli/Space","reg":"x","vers":"0.6.0-alpha"}
