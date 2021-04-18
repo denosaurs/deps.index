@@ -14,3 +14,4 @@
 {"name":"publish","desc":"Publish your packge with one command in Deno.","repo":"https://github.com/postui/publish","reg":"x","vers":"v1.7.0"}
 {"name":"publish","desc":"Publish your packge with one command in Deno.","repo":"https://github.com/postui/publish","reg":"x","vers":"v1.8.0"}
 {"name":"publish","desc":"Publish your packge with one command in Deno.","repo":"https://github.com/postui/publish","reg":"x","vers":"v1.9.0"}
+{"name":"publish","desc":"Publish your module with one command in Deno.","repo":"https://github.com/postui/publish","reg":"x","vers":"v1.10.0"}
