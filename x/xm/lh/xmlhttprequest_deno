@@ -1,1 +1,2 @@
 {"name":"xmlhttprequest_deno","desc":"A polyfill of XMLHttpRequest for Deno (and other browser and browser-like environments) by browserifying @driverdan/node-XMLHttpRequest","repo":"https://github.com/josephrocca/XMLHttpRequest-deno","reg":"x","vers":"v0.0.1"}
+{"name":"xmlhttprequest_deno","desc":"A polyfill of XMLHttpRequest for Deno (and other browser and browser-like environments) by browserifying @driverdan/node-XMLHttpRequest","repo":"https://github.com/josephrocca/XMLHttpRequest-deno","reg":"x","vers":"v0.0.2"}
