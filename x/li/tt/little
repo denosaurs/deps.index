@@ -1,0 +1,4 @@
+{"name":"little","desc":"A minimalistic connect-like web framework. Automatically works out of the box with Deno Deploy, Deno's Native HTTP and Deno's Standard HTTP server.","repo":"https://github.com/ihack2712/little","reg":"x","vers":"0.1.0"}
+{"name":"little","desc":"A minimalistic connect-like web framework. Automatically works out of the box with Deno Deploy, Deno's Native HTTP and Deno's Standard HTTP server.","repo":"https://github.com/ihack2712/little","reg":"x","vers":"0.1.1"}
+{"name":"little","desc":"A minimalistic connect-like web framework. Automatically works out of the box with Deno Deploy, Deno's Native HTTP and Deno's Standard HTTP server.","repo":"https://github.com/ihack2712/little","reg":"x","vers":"0.1.2"}
+{"name":"little","desc":"A minimalistic connect-like web framework. Automatically works out of the box with Deno Deploy, Deno's Native HTTP and Deno's Standard HTTP server.","repo":"https://github.com/ihack2712/little","reg":"x","vers":"0.1.3"}

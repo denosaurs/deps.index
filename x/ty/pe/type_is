@@ -1,3 +1,4 @@
 {"name":"type_is","desc":"Infer the content-type of a HTTP Header for Deno","repo":"ako-deno/type_is","reg":"x","vers":"1.0.0"}
 {"name":"type_is","desc":"Infer the content-type of a HTTP Header for Deno","repo":"ako-deno/type_is","reg":"x","vers":"1.0.1"}
 {"name":"type_is","desc":"Infer the content-type of a HTTP Header for Deno","repo":"ako-deno/type_is","reg":"x","vers":"1.0.2"}
+{"name":"type_is","desc":"Infer the content-type of a HTTP Header for Deno","repo":"https://github.com/ako-deno/type_is","reg":"x","vers":"1.0.3"}
