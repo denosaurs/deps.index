@@ -1,0 +1,1 @@
+{"name":"color_hash","desc":"Generate color based on the given string (using HSL color space and BKDRHash).","repo":"https://github.com/zenozeng/color-hash","reg":"x","vers":"v2.0.0"}
