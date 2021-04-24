@@ -1,2 +1,3 @@
 {"name":"helmet","desc":"","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.1.3"}
 {"name":"helmet","desc":"","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.2.0"}
+{"name":"helmet","desc":"Type-safe Helm - the right way to do Infrastructure as Code in Kubernetes ","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.2.1"}
