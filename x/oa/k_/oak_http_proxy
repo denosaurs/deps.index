@@ -2,3 +2,4 @@
 {"name":"oak_http_proxy","desc":"Proxy middleware for Deno Oak HTTP servers. 🐿 🦕","repo":"https://github.com/asos-craigmorten/oak-http-proxy","reg":"x","vers":"1.1.0"}
 {"name":"oak_http_proxy","desc":"Proxy middleware for Deno Oak HTTP servers. 🐿 🦕","repo":"https://github.com/asos-craigmorten/oak-http-proxy","reg":"x","vers":"1.1.1"}
 {"name":"oak_http_proxy","desc":"Proxy middleware for Deno Oak HTTP servers. 🐿 🦕","repo":"https://github.com/asos-craigmorten/oak-http-proxy","reg":"x","vers":"1.2.0"}
+{"name":"oak_http_proxy","desc":"Proxy middleware for Deno Oak HTTP servers. 🐿 🦕","repo":"https://github.com/asos-craigmorten/oak-http-proxy","reg":"x","vers":"1.3.0"}

@@ -1,0 +1,1 @@
+{"name":"multipart_stream","desc":"Create ReadableStreams from multipart forms without allocating the entire form on the heap","repo":"https://github.com/zebp/multipart-stream","reg":"x","vers":"0.1.0"}

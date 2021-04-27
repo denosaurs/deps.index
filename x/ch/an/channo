@@ -1,1 +1,2 @@
 {"name":"channo","desc":"A channel library for Deno that provideds Rust-like channels backed by async-cell.","repo":"https://github.com/zebp/channo","reg":"x","vers":"0.1.0"}
+{"name":"channo","desc":"A channel library for Deno that provides Rust-like channels backed by async-cell.","repo":"https://github.com/zebp/channo","reg":"x","vers":"0.1.1"}
