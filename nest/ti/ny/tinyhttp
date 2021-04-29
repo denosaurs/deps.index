@@ -26,3 +26,5 @@
 {"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.0.29"}
 {"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.0.30"}
 {"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.1.0"}
+{"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.1.1"}
+{"name":"tinyhttp","desc":"0-legacy, tiny & fast web framework as a replacement of Express","repo":"https://github.com/talentlessguy/tinyhttp-deno","reg":"nest","vers":"0.1.2"}
