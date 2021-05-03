@@ -2,3 +2,5 @@
 {"name":"jsonschema","desc":"Generate JsonSchema and TypeScript types at the same time","repo":"https://github.com/nullpub/jsonschema","reg":"x","vers":"v1.1.2"}
 {"name":"jsonschema","desc":"Generate JsonSchema and TypeScript types at the same time","repo":"https://github.com/nullpub/jsonschema","reg":"x","vers":"v1.2.0"}
 {"name":"jsonschema","desc":"Generate JsonSchema and TypeScript types at the same time","repo":"https://github.com/nullpub/jsonschema","reg":"x","vers":"v1.3.0"}
+{"name":"jsonschema","desc":"Generate JsonSchema and TypeScript types at the same time","repo":"https://github.com/nullpub/jsonschema","reg":"x","vers":"v1.4.0"}
+{"name":"jsonschema","desc":"Generate JsonSchema and TypeScript types at the same time","repo":"https://github.com/nullpub/jsonschema","reg":"x","vers":"v1.4.1"}
