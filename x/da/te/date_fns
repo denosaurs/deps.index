@@ -98,3 +98,4 @@
 {"name":"date_fns","desc":"⏳ Modern JavaScript date utility library ⌛️","repo":"date-fns/date-fns","reg":"x","vers":"2.13.0"}
 {"name":"date_fns","desc":"⏳ Modern JavaScript date utility library ⌛️","repo":"date-fns/date-fns","reg":"x","vers":"2.14.0"}
 {"name":"date_fns","desc":"⏳ Modern JavaScript date utility library ⌛️","repo":"date-fns/date-fns","reg":"x","vers":"2.15.0"}
+{"name":"date_fns","desc":"⏳ Modern JavaScript date utility library ⌛️","repo":"https://github.com/date-fns/date-fns","reg":"x","vers":"v2.21.2"}
