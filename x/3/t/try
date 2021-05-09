@@ -1,0 +1,3 @@
+{"name":"try","desc":"try await a function , when throw error will console.error(error)","repo":"https://github.com/rmw-deno-lib/try","reg":"x","vers":"0.0.1"}
+{"name":"try","desc":"try await a function , when throw error will console.error(error)","repo":"https://github.com/rmw-deno-lib/try","reg":"x","vers":"0.0.2"}
+{"name":"try","desc":"try await a function , when throw error will console.error(error)","repo":"https://github.com/rmw-deno-lib/try","reg":"x","vers":"0.0.3"}

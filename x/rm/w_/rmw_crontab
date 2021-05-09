@@ -1,0 +1,5 @@
+{"name":"rmw_crontab","desc":"Given a time interval, the task is run periodically, and the default interval has 1 minute,1 hour or 1 day","repo":"https://github.com/rmw-deno-lib/rmw_crontab","reg":"x","vers":"0.0.1"}
+{"name":"rmw_crontab","desc":"Given a time interval, the task is run periodically, and the default interval has 1 minute,1 hour or 1 day","repo":"https://github.com/rmw-deno-lib/rmw_crontab","reg":"x","vers":"0.0.2"}
+{"name":"rmw_crontab","desc":"Given a time interval, the task is run periodically, and the default interval has 1 minute,1 hour or 1 day","repo":"https://github.com/rmw-deno-lib/rmw_crontab","reg":"x","vers":"0.0.3"}
+{"name":"rmw_crontab","desc":"Given a time interval, the task is run periodically, and the default interval has 1 minute,1 hour or 1 day","repo":"https://github.com/rmw-deno-lib/rmw_crontab","reg":"x","vers":"0.0.4"}
+{"name":"rmw_crontab","desc":"Given a time interval, the task is run periodically, and the default interval has 1 minute,1 hour or 1 day","repo":"https://github.com/rmw-deno-lib/rmw_crontab","reg":"x","vers":"0.0.5"}
