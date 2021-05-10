@@ -1,2 +1,3 @@
 {"name":"iterable_file_server","desc":"Serve items from `AsyncIterable<File>`","repo":"https://github.com/kt3k/iterable_file_server","reg":"x","vers":"v0.1.3"}
 {"name":"iterable_file_server","desc":"Serve items from `AsyncIterable<File>`","repo":"https://github.com/kt3k/iterable_file_server","reg":"x","vers":"v0.1.4"}
+{"name":"iterable_file_server","desc":"Serve items from `AsyncIterable<File>`","repo":"https://github.com/kt3k/iterable_file_server","reg":"x","vers":"v0.1.5"}

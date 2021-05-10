@@ -3,3 +3,4 @@
 {"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v1.6.3"}
 {"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v1.6.4-beta.0"}
 {"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v1.6.4-beta.1"}
+{"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v1.6.4"}

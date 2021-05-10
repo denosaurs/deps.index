@@ -6,3 +6,4 @@
 {"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/cloudydeno/deno-kubernetes_client","reg":"x","vers":"v0.2.1"}
 {"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/cloudydeno/deno-kubernetes_client","reg":"x","vers":"v0.2.2"}
 {"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/cloudydeno/deno-kubernetes_client","reg":"x","vers":"v0.2.3"}
+{"name":"kubernetes_client","desc":"Typescript library for accessing a Kubernetes API server","repo":"https://github.com/cloudydeno/deno-kubernetes_client","reg":"x","vers":"v0.2.4"}
