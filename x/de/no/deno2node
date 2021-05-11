@@ -1,1 +1,2 @@
 {"name":"deno2node","desc":"Transpiles Deno projects into `.js` and `.d.ts` for Node.js.","repo":"https://github.com/wojpawlik/deno2node","reg":"x","vers":"v0.4.0"}
+{"name":"deno2node","desc":"Transpiles Deno projects into `.js` and `.d.ts` for Node.js.","repo":"https://github.com/wojpawlik/deno2node","reg":"x","vers":"v0.5.0"}
