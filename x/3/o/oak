@@ -44,3 +44,4 @@
 {"name":"oak","desc":"A middleware framework for Deno's native and std/http server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v7.2.0"}
 {"name":"oak","desc":"A middleware framework for Deno's native and std/http server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v7.3.0"}
 {"name":"oak","desc":"A middleware framework for Deno's native and std/http server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v7.4.0"}
+{"name":"oak","desc":"A middleware framework for Deno's native and std/http server 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v7.4.1"}
