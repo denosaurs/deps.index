@@ -2,3 +2,4 @@
 {"name":"json_pointer","desc":"JSON Pointer for Deno (IETF RFC6901).","repo":"https://github.com/dansalias/json_pointer","reg":"x","vers":"v1.0.1"}
 {"name":"json_pointer","desc":"JSON Pointer for Deno (IETF RFC6901).","repo":"https://github.com/dansalias/json_pointer","reg":"x","vers":"v1.0.2"}
 {"name":"json_pointer","desc":"JSON Pointer for Deno (IETF RFC6901).","repo":"https://github.com/dansalias/json_pointer","reg":"x","vers":"v1.0.3"}
+{"name":"json_pointer","desc":"JSON Pointer for Deno (IETF RFC6901).","repo":"https://github.com/dansalias/json_pointer","reg":"x","vers":"v1.1.0"}
