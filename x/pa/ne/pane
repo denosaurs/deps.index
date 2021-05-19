@@ -6,3 +6,4 @@
 {"name":"pane","desc":"🖼️ A deno module providing bindings for cross-platform windowing","repo":"https://github.com/denosaurs/pane","reg":"x","vers":"0.1.3"}
 {"name":"pane","desc":"🖼️ A deno module providing bindings for cross-platform windowing","repo":"https://github.com/denosaurs/pane","reg":"x","vers":"0.2.0-pre.0"}
 {"name":"pane","desc":"🖼️ A deno module providing bindings for cross-platform windowing","repo":"https://github.com/denosaurs/pane","reg":"x","vers":"0.2.0"}
+{"name":"pane","desc":"🖼️ A deno module providing bindings for cross-platform windowing","repo":"https://github.com/denosaurs/pane","reg":"x","vers":"0.2.1"}
