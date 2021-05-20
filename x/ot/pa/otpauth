@@ -63,3 +63,4 @@
 {"name":"otpauth","desc":"One Time Password (HOTP/TOTP) library for Node.js, Deno and browsers.","repo":"https://github.com/hectorm/otpauth","reg":"x","vers":"v7.0.0"}
 {"name":"otpauth","desc":"One Time Password (HOTP/TOTP) library for Node.js, Deno and browsers.","repo":"https://github.com/hectorm/otpauth","reg":"x","vers":"v7.0.1"}
 {"name":"otpauth","desc":"One Time Password (HOTP/TOTP) library for Node.js, Deno and browsers.","repo":"https://github.com/hectorm/otpauth","reg":"x","vers":"v7.0.2"}
+{"name":"otpauth","desc":"One Time Password (HOTP/TOTP) library for Node.js, Deno and browsers.","repo":"https://github.com/hectorm/otpauth","reg":"x","vers":"v7.0.3"}

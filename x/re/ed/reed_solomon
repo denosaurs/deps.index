@@ -1,0 +1,4 @@
+{"name":"reed_solomon","desc":"exports GaloisField, ReedSolomonEncoder, ReedSolomonDecoder","repo":"https://github.com/stokes91/reed_solomon","reg":"x","vers":"v2.0.0"}
+{"name":"reed_solomon","desc":"exports GaloisField, ReedSolomonEncoder, ReedSolomonDecoder","repo":"https://github.com/stokes91/reed_solomon","reg":"x","vers":"v2.1.0"}
+{"name":"reed_solomon","desc":"exports GaloisField, ReedSolomonEncoder, ReedSolomonDecoder","repo":"https://github.com/stokes91/reed_solomon","reg":"x","vers":"v2.2.0"}
+{"name":"reed_solomon","desc":"exports GaloisField, ReedSolomonEncoder, ReedSolomonDecoder","repo":"https://github.com/stokes91/reed_solomon","reg":"x","vers":"v2.2.1"}
