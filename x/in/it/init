@@ -2,3 +2,5 @@
 {"name":"init","desc":"init script for Deno projects in Visual Studio Code","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.2.0"}
 {"name":"init","desc":"init script for Deno projects in Visual Studio Code","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.2.1"}
 {"name":"init","desc":"init script for Deno projects in Visual Studio Code","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.2.2"}
+{"name":"init","desc":"Start Deno projects in Visual Studio Code a little faster.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.3.0"}
+{"name":"init","desc":"Start Deno projects in Visual Studio Code a little faster.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.4.0"}
