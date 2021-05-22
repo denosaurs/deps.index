@@ -5,3 +5,4 @@
 {"name":"nameable","desc":"Cross-check whether it can be used as a package name or domain name","repo":"https://github.com/TomokiMiyauci/nameable#readme","reg":"nest","vers":"v1.0.0-beta.7"}
 {"name":"nameable","desc":"Cross-check whether it can be used as a package name or domain name","repo":"https://github.com/TomokiMiyauci/nameable#readme","reg":"nest","vers":"v1.0.0"}
 {"name":"nameable","desc":"Cross-check whether it can be used as a package name or domain name","repo":"https://github.com/TomokiMiyauci/nameable#readme","reg":"nest","vers":"v1.1.0-beta.1"}
+{"name":"nameable","desc":"Cross-check whether it can be used as a package name or domain name","repo":"https://github.com/TomokiMiyauci/nameable#readme","reg":"nest","vers":"v1.1.0-beta.2"}
