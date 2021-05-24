@@ -1,0 +1,1 @@
+{"name":"regexparam","desc":"A tiny (308B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` 🙇‍♂️","repo":"https://github.com/lukeed/regexparam","reg":"x","vers":"v1.3.0"}
