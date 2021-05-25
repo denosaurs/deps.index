@@ -1,3 +1,6 @@
 {"name":"node_http","desc":"🐢 Node.js-like HTTP server for Deno. Makes porting web things from Node (a little bit) easier.","repo":"https://github.com/deno-libs/node-http","reg":"x","vers":"0.0.1"}
 {"name":"node_http","desc":"🐢 Node.js-like HTTP server for Deno. Makes porting web things from Node (a little bit) easier.","repo":"https://github.com/deno-libs/node-http","reg":"x","vers":"0.0.2"}
 {"name":"node_http","desc":"🐢 Node.js-like HTTP server for Deno. Makes porting web things from Node (a little bit) easier.","repo":"https://github.com/deno-libs/node-http","reg":"x","vers":"0.0.3"}
+{"name":"node_http","desc":"🐢 Node.js-like HTTP server for Deno. Makes porting web things from Node (a little bit) easier.","repo":"https://github.com/deno-libs/node-http","reg":"x","vers":"0.0.4"}
+{"name":"node_http","desc":"🐢 Node.js-like HTTP server for Deno. Makes porting web things from Node (a little bit) easier.","repo":"https://github.com/deno-libs/node-http","reg":"x","vers":"0.0.5"}
+{"name":"node_http","desc":"🐢 Node.js-like HTTP server for Deno. Makes porting web things from Node (a little bit) easier.","repo":"https://github.com/deno-libs/node-http","reg":"x","vers":"0.0.6"}

@@ -1,1 +1,2 @@
 {"name":"denocker","desc":"A Docker client library for Deno","repo":"Oursin/denocker","reg":"x","vers":"0.1.0"}
+{"name":"denocker","desc":"A Docker client library for Deno","repo":"https://github.com/Oursin/denocker","reg":"x","vers":"v0.2.0"}
