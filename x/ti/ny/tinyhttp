@@ -33,3 +33,4 @@
 {"name":"tinyhttp","desc":"🦕 Deno port of tinyhttp, 0-legacy, tiny & fast web framework","repo":"https://github.com/deno-libs/tinyhttp","reg":"x","vers":"0.1.4"}
 {"name":"tinyhttp","desc":"🦕 Deno port of tinyhttp, 0-legacy, tiny & fast web framework","repo":"https://github.com/deno-libs/tinyhttp","reg":"x","vers":"0.1.5"}
 {"name":"tinyhttp","desc":"🦕 Deno port of tinyhttp, 0-legacy, tiny & fast web framework","repo":"https://github.com/deno-libs/tinyhttp","reg":"x","vers":"0.1.6"}
+{"name":"tinyhttp","desc":"🦕 Deno port of tinyhttp, 0-legacy, tiny & fast web framework","repo":"https://github.com/deno-libs/tinyhttp","reg":"x","vers":"0.1.7"}
