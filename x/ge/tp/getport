@@ -1,3 +1,5 @@
 {"name":"getport","desc":"Get an available TCP port","repo":"https://github.com/DevArtSite/getport","reg":"x","vers":"1.0.0"}
 {"name":"getport","desc":"Get an available TCP port","repo":"https://github.com/DevArtSite/getport","reg":"x","vers":"2.0.0"}
 {"name":"getport","desc":"Get an available TCP port","repo":"https://github.com/DevArtSite/getport","reg":"x","vers":"2.1.0"}
+{"name":"getport","desc":"Get an available TCP port","repo":"https://github.com/DevArtSite/getport","reg":"x","vers":"v2.1.1"}
+{"name":"getport","desc":"Get an available TCP port","repo":"https://github.com/DevArtSite/getport","reg":"x","vers":"v2.1.2"}

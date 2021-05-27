@@ -2,3 +2,4 @@
 {"name":"cors","desc":"Deno.js module for providing a middleware that can be used to enable CORS with various options","repo":"tajpouria/cors","reg":"x","vers":"1.1.0"}
 {"name":"cors","desc":"Deno.js CORS middleware","repo":"tajpouria/cors","reg":"x","vers":"1.2.0"}
 {"name":"cors","desc":"Deno.js CORS middleware","repo":"https://github.com/tajpouria/cors","reg":"x","vers":"1.2.1"}
+{"name":"cors","desc":"Deno.js CORS middleware","repo":"https://github.com/tajpouria/cors","reg":"x","vers":"v1.2.2"}
