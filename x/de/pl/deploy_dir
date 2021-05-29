@@ -5,3 +5,6 @@
 {"name":"deploy_dir","desc":"📦 Read a directory and package it as Deno Deploy source code","repo":"https://github.com/kt3k/deploy_dir","reg":"x","vers":"v0.1.4"}
 {"name":"deploy_dir","desc":"📦 Read a directory and package it as Deno Deploy source code","repo":"https://github.com/kt3k/deploy_dir","reg":"x","vers":"v0.1.5"}
 {"name":"deploy_dir","desc":"📦 Read a directory and package it as Deno Deploy source code","repo":"https://github.com/kt3k/deploy_dir","reg":"x","vers":"v0.1.6"}
+{"name":"deploy_dir","desc":"📦 Read a directory and package it as Deno Deploy source code","repo":"https://github.com/kt3k/deploy_dir","reg":"x","vers":"v0.2.0"}
+{"name":"deploy_dir","desc":"📦 Read a directory and package it as Deno Deploy source code","repo":"https://github.com/kt3k/deploy_dir","reg":"x","vers":"v0.2.1"}
+{"name":"deploy_dir","desc":"📦 Read a directory and package it as Deno Deploy source code","repo":"https://github.com/kt3k/deploy_dir","reg":"x","vers":"v0.2.2"}
