@@ -1,2 +1,3 @@
 {"name":"semver","desc":"The semver parser for Deno (a fork of node-semver using TypeScript) ","repo":"justjavac/deno-semver","reg":"x","vers":"1.0.0"}
 {"name":"semver","desc":"The semver parser for Deno (a fork of node-semver using TypeScript) ","repo":"https://github.com/justjavac/deno-semver","reg":"x","vers":"v1.3.0"}
+{"name":"semver","desc":"The semver parser for Deno (a fork of node-semver using TypeScript) ","repo":"https://github.com/justjavac/deno-semver","reg":"x","vers":"v1.4.0"}

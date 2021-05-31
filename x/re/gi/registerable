@@ -4,3 +4,6 @@
 {"name":"registerable","desc":"Check if it can be registered as a module name or domain name","repo":"https://github.com/TomokiMiyauci/registerable","reg":"x","vers":"v1.2.0-beta.1"}
 {"name":"registerable","desc":"Check if it can be registered as a module name or domain name","repo":"https://github.com/TomokiMiyauci/registerable","reg":"x","vers":"v1.2.0-beta.2"}
 {"name":"registerable","desc":"Check if it can be registered as a module name or domain name","repo":"https://github.com/TomokiMiyauci/registerable","reg":"x","vers":"v1.2.0-beta.3"}
+{"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable","reg":"x","vers":"v1.2.0-beta.4"}
+{"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable","reg":"x","vers":"v1.2.0-beta.5"}
+{"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable","reg":"x","vers":"v1.2.0"}

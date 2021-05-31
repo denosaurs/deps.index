@@ -1,1 +1,2 @@
 {"name":"file_fetch","desc":"This polyfills file:// support for `fetch`","repo":"https://github.com/lucacasonato/deno_local_file_fetch","reg":"x","vers":"0.1.0"}
+{"name":"file_fetch","desc":"This polyfills file:// support for `fetch`","repo":"https://github.com/lucacasonato/deno_local_file_fetch","reg":"x","vers":"0.2.0"}
