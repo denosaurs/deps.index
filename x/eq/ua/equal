@@ -15,3 +15,6 @@
 {"name":"equal","desc":"Deep comparison between two values to determine if they are equivalent","repo":"https://github.com/TomokiMiyauci/equal","reg":"x","vers":"v1.2.0"}
 {"name":"equal","desc":"TypeScript-first deep equivalence comparison between two values","repo":"https://github.com/TomokiMiyauci/equal","reg":"x","vers":"v1.3.0-beta.1"}
 {"name":"equal","desc":"TypeScript-first deep equivalence comparison between two values","repo":"https://github.com/TomokiMiyauci/equal","reg":"x","vers":"v1.3.0-beta.2"}
+{"name":"equal","desc":"TypeScript-first deep equivalence comparison between two values","repo":"https://github.com/TomokiMiyauci/equal","reg":"x","vers":"v1.3.0"}
+{"name":"equal","desc":"TypeScript-first deep equivalence comparison between two values","repo":"https://github.com/TomokiMiyauci/equal","reg":"x","vers":"v1.4.0-beta.1"}
+{"name":"equal","desc":"TypeScript-first deep equivalence comparison between two values","repo":"https://github.com/TomokiMiyauci/equal","reg":"x","vers":"v1.4.0-beta.2"}
