@@ -1,3 +1,4 @@
 {"name":"data_format_converter","desc":"Data Format Converter for Deno. JSON to XML, XML to JSON.","repo":"ebebbington/deno-data-format-converter","reg":"x","vers":"1.0.0"}
 {"name":"data_format_converter","desc":"Data Format Converter for Deno. JSON to XML, XML to JSON.","repo":"ebebbington/deno-data-format-converter","reg":"x","vers":"1.1.0"}
 {"name":"data_format_converter","desc":"Data Format Converter for Deno: XML, JSON, CSV","repo":"https://github.com/ebebbington/data-format-converter","reg":"x","vers":"v1.2.0"}
+{"name":"data_format_converter","desc":"Data Format Converter for Deno: XML, JSON, CSV","repo":"https://github.com/ebebbington/data-format-converter","reg":"x","vers":"v1.2.1"}

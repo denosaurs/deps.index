@@ -10,3 +10,5 @@
 {"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.2.0-beta.6"}
 {"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.2.1-beta.1"}
 {"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.2.1"}
+{"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.2.2-beta.1"}
+{"name":"registerable","desc":"Check if it can be registered as a package name or domain name","repo":"https://github.com/TomokiMiyauci/registerable#readme","reg":"nest","vers":"v1.2.2"}
