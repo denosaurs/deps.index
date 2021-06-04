@@ -2,3 +2,4 @@
 {"name":"semver_compare_cli","desc":"CLI wrapper of the semver-compare library","repo":"https://github.com/jceb/semver-compare-cli","reg":"x","vers":"v1.0.5"}
 {"name":"semver_compare_cli","desc":"CLI wrapper of the semver-compare library","repo":"https://github.com/jceb/semver-compare-cli","reg":"x","vers":"v1.0.6"}
 {"name":"semver_compare_cli","desc":"CLI wrapper of the semver-compare library","repo":"https://github.com/jceb/semver-compare-cli","reg":"x","vers":"v2.0.0"}
+{"name":"semver_compare_cli","desc":"CLI wrapper of the semver-compare library","repo":"https://github.com/jceb/semver-compare-cli","reg":"x","vers":"v2.0.1"}

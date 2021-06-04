@@ -1,2 +1,3 @@
 {"name":"dir_in_path_cli","desc":"Utility to test if a given directory is in $PATH","repo":"https://github.com/jceb/dir-in-path-cli","reg":"x","vers":"v1.0.1"}
 {"name":"dir_in_path_cli","desc":"Utility to test if a given directory is in $PATH","repo":"https://github.com/jceb/dir-in-path-cli","reg":"x","vers":"v1.0.2"}
+{"name":"dir_in_path_cli","desc":"Utility to test if a given directory is in $PATH","repo":"https://github.com/jceb/dir-in-path-cli","reg":"x","vers":"v1.0.3"}
