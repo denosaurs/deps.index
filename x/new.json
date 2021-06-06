@@ -1,1 +1,1 @@
-[{"name":"nhttp_controller","desc":"Micro routing controller for Deno with decorator support.","repo":"https://github.com/nhttp/nhttp_controller","reg":"x","vers":["0.0.4","0.0.3","0.0.2"]}]
+[{"name":"pbf","desc":"Deno pbf port of https://github.com/mapbox/pbf","repo":"https://github.com/codehz/deno-pbf","reg":"x","vers":["v0.1.1","v0.1.0"]},{"name":"async_queue","desc":"An Asynchronous Queue implementation for JS/TS (Deno)","repo":null,"reg":"x","vers":[]}]
