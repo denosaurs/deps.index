@@ -1,0 +1,2 @@
+{"name":"async_lock","desc":"A simple lock to synchronize async code","repo":"https://github.com/leifb/deno-async-lock","reg":"x","vers":"1.0.0"}
+{"name":"async_lock","desc":"A simple lock to synchronize async code","repo":"https://github.com/leifb/deno-async-lock","reg":"x","vers":"1.0.1"}
