@@ -1,0 +1,1 @@
+{"name":"esbuild_loader","desc":"A utility module for loading esbuild wasm into Deno runtime from the disk","repo":"https://github.com/kt3k/esbuild_loader","reg":"x","vers":"v0.12.8"}
