@@ -1,1 +1,3 @@
 {"name":"graphql_tag","desc":"🦕 Deno port of `graphql-tag` library","repo":"https://github.com/deno-libs/graphql-tag","reg":"x","vers":"0.0.0"}
+{"name":"graphql_tag","desc":"🦕 Create a GraphQL schema AST from template literal. Deno port of `graphql-tag` library","repo":"https://github.com/deno-libs/graphql_tag","reg":"x","vers":"0.0.1"}
+{"name":"graphql_tag","desc":"🦕 Create a GraphQL schema AST from template literal. Deno port of `graphql-tag` library","repo":"https://github.com/deno-libs/graphql_tag","reg":"x","vers":"0.0.1"}
