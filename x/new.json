@@ -1,1 +1,1 @@
-[{"name":"guardeno","desc":"an include guard generator written in deno","repo":null,"reg":"x","vers":[]}]
+[{"name":"unknownutil","desc":"🦕 An utility pack for handling unknown type in deno","repo":"https://github.com/lambdalisue/deno-unknownutil","reg":"x","vers":["v0.1.1","v0.1.0"]},{"name":"craigslist","desc":"Deno driver for searching Craigslist.com listings","repo":"https://github.com/kierangilliam/deno-craigslist","reg":"x","vers":["0.1.7","0.1.6","0.1.5","0.1.4","0.1.3"]}]

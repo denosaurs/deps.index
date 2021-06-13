@@ -9,3 +9,4 @@
 {"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.10.1"}
 {"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.10.2"}
 {"name":"collections","desc":"This module provides implementations of collection objects that are not standard built-in objects in JavaScript.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.11.0"}
+{"name":"collections","desc":"Collection classes that are not standard built-in objects in JavaScript. This includes a vector, binary heap, binary search tree, and a red-black tree.","repo":"https://github.com/udibo/collections","reg":"x","vers":"v0.11.1"}
