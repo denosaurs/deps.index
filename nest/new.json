@@ -1,1 +1,1 @@
-[{"name":"nhttp_controller","desc":"Micro routing controller for Deno with decorator support.","repo":"https://github.com/nhttp/nhttp_controller","reg":"nest","vers":["0.2.0"]}]
+[{"name":"curry","desc":"TypeScript-first curry function without upcast","repo":"https://github.com/TomokiMiyauci/curry#readme","reg":"nest","vers":["v1.0.0-beta.1"]}]

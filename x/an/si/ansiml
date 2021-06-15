@@ -1,3 +1,4 @@
 {"name":"ansiml","desc":"AnsiML is a markup language for ANSI colors, implemented in TypeScript for Deno.","repo":"https://github.com/eibens/ansiml","reg":"x","vers":"v0.0.0"}
 {"name":"ansiml","desc":"AnsiML is a markup language for ANSI colors, implemented in TypeScript for Deno.","repo":"https://github.com/eibens/ansiml","reg":"x","vers":"v0.0.1"}
 {"name":"ansiml","desc":"AnsiML is a markup language for ANSI colors, implemented in TypeScript for Deno.","repo":"https://github.com/eibens/ansiml","reg":"x","vers":"v0.0.2"}
+{"name":"ansiml","desc":"AnsiML is a markup language for ANSI colors in TypeScript for Deno.","repo":"https://github.com/eibens/ansiml","reg":"x","vers":"v0.0.3"}
