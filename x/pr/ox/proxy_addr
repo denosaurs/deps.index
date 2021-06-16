@@ -5,3 +5,6 @@
 {"name":"proxy_addr","desc":"Deno port of `proxy-addr` library","repo":"https://github.com/deno-libs/proxy_addr","reg":"x","vers":"0.0.4"}
 {"name":"proxy_addr","desc":"Deno port of `proxy-addr` library","repo":"https://github.com/deno-libs/proxy_addr","reg":"x","vers":"0.0.5"}
 {"name":"proxy_addr","desc":"Deno port of `proxy-addr` library","repo":"https://github.com/deno-libs/proxy_addr","reg":"x","vers":"0.0.6"}
+{"name":"proxy_addr","desc":"Deno port of `proxy-addr` library","repo":"https://github.com/deno-libs/proxy_addr","reg":"x","vers":"0.0.7"}
+{"name":"proxy_addr","desc":"Deno port of `proxy-addr` library","repo":"https://github.com/deno-libs/proxy_addr","reg":"x","vers":"0.0.8"}
+{"name":"proxy_addr","desc":"Deno port of `proxy-addr` library","repo":"https://github.com/deno-libs/proxy_addr","reg":"x","vers":"0.0.8"}
