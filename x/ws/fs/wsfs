@@ -1,0 +1,1 @@
+{"name":"wsfs","desc":"WebSocket server (ws) that broadcasts file system (fs) events to its clients.","repo":"https://github.com/eibens/wsfs","reg":"x","vers":"v0.0.0"}
