@@ -1,2 +1,3 @@
 {"name":"barcode_scanner","desc":"Deno native barcode scanner driver","repo":"https://github.com/denyncrawford/barcode-scanner","reg":"x","vers":"1.0.0"}
 {"name":"barcode_scanner","desc":"Deno native barcode scanner driver","repo":"https://github.com/denyncrawford/barcode-scanner","reg":"x","vers":"1.0.1"}
+{"name":"barcode_scanner","desc":"Deno native barcode scanner driver","repo":"https://github.com/denyncrawford/barcode-scanner","reg":"x","vers":"1.1.0"}
