@@ -6,3 +6,4 @@
 {"name":"jszip","desc":"A JSZip wrapper for handling zipfiles in deno","repo":"hayd/deno-zip","reg":"x","vers":"0.6.0"}
 {"name":"jszip","desc":"A JSZip wrapper for handling zipfiles in deno","repo":"hayd/deno-zip","reg":"x","vers":"0.7.0"}
 {"name":"jszip","desc":"A JSZip wrapper for handling zipfiles in deno","repo":"https://github.com/hayd/deno-zip","reg":"x","vers":"0.9.0"}
+{"name":"jszip","desc":"A JSZip wrapper for handling zipfiles in deno","repo":"https://github.com/hayd/deno-zip","reg":"x","vers":"0.10.0"}
