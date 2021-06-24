@@ -1,1 +1,2 @@
 {"name":"afr","desc":"Always FResh: simple Node/Deno devserver. Serve files, watch files, reinject CSS, reload pages. Simpler, better alternative to Browsersync and Livereload","repo":"https://github.com/mitranim/afr","reg":"x","vers":"0.4.0"}
+{"name":"afr","desc":"Always FResh: simple Node/Deno devserver. Serve files, watch files, reinject CSS, reload pages. Simpler, better alternative to Browsersync and Livereload","repo":"https://github.com/mitranim/afr","reg":"x","vers":"0.4.1"}
