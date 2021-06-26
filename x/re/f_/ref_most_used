@@ -1,0 +1,1 @@
+{"name":"ref_most_used","desc":"Maintain strong object references using LRU/LFU cache logic/behavior.","repo":"https://github.com/jabr/ref-most-used","reg":"x","vers":"0.1.0"}

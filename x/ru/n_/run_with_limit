@@ -1,1 +1,2 @@
 {"name":"run_with_limit","desc":"Run promise-returning & async functions with limited concurrency","repo":"alextes/run_with_limit","reg":"x","vers":"0.1.0"}
+{"name":"run_with_limit","desc":"Run promise-returning & async functions with limited concurrency","repo":"https://github.com/alextes/run_with_limit","reg":"x","vers":"v1.0.1"}

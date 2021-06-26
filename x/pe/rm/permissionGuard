@@ -4,3 +4,4 @@
 {"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"x","vers":"2.1.1"}
 {"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"x","vers":"2.2.0"}
 {"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"x","vers":"2.3.0"}
+{"name":"permissionGuard","desc":"A zero-dependency, minimal permission guard for Deno.","repo":"https://github.com/asos-craigmorten/permission-guard","reg":"x","vers":"2.4.0"}
