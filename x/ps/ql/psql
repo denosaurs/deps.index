@@ -1,0 +1,1 @@
+{"name":"psql","desc":"Deno implementation of the Postgresql client-server protocol","repo":"https://github.com/mywaiting/psql","reg":"x","vers":"v0.3.0"}
