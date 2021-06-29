@@ -1,1 +1,1 @@
-[]
+[{"name":"iso-git","desc":"Wraps `isomorphic-git` to work with deno.","repo":"https://github.com/sramam/iso-git","reg":"nest","vers":["0.1.1"]},{"name":"hyper","desc":"Hyper core module for parsing hyper config, and composing hyper adapters","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":["1.3.10"]}]

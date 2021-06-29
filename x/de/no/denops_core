@@ -10,3 +10,4 @@
 {"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v0.15.0"}
 {"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v0.16.0"}
 {"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v1.0.0-alpha.0"}
+{"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v1.0.0-alpha.1"}

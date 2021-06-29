@@ -9,3 +9,5 @@
 {"name":"lapi","desc":"","repo":"https://github.com/LukeShay/lapi","reg":"x","vers":"v1.0.0"}
 {"name":"lapi","desc":"","repo":"https://github.com/LukeShay/lapi","reg":"x","vers":"v1.1.0"}
 {"name":"lapi","desc":"","repo":"https://github.com/LukeShay/lapi","reg":"x","vers":"v1.1.1"}
+{"name":"lapi","desc":"A full-featured middleware-based web framework for Deno.","repo":"https://github.com/LukeShay/lapi","reg":"x","vers":"v1.2.0"}
+{"name":"lapi","desc":"A full-featured middleware-based web framework for Deno.","repo":"https://github.com/LukeShay/lapi","reg":"x","vers":"v1.3.0"}
