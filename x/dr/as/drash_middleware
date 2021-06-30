@@ -16,3 +16,4 @@
 {"name":"drash_middleware","desc":"A middleware library for Drash.","repo":"https://github.com/drashland/deno-drash-middleware","reg":"x","vers":"v0.7.5"}
 {"name":"drash_middleware","desc":"A middleware library for Drash.","repo":"https://github.com/drashland/deno-drash-middleware","reg":"x","vers":"v0.7.6"}
 {"name":"drash_middleware","desc":"A middleware library for Drash","repo":"https://github.com/drashland/deno-drash-middleware","reg":"x","vers":"v0.7.7"}
+{"name":"drash_middleware","desc":"A middleware library for Drash","repo":"https://github.com/drashland/deno-drash-middleware","reg":"x","vers":"v0.7.8"}
