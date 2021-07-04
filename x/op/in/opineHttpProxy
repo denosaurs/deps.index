@@ -8,3 +8,4 @@
 {"name":"opineHttpProxy","desc":"Proxy middleware for Deno Opine HTTP servers.","repo":"https://github.com/asos-craigmorten/opine-http-proxy","reg":"x","vers":"2.4.0"}
 {"name":"opineHttpProxy","desc":"Proxy middleware for Deno Opine HTTP servers.","repo":"https://github.com/asos-craigmorten/opine-http-proxy","reg":"x","vers":"2.5.0"}
 {"name":"opineHttpProxy","desc":"Proxy middleware for Deno Opine HTTP servers.","repo":"https://github.com/asos-craigmorten/opine-http-proxy","reg":"x","vers":"2.6.0"}
+{"name":"opineHttpProxy","desc":"Proxy middleware for Deno Opine HTTP servers.","repo":"https://github.com/asos-craigmorten/opine-http-proxy","reg":"x","vers":"2.7.0"}

@@ -30,3 +30,4 @@
 {"name":"dero","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http).","repo":"https://github.com/herudi/dero","reg":"x","vers":"1.1.0"}
 {"name":"dero","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http).","repo":"https://github.com/herudi/dero","reg":"x","vers":"1.1.1"}
 {"name":"dero","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http).","repo":"https://github.com/herudi/dero","reg":"x","vers":"1.1.2"}
+{"name":"dero","desc":"Fast web framework for Deno (support native HTTP/2 Hyper and std/http).","repo":"https://github.com/herudi/dero","reg":"x","vers":"1.1.3"}
