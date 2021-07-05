@@ -8,3 +8,8 @@
 {"name":"init","desc":"Start Deno projects in Visual Studio Code a little faster.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.5.1"}
 {"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.5.2"}
 {"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.5.3"}
+{"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.6.0"}
+{"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.7.0"}
+{"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.8.0"}
+{"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.8.1"}
+{"name":"init","desc":"Deno project templates","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.9.0"}
