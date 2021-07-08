@@ -5,3 +5,4 @@
 {"name":"vegas","desc":"Generate random numbers, samples, and more.","repo":"https://github.com/cryptogohan/vegas","reg":"x","vers":"v1.1.0"}
 {"name":"vegas","desc":"Generate random numbers, samples, and more.","repo":"https://github.com/cryptogohan/vegas","reg":"x","vers":"v1.2.0"}
 {"name":"vegas","desc":"Generate random numbers, samples, and more.","repo":"https://github.com/cryptogohan/vegas","reg":"x","vers":"v1.2.1"}
+{"name":"vegas","desc":"Vegas helps generate numbers or pick elements based on randomness.","repo":"https://github.com/alextes/vegas","reg":"x","vers":"v1.3.0"}
