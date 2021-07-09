@@ -1,1 +1,3 @@
 {"name":"static_files","desc":"Serve Static for Deno inspired by serve-static and sirv.","repo":"https://github.com/herudi/static-files","reg":"nest","vers":"1.0.3"}
+{"name":"static_files","desc":"Serve Static for Deno inspired by serve-static and sirv.","repo":"https://github.com/herudi/static-files","reg":"nest","vers":"1.0.4"}
+{"name":"static_files","desc":"Serve Static for Deno inspired by serve-static and sirv.","repo":"https://github.com/herudi/static-files","reg":"nest","vers":"1.0.5"}
