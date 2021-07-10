@@ -1,1 +1,1 @@
-[{"name":"feomasto","desc":"Sync posts from Mastodon into FeoBlog","repo":"https://github.com/NfNitLoop/deno-feomasto","reg":"x","vers":["v0.1.0"]},{"name":"jw_fetch","desc":"some deno tools","repo":"https://github.com/jiawei397/deno_lib","reg":"x","vers":["v0.0.2"]},{"name":"jw_mongo","desc":"MongoDB driver for Deno","repo":"https://github.com/jiawei397/deno_mongo","reg":"x","vers":["v0.24.0"]},{"name":"regex_subset_to_glob","desc":"","repo":"https://github.com/Crystal-RainSlide/regex-subset-to-glob","reg":"x","vers":["0.5.0-1","0.5.0"]}]
+[]
