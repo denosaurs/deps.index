@@ -1,2 +1,3 @@
 {"name":"pitch","desc":"","repo":"https://github.com/eibens/pitch","reg":"x","vers":"v0.0.0"}
 {"name":"pitch","desc":"","repo":"https://github.com/eibens/pitch","reg":"x","vers":"v0.1.0"}
+{"name":"pitch","desc":"Tools for working with musical pitch in TypeScript for Deno.","repo":"https://github.com/eibens/pitch","reg":"x","vers":"v0.1.1"}
