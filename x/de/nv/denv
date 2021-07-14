@@ -1,3 +1,4 @@
 {"name":"denv","desc":"A module similar to dotEnv, but for Deno","repo":"crowlKats/denv","reg":"x","vers":"1.0.0"}
 {"name":"denv","desc":"A module similar to dotEnv, but for Deno","repo":"crowlKats/denv","reg":"x","vers":"2.0.0"}
 {"name":"denv","desc":"A module similar to dotEnv, but for Deno","repo":"https://github.com/crowlKats/denv","reg":"x","vers":"3.0.0"}
+{"name":"denv","desc":"A module similar to dotEnv, but for Deno","repo":"https://github.com/crowlKats/denv","reg":"x","vers":"3.1.0"}

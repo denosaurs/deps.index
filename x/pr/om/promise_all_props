@@ -1,1 +1,2 @@
 {"name":"promise_all_props","desc":"Like `Promise.all` but for object properties.","repo":"https://github.com/Siilwyn/promise-all-props","reg":"x","vers":"v2.1.0"}
+{"name":"promise_all_props","desc":"Like `Promise.all` but for object properties.","repo":"https://github.com/Siilwyn/promise-all-props","reg":"x","vers":"v2.1.1"}

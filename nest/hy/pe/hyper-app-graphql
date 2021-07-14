@@ -1,1 +1,2 @@
 {"name":"hyper-app-graphql","desc":"Hyper service framework standalone GQL app, or mount on your custom opine app","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.2.0"}
+{"name":"hyper-app-graphql","desc":"Hyper service framework standalone GQL app, or mount on your custom opine app","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.3.0"}
