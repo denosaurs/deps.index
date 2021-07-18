@@ -1,0 +1,1 @@
+{"name":"mock_fetch","desc":"An extremely simple way to mock window.fetch, for Deno.","repo":"https://github.com/SeparateRecords/deno_mock_fetch","reg":"x","vers":"0.1.0"}

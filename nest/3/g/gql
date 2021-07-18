@@ -1,1 +1,2 @@
 {"name":"gql","desc":"Universal GraphQL HTTP middleware for Deno","repo":"https://github.com/deno-libs/gql","reg":"nest","vers":"0.1.2"}
+{"name":"gql","desc":"Universal GraphQL HTTP middleware for Deno","repo":"https://github.com/deno-libs/gql","reg":"nest","vers":"0.1.7"}

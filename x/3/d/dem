@@ -20,3 +20,4 @@
 {"name":"dem","desc":"A module version manager for Deno.","repo":"syumai/dem","reg":"x","vers":"0.9.4"}
 {"name":"dem","desc":"A module version manager for Deno.","repo":"syumai/dem","reg":"x","vers":"0.9.5"}
 {"name":"dem","desc":"A module version manager for Deno.","repo":"https://github.com/syumai/dem","reg":"x","vers":"0.9.7"}
+{"name":"dem","desc":"A module version manager for Deno.","repo":"https://github.com/syumai/dem","reg":"x","vers":"0.9.8"}
