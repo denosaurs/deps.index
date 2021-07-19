@@ -31,3 +31,4 @@
 {"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v1.0.0-beta.5"}
 {"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v1.0.0-beta.6"}
 {"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v1.0.0-beta.7"}
+{"name":"denops_core","desc":"🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno","repo":"https://github.com/vim-denops/denops.vim","reg":"x","vers":"v1.0.0"}

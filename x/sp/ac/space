@@ -11,3 +11,4 @@
 {"name":"space","desc":"A low-level Deno module for interacting with Discord.","repo":"https://github.com/Apacheli/Space","reg":"x","vers":"0.9.0-alpha"}
 {"name":"space","desc":"A low-level Deno module for interacting with Discord","repo":"https://github.com/Cosdromeda/Space","reg":"x","vers":"0.10.0-alpha"}
 {"name":"space","desc":"A low-level Deno module for interacting with Discord","repo":"https://github.com/Cosdromeda/Space","reg":"x","vers":"0.10.1-alpha"}
+{"name":"space","desc":"A collection of fast, scalable, low-level Deno modules for interacting with the Discord API.","repo":"https://github.com/apacheli/space","reg":"x","vers":"0.11.0-alpha"}
