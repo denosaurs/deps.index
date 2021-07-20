@@ -5,3 +5,4 @@
 {"name":"oauth2_server","desc":"This module will be a standards compliant implementation of an OAuth 2.0 authorization server. It is currently a work in progress.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"v0.0.4"}
 {"name":"oauth2_server","desc":"This module will be a standards compliant implementation of an OAuth 2.0 authorization server. It is currently a work in progress.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"v0.0.5"}
 {"name":"oauth2_server","desc":"This module will be a standards compliant implementation of an OAuth 2.0 authorization server. It is currently a work in progress.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"v0.0.6"}
+{"name":"oauth2_server","desc":"This module will be a standards compliant implementation of an OAuth 2.0 authorization server. It is currently a work in progress.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"v0.0.7"}

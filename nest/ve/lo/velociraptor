@@ -8,3 +8,4 @@
 {"name":"velociraptor","desc":"An npm-style script runner for Deno","repo":"https://velociraptor.run","reg":"nest","vers":"1.0.0-beta.18"}
 {"name":"velociraptor","desc":"The npm-style script runner for Deno","repo":"https://velociraptor.run","reg":"nest","vers":"1.0.0"}
 {"name":"velociraptor","desc":"The npm-style script runner for Deno","repo":"https://velociraptor.run","reg":"nest","vers":"1.0.1"}
+{"name":"velociraptor","desc":"The npm-style script runner for Deno","repo":"https://velociraptor.run","reg":"nest","vers":"1.0.2"}

@@ -1,0 +1,1 @@
+{"name":"xxhash64","desc":"A fast, simple xxHash64 implementation in TypeScript/WASM.","repo":"https://github.com/jabr/xxhash64","reg":"x","vers":"1.0.0"}
