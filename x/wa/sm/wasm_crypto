@@ -1,1 +1,4 @@
 {"name":"wasm_crypto","desc":"Various Rust crypto libraries wrapped in WASM for use in the browser","repo":"https://github.com/watzon/wasm-crypto","reg":"x","vers":"v0.1.0"}
+{"name":"wasm_crypto","desc":"Various Rust crypto libraries wrapped in WASM for use in the browser","repo":"https://github.com/watzon/wasm-crypto","reg":"x","vers":"v0.1.1"}
+{"name":"wasm_crypto","desc":"Various Rust crypto libraries wrapped in WASM for use in the browser","repo":"https://github.com/watzon/wasm-crypto","reg":"x","vers":"v0.1.2"}
+{"name":"wasm_crypto","desc":"Various Rust crypto libraries wrapped in WASM for use in the browser","repo":"https://github.com/watzon/wasm-crypto","reg":"x","vers":"v0.1.3"}

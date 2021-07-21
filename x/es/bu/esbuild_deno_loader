@@ -1,2 +1,3 @@
 {"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.1.0"}
 {"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.1.1"}
+{"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.2.0"}
