@@ -17,3 +17,4 @@
 {"name":"autopilot","desc":":rocket: Cross-platform desktop automation library for Deno.","repo":"divy-work/autopilot-deno","reg":"x","vers":"0.1.7"}
 {"name":"autopilot","desc":":rocket: Cross-platform desktop automation library for Deno.","repo":"https://github.com/divy-work/autopilot-deno","reg":"x","vers":"0.2.0"}
 {"name":"autopilot","desc":":rocket: Cross-platform desktop automation library for Deno.","repo":"https://github.com/littledivy/autopilot-deno","reg":"x","vers":"0.2.1"}
+{"name":"autopilot","desc":":rocket: Cross-platform desktop automation library for Deno.","repo":"https://github.com/littledivy/autopilot-deno","reg":"x","vers":"0.3.0"}

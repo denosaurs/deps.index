@@ -1,0 +1,1 @@
+{"name":"fungible_systems_noble_secp256k1","desc":"Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.","repo":"https://github.com/fungible-systems/noble-secp256k1","reg":"x","vers":"1.2.9"}

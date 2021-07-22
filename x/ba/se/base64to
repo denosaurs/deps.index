@@ -1,0 +1,2 @@
+{"name":"base64to","desc":"base64 encoder and decoder for string, Uint8Array and Deno.Reader - optimized for big inputs","repo":"https://github.com/jeremiah-shaulov/base64to","reg":"x","vers":"v0.0.1"}
+{"name":"base64to","desc":"base64 encoder and decoder for string, Uint8Array and Deno.Reader - optimized for big inputs","repo":"https://github.com/jeremiah-shaulov/base64to","reg":"x","vers":"v0.0.2"}
