@@ -1,3 +1,4 @@
 {"name":"biginteger","desc":"Deno first BigInt wrapper based on peterolson/BigInteger.js","repo":"https://github.com/watzon/BigInteger.ts","reg":"x","vers":"v0.1.0"}
 {"name":"biginteger","desc":"Deno first BigInt wrapper based on peterolson/BigInteger.js","repo":"https://github.com/watzon/BigInteger.ts","reg":"x","vers":"v0.1.1"}
 {"name":"biginteger","desc":"Deno first BigInt wrapper based on peterolson/BigInteger.js","repo":"https://github.com/watzon/BigInteger.ts","reg":"x","vers":"v0.1.2"}
+{"name":"biginteger","desc":"Deno first BigInt wrapper based on peterolson/BigInteger.js","repo":"https://github.com/watzon/BigInteger.ts","reg":"x","vers":"v0.1.3"}
