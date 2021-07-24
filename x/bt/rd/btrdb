@@ -1,2 +1,4 @@
 {"name":"btrdb","desc":"A CoW NoSQL database engine inspired by btrfs","repo":"https://github.com/lideming/btrdb","reg":"x","vers":"v0.1.2"}
 {"name":"btrdb","desc":"A CoW NoSQL database engine inspired by btrfs","repo":"https://github.com/lideming/btrdb","reg":"x","vers":"v0.1.3"}
+{"name":"btrdb","desc":"A CoW NoSQL database engine inspired by btrfs","repo":"https://github.com/lideming/btrdb","reg":"x","vers":"v0.2.0"}
+{"name":"btrdb","desc":"A CoW NoSQL database engine inspired by btrfs","repo":"https://github.com/lideming/btrdb","reg":"x","vers":"v0.2.1"}
