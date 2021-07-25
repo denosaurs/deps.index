@@ -1,1 +1,2 @@
 {"name":"deno_bencode","desc":"Bencode decoder/encode for Deno","repo":"https://github.com/liquidz/deno-bencode","reg":"x","vers":"1.0.0"}
+{"name":"deno_bencode","desc":"Bencode decoder/encode for Deno","repo":"https://github.com/liquidz/deno-bencode","reg":"x","vers":"1.0.1"}

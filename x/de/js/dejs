@@ -21,3 +21,4 @@
 {"name":"dejs","desc":"ejs template engine for deno.","repo":"syumai/dejs","reg":"x","vers":"0.8.0"}
 {"name":"dejs","desc":"ejs template engine for deno.","repo":"https://github.com/syumai/dejs","reg":"x","vers":"0.9.3"}
 {"name":"dejs","desc":"ejs template engine for deno.","repo":"https://github.com/syumai/dejs","reg":"x","vers":"0.10.0"}
+{"name":"dejs","desc":"ejs template engine for deno.","repo":"https://github.com/syumai/dejs","reg":"x","vers":"0.10.1"}

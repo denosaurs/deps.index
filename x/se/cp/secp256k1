@@ -25,3 +25,4 @@
 {"name":"secp256k1","desc":"Noble secp256k1. Fast, high-security, easily auditable, 0-dep, 1-file pubkey & ECDSA signature scheme","repo":"paulmillr/noble-secp256k1","reg":"x","vers":"1.0.3"}
 {"name":"secp256k1","desc":"Noble secp256k1. Fast, high-security, easily auditable, 0-dep, 1-file pubkey & ECDSA signature scheme","repo":"paulmillr/noble-secp256k1","reg":"x","vers":"1.0.4"}
 {"name":"secp256k1","desc":"Noble secp256k1. Fast, high-security, easily auditable, 0-dep, 1-file pubkey & ECDSA signature scheme","repo":"paulmillr/noble-secp256k1","reg":"x","vers":"1.0.5"}
+{"name":"secp256k1","desc":"Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.","repo":"https://github.com/paulmillr/noble-secp256k1","reg":"x","vers":"1.2.9"}
