@@ -24,3 +24,7 @@
 {"name":"nhttp","desc":"Just native HTTP/2 micro framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.7.3"}
 {"name":"nhttp","desc":"Just native HTTP/2 micro framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.7.4"}
 {"name":"nhttp","desc":"Just native HTTP/2 micro framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.7.5"}
+{"name":"nhttp","desc":"Fast native http framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.7.6"}
+{"name":"nhttp","desc":"Fast native http framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.8.0"}
+{"name":"nhttp","desc":"Fast native http framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.8.1"}
+{"name":"nhttp","desc":"Fast native http framework for Deno.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"0.8.2"}
