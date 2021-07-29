@@ -1,1 +1,1 @@
-[{"name":"hyper-adapter-spider","desc":"Hyper Crawler port adapter for spider","repo":"https://github.com/hyper63/hyper-adapter-spider","reg":"nest","vers":["0.0.1"]},{"name":"scrypt","desc":"This is a wasm-based (using rust-crypto) implementation of scrypt key derivation function that doesn't require any privileges.","repo":"https://github.com/denorg/scrypt","reg":"nest","vers":["2.1.0"]}]
+[]
