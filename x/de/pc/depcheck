@@ -1,3 +1,4 @@
 {"name":"depcheck","desc":"Check for unused Deno dependencies","repo":"https://github.com/ebebbington/depcheck","reg":"x","vers":"v1.0.0"}
 {"name":"depcheck","desc":"Check for unused Deno dependencies","repo":"https://github.com/ebebbington/depcheck","reg":"x","vers":"v1.0.1"}
 {"name":"depcheck","desc":"Check for unused Deno dependencies","repo":"https://github.com/ebebbington/depcheck","reg":"x","vers":"v2.0.0"}
+{"name":"depcheck","desc":"Check for unused Deno dependencies","repo":"https://github.com/ebebbington/depcheck","reg":"x","vers":"v2.1.0"}
