@@ -1,0 +1,2 @@
+{"name":"term","desc":"A simple library for manipulating the terminal. Written for Deno but will work in any TypeScript environment, and even any JavaScript environment after compiling.","repo":"https://github.com/Micha-ohne-el/deno-term","reg":"x","vers":"1.0.0"}
+{"name":"term","desc":"A simple library for manipulating the terminal. Written for Deno but will work in any TypeScript environment, and even any JavaScript environment after compiling.","repo":"https://github.com/Micha-ohne-el/deno-term","reg":"x","vers":"1.0.1"}

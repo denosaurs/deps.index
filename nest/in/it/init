@@ -3,3 +3,6 @@
 {"name":"init","desc":"Start Deno Projects from templates","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"0.11.1"}
 {"name":"init","desc":"Start Deno Projects from templates","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"0.13.1"}
 {"name":"init","desc":"Start Deno Projects from templates","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"0.14.0"}
+{"name":"init","desc":"Simple command line tool to initialize new Deno projects from templates or through prompts.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"0.15.0"}
+{"name":"init","desc":"Simple command line tool to initialize new Deno projects from templates or through prompts.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"0.15.1"}
+{"name":"init","desc":"Simple command line tool to initialize new Deno projects from templates or through prompts.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"0.15.2"}

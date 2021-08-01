@@ -6,3 +6,4 @@
 {"name":"swc","desc":"High quality SWC bindings for Deno","repo":"https://github.com/nestdotland/deno_swc","reg":"nest","vers":"0.3.1"}
 {"name":"swc","desc":"High quality SWC bindings for Deno","repo":"https://github.com/nestdotland/deno_swc","reg":"nest","vers":"0.3.2"}
 {"name":"swc","desc":"The SWC compiler for Deno","repo":"https://github.com/nestdotland/deno_swc","reg":"nest","vers":"0.0.6"}
+{"name":"swc","desc":"The SWC compiler for Deno","repo":"https://github.com/nestdotland/deno_swc","reg":"nest","vers":"0.1.2"}
