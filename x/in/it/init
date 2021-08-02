@@ -27,3 +27,9 @@
 {"name":"init","desc":"Simple command line tool to initialize new Deno projects from templates or through prompts.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.0"}
 {"name":"init","desc":"Simple command line tool to initialize new Deno projects from templates or through prompts.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.1"}
 {"name":"init","desc":"Simple command line tool to initialize new Deno projects from templates or through prompts.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.2"}
+{"name":"init","desc":"Simple command line tool to initialize Deno projects from prompts or templates.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.3"}
+{"name":"init","desc":"Simple command line tool to initialize Deno projects from prompts or templates.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.4"}
+{"name":"init","desc":"Simple command line tool to initialize Deno projects from prompts or templates.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.5"}
+{"name":"init","desc":"Simple command line tool to initialize Deno projects from prompts or templates.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.6"}
+{"name":"init","desc":"Simple command line tool to initialize Deno projects from prompts or templates.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.15.7"}
+{"name":"init","desc":"Simple command line tool to initialize Deno projects from prompts or templates.","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"0.16.0"}
