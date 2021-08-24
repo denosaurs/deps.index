@@ -12,3 +12,8 @@
 {"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.8.0"}
 {"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.9.0"}
 {"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.9.1"}
+{"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.10.0"}
+{"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.10.1"}
+{"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.10.2"}
+{"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.10.3"}
+{"name":"dectyl","desc":"Prototype library for testing Deno Deploy scripts using the Deno CLI","repo":"https://github.com/kitsonk/dectyl","reg":"x","vers":"0.10.4"}

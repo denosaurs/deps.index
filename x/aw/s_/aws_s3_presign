@@ -1,0 +1,4 @@
+{"name":"aws_s3_presign","desc":"Deno module to create presigned URLs for AWS S3","repo":"https://github.com/dansalias/aws_s3_presign","reg":"x","vers":"v1.0.0"}
+{"name":"aws_s3_presign","desc":"Deno module to create presigned URLs for AWS S3","repo":"https://github.com/dansalias/aws_s3_presign","reg":"x","vers":"v1.0.1"}
+{"name":"aws_s3_presign","desc":"Deno module to create presigned URLs for AWS S3","repo":"https://github.com/dansalias/aws_s3_presign","reg":"x","vers":"v1.1.0"}
+{"name":"aws_s3_presign","desc":"Deno module to create presigned URLs for AWS S3","repo":"https://github.com/dansalias/aws_s3_presign","reg":"x","vers":"v1.1.1"}

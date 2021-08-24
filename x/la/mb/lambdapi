@@ -1,0 +1,1 @@
+{"name":"lambdapi","desc":"Deno TypeScript implementation of LambdaPi interpreter from \"A Tutorial Implementation of a Dependently Typed Lambda Calculus\" https://www.andres-loeh.de/LambdaPi/","repo":"https://github.com/keean/lambdapi","reg":"x","vers":"v1.0.1"}

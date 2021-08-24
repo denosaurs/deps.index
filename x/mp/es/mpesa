@@ -1,1 +1,3 @@
 {"name":"mpesa","desc":"A deno module for M-Pesa Daraja API calls","repo":"https://github.com/oyoolo/Mpesa-Deno","reg":"x","vers":"0.1.0"}
+{"name":"mpesa","desc":"A Deno module for M-Pesa Daraja API calls","repo":"https://github.com/au6rey/Mpesa-Deno","reg":"x","vers":"0.1.1"}
+{"name":"mpesa","desc":"A Deno module for M-Pesa Daraja API calls","repo":"https://github.com/au6rey/Mpesa-Deno","reg":"x","vers":"0.2.0"}

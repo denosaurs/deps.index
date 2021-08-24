@@ -1,0 +1,1 @@
+{"name":"locate_character","desc":"Get the line and column number of a particular character in a string.","repo":"https://github.com/SiddharthShyniben/locate-character-deno","reg":"x","vers":"v1.0.0"}

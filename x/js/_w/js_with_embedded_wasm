@@ -1,0 +1,1 @@
+{"name":"js_with_embedded_wasm","desc":"A tool that converts wasm and js created by wasm bindgen into js with embedded wasm.","repo":"https://github.com/Octo8080/js_with_embedded_wasm","reg":"x","vers":"0.0.1"}

@@ -1,1 +1,2 @@
 {"name":"comrak","desc":"WASM bindings for the comrak markdown renderer","repo":"https://github.com/lucacasonato/comrak-wasm","reg":"x","vers":"0.1.0"}
+{"name":"comrak","desc":"WASM bindings for the comrak markdown renderer","repo":"https://github.com/lucacasonato/comrak-wasm","reg":"x","vers":"0.1.1"}

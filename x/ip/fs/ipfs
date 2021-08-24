@@ -1,0 +1,3 @@
+{"name":"ipfs","desc":"A lightweight Deno HTTP client library for IPFS.","repo":"https://github.com/deno-libs/ipfs","reg":"x","vers":"0.4.0-wip"}
+{"name":"ipfs","desc":"A lightweight Deno HTTP client library for IPFS.","repo":"https://github.com/deno-libs/ipfs","reg":"x","vers":"0.4.0-wip.1"}
+{"name":"ipfs","desc":"A lightweight Deno HTTP client library for IPFS.","repo":"https://github.com/deno-libs/ipfs","reg":"x","vers":"0.4.0-wip.2"}

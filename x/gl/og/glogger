@@ -5,3 +5,4 @@
 {"name":"glogger","desc":"A simple logger for Deno","repo":"https://github.com/grian32/glogger","reg":"x","vers":"1.0.4"}
 {"name":"glogger","desc":"A simple logger for Deno","repo":"https://github.com/grian32/glogger","reg":"x","vers":"2.0.0"}
 {"name":"glogger","desc":"A simple logger for Deno","repo":"https://github.com/grian32/glogger","reg":"x","vers":"2.1.0"}
+{"name":"glogger","desc":"A simple logger for Deno with minimal setup.","repo":"https://github.com/grian32/glogger","reg":"x","vers":"2.1.1"}

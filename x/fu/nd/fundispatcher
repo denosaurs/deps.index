@@ -1,0 +1,1 @@
+{"name":"fundispatcher","desc":"a top level server registry and discovery for dispatching request between servers (to implement micro-service architecture)","repo":"https://github.com/funql/fundispatcher","reg":"x","vers":"0.0.0"}

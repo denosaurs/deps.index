@@ -1,0 +1,2 @@
+{"name":"fast_base64","desc":"Fastest base64 on the web, with Wasm + SIMD","repo":"https://github.com/mitschabaude/fast-base64","reg":"x","vers":"0.1.6"}
+{"name":"fast_base64","desc":"Fastest base64 on the web, with Wasm + SIMD","repo":"https://github.com/mitschabaude/fast-base64","reg":"x","vers":"v0.1.7"}

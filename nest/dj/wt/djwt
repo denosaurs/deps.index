@@ -10,3 +10,4 @@
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.5"}
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.6"}
 {"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.7"}
+{"name":"djwt","desc":"Create and verify JSON Web Tokens (JWT) with deno.","repo":"https://github.com/timonson/djwt","reg":"nest","vers":"0.1.8"}

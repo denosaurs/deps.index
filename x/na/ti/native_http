@@ -4,3 +4,4 @@
 {"name":"native_http","desc":"Native Deno HTTP client and server implementations","repo":"https://github.com/cmorten/native_http","reg":"x","vers":"0.3.0"}
 {"name":"native_http","desc":"Native Deno HTTP client and server implementations","repo":"https://github.com/cmorten/native_http","reg":"x","vers":"0.3.1"}
 {"name":"native_http","desc":"Native Deno HTTP client and server implementations","repo":"https://github.com/cmorten/native_http","reg":"x","vers":"0.4.0"}
+{"name":"native_http","desc":"Native Deno HTTP client and server implementations","repo":"https://github.com/cmorten/native_http","reg":"x","vers":"1.0.0"}

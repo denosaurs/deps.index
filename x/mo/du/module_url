@@ -1,0 +1,2 @@
+{"name":"module_url","desc":"Extract version number, module name, and more from ESM or TypeScript module URLs.","repo":"https://github.com/eibens/module_url","reg":"x","vers":"v0.1.0"}
+{"name":"module_url","desc":"Extract version number, module name, and more from ESM or TypeScript module URLs.","repo":"https://github.com/eibens/module_url","reg":"x","vers":"v0.2.0"}
