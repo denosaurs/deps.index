@@ -3,3 +3,4 @@
 {"name":"request","desc":"GET, POST, PUT, DELETE Requests","repo":null,"reg":"nest","vers":"1.0.1"}
 {"name":"request","desc":"GET, POST, PUT, DELETE Requests","repo":null,"reg":"nest","vers":"1.0.2"}
 {"name":"request","desc":"GET, POST, PUT, DELETE Requests","repo":null,"reg":"nest","vers":"1.1.0"}
+{"name":"request","desc":"JSON API Calls, as simple as it gets","repo":"https://github.com/michael-spengler/request","reg":"nest","vers":"1.3.2"}
