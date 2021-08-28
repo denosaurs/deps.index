@@ -22,3 +22,4 @@
 {"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v2.56.1"}
 {"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v2.56.2"}
 {"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v2.57.0"}
+{"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v2.58.0"}
