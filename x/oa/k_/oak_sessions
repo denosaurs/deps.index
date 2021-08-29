@@ -6,3 +6,5 @@
 {"name":"oak_sessions","desc":"Session middleware for Oak","repo":"https://github.com/jcs224/oak_sessions","reg":"x","vers":"v1.5.11"}
 {"name":"oak_sessions","desc":"Session middleware for Oak","repo":"https://github.com/jcs224/oak_sessions","reg":"x","vers":"v1.5.12"}
 {"name":"oak_sessions","desc":"Session middleware for Oak","repo":"https://github.com/jcs224/oak_sessions","reg":"x","vers":"v2.0.0"}
+{"name":"oak_sessions","desc":"Session middleware for Oak","repo":"https://github.com/jcs224/oak_sessions","reg":"x","vers":"v2.1.0"}
+{"name":"oak_sessions","desc":"Session middleware for Oak","repo":"https://github.com/jcs224/oak_sessions","reg":"x","vers":"v2.1.1"}
