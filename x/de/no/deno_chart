@@ -1,2 +1,3 @@
 {"name":"deno_chart","desc":"A graph library for deno. Inspired by Chart.js. A simpler implementation for basic bar graphs that save to an image.","repo":"https://github.com/Ciaxur/DenoChart","reg":"x","vers":"1.0.0"}
 {"name":"deno_chart","desc":"A graph library for deno. Inspired by Chart.js. A simpler implementation for basic bar graphs that save to an image.","repo":"https://github.com/Ciaxur/DenoChart","reg":"x","vers":"1.0.1"}
+{"name":"deno_chart","desc":"A graph library for deno. Inspired by Chart.js. A simpler implementation for basic bar graphs that save to an image.","repo":"https://github.com/Ciaxur/DenoChart","reg":"x","vers":"1.1.0"}
