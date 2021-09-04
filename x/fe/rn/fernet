@@ -1,0 +1,3 @@
+{"name":"fernet","desc":"Deno implementation of Fernet symmetric encryption https://github.com/fernet/spec","repo":"https://github.com/itohatweb/deno-fernet","reg":"x","vers":"0.1.0"}
+{"name":"fernet","desc":"Deno implementation of Fernet symmetric encryption https://github.com/fernet/spec","repo":"https://github.com/itohatweb/deno-fernet","reg":"x","vers":"0.1.1"}
+{"name":"fernet","desc":"Deno implementation of Fernet symmetric encryption https://github.com/fernet/spec","repo":"https://github.com/itohatweb/deno-fernet","reg":"x","vers":"0.1.2"}
