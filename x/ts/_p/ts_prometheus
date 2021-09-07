@@ -1,1 +1,2 @@
 {"name":"ts_prometheus","desc":"A prometheus client in Typescript for Deno","repo":"https://github.com/marcopacini/ts_prometheus","reg":"x","vers":"v0.2.0"}
+{"name":"ts_prometheus","desc":"A prometheus client in Typescript for Deno","repo":"https://github.com/marcopacini/ts_prometheus","reg":"x","vers":"v0.3.0"}

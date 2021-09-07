@@ -9,3 +9,4 @@
 {"name":"grammy_transformer_throttler","desc":"Throttling transformer for Grammy","repo":"https://github.com/grammyjs/transformer-throttler","reg":"x","vers":"v0.1.8"}
 {"name":"grammy_transformer_throttler","desc":"Throttling transformer for Grammy","repo":"https://github.com/grammyjs/transformer-throttler","reg":"x","vers":"v0.1.9"}
 {"name":"grammy_transformer_throttler","desc":"Throttling transformer for Grammy","repo":"https://github.com/grammyjs/transformer-throttler","reg":"x","vers":"v1.0.0"}
+{"name":"grammy_transformer_throttler","desc":"Throttling transformer for grammY","repo":"https://github.com/grammyjs/transformer-throttler","reg":"x","vers":"v1.0.1"}

@@ -7,3 +7,4 @@
 {"name":"websocket","desc":"🦕 A simple WebSocket library like ws of node.js library for deno","repo":"https://github.com/ryo-ma/deno-websocket","reg":"x","vers":"v0.1.0"}
 {"name":"websocket","desc":"🦕 A simple WebSocket library like ws of node.js library for deno","repo":"https://github.com/ryo-ma/deno-websocket","reg":"x","vers":"v0.1.1"}
 {"name":"websocket","desc":"🦕 A simple WebSocket library like ws of node.js library for deno","repo":"https://github.com/ryo-ma/deno-websocket","reg":"x","vers":"v0.1.2"}
+{"name":"websocket","desc":"🦕 A simple WebSocket library like ws of node.js library for deno","repo":"https://github.com/ryo-ma/deno-websocket","reg":"x","vers":"v0.1.3"}
