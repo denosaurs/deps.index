@@ -6,3 +6,4 @@
 {"name":"jose","desc":"Universal \"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK with no dependencies","repo":"https://github.com/panva/jose","reg":"x","vers":"v3.15.4"}
 {"name":"jose","desc":"Universal \"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK with no dependencies","repo":"https://github.com/panva/jose","reg":"x","vers":"v3.15.5"}
 {"name":"jose","desc":"Universal \"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK with no dependencies","repo":"https://github.com/panva/jose","reg":"x","vers":"v3.16.0"}
+{"name":"jose","desc":"Universal \"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK with no dependencies","repo":"https://github.com/panva/jose","reg":"x","vers":"v3.16.1"}
