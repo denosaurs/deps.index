@@ -2,3 +2,4 @@
 {"name":"birdie","desc":"Lightweight, high-speed, WASM powered code for Deno","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"0.1.1"}
 {"name":"birdie","desc":"Lightweight, high-speed, WASM powered code for Deno","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"0.1.2"}
 {"name":"birdie","desc":"Lightweight, high-speed, WASM powered code for Deno","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"0.1.3"}
+{"name":"birdie","desc":"High-speed, WASM-powered bioinformatics module for Deno","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"0.2.0"}
