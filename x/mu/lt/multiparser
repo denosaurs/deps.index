@@ -5,3 +5,4 @@
 {"name":"multiparser","desc":"multipart/form-data parser for Deno servers","repo":"https://github.com/deligenius/multiparser","reg":"x","vers":"v2.0.2"}
 {"name":"multiparser","desc":"multipart/form-data parser for Deno servers","repo":"https://github.com/deligenius/multiparser","reg":"x","vers":"v2.0.3"}
 {"name":"multiparser","desc":"multipart/form-data parser for Deno servers","repo":"https://github.com/deligenius/multiparser","reg":"x","vers":"v2.1.0"}
+{"name":"multiparser","desc":"multipart/form-data parser for Deno servers","repo":"https://github.com/deligenius/multiparser","reg":"x","vers":"v0.105.0"}

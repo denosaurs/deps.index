@@ -48,3 +48,6 @@
 {"name":"denoexec","desc":"A higher level wrapper around https://doc.deno.land/builtin/stable#Deno.run","repo":"https://github.com/brad-jones/denoexec","reg":"x","vers":"v1.0.47"}
 {"name":"denoexec","desc":"A higher level wrapper around https://doc.deno.land/builtin/stable#Deno.run","repo":"https://github.com/brad-jones/denoexec","reg":"x","vers":"v1.0.48"}
 {"name":"denoexec","desc":"A higher level wrapper around https://doc.deno.land/builtin/stable#Deno.run","repo":"https://github.com/brad-jones/denoexec","reg":"x","vers":"v1.0.49"}
+{"name":"denoexec","desc":"A higher level wrapper around https://doc.deno.land/builtin/stable#Deno.run","repo":"https://github.com/brad-jones/denoexec","reg":"x","vers":"v1.0.50"}
+{"name":"denoexec","desc":"A higher level wrapper around https://doc.deno.land/builtin/stable#Deno.run","repo":"https://github.com/brad-jones/denoexec","reg":"x","vers":"v1.0.51"}
+{"name":"denoexec","desc":"A higher level wrapper around https://doc.deno.land/builtin/stable#Deno.run","repo":"https://github.com/brad-jones/denoexec","reg":"x","vers":"v1.0.52"}

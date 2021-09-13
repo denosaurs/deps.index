@@ -1,0 +1,1 @@
+{"name":"http_problem_details","desc":"This library implements HTTP Problem details (RFC 7807) for HTTP APIs build with Node.js.","repo":"https://github.com/flowbench/http_problem_details","reg":"x","vers":"0.1.5"}

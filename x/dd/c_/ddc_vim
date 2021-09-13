@@ -26,3 +26,4 @@
 {"name":"ddc_vim","desc":"Dark deno powered completion framework for neovim/Vim8","repo":"https://github.com/Shougo/ddc.vim","reg":"x","vers":"v0.5.0"}
 {"name":"ddc_vim","desc":"Dark deno powered completion framework for neovim/Vim8","repo":"https://github.com/Shougo/ddc.vim","reg":"x","vers":"v0.5.1"}
 {"name":"ddc_vim","desc":"Dark deno powered completion framework for neovim/Vim8","repo":"https://github.com/Shougo/ddc.vim","reg":"x","vers":"v0.5.2"}
+{"name":"ddc_vim","desc":"Dark deno powered completion framework for neovim/Vim8","repo":"https://github.com/Shougo/ddc.vim","reg":"x","vers":"v0.5.3"}
