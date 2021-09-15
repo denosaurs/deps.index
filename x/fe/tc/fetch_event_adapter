@@ -10,3 +10,4 @@
 {"name":"fetch_event_adapter","desc":"Dispatches global fetch events using Deno's native http server.","repo":"https://github.com/worker-tools/deno-fetch-event-adapter","reg":"x","vers":"v0.3.3"}
 {"name":"fetch_event_adapter","desc":"Dispatches global fetch events using Deno's native http server.","repo":"https://github.com/worker-tools/deno-fetch-event-adapter","reg":"x","vers":"v0.3.4"}
 {"name":"fetch_event_adapter","desc":"Dispatches global fetch events using Deno's native http server.","repo":"https://github.com/worker-tools/deno-fetch-event-adapter","reg":"x","vers":"v0.3.5"}
+{"name":"fetch_event_adapter","desc":"Dispatches global fetch events using Deno's native http server.","repo":"https://github.com/worker-tools/deno-fetch-event-adapter","reg":"x","vers":"v0.4.0"}
