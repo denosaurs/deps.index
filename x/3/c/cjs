@@ -1,1 +1,2 @@
 {"name":"cjs","desc":"A Deno implementation to create variables like __dirname and __filename of Node.js","repo":"https://github.com/sant123/cjs","reg":"x","vers":"v1.0.0"}
+{"name":"cjs","desc":"A Deno implementation to create variables like __dirname and __filename of Node.js","repo":"https://github.com/sant123/cjs","reg":"x","vers":"v1.0.1"}

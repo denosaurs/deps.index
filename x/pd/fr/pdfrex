@@ -1,0 +1,1 @@
+{"name":"pdfrex","desc":"PDF manipulation module for Deno - split, merge, rotate, watermark, etc. (uses pdf-lib library).","repo":"https://github.com/jackfiszr/pdfrex","reg":"x","vers":"v0.0.1"}
