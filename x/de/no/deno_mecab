@@ -1,2 +1,4 @@
 {"name":"deno_mecab","desc":"An asynchronous Japanese morphological analysis module using MeCab.","repo":"https://github.com/sera1mu/deno-mecab","reg":"x","vers":"v1.0.0"}
 {"name":"deno_mecab","desc":"An asynchronous Japanese morphological analysis module using MeCab.","repo":"https://github.com/sera1mu/deno-mecab","reg":"x","vers":"v1.0.1"}
+{"name":"deno_mecab","desc":"An asynchronous Japanese morphological analysis module using MeCab","repo":"https://github.com/sera1mu/deno_mecab","reg":"x","vers":"v1.1.0"}
+{"name":"deno_mecab","desc":"An asynchronous Japanese morphological analysis module using MeCab","repo":"https://github.com/sera1mu/deno_mecab","reg":"x","vers":"v1.1.1"}
