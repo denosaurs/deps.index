@@ -1,2 +1,4 @@
 {"name":"mux_async_iterable","desc":"Multiplexer of async iterators for JavaScript, written in TypeScript","repo":"https://github.com/kt3k/mux_async_iterable","reg":"x","vers":"v1.0.1"}
 {"name":"mux_async_iterable","desc":"Multiplexer of async iterators for JavaScript, written in TypeScript","repo":"https://github.com/kt3k/mux_async_iterable","reg":"x","vers":"v1.0.2"}
+{"name":"mux_async_iterable","desc":"Multiplexer of async iterables for JavaScript, written in TypeScript","repo":"https://github.com/kt3k/mux_async_iterable","reg":"x","vers":"v1.0.4"}
+{"name":"mux_async_iterable","desc":"Multiplexer of async iterables for JavaScript, written in TypeScript","repo":"https://github.com/kt3k/mux_async_iterable","reg":"x","vers":"v1.0.5"}
