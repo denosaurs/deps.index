@@ -1,3 +1,4 @@
 {"name":"omelette","desc":"Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)","repo":"https://github.com/f/omelette","reg":"x","vers":"0.4.15-2"}
 {"name":"omelette","desc":"Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)","repo":"https://github.com/f/omelette","reg":"x","vers":"v0.4.15"}
 {"name":"omelette","desc":"Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)","repo":"https://github.com/f/omelette","reg":"x","vers":"v0.4.16"}
+{"name":"omelette","desc":"Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)","repo":"https://github.com/f/omelette","reg":"x","vers":"v0.4.17"}
