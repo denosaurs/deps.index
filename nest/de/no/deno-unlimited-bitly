@@ -1,0 +1,1 @@
+{"name":"deno-unlimited-bitly","desc":"deno-unlimited-bitly is a module which can combine many Bitly accounts together to be an extensible quota usage. This module has to run in a Deno compatible environment.","repo":"https://github.com/WayneChang65/deno-unlimited-bitly","reg":"nest","vers":"v1.0.2"}

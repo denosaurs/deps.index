@@ -13,3 +13,4 @@
 {"name":"sql_builder","desc":"SQL query builder for Deno","repo":"https://github.com/manyuanrong/sql-builder","reg":"x","vers":"v1.7.0"}
 {"name":"sql_builder","desc":"SQL query builder for Deno","repo":"https://github.com/manyuanrong/sql-builder","reg":"x","vers":"v1.8.0"}
 {"name":"sql_builder","desc":"SQL query builder for Deno","repo":"https://github.com/manyuanrong/sql-builder","reg":"x","vers":"v1.9.0"}
+{"name":"sql_builder","desc":"SQL query builder for Deno","repo":"https://github.com/manyuanrong/sql-builder","reg":"x","vers":"v1.9.1"}
