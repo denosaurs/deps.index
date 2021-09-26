@@ -1,1 +1,1 @@
-[{"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":["0.0.0","0.0.2","0.0.3"]}]
+[{"name":"clear","desc":"🧽 Utilities to clean the console + CLI App","repo":"https://github.com/UltiRequiem/deno-clear","reg":"nest","vers":["1.2.2"]}]
