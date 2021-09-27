@@ -1,3 +1,4 @@
 {"name":"fibonacci","desc":"🦕 Fibonacci Number and Sequence Utilities","repo":"https://github.com/UltiRequiem/fibonacci-deno","reg":"nest","vers":"v0.2.0"}
 {"name":"fibonacci","desc":"🦕 Fibonacci Number and Sequence Utilities","repo":"https://github.com/UltiRequiem/fibonacci-deno","reg":"nest","vers":"1.0.1"}
 {"name":"fibonacci","desc":"🦕 Fibonacci Number and Sequence Utilities","repo":"https://github.com/UltiRequiem/fibonacci-deno","reg":"nest","vers":"1.1.1"}
+{"name":"fibonacci","desc":"📘 Sum Utilities for Deno","repo":"https://github.com/UltiRequiem/deno-sum","reg":"nest","vers":"0.1.1"}
