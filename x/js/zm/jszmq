@@ -1,2 +1,3 @@
 {"name":"jszmq","desc":"Deno ZeroMQ Websockets(ZWS2.0) transport","repo":"https://github.com/rracariu/deno-jszmq","reg":"x","vers":"v0.8.0"}
 {"name":"jszmq","desc":"Deno ZeroMQ Websockets(ZWS2.0) transport","repo":"https://github.com/rracariu/deno-jszmq","reg":"x","vers":"v0.9.0"}
+{"name":"jszmq","desc":"Deno ZeroMQ Websockets(ZWS2.0) transport","repo":"https://github.com/rracariu/deno-jszmq","reg":"x","vers":"v0.9.1"}
