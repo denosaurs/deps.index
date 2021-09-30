@@ -1,1 +1,1 @@
-[{"name":"exchange_connectors","desc":"Exchange Connectors supporting the emergence of perfect markets","repo":"https://github.com/distributed-ledger-technology/exchange-connectors","reg":"x","vers":["v0.2.0","v0.1.0","v0.0.2"]},{"name":"assertion_error","desc":"Error constructor for test and validation frameworks that implements standardized AssertionError specification.","repo":null,"reg":"x","vers":[]}]
+[{"name":"rdi","desc":"Reactive HyperText Markup Language https://r-html.github.io/rhtml/","repo":"https://github.com/r-html/rhtml","reg":"x","vers":["v0.0.82"]}]
