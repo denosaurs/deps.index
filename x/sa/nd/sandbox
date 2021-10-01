@@ -1,3 +1,4 @@
 {"name":"sandbox","desc":"🦕 Create a temporary sandbox directory which is removed when the instance is disposed","repo":"https://github.com/lambdalisue/deno-sandbox","reg":"x","vers":"v0.1.0"}
 {"name":"sandbox","desc":"🦕 Create a temporary sandbox directory which is removed when the instance is disposed","repo":"https://github.com/lambdalisue/deno-sandbox","reg":"x","vers":"v0.2.0"}
 {"name":"sandbox","desc":"🦕 Create a temporary sandbox directory which is removed when the instance is disposed","repo":"https://github.com/lambdalisue/deno-sandbox","reg":"x","vers":"v1.0.0"}
+{"name":"sandbox","desc":"🦕 Create a temporary sandbox directory which is removed when the instance is disposed","repo":"https://github.com/lambdalisue/deno-sandbox","reg":"x","vers":"v1.0.1"}
