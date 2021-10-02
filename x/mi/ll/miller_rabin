@@ -1,0 +1,3 @@
+{"name":"miller_rabin","desc":"Modern rewrite of miller-rabin","repo":"https://github.com/deno-libs/miller_rabin","reg":"x","vers":"0.1.1"}
+{"name":"miller_rabin","desc":"Modern rewrite of miller-rabin","repo":"https://github.com/deno-libs/miller_rabin","reg":"x","vers":"1.0.0"}
+{"name":"miller_rabin","desc":"Modern rewrite of miller-rabin","repo":"https://github.com/deno-libs/miller_rabin","reg":"x","vers":"1.0.1"}
