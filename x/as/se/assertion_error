@@ -1,0 +1,1 @@
+{"name":"assertion_error","desc":"Error constructor for test and validation frameworks that implements standardized AssertionError specification.","repo":"https://github.com/chaijs/assertion-error","reg":"x","vers":"v2.0.0"}
