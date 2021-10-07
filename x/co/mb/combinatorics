@@ -1,2 +1,3 @@
 {"name":"combinatorics","desc":"Combinatoric generators written in TypeScript for Deno.","repo":"https://github.com/N8Brooks/combinatorics","reg":"x","vers":"0.1.0"}
 {"name":"combinatorics","desc":"Combinatoric generators written in TypeScript for Deno.","repo":"https://github.com/N8Brooks/combinatorics","reg":"x","vers":"0.2.0"}
+{"name":"combinatorics","desc":"Combinatoric generators written in TypeScript for Deno. Includes combinations, permutations, combinations with replacement, permutations with replacement, cartesian products, and power sets.","repo":"https://github.com/N8Brooks/combinatorics","reg":"x","vers":"0.3.0"}

@@ -1,1 +1,1 @@
-[{"name":"shorty","desc":"CLI Tool and library to shorten URLS.","repo":"https://github.com/UltiRequiem/shory","reg":"nest","vers":["1.1.1"]},{"name":"y2j","desc":"Simple CLI tool and library to convert YAML to JSON and vice versa.","repo":"https://github.com/UltiRequiem/y2j","reg":"nest","vers":["1.0.1","1.1.1"]}]
+[{"name":"http_compression","desc":"🦕🟦 A lightweight Deno HTTP client library for IPFS","repo":"https://deno.land/x/http_compression","reg":"nest","vers":["0.2.2"]}]
