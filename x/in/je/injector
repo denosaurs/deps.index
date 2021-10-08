@@ -1,3 +1,4 @@
 {"name":"injector","desc":"Dependency injection via dependency lookup as simple as it gets","repo":"https://github.com/distributed-ledger-technology/injector","reg":"x","vers":"v0.0.1"}
 {"name":"injector","desc":"Dependency injection via dependency lookup as simple as it gets","repo":"https://github.com/distributed-ledger-technology/injector","reg":"x","vers":"v1.0.0"}
 {"name":"injector","desc":"Dependency injection via dependency lookup as simple as it gets","repo":"https://github.com/distributed-ledger-technology/injector","reg":"x","vers":"v1.1.0"}
+{"name":"injector","desc":"Dependency Injection - as simple as it gets","repo":"https://github.com/distributed-ledger-technology/injector","reg":"x","vers":"v1.1.1"}
