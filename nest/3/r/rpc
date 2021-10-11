@@ -1,3 +1,4 @@
 {"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.0"}
 {"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.2"}
 {"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.3"}
+{"name":"rpc","desc":"📡 JSONRPC server implementation for Deno","repo":"https://github.com/deno-libs/rpc","reg":"nest","vers":"0.0.4"}
