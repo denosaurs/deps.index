@@ -1,0 +1,1 @@
+{"name":"deno_bindgen","desc":"Simplified glue code generation for Deno FFI libraries written in Rust.","repo":"https://github.com/littledivy/deno_bindgen","reg":"x","vers":"0.1.0"}

@@ -1,1 +1,2 @@
 {"name":"deno_cache","desc":"A TypeScript implementation of Deno CLI's module cache","repo":"https://github.com/kitsonk/deno_cache","reg":"x","vers":"0.1.0"}
+{"name":"deno_cache","desc":"A TypeScript implementation of Deno CLI's module cache","repo":"https://github.com/kitsonk/deno_cache","reg":"x","vers":"0.2.0"}
