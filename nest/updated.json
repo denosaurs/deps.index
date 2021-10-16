@@ -1,1 +1,1 @@
-[]
+[{"name":"parsec","desc":"Tiny body parser for Deno. Port of the milliparsec library.","repo":"https://github.com/deno-libs/parsec","reg":"nest","vers":["0.0.5","0.0.6","0.0.7","0.0.13","0.1.0","0.1.1"]},{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":["0.0.2","0.0.3","0.0.4","0.0.5","0.0.6","0.0.7","0.0.8","0.0.9","0.0.10"]}]
