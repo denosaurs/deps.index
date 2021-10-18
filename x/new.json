@@ -1,1 +1,1 @@
-[]
+[{"name":"iced","desc":"GUIs with Deno","repo":null,"reg":"x","vers":[]},{"name":"scriptz","desc":"","repo":"https://github.com/joaomelo/scriptz","reg":"x","vers":["0.0.4","0.0.3","0.0.2","0.0.1"]},{"name":"yarntools","desc":"General tools for working with Yarn PnP modules","repo":"https://github.com/drazisil/yarntools","reg":"x","vers":["v0.0.3","v0.0.2"]},{"name":"markdown_it_mindmap","desc":"A markdown-it plugin for markmap.","repo":"https://github.com/NeroBlackstone/markdown-it-mindmap","reg":"x","vers":["0.1.1","0.1.0"]}]
