@@ -11,3 +11,5 @@
 {"name":"dnt","desc":"Prototype for a Deno to Node/canonical TypeScript transform.","repo":"https://github.com/dsherret/dnt","reg":"x","vers":"0.0.11"}
 {"name":"dnt","desc":"Prototype for a Deno to Node/canonical TypeScript transform.","repo":"https://github.com/dsherret/dnt","reg":"x","vers":"0.0.12"}
 {"name":"dnt","desc":"Prototype for a Deno to Node/canonical TypeScript transform.","repo":"https://github.com/dsherret/dnt","reg":"x","vers":"0.0.13"}
+{"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/dsherret/dnt","reg":"x","vers":"0.0.14"}
+{"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/dsherret/dnt","reg":"x","vers":"0.0.15"}
