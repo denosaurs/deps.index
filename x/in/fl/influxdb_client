@@ -1,2 +1,3 @@
 {"name":"influxdb_client","desc":"InfluxDB 2.0 JavaScript client","repo":"https://github.com/influxdata/influxdb-client-js","reg":"x","vers":"v1.17.0"}
 {"name":"influxdb_client","desc":"InfluxDB 2.0 JavaScript client","repo":"https://github.com/influxdata/influxdb-client-js","reg":"x","vers":"v1.18.0"}
+{"name":"influxdb_client","desc":"InfluxDB 2.0 JavaScript client","repo":"https://github.com/influxdata/influxdb-client-js","reg":"x","vers":"v1.19.0"}

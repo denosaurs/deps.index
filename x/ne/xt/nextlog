@@ -1,1 +1,2 @@
 {"name":"nextlog","desc":"This library adds differents console log in Deno.","repo":"https://github.com/FlamesX-128/NextLog.ts","reg":"x","vers":"v0.1.0"}
+{"name":"nextlog","desc":"This library adds different console logs with status and color in Deno.","repo":"https://github.com/FlamesX-128/NextLog.ts","reg":"x","vers":"v0.2.0"}
