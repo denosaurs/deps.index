@@ -1,0 +1,1 @@
+{"name":"oak_hooks","desc":"A wrapper of the oak middleware framework which exposes a functional hook-based API.","repo":"https://github.com/tommy-josepovic/oak-hooks","reg":"x","vers":"v9.0.0"}

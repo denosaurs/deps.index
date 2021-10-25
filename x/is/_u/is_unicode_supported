@@ -1,1 +1,2 @@
 {"name":"is_unicode_supported","desc":"🖥️ Detect whether the terminal supports Unicode","repo":"https://github.com/UltiRequiem/deno_is_unicode_supported","reg":"x","vers":"v1.0.0"}
+{"name":"is_unicode_supported","desc":"🖥️ Detect whether the terminal supports Unicode","repo":"https://github.com/UltiRequiem/deno_is_unicode_supported","reg":"x","vers":"v1.1.0"}
