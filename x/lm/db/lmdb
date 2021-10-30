@@ -3,3 +3,4 @@
 {"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-store","reg":"x","vers":"v1.6.11"}
 {"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-store","reg":"x","vers":"v2.0.0-alpha1"}
 {"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-store","reg":"x","vers":"v2.0.0-alpha2"}
+{"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-store","reg":"x","vers":"v2.0.0-beta1"}

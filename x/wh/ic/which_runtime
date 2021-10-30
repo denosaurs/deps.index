@@ -1,0 +1,1 @@
+{"name":"which_runtime","desc":"Deno module for checking which runtime the code is running in.","repo":"https://github.com/dsherret/which_runtime","reg":"x","vers":"0.1.0"}
