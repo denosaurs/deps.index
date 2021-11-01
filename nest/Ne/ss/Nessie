@@ -11,3 +11,4 @@
 {"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.0-rc4"}
 {"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.0"}
 {"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.1"}
+{"name":"Nessie","desc":"A modular database migration module for Deno.","repo":"https://github.com/halvardssm/deno-nessie","reg":"nest","vers":"2.0.4"}

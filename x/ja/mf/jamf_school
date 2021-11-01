@@ -3,3 +3,4 @@
 {"name":"jamf_school","desc":"An unofficial API wrapper for Jamf School (alpha)","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.2.1"}
 {"name":"jamf_school","desc":"An unofficial API wrapper for Jamf School (alpha)","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.3.0"}
 {"name":"jamf_school","desc":"Unofficial Jamf School API wrapper","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.3.1"}
+{"name":"jamf_school","desc":"Unofficial Jamf School API wrapper","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.3.2"}
