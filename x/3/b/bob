@@ -2,3 +2,4 @@
 {"name":"bob","desc":"Statically typed static site generator based on Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v1.1.0"}
 {"name":"bob","desc":"Statically typed static site generator based on Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v1.1.1"}
 {"name":"bob","desc":"Statically typed static site generator based on Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v1.2.0"}
+{"name":"bob","desc":"Statically typed static site generator based on Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.0.0"}
