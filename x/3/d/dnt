@@ -24,3 +24,5 @@
 {"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.1.3"}
 {"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.2.0"}
 {"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.2.1"}
+{"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.2.2"}
+{"name":"dnt","desc":"Prototype for a Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.3.0"}
