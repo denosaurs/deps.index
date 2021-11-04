@@ -1,0 +1,1 @@
+{"name":"ttl_storage","desc":"Store stuff in memory, with client or server, with or without a timeout. (This module does not interact with a browser's localStorage.)","repo":"https://github.com/gold/ttl-storage","reg":"x","vers":"v5000.0.1"}

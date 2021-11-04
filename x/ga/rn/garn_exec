@@ -1,3 +1,6 @@
 {"name":"garn_exec","desc":"","repo":"https://github.com/jupegarnica/garn-exec","reg":"x","vers":"0.1.0"}
 {"name":"garn_exec","desc":"","repo":"https://github.com/jupegarnica/garn-exec","reg":"x","vers":"0.2.0"}
 {"name":"garn_exec","desc":"","repo":"https://github.com/jupegarnica/garn-exec","reg":"x","vers":"0.3.0"}
+{"name":"garn_exec","desc":"A deno utility to run subprocess easily.","repo":"https://github.com/jupegarnica/garn-exec","reg":"x","vers":"0.3.1"}
+{"name":"garn_exec","desc":"A deno utility to run subprocess easily.","repo":"https://github.com/jupegarnica/garn-exec","reg":"x","vers":"0.3.2"}
+{"name":"garn_exec","desc":"A deno utility to run subprocess easily.","repo":"https://github.com/jupegarnica/garn-exec","reg":"x","vers":"0.3.3"}
