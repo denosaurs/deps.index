@@ -1,3 +1,4 @@
 {"name":"joss","desc":"JS Open Serialization Scheme","repo":"https://github.com/wynntee/joss","reg":"x","vers":"1.0.0"}
 {"name":"joss","desc":"JS Open Serialization Scheme","repo":"https://github.com/wynntee/joss","reg":"x","vers":"1.0.1"}
 {"name":"joss","desc":"JOSS can serialize almost every JavaScript data type and data structure, so data can be seamlessly exchanged between browsers and servers (Deno or Node.js).","repo":"https://github.com/wynntee/joss","reg":"x","vers":"1.0.2"}
+{"name":"joss","desc":"JOSS can serialize almost every JavaScript data type and data structure, so data can be seamlessly exchanged between browsers and servers (Deno or Node.js).","repo":"https://github.com/quantirisk/joss","reg":"x","vers":"1.0.3"}
