@@ -7,3 +7,6 @@
 {"name":"clank","desc":"A simple CLI that runs your C++ code JIT","repo":"https://github.com/ryanccn/clank","reg":"x","vers":"0.1.3"}
 {"name":"clank","desc":"A simple CLI that runs your C++ code JIT","repo":"https://github.com/ryanccn/clank","reg":"x","vers":"0.1.4"}
 {"name":"clank","desc":"A simple CLI that runs your C++ code JIT","repo":"https://github.com/ryanccn/clank","reg":"x","vers":"0.1.5"}
+{"name":"clank","desc":"A simple CLI that runs your C++ code JIT","repo":"https://github.com/ryanccn/clank","reg":"x","vers":"0.2.0"}
+{"name":"clank","desc":"A simple CLI that runs your C++ code JIT","repo":"https://github.com/ryanccn/clank","reg":"x","vers":"0.2.1"}
+{"name":"clank","desc":"A simple CLI that runs your C++ code JIT","repo":"https://github.com/ryanccn/clank","reg":"x","vers":"0.2.2"}
