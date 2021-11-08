@@ -1,1 +1,1 @@
-[{"name":"mod","desc":"Start a new Deno module","repo":"https://github.com/GJZwiers/mod","reg":"nest","vers":["v0.1.0","v1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.0.4","v1.0.5"]}]
+[{"name":"anybar","desc":"Control AnyBar","repo":"https://github.com/pumpncode/anybar","reg":"nest","vers":["0.1.0","0.1.1","0.1.2","0.1.3"]},{"name":"simple-dotenv","desc":"A very simple module to read env file","repo":"https://github.com/lion-man44/simple-dotenv","reg":"nest","vers":["0.0.1","0.0.2"]}]
