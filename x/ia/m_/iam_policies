@@ -37,3 +37,4 @@
 {"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.11.0"}
 {"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.12.0"}
 {"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.13.0"}
+{"name":"iam_policies","desc":"Iam policies implementation for create roles and manage permissions","repo":"https://github.com/roggervalf/iam-policies","reg":"x","vers":"v4.14.0"}

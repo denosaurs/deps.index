@@ -11,3 +11,6 @@
 {"name":"web3","desc":"Ethereum TypeScript API","repo":"https://github.com/michael-spengler/web3","reg":"x","vers":"v0.4.2"}
 {"name":"web3","desc":"Ethereum TypeScript API","repo":"https://github.com/michael-spengler/web3","reg":"x","vers":"v0.4.3"}
 {"name":"web3","desc":"Deno / TypeScript to Ethereum Connector","repo":"https://github.com/distributed-ledger-technology/web3","reg":"x","vers":"v0.5.0"}
+{"name":"web3","desc":"Deno / TypeScript to Ethereum Connector","repo":"https://github.com/distributed-ledger-technology/web3","reg":"x","vers":"v0.5.1"}
+{"name":"web3","desc":"Deno / TypeScript to Ethereum Connector","repo":"https://github.com/distributed-ledger-technology/web3","reg":"x","vers":"v0.5.2"}
+{"name":"web3","desc":"Deno / TypeScript to Ethereum Connector","repo":"https://github.com/distributed-ledger-technology/web3","reg":"x","vers":"v0.5.3"}

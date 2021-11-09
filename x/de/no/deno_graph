@@ -15,3 +15,4 @@
 {"name":"deno_graph","desc":"The module graph logic for Deno CLI","repo":"https://github.com/denoland/deno_graph","reg":"x","vers":"0.9.1"}
 {"name":"deno_graph","desc":"The module graph logic for Deno CLI","repo":"https://github.com/denoland/deno_graph","reg":"x","vers":"0.10.0"}
 {"name":"deno_graph","desc":"The module graph logic for Deno CLI","repo":"https://github.com/denoland/deno_graph","reg":"x","vers":"0.11.0"}
+{"name":"deno_graph","desc":"The module graph logic for Deno CLI","repo":"https://github.com/denoland/deno_graph","reg":"x","vers":"0.11.1"}
