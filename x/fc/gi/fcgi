@@ -20,3 +20,4 @@
 {"name":"fcgi","desc":"FastCGI implementation for Deno","repo":"https://github.com/jeremiah-shaulov/deno_fcgi","reg":"x","vers":"v0.0.20"}
 {"name":"fcgi","desc":"FastCGI implementation for Deno","repo":"https://github.com/jeremiah-shaulov/deno_fcgi","reg":"x","vers":"v0.0.21"}
 {"name":"fcgi","desc":"FastCGI implementation for Deno","repo":"https://github.com/jeremiah-shaulov/deno_fcgi","reg":"x","vers":"v1.0.0"}
+{"name":"fcgi","desc":"FastCGI implementation for Deno","repo":"https://github.com/jeremiah-shaulov/deno_fcgi","reg":"x","vers":"v1.0.1"}

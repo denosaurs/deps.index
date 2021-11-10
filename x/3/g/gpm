@@ -2,3 +2,4 @@
 {"name":"gpm","desc":"Git-based package manager for Deno","repo":"https://github.com/oscarotero/gpm","reg":"x","vers":"v0.2.0"}
 {"name":"gpm","desc":"Git-based package manager for Deno","repo":"https://github.com/oscarotero/gpm","reg":"x","vers":"v0.2.1"}
 {"name":"gpm","desc":"Git-based package manager for Deno","repo":"https://github.com/oscarotero/gpm","reg":"x","vers":"v0.3.0"}
+{"name":"gpm","desc":"Git-based package manager for Deno","repo":"https://github.com/oscarotero/gpm","reg":"x","vers":"v0.4.0"}

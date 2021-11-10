@@ -1,0 +1,1 @@
+{"name":"esbuild_plugin_view_source","desc":"An esbuild plugin that enables built modules to be imported as source","repo":"https://github.com/jed/esbuild-plugin-view-source","reg":"x","vers":"v1.0.0"}
