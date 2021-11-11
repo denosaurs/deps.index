@@ -4,3 +4,4 @@
 {"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.0.3"}
 {"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.0.4"}
 {"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.0.5"}
+{"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.0.6"}

@@ -4,3 +4,4 @@
 {"name":"solc","desc":"💎 Solidity v0.8.7 bindings for Deno","repo":"https://github.com/deno-libs/solc","reg":"nest","vers":"1.0.0-alpha.9"}
 {"name":"solc","desc":"💎 Solidity v0.8.7 bindings for Deno","repo":"https://github.com/deno-libs/solc","reg":"nest","vers":"1.0.0"}
 {"name":"solc","desc":"💎 Solidity v0.8.7 bindings for Deno","repo":"https://github.com/deno-libs/solc","reg":"nest","vers":"1.0.1"}
+{"name":"solc","desc":"💎 Solidity v0.8.7 bindings for Deno","repo":"https://github.com/deno-libs/solc","reg":"nest","vers":"1.0.2"}
