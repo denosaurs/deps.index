@@ -1,3 +1,4 @@
 {"name":"natsws","desc":"WebSocket NATS","repo":"https://github.com/nats-io/nats.ws","reg":"x","vers":"v1.4.0-1"}
 {"name":"natsws","desc":"WebSocket NATS","repo":"https://github.com/nats-io/nats.ws","reg":"x","vers":"v1.4.0"}
 {"name":"natsws","desc":"WebSocket NATS","repo":"https://github.com/nats-io/nats.ws","reg":"x","vers":"v1.4.1"}
+{"name":"natsws","desc":"WebSocket NATS","repo":"https://github.com/nats-io/nats.ws","reg":"x","vers":"v1.5.0"}

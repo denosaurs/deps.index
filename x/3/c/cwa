@@ -1,1 +1,2 @@
 {"name":"cwa","desc":"Deno library for uploading & publishing extensions and themes to the Chrome Web Store","repo":"https://github.com/getoslash/chrome-webstore-api","reg":"x","vers":"v1.0.0"}
+{"name":"cwa","desc":"Deno library for uploading & publishing extensions and themes to the Chrome Web Store","repo":"https://github.com/getoslash/chrome-webstore-api","reg":"x","vers":"v1.0.1"}

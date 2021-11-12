@@ -8,3 +8,5 @@
 {"name":"mod","desc":"Simple Command Line Interface to start a new Deno project with a single command","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v1.0.6"}
 {"name":"mod","desc":"Simple Command Line Interface to start a new Deno project with a single command","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.0.0"}
 {"name":"mod","desc":"Simple Command Line Interface to start a new Deno project with a single command","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.1.0"}
+{"name":"mod","desc":"Simple Command Line Interface to start a new Deno project with a single command","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.2.0"}
+{"name":"mod","desc":"Simple Command Line Interface to start a new Deno project with a single command","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.2.1"}
