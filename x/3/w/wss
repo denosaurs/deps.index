@@ -1,0 +1,1 @@
+{"name":"wss","desc":"Deno package to easily create a WebSocket server that runs over TLS.","repo":"https://github.com/Altafonte/simple-secure-websocket-server","reg":"x","vers":"1.0.1"}

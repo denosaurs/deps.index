@@ -22,3 +22,6 @@
 {"name":"edcb","desc":"A build tool and task runner for Deno.","repo":"https://github.com/eibens/edcb","reg":"x","vers":"v0.9.0-alpha"}
 {"name":"edcb","desc":"A build tool and task runner for Deno.","repo":"https://github.com/eibens/edcb","reg":"x","vers":"v0.9.0-alpha.1"}
 {"name":"edcb","desc":"A build tool and task runner for Deno.","repo":"https://github.com/eibens/edcb","reg":"x","vers":"v0.9.0-alpha.2"}
+{"name":"edcb","desc":"A build tool and task runner for Deno.","repo":"https://github.com/eibens/edcb","reg":"x","vers":"v1.0.0-alpha"}
+{"name":"edcb","desc":"A build tool and task runner for Deno.","repo":"https://github.com/eibens/edcb","reg":"x","vers":"v1.0.0-alpha.1"}
+{"name":"edcb","desc":"A build tool and task runner for Deno.","repo":"https://github.com/eibens/edcb","reg":"x","vers":"v1.0.0-alpha.2"}
