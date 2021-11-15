@@ -66,3 +66,6 @@
 {"name":"discordeno","desc":"Discord API library for Deno","repo":"https://github.com/discordeno/discordeno","reg":"x","vers":"12.0.1"}
 {"name":"discordeno","desc":"Discord API library for Deno","repo":"https://github.com/discordeno/discordeno","reg":"x","vers":"13.0.0-rc1"}
 {"name":"discordeno","desc":"Discord API library for Deno","repo":"https://github.com/discordeno/discordeno","reg":"x","vers":"13.0.0-rc2"}
+{"name":"discordeno","desc":"Discord API library for Deno","repo":"https://github.com/discordeno/discordeno","reg":"x","vers":"13.0.0-rc3"}
+{"name":"discordeno","desc":"Discord API library for Deno","repo":"https://github.com/discordeno/discordeno","reg":"x","vers":"13.0.0-rc4"}
+{"name":"discordeno","desc":"Discord API library for Deno","repo":"https://github.com/discordeno/discordeno","reg":"x","vers":"13.0.0-rc5"}
