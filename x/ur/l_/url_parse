@@ -1,1 +1,2 @@
 {"name":"url_parse","desc":"A simple url builder based on the URL object for Deno with typescript","repo":"roonie007/url-parse","reg":"x","vers":"1.0.0"}
+{"name":"url_parse","desc":"A simple url builder based on the URL object for Deno with typescript","repo":"https://github.com/roonie007/url-parse","reg":"x","vers":"1.1.0"}
