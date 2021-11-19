@@ -3,3 +3,6 @@
 {"name":"fauna","desc":"Javascript driver for FaunaDB","repo":"https://github.com/yacinehmito/faunadb-js","reg":"x","vers":"5.0.0-deno-alpha3"}
 {"name":"fauna","desc":"Javascript driver for FaunaDB","repo":"https://github.com/yacinehmito/faunadb-js","reg":"x","vers":"5.0.0-deno-alpha4"}
 {"name":"fauna","desc":"Javascript driver for FaunaDB","repo":"https://github.com/yacinehmito/faunadb-js","reg":"x","vers":"5.0.0-deno-alpha5"}
+{"name":"fauna","desc":"Javascript driver for FaunaDB","repo":"https://github.com/fabriq/fauna-deno","reg":"x","vers":"5.0.0-deno-alpha6"}
+{"name":"fauna","desc":"Javascript driver for FaunaDB","repo":"https://github.com/fabriq/fauna-deno","reg":"x","vers":"5.0.0-deno-alpha7"}
+{"name":"fauna","desc":"Javascript driver for FaunaDB","repo":"https://github.com/fabriq/fauna-deno","reg":"x","vers":"5.0.0-deno-alpha8"}

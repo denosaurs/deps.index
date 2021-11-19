@@ -9,3 +9,5 @@
 {"name":"dxcfg","desc":"deno port of https://jkcfg.github.io/","repo":"https://github.com/dxcfg/dxcfg","reg":"x","vers":"v0.0.9"}
 {"name":"dxcfg","desc":"deno port of https://jkcfg.github.io/","repo":"https://github.com/dxcfg/dxcfg","reg":"x","vers":"v0.0.10"}
 {"name":"dxcfg","desc":"deno port of https://jkcfg.github.io/","repo":"https://github.com/dxcfg/dxcfg","reg":"x","vers":"v0.0.11"}
+{"name":"dxcfg","desc":"Configuration as code for the masses","repo":"https://github.com/dxcfg/dxcfg","reg":"x","vers":"v0.2.0"}
+{"name":"dxcfg","desc":"Configuration as code for the masses","repo":"https://github.com/dxcfg/dxcfg","reg":"x","vers":"v0.2.1"}
