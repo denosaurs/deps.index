@@ -18,3 +18,5 @@
 {"name":"oauth2_server","desc":"A standards compliant implementation of an OAuth 2.0 authorization server with PKCE support.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"0.8.0"}
 {"name":"oauth2_server","desc":"A standards compliant implementation of an OAuth 2.0 authorization server with PKCE support.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"0.8.1"}
 {"name":"oauth2_server","desc":"A standards compliant implementation of an OAuth 2.0 authorization server with PKCE support.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"0.9.0"}
+{"name":"oauth2_server","desc":"A standards compliant implementation of an OAuth 2.0 authorization server with PKCE support.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"0.10.0"}
+{"name":"oauth2_server","desc":"A standards compliant implementation of an OAuth 2.0 authorization server with PKCE support.","repo":"https://github.com/udibo/oauth2_server","reg":"x","vers":"0.11.0"}
