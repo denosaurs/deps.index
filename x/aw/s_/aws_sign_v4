@@ -6,3 +6,4 @@
 {"name":"aws_sign_v4","desc":"Generate AWS Signature V4 for AWS low-level REST APIs.","repo":"https://github.com/lucacasonato/deno_aws_sign_v4","reg":"x","vers":"0.1.5"}
 {"name":"aws_sign_v4","desc":"Generate AWS Signature V4 for AWS low-level REST APIs.","repo":"https://github.com/lucacasonato/deno_aws_sign_v4","reg":"x","vers":"1.0.0"}
 {"name":"aws_sign_v4","desc":"Generate AWS Signature V4 for AWS low-level REST APIs.","repo":"https://github.com/lucacasonato/deno_aws_sign_v4","reg":"x","vers":"1.0.1"}
+{"name":"aws_sign_v4","desc":"Generate AWS Signature V4 for AWS low-level REST APIs.","repo":"https://github.com/lucacasonato/deno_aws_sign_v4","reg":"x","vers":"1.0.2"}
