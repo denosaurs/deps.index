@@ -1,2 +1,3 @@
 {"name":"dir","desc":"Returns the user and platform specific directories","repo":"https://github.com/justjavac/deno_dirs","reg":"x","vers":"v1.0.0"}
 {"name":"dir","desc":"Returns the user and platform specific directories","repo":"https://github.com/justjavac/deno_dirs","reg":"x","vers":"v1.1.0"}
+{"name":"dir","desc":"Returns the user and platform specific directories","repo":"https://github.com/justjavac/deno_dirs","reg":"x","vers":"v1.2.0"}
