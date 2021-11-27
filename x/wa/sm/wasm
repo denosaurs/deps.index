@@ -2,3 +2,4 @@
 {"name":"wasm","desc":"Monorepo for Javascript WebAssembly packages by Wasmer","repo":"https://github.com/wasmerio/wasmer-js","reg":"x","vers":"v1.0.0-alpha3"}
 {"name":"wasm","desc":"Monorepo for Javascript WebAssembly packages by Wasmer","repo":"https://github.com/wasmerio/wasmer-js","reg":"x","vers":"v1.0.0-alpha4"}
 {"name":"wasm","desc":"Monorepo for Javascript WebAssembly packages by Wasmer","repo":"https://github.com/wasmerio/wasmer-js","reg":"x","vers":"v1.0.0-alpha5"}
+{"name":"wasm","desc":"Monorepo for Javascript WebAssembly packages by Wasmer","repo":"https://github.com/wasmerio/wasmer-js","reg":"x","vers":"v1.0.0-beta1"}

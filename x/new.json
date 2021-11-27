@@ -1,1 +1,1 @@
-[]
+[{"name":"docx","desc":"Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.","repo":null,"reg":"x","vers":[]},{"name":"database_lock","desc":"","repo":null,"reg":"x","vers":[]},{"name":"kilovolt","desc":"Typescript kilovolt client","repo":"https://github.com/strimertul/kilovolt-client-ts","reg":"x","vers":["v6.3.2","v6.3.1"]},{"name":"md2blog","desc":"A zero-config static site generator for dev blogs","repo":"https://github.com/jaredkrinke/md2blog","reg":"x","vers":["1.0.0"]}]
