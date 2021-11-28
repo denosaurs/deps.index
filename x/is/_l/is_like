@@ -1,1 +1,2 @@
 {"name":"is_like","desc":"Functions to check if an object is something-like.","repo":"https://github.com/hyurl/is-like","reg":"x","vers":"v0.1.8"}
+{"name":"is_like","desc":"Functions to check if a value is something alike.","repo":"https://github.com/hyurl/is-like","reg":"x","vers":"v0.1.9"}

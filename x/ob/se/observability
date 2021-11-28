@@ -1,2 +1,3 @@
 {"name":"observability","desc":"WIP module for transmitting common metrics to multiple destinations","repo":"https://github.com/cloudydeno/deno-observability","reg":"x","vers":"v0.1.0"}
 {"name":"observability","desc":"WIP module for transmitting common metrics to multiple destinations","repo":"https://github.com/cloudydeno/deno-observability","reg":"x","vers":"v0.1.1"}
+{"name":"observability","desc":"WIP module for transmitting common metrics to multiple destinations","repo":"https://github.com/cloudydeno/deno-observability","reg":"x","vers":"v0.1.2"}

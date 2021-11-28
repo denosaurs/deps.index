@@ -1,0 +1,1 @@
+{"name":"orderedbinary","desc":"Representation of JavaScript primitives as a Buffer such that binary order matches natural order of primitives","repo":"https://github.com/kriszyp/ordered-binary","reg":"x","vers":"v1.2.1"}
