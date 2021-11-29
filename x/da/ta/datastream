@@ -1,1 +1,3 @@
 {"name":"datastream","desc":"Building blocks to read and transform data streams in Deno","repo":"https://github.com/idris-maps/datastream","reg":"x","vers":"v0.0.1"}
+{"name":"datastream","desc":"Building blocks to read and transform data streams","repo":"https://github.com/idris-maps/datastream","reg":"x","vers":"v0.0.2"}
+{"name":"datastream","desc":"Building blocks to read and transform data streams","repo":"https://github.com/idris-maps/datastream","reg":"x","vers":"v0.0.3"}
