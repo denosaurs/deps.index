@@ -1,0 +1,1 @@
+{"name":"esbuild_plugin_env","desc":"An esbuild plugin that exports the current environment as a module","repo":"https://github.com/jed/esbuild-plugin-env","reg":"x","vers":"v1.0.0"}

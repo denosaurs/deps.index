@@ -1,1 +1,2 @@
 {"name":"deno_bson","desc":"","repo":"https://github.com/jiawei397/deno_bson","reg":"x","vers":"v0.0.1"}
+{"name":"deno_bson","desc":"Forked from npm package bson, now support for Deno","repo":"https://github.com/jiawei397/deno_bson","reg":"x","vers":"v0.0.2"}

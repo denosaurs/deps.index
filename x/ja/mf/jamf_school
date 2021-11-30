@@ -6,3 +6,4 @@
 {"name":"jamf_school","desc":"Unofficial Jamf School API wrapper","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.3.2"}
 {"name":"jamf_school","desc":"Unofficial Jamf School API wrapper for JavaScript. Easily automate simple tasks, like restarting devices.","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.4.0"}
 {"name":"jamf_school","desc":"A secure, modern, correct, and incomplete Jamf School API wrapper","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.4.1"}
+{"name":"jamf_school","desc":"A simple, secure, correct, and modern Jamf School API wrapper. (Unofficial)","repo":"https://github.com/SeparateRecords/deno_jamf_school","reg":"x","vers":"0.5.0"}
