@@ -9,3 +9,4 @@
 {"name":"birdie","desc":"Speedy bioinformatics module for Deno","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"v0.5.0"}
 {"name":"birdie","desc":"Bioinformatics module for Deno made with Rust + WebAssembly","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"v0.6.0"}
 {"name":"birdie","desc":"Bioinformatics module for Deno made with Rust + WebAssembly","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"v0.7.0"}
+{"name":"birdie","desc":"Bioinformatics module for Deno made with Rust + WebAssembly","repo":"https://github.com/GJZwiers/birdie","reg":"x","vers":"v0.7.1"}

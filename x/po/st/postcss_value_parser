@@ -1,1 +1,2 @@
 {"name":"postcss_value_parser","desc":"Transforms CSS values and at-rule params into a tree — 🦕 Deno version","repo":"https://github.com/valtlai/postcss-value-parser-deno","reg":"x","vers":"v4.1.0"}
+{"name":"postcss_value_parser","desc":"Transforms CSS values and at-rule params into a tree","repo":"https://github.com/valtlai/postcss-value-parser-deno","reg":"x","vers":"4.2.0"}
