@@ -1,0 +1,2 @@
+{"name":"float","desc":"Reads/writes floats/doubles from/to buffers in deno and modern browsers. Fast. ES module port of protobuf.js/float","repo":"https://github.com/lilnasy/float","reg":"x","vers":"0.1.0"}
+{"name":"float","desc":"Reads/writes floats/doubles from/to buffers in deno and modern browsers. Fast. ES module port of protobuf.js/float","repo":"https://github.com/lilnasy/float","reg":"x","vers":"v0.1.0"}
