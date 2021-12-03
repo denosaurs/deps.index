@@ -1,0 +1,1 @@
+{"name":"esbuild_plugin_bundle","desc":"An esbuild plugin that bundles modules before importing them","repo":"https://github.com/jed/esbuild-plugin-bundle","reg":"x","vers":"v1.0.0"}

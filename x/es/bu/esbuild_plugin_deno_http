@@ -1,0 +1,1 @@
+{"name":"esbuild_plugin_deno_http","desc":"An esbuild plugin that uses Deno to resolve and cache HTTP modules","repo":"https://github.com/jed/esbuild-plugin-deno-http","reg":"x","vers":"v1.0.0"}

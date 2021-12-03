@@ -1,0 +1,1 @@
+{"name":"lifxhttp","desc":"A thin wrapper around the Lifx HTTP protocol. Built in Deno.","repo":"https://github.com/billykirk01/lifx-http","reg":"x","vers":"v1.0.0"}
