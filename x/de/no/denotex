@@ -1,1 +1,4 @@
 {"name":"denotex","desc":"","repo":"https://github.com/saadq/denotex","reg":"x","vers":"0.1.0"}
+{"name":"denotex","desc":"A small library for running LaTeX child processes in Deno.","repo":"https://github.com/saadq/latrex","reg":"x","vers":"v1.0.0"}
+{"name":"denotex","desc":"A small library for running LaTeX child processes in Deno.","repo":"https://github.com/saadq/latrex","reg":"x","vers":"1.0.0"}
+{"name":"denotex","desc":"A small library for running LaTeX child processes in Deno.","repo":"https://github.com/saadq/latrex","reg":"x","vers":"1.0.1"}
