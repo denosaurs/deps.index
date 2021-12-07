@@ -1,1 +1,2 @@
 {"name":"iterext","desc":"Ports of Rust's Iterator and future-rs' StreamExt","repo":"https://github.com/zebp/iterext","reg":"x","vers":"v1.0.0"}
+{"name":"iterext","desc":"Ports of Rust's Iterator and future-rs' StreamExt","repo":"https://github.com/zebp/iterext","reg":"x","vers":"v1.1.0"}
