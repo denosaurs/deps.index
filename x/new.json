@@ -1,1 +1,1 @@
-[{"name":"fhir","desc":"Modern JavaScript modules for FHIR","repo":null,"reg":"x","vers":[]},{"name":"denoql","desc":"DenoQL: GraphQL Scrapper with Deno","repo":"https://github.com/nyancodeid/denoql","reg":"x","vers":["v0.0.2","v0.0.2"]},{"name":"distree","desc":"","repo":"https://github.com/yuhr/distree","reg":"x","vers":["v1.0.0"]}]
+[{"name":"bitflyer","desc":"Bitflyer API client for Node.js","repo":"https://github.com/coinset/bitflyer","reg":"x","vers":["v1.0.0-beta.4"]},{"name":"flagship_io_js_sdk","desc":"","repo":null,"reg":"x","vers":[]}]
