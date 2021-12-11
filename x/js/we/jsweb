@@ -4,3 +4,4 @@
 {"name":"jsweb","desc":"jsweb is a restiful json cors post method stateless super micro web framework based on node and deno.","repo":"https://github.com/liva2008/jsweb","reg":"x","vers":"v0.1.3"}
 {"name":"jsweb","desc":"jsweb is a JSON CORS ORM super micro web framework based on node and deno.","repo":"https://github.com/liva2008/jsweb","reg":"x","vers":"v0.1.4"}
 {"name":"jsweb","desc":"jsweb is a JSON CORS ORM super micro web framework based on node and deno.","repo":"https://github.com/liva2008/jsweb","reg":"x","vers":"v0.1.5"}
+{"name":"jsweb","desc":"jsweb is a fullstack micro web framework based on node and deno.","repo":"https://github.com/liva2008/jsweb","reg":"x","vers":"v0.1.6"}
