@@ -2,3 +2,4 @@
 {"name":"oak_json_error","desc":"","repo":"https://github.com/so1ve/oak-json-error","reg":"x","vers":"1.0.1"}
 {"name":"oak_json_error","desc":"","repo":"https://github.com/so1ve/oak-json-error","reg":"x","vers":"1.0.2"}
 {"name":"oak_json_error","desc":"","repo":"https://github.com/so1ve/oak-json-error","reg":"x","vers":"1.0.3"}
+{"name":"oak_json_error","desc":"Oak middleware JSON error","repo":"https://github.com/so1ve/oak-json-error","reg":"x","vers":"1.0.4"}
