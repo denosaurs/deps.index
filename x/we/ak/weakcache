@@ -1,1 +1,2 @@
 {"name":"weakcache","desc":"A cache using LRU and weak references to cache data in a way that works in harmony with garbage collection","repo":"https://github.com/kriszyp/weak-lru-cache","reg":"x","vers":"v1.1.3"}
+{"name":"weakcache","desc":"A cache using LRU and weak references to cache data in a way that works in harmony with garbage collection","repo":"https://github.com/kriszyp/weak-lru-cache","reg":"x","vers":"v1.1.4"}

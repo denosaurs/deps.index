@@ -1,0 +1,2 @@
+{"name":"notranspile_logger","desc":"Flushing wrapper for Deno std/log","repo":"https://github.com/notranspile-js/deno_logger","reg":"x","vers":"1.0.0"}
+{"name":"notranspile_logger","desc":"Flushing wrapper for Deno std/log","repo":"https://github.com/notranspile-js/deno_logger","reg":"x","vers":"1.1.0"}
