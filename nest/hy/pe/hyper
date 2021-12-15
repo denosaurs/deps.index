@@ -11,3 +11,4 @@
 {"name":"hyper","desc":"Hyper core module for parsing hyper config, and composing hyper adapters","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"1.4.7"}
 {"name":"hyper","desc":"Hyper core module for parsing hyper config, and composing hyper adapters","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"1.4.8"}
 {"name":"hyper","desc":"Hyper core module for parsing hyper config, and composing hyper adapters","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"1.4.9"}
+{"name":"hyper","desc":"Hyper core module for parsing hyper config, and composing hyper adapters","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"1.5.0"}
