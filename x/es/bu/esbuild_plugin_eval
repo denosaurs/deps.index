@@ -5,3 +5,5 @@
 {"name":"esbuild_plugin_eval","desc":"An esbuild plugin that evaluates a module before importing it","repo":"https://github.com/jed/esbuild-plugin-eval","reg":"x","vers":"v1.0.4"}
 {"name":"esbuild_plugin_eval","desc":"An esbuild plugin that evaluates a module before importing it","repo":"https://github.com/jed/esbuild-plugin-eval","reg":"x","vers":"v1.1.0"}
 {"name":"esbuild_plugin_eval","desc":"An esbuild plugin that evaluates a module before importing it","repo":"https://github.com/jed/esbuild-plugin-eval","reg":"x","vers":"v1.1.1"}
+{"name":"esbuild_plugin_eval","desc":"An esbuild plugin that evaluates a module before importing it","repo":"https://github.com/jed/esbuild-plugin-eval","reg":"x","vers":"v2.0.0"}
+{"name":"esbuild_plugin_eval","desc":"An esbuild plugin that evaluates a module before importing it","repo":"https://github.com/jed/esbuild-plugin-eval","reg":"x","vers":"v2.0.1"}

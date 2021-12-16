@@ -1,2 +1,3 @@
 {"name":"iterator_helpers","desc":"Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.","repo":"https://github.com/luma-dev/deno-iterator-helpers","reg":"x","vers":"v0.1.0"}
 {"name":"iterator_helpers","desc":"Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.","repo":"https://github.com/luma-dev/deno-iterator-helpers","reg":"x","vers":"v0.1.1"}
+{"name":"iterator_helpers","desc":"Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.","repo":"https://github.com/luma-dev/deno-iterator-helpers","reg":"x","vers":"v0.1.2"}
