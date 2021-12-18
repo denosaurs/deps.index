@@ -1,2 +1,3 @@
 {"name":"git","desc":"libgit2 bindings for Deno","repo":"justjavac/deno_git","reg":"x","vers":"0.0.0"}
 {"name":"git","desc":"libgit2 bindings for Deno","repo":"justjavac/deno_git","reg":"x","vers":"0.0.1"}
+{"name":"git","desc":"libgit2 bindings for Deno","repo":"https://github.com/justjavac/deno_git","reg":"x","vers":"0.3.1"}

@@ -1,1 +1,3 @@
 {"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/DjDeveloperr/deno_sqlite","reg":"x","vers":"0.0.1"}
+{"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/DjDeveloperr/deno_sqlite","reg":"x","vers":"0.2.0"}
+{"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/DjDeveloperr/deno_sqlite","reg":"x","vers":"0.2.1"}
