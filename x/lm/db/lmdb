@@ -16,3 +16,4 @@
 {"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-js","reg":"x","vers":"v2.1.0-beta1"}
 {"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-js","reg":"x","vers":"v2.1.0-beta2"}
 {"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-js","reg":"x","vers":"v2.1.0-beta3"}
+{"name":"lmdb","desc":"Simple, efficient, ultra-fast, scalable data store wrapper for LMDB","repo":"https://github.com/DoctorEvidence/lmdb-js","reg":"x","vers":"v2.1.0-beta4"}

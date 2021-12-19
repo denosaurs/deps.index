@@ -33,3 +33,4 @@
 {"name":"mongo","desc":"MongoDB driver for Deno","repo":"https://github.com/denodrivers/deno_mongo","reg":"x","vers":"v0.27.0"}
 {"name":"mongo","desc":"MongoDB driver for Deno","repo":"https://github.com/denodrivers/deno_mongo","reg":"x","vers":"v0.28.0"}
 {"name":"mongo","desc":"MongoDB driver for Deno","repo":"https://github.com/denodrivers/deno_mongo","reg":"x","vers":"v0.28.1"}
+{"name":"mongo","desc":"MongoDB driver for Deno","repo":"https://github.com/denodrivers/deno_mongo","reg":"x","vers":"v0.29.0"}

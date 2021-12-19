@@ -1,1 +1,2 @@
 {"name":"win32","desc":"Wraps some of the most common **Win32** API calls using FFI to make them accessible to Deno.","repo":"https://github.com/justjavac/deno_win32","reg":"x","vers":"0.1.0"}
+{"name":"win32","desc":"Wraps some of the most common Win32 API calls using FFI to make them accessible to Deno.","repo":"https://github.com/justjavac/deno_win32","reg":"x","vers":"0.1.1"}
