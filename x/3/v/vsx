@@ -174,3 +174,6 @@
 {"name":"vsx","desc":"Native JavaScript tooling. ","repo":"https://github.com/virtualstate/x","reg":"x","vers":"v2.45.25"}
 {"name":"vsx","desc":"Native JavaScript tooling. ","repo":"https://github.com/virtualstate/x","reg":"x","vers":"v2.45.26"}
 {"name":"vsx","desc":"Native JavaScript tooling. ","repo":"https://github.com/virtualstate/x","reg":"x","vers":"v2.46.0"}
+{"name":"vsx","desc":"Native JavaScript tooling. ","repo":"https://github.com/virtualstate/x","reg":"x","vers":"v2.46.1"}
+{"name":"vsx","desc":"Native JavaScript tooling. ","repo":"https://github.com/virtualstate/x","reg":"x","vers":"v2.46.2"}
+{"name":"vsx","desc":"Native JavaScript tooling. ","repo":"https://github.com/virtualstate/x","reg":"x","vers":"v2.47.0"}

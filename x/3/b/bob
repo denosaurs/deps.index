@@ -5,3 +5,4 @@
 {"name":"bob","desc":"Statically typed static site generator based on Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.0.0"}
 {"name":"bob","desc":"Statically typed static site generator based on Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.0.1"}
 {"name":"bob","desc":"A static site generator for the dynamic web - develop with TSX and build with Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.0.2"}
+{"name":"bob","desc":"A static site generator for the dynamic web - develop with TSX and build with Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.1.0"}

@@ -1,1 +1,2 @@
 {"name":"oauth2_deno","desc":"OAuth 2.0 with support for PKCE in Deno.","repo":"https://github.com/DiFronzo/oauth2-deno","reg":"x","vers":"1.1.1"}
+{"name":"oauth2_deno","desc":"OAuth 2.0 with support for PKCE in Deno.","repo":"https://github.com/DiFronzo/oauth2-deno","reg":"x","vers":"v1.1.2"}
