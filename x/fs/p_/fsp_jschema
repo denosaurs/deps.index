@@ -1,0 +1,2 @@
+{"name":"fsp_jschema","desc":"A JsonSchema validator written in TypeScript, compatible with both Nodejs and Deno.","repo":"https://github.com/FullStackPlayer/fsp.JSchema","reg":"x","vers":"1.0.0"}
+{"name":"fsp_jschema","desc":"A JsonSchema validator written in TypeScript, compatible with both Nodejs and Deno.","repo":"https://github.com/FullStackPlayer/fsp.JSchema","reg":"x","vers":"1.2.0"}
