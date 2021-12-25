@@ -39,3 +39,4 @@
 {"name":"dnt","desc":"Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.8.0"}
 {"name":"dnt","desc":"Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.9.0"}
 {"name":"dnt","desc":"Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.10.0"}
+{"name":"dnt","desc":"Deno to npm package build tool.","repo":"https://github.com/denoland/dnt","reg":"x","vers":"0.11.0"}
