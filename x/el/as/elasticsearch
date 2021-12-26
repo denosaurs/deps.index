@@ -1,2 +1,3 @@
 {"name":"elasticsearch","desc":"Elasticsearch Client for Deno Runtime","repo":"https://github.com/dogukanakkaya/deno-elasticsearch","reg":"x","vers":"v0.1.0"}
 {"name":"elasticsearch","desc":":mag: Elasticsearch Client for Deno Runtime","repo":"https://github.com/dogukanakkaya/deno-elasticsearch","reg":"x","vers":"v1.0.0"}
+{"name":"elasticsearch","desc":":mag: Elasticsearch Client for Deno Runtime","repo":"https://github.com/dogukanakkaya/deno-elasticsearch","reg":"x","vers":"v7.16.0"}

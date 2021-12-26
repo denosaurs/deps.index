@@ -2,3 +2,4 @@
 {"name":"typed_event_dispatcher","desc":"Strongly-typed events that can be publicly listened but internally-only dispatched.","repo":"https://github.com/felladrin/typed-event-dispatcher","reg":"x","vers":"v1.11.2"}
 {"name":"typed_event_dispatcher","desc":"Strongly-typed events that can be publicly listened but internally-only dispatched.","repo":"https://github.com/felladrin/typed-event-dispatcher","reg":"x","vers":"v1.11.3"}
 {"name":"typed_event_dispatcher","desc":"Strongly-typed events that can be publicly listened but internally-only dispatched.","repo":"https://github.com/felladrin/typed-event-dispatcher","reg":"x","vers":"v1.11.4"}
+{"name":"typed_event_dispatcher","desc":"Strongly-typed events that can be publicly listened but internally-only dispatched.","repo":"https://github.com/felladrin/typed-event-dispatcher","reg":"x","vers":"v1.11.5"}

@@ -9,3 +9,5 @@
 {"name":"stdx","desc":"Deno Standard Extensions","repo":"https://github.com/ratson/deno_stdx","reg":"x","vers":"0.5.1"}
 {"name":"stdx","desc":"Deno Standard Extensions","repo":"https://github.com/ratson/deno_stdx","reg":"x","vers":"0.6.0"}
 {"name":"stdx","desc":"Deno Standard Extensions","repo":"https://github.com/ratson/deno_stdx","reg":"x","vers":"0.7.0"}
+{"name":"stdx","desc":"Deno Standard Extensions","repo":"https://github.com/ratson/deno_stdx","reg":"x","vers":"0.0.7"}
+{"name":"stdx","desc":"Deno Standard Extensions","repo":"https://github.com/ratson/deno_stdx","reg":"x","vers":"0.8.0"}
