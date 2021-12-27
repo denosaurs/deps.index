@@ -1,0 +1,2 @@
+{"name":"crc32hash","desc":"Calculate crc32 hash of a string, Uint8Array, or Deno.Reader.","repo":"https://github.com/jeremiah-shaulov/deno-crc32hash","reg":"x","vers":"v0.0.1"}
+{"name":"crc32hash","desc":"Calculate crc32 hash of a string, Uint8Array, or Deno.Reader.","repo":"https://github.com/jeremiah-shaulov/deno-crc32hash","reg":"x","vers":"v0.0.2"}
