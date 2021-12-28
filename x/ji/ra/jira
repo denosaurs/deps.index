@@ -24,3 +24,4 @@
 {"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.6.3"}
 {"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.7.0"}
 {"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.8.0"}
+{"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.9.0"}

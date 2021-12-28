@@ -1,3 +1,5 @@
 {"name":"binary_parser","desc":"A simple parser for easily creating both encoding and decoding for a given data type","repo":"https://github.com/glooca/parser","reg":"x","vers":"0.1.0-pre.0"}
 {"name":"binary_parser","desc":"A simple parser for easily creating both encoding and decoding for a given data type","repo":"https://github.com/glooca/parser","reg":"x","vers":"0.1.0-pre.1"}
 {"name":"binary_parser","desc":"A simple parser for easily creating both encoding and decoding for a given data type","repo":"https://github.com/glooca/parser","reg":"x","vers":"1.0.0"}
+{"name":"binary_parser","desc":"A simple parser for easily creating both encoding and decoding for a given data type","repo":"https://github.com/glooca/parser","reg":"x","vers":"1.0.1"}
+{"name":"binary_parser","desc":"A simple parser for easily creating both encoding and decoding for a given data type","repo":"https://github.com/glooca/parser","reg":"x","vers":"1.0.2"}
