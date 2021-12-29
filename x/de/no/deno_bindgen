@@ -3,3 +3,5 @@
 {"name":"deno_bindgen","desc":"Simplified glue code generation for Deno FFI libraries written in Rust.","repo":"https://github.com/littledivy/deno_bindgen","reg":"x","vers":"0.2.0"}
 {"name":"deno_bindgen","desc":"Simplified glue code generation for Deno FFI libraries written in Rust.","repo":"https://github.com/littledivy/deno_bindgen","reg":"x","vers":"0.3.1"}
 {"name":"deno_bindgen","desc":"Simplified glue code generation for Deno FFI libraries written in Rust.","repo":"https://github.com/littledivy/deno_bindgen","reg":"x","vers":"0.3.2"}
+{"name":"deno_bindgen","desc":"Simplified glue code generation for Deno FFI libraries written in Rust.","repo":"https://github.com/littledivy/deno_bindgen","reg":"x","vers":"0.4.0"}
+{"name":"deno_bindgen","desc":"Simplified glue code generation for Deno FFI libraries written in Rust.","repo":"https://github.com/littledivy/deno_bindgen","reg":"x","vers":"0.4.1"}
