@@ -1,1 +1,1 @@
-[{"name":"dirname_deno","desc":"An implementation of Node's __dirname and __filename for Deno","repo":"https://github.com/your-local-developer/dirname_deno","reg":"nest","vers":["0.1.0","0.2.0"]}]
+[{"name":"bracesdb","desc":"DB module in JSON format created with Deno.","repo":"https://github.com/windchime-yk/bracesdb","reg":"nest","vers":["v1.0.2"]}]
