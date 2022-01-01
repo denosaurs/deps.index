@@ -7,3 +7,4 @@
 {"name":"dfetch","desc":"Promise based HTTP client for Deno inspired by axios.","repo":"https://github.com/dfoobar/dfetch","reg":"x","vers":"0.1.6"}
 {"name":"dfetch","desc":"Promise based HTTP client for Deno inspired by axios.","repo":"https://github.com/dfoobar/dfetch","reg":"x","vers":"0.1.7"}
 {"name":"dfetch","desc":"Promise based HTTP client for Deno inspired by axios.","repo":"https://github.com/dfoobar/dfetch","reg":"x","vers":"0.1.8"}
+{"name":"dfetch","desc":"Promise based HTTP client for Deno inspired by axios.","repo":"https://github.com/dfoobar/dfetch","reg":"x","vers":"0.1.9"}

@@ -19,3 +19,4 @@
 {"name":"ed25519","desc":"Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys","repo":"https://github.com/paulmillr/noble-ed25519","reg":"x","vers":"1.3.0"}
 {"name":"ed25519","desc":"Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys","repo":"https://github.com/paulmillr/noble-ed25519","reg":"x","vers":"1.3.1"}
 {"name":"ed25519","desc":"Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys","repo":"https://github.com/paulmillr/noble-ed25519","reg":"x","vers":"1.3.2"}
+{"name":"ed25519","desc":"Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys","repo":"https://github.com/paulmillr/noble-ed25519","reg":"x","vers":"1.3.3"}
