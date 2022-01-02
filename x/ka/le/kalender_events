@@ -1,0 +1,1 @@
+{"name":"kalender_events","desc":"This Node module gets the events from an ical-URL, a caldav-server or from the iCloud.","repo":"https://github.com/naimo84/kalender-events","reg":"x","vers":"v0.26.0"}

@@ -1,1 +1,2 @@
 {"name":"protocolbuffer","desc":"A low-level, lightweight protocol buffers implementation in JavaScript, ported to an ES module.","repo":"https://github.com/lilnasy/pbf","reg":"x","vers":"0.1.0"}
+{"name":"protocolbuffer","desc":"A low-level, lightweight protocol buffers implementation in JavaScript, ported to an ES module.","repo":"https://github.com/lilnasy/pbf","reg":"x","vers":"0.1.1"}
