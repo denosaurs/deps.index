@@ -1,1 +1,3 @@
 {"name":"nhttp_validator","desc":"Body validator for Deno nhttp based on class-validator.","repo":"https://github.com/nhttp/nhttp_validator","reg":"x","vers":"0.1.0"}
+{"name":"nhttp_validator","desc":"Body validator for Deno nhttp based on class-validator.","repo":"https://github.com/nhttp/nhttp_validator","reg":"x","vers":"0.2.0"}
+{"name":"nhttp_validator","desc":"Body validator for Deno nhttp based on class-validator.","repo":"https://github.com/nhttp/nhttp_validator","reg":"x","vers":"0.3.0"}

@@ -1,0 +1,2 @@
+{"name":"refresh","desc":"Simple browser reloading middleware on file change for your Deno web applications.","repo":"https://github.com/cmorten/refresh","reg":"x","vers":"0.1.0"}
+{"name":"refresh","desc":"Simple browser reloading middleware on file change for your Deno web applications.","repo":"https://github.com/cmorten/refresh","reg":"x","vers":"0.1.1"}
