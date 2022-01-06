@@ -1,0 +1,1 @@
+{"name":"scor","desc":"Calculate scores for numeric values or items, and get the total score (e.g. \"(weighted) arithmetic mean\") from multiple scores.","repo":"https://github.com/karfau/scor","reg":"x","vers":"v1.0.0"}
