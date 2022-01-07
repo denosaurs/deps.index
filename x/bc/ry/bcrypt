@@ -4,3 +4,4 @@
 {"name":"bcrypt","desc":"A port of jBCrypt to TypeScript for use as a Deno module","repo":"jamesbroadberry/deno-bcrypt","reg":"x","vers":"0.2.2"}
 {"name":"bcrypt","desc":"A port of jBCrypt to TypeScript for use as a Deno module","repo":"jamesbroadberry/deno-bcrypt","reg":"x","vers":"0.2.3"}
 {"name":"bcrypt","desc":"A port of jBCrypt to TypeScript for use as a Deno module","repo":"jamesbroadberry/deno-bcrypt","reg":"x","vers":"0.2.4"}
+{"name":"bcrypt","desc":"A port of jBCrypt to TypeScript for use as a Deno module","repo":"https://github.com/JamesBroadberry/deno-bcrypt","reg":"x","vers":"v0.3.0"}
