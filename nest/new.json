@@ -1,1 +1,1 @@
-[]
+[{"name":"sls_http_proxy","desc":"Serverless Http Proxy on Cloudflare Worker, Deno Deploy or more ...","repo":null,"reg":"nest","vers":["0.0.1","0.0.2"]}]
