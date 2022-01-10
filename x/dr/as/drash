@@ -119,3 +119,4 @@
 {"name":"drash","desc":"A microframework for Deno's HTTP server with zero third-party dependencies","repo":"https://github.com/drashland/drash","reg":"x","vers":"v2.1.0"}
 {"name":"drash","desc":"A microframework for Deno's HTTP server with zero third-party dependencies","repo":"https://github.com/drashland/drash","reg":"x","vers":"v2.2.0"}
 {"name":"drash","desc":"A microframework for Deno's HTTP server with zero third-party dependencies","repo":"https://github.com/drashland/drash","reg":"x","vers":"v2.3.0"}
+{"name":"drash","desc":"A microframework for Deno's HTTP server with zero third-party dependencies","repo":"https://github.com/drashland/drash","reg":"x","vers":"v2.4.0"}
