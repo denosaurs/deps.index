@@ -1,3 +1,4 @@
 {"name":"worker_sqlite","desc":"A deno module wrapping `x/sqlite` in a worker for async operation.","repo":"https://github.com/xyzshantaram/worker-sqlite","reg":"x","vers":"0.1.0"}
 {"name":"worker_sqlite","desc":"A deno module wrapping `x/sqlite` in a worker for async operation.","repo":"https://github.com/xyzshantaram/worker-sqlite","reg":"x","vers":"0.1.1"}
 {"name":"worker_sqlite","desc":"A deno module wrapping `x/sqlite` in a worker for async operation.","repo":"https://github.com/xyzshantaram/worker-sqlite","reg":"x","vers":"0.1.2"}
+{"name":"worker_sqlite","desc":"A deno module wrapping `x/sqlite` in a worker for async operation.","repo":"https://github.com/xyzshantaram/worker-sqlite","reg":"x","vers":"0.2.0"}
