@@ -39,3 +39,5 @@
 {"name":"nhttp","desc":"Fast native http framework for Deno. so hot :rocket:","repo":"https://github.com/nhttp/nhttp","reg":"x","vers":"1.1.3"}
 {"name":"nhttp","desc":"Fast native http framework for Deno. so hot :rocket:","repo":"https://github.com/nhttp/nhttp","reg":"x","vers":"1.1.4"}
 {"name":"nhttp","desc":"Fast http framework for Deno, Deno Deploy and Cloudflare Workers. so hot :rocket:","repo":"https://github.com/nhttp/nhttp","reg":"x","vers":"1.1.5"}
+{"name":"nhttp","desc":"An Simple http framework for Deno, Deno Deploy and Cloudflare Workers. so hot :rocket:","repo":"https://github.com/nhttp/nhttp","reg":"x","vers":"1.1.6"}
+{"name":"nhttp","desc":"An Simple http framework for Deno, Deno Deploy and Cloudflare Workers. so hot :rocket:","repo":"https://github.com/nhttp/nhttp","reg":"x","vers":"1.1.7"}
