@@ -2,3 +2,5 @@
 {"name":"denoflow","desc":"A serverless workflow mini framework","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.7"}
 {"name":"denoflow","desc":"Automate Workflows for Developers based on Deno","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.8"}
 {"name":"denoflow","desc":"Automate Workflows for Developers based on Deno","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.9"}
+{"name":"denoflow","desc":"Automate Workflows based on Deno/Typescript/Javascript","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.10"}
+{"name":"denoflow","desc":"Automate Workflows based on Deno/Typescript/Javascript","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.11"}
