@@ -3,3 +3,7 @@
 {"name":"upstash_kafka","desc":"Serverless kafka client for upstash","repo":"https://github.com/chronark/upstash-kafka","reg":"x","vers":"v1.1.1-rc.1"}
 {"name":"upstash_kafka","desc":"Serverless kafka client for upstash","repo":"https://github.com/chronark/upstash-kafka","reg":"x","vers":"v1.1.1-rc.2"}
 {"name":"upstash_kafka","desc":"Serverless kafka client for upstash","repo":"https://github.com/chronark/upstash-kafka","reg":"x","vers":"v1.1.1"}
+{"name":"upstash_kafka","desc":"Serverless Kafka client for Upstash","repo":"https://github.com/upstash/upstash-kafka","reg":"x","vers":"v1.1.2-rc.0"}
+{"name":"upstash_kafka","desc":"Serverless Kafka client for Upstash","repo":"https://github.com/upstash/upstash-kafka","reg":"x","vers":"v1.1.2-rc.1"}
+{"name":"upstash_kafka","desc":"Serverless Kafka client for Upstash","repo":"https://github.com/upstash/upstash-kafka","reg":"x","vers":"v1.1.2"}
+{"name":"upstash_kafka","desc":"Serverless Kafka client for Upstash","repo":"https://github.com/upstash/upstash-kafka","reg":"x","vers":"v1.1.3"}

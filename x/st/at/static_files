@@ -11,3 +11,5 @@
 {"name":"static_files","desc":"Serve Static for Deno.","repo":"https://github.com/herudi/static-files","reg":"x","vers":"1.1.2"}
 {"name":"static_files","desc":"Serve Static for Deno.","repo":"https://github.com/herudi/static-files","reg":"x","vers":"1.1.3"}
 {"name":"static_files","desc":"Serve Static for Deno.","repo":"https://github.com/herudi/static-files","reg":"x","vers":"1.1.4"}
+{"name":"static_files","desc":"Serve Static for Deno.","repo":"https://github.com/herudi/static-files","reg":"x","vers":"1.1.5"}
+{"name":"static_files","desc":"Serve Static for Deno.","repo":"https://github.com/herudi/static-files","reg":"x","vers":"1.1.6"}
