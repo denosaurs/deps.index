@@ -1,0 +1,1 @@
+{"name":"readable_stream_fanout","desc":"A `ReadableStream.tee()` supporting an arbitrary number of branches.","repo":"https://github.com/jabr/readable-stream-fanout","reg":"x","vers":"1.0.0"}

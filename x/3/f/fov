@@ -5,3 +5,4 @@
 {"name":"fov","desc":"Set of helper functions to calculate different FoVs based off the FILM notation standard of FoV scaling and aspect ratio.","repo":"https://github.com/animafps/fov-utilities","reg":"x","vers":"v1.1.2"}
 {"name":"fov","desc":"Set of helper functions to calculate different FoVs based off the FILM notation standard of FoV scaling and aspect ratio.","repo":"https://github.com/animafps/fov-utilities","reg":"x","vers":"v1.1.3"}
 {"name":"fov","desc":"Set of helper functions to calculate different FoVs based off the FILM notation standard of FoV scaling and aspect ratio.","repo":"https://github.com/animafps/fov-utilities","reg":"x","vers":"v1.1.4"}
+{"name":"fov","desc":"📽️ Set of helper functions to calculate different FoVs based off the FILM notation standard of FoV scaling and aspect ratio.","repo":"https://github.com/animafps/fov-utilities","reg":"x","vers":"v1.1.5"}
