@@ -3,3 +3,5 @@
 {"name":"bloomfilter","desc":"Bloom Filters","repo":"https://github.com/michael-spengler/bloomfilter","reg":"x","vers":"v1.0.0"}
 {"name":"bloomfilter","desc":"Bloom Filters","repo":"https://github.com/michael-spengler/bloomfilter","reg":"x","vers":"v2.0.0"}
 {"name":"bloomfilter","desc":"Bloom Filters","repo":"https://github.com/michael-spengler/bloomfilter","reg":"x","vers":"v2.0.1"}
+{"name":"bloomfilter","desc":"Bloom Filters","repo":"https://github.com/michael-spengler/bloomfilter","reg":"x","vers":"v2.1.0"}
+{"name":"bloomfilter","desc":"Bloom Filters","repo":"https://github.com/michael-spengler/bloomfilter","reg":"x","vers":"v2.2.0"}

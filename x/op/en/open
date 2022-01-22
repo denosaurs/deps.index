@@ -1,1 +1,2 @@
 {"name":"open","desc":"Open is a package for opening URLs, files and executables with Deno. Inspired by sindresorhus' open.","repo":"https://github.com/skoshx/deno-open","reg":"x","vers":"v0.0.2"}
+{"name":"open","desc":"Open is a package for opening URLs, files and executables with Deno. Inspired by sindresorhus' open.","repo":"https://github.com/skoshx/deno-open","reg":"x","vers":"v0.0.4"}
