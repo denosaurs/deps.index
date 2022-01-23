@@ -1,0 +1,2 @@
+{"name":"smtp_connection","desc":"A Deno Smtp connection module to be used with a Smtp Client","repo":"https://github.com/KobraRocks/deno-smtp-connection","reg":"x","vers":"v0.2.1-alpha"}
+{"name":"smtp_connection","desc":"A Deno Smtp connection module to be used with a Smtp Client","repo":"https://github.com/KobraRocks/deno-smtp-connection","reg":"x","vers":"v0.2.2-alpha"}
