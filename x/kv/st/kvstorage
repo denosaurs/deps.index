@@ -9,3 +9,4 @@
 {"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.4.1"}
 {"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.4.2"}
 {"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.4.3"}
+{"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.4.4"}
