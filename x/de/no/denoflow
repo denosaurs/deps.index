@@ -14,3 +14,5 @@
 {"name":"denoflow","desc":"Automate Workflows based on Deno/Typescript/Javascript","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.19"}
 {"name":"denoflow","desc":"Automate Workflows based on Deno/Typescript/Javascript","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.20"}
 {"name":"denoflow","desc":"Automate Workflows based on Deno/Typescript/Javascript","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.21"}
+{"name":"denoflow","desc":"Simple & Powerful automated workflows based on Deno with YAML","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.22"}
+{"name":"denoflow","desc":"Simple & Powerful automated workflows based on Deno with YAML","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.23"}
