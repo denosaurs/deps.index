@@ -8,3 +8,5 @@
 {"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.0.7"}
 {"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.0.8"}
 {"name":"proc","desc":"Abstractions for running processes in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.1.0"}
+{"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.2.0"}
+{"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.3.0"}

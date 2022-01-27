@@ -4,3 +4,4 @@
 {"name":"zonefile","desc":"A DNS zone file generator and parser written in Javascript.","repo":"https://github.com/elgs/dns-zonefile","reg":"x","vers":"0.2.9"}
 {"name":"zonefile","desc":"A DNS zone file generator and parser written in Javascript.","repo":"https://github.com/elgs/dns-zonefile","reg":"x","vers":"v0.2.9"}
 {"name":"zonefile","desc":"A DNS zone file generator and parser written in Javascript.","repo":"https://github.com/elgs/dns-zonefile","reg":"x","vers":"0.2.10"}
+{"name":"zonefile","desc":"A DNS zone file generator and parser written in Javascript.","repo":"https://github.com/elgs/dns-zonefile","reg":"x","vers":"0.3.0"}

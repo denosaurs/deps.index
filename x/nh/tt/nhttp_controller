@@ -8,3 +8,4 @@
 {"name":"nhttp_controller","desc":"Micro routing controller for Deno with decorator support.","repo":"https://github.com/nhttp/nhttp_controller","reg":"x","vers":"0.5.0"}
 {"name":"nhttp_controller","desc":"Micro routing controller for Deno with decorator support.","repo":"https://github.com/nhttp/nhttp_controller","reg":"x","vers":"0.6.0"}
 {"name":"nhttp_controller","desc":"Micro routing controller for Deno with decorator support.","repo":"https://github.com/nhttp/nhttp_controller","reg":"x","vers":"0.7.0"}
+{"name":"nhttp_controller","desc":"Micro routing controller for Deno with decorator support.","repo":"https://github.com/nhttp/nhttp_controller","reg":"x","vers":"0.8.0"}

@@ -5,3 +5,6 @@
 {"name":"dijkstras_algorithm","desc":"A pretty good implementation of Dijkstra's shortest path algorithm that can scale to millions of edges.","repo":"https://github.com/j50n/deno-dijkstras-algorithm","reg":"x","vers":"1.0.1"}
 {"name":"dijkstras_algorithm","desc":"A pretty good implementation of Dijkstra's shortest path algorithm that can scale to millions of edges.","repo":"https://github.com/j50n/deno-dijkstras-algorithm","reg":"x","vers":"1.0.2"}
 {"name":"dijkstras_algorithm","desc":"A pretty good implementation of Dijkstra's shortest path algorithm that can scale to millions of edges.","repo":"https://github.com/j50n/deno-dijkstras-algorithm","reg":"x","vers":"1.0.3"}
+{"name":"dijkstras_algorithm","desc":"A fast and memory-efficient implementation of Dijkstra's shortest-path algorithm for Deno.","repo":"https://github.com/j50n/deno-dijkstras-algorithm","reg":"x","vers":"1.0.4"}
+{"name":"dijkstras_algorithm","desc":"A fast and memory-efficient implementation of Dijkstra's shortest-path algorithm for Deno.","repo":"https://github.com/j50n/deno-dijkstras-algorithm","reg":"x","vers":"1.0.5"}
+{"name":"dijkstras_algorithm","desc":"A fast and memory-efficient implementation of Dijkstra's shortest-path algorithm for Deno.","repo":"https://github.com/j50n/deno-dijkstras-algorithm","reg":"x","vers":"1.0.6"}

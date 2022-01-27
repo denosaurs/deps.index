@@ -2,3 +2,4 @@
 {"name":"ethereum","desc":"Deno Module to interact with the Ethereum Network - e.g. providing an etherscan api wrapper ... ","repo":"https://github.com/michael-spengler/ethereum","reg":"x","vers":"v0.1.1"}
 {"name":"ethereum","desc":"Deno Module to interact with the Ethereum Network - e.g. providing an etherscan api wrapper ... ","repo":"https://github.com/michael-spengler/ethereum","reg":"x","vers":"v1.1.2"}
 {"name":"ethereum","desc":"Deno Module to interact with the Ethereum Network - e.g. providing an etherscan api wrapper ... ","repo":"https://github.com/michael-spengler/ethereum","reg":"x","vers":"v1.2.0"}
+{"name":"ethereum","desc":"Deno Module to interact with the Ethereum Network - e.g. providing an etherscan api wrapper ... ","repo":"https://github.com/michael-spengler/ethereum","reg":"x","vers":"v1.3.0"}

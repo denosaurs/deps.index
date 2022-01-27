@@ -26,3 +26,4 @@
 {"name":"webview","desc":"🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs","repo":"https://github.com/webview/webview_deno","reg":"x","vers":"0.5.5"}
 {"name":"webview","desc":"🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs","repo":"https://github.com/webview/webview_deno","reg":"x","vers":"0.5.6"}
 {"name":"webview","desc":"🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs","repo":"https://github.com/webview/webview_deno","reg":"x","vers":"0.6.0-pre.0"}
+{"name":"webview","desc":"🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs","repo":"https://github.com/webview/webview_deno","reg":"x","vers":"0.7.0-pre.0"}
