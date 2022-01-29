@@ -12,3 +12,6 @@
 {"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.3.0"}
 {"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.4.0"}
 {"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.5.0"}
+{"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.6.0"}
+{"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.6.1"}
+{"name":"proc","desc":"An easy way to run processes like a shell script in Deno.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.7.0"}
