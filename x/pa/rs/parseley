@@ -1,2 +1,3 @@
 {"name":"parseley","desc":"Parser for CSS selectors, based on nearley.","repo":"https://github.com/mxxii/parseley","reg":"x","vers":"v0.9.0"}
 {"name":"parseley","desc":"Parser for CSS selectors","repo":"https://github.com/mxxii/parseley","reg":"x","vers":"v0.9.1"}
+{"name":"parseley","desc":"Parser for CSS selectors","repo":"https://github.com/mxxii/parseley","reg":"x","vers":"v0.10.0"}

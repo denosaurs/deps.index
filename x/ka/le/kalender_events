@@ -2,3 +2,5 @@
 {"name":"kalender_events","desc":"Gets events from an ical-URL/file, a caldav-server or from the iCloud.","repo":"https://github.com/naimo84/kalender-events","reg":"x","vers":"v0.27.0"}
 {"name":"kalender_events","desc":"Gets events from an ical-URL/file, a caldav-server or from the iCloud.","repo":"https://github.com/naimo84/kalender-events","reg":"x","vers":"v0.27.1"}
 {"name":"kalender_events","desc":"Gets events from an ical-URL/file, a caldav-server or from the iCloud.","repo":"https://github.com/naimo84/kalender-events","reg":"x","vers":"v0.27.2"}
+{"name":"kalender_events","desc":"Gets events from an ical-URL/file, a caldav-server or from the iCloud.","repo":"https://github.com/naimo84/kalender-events","reg":"x","vers":"v0.27.3"}
+{"name":"kalender_events","desc":"Gets events from an ical-URL/file, a caldav-server or from the iCloud.","repo":"https://github.com/naimo84/kalender-events","reg":"x","vers":"v0.27.4"}
