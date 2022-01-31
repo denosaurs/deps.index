@@ -1,1 +1,1 @@
-[{"name":"mod","desc":"Simple Command Line Interface to create Deno module entrypoints, CI, config and more.","repo":"https://github.com/GJZwiers/mod","reg":"nest","vers":["v0.1.0","v1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.0.4","v1.0.5","v1.0.6","v2.0.0","v2.1.0","v2.2.0","v2.2.1","v2.2.2","v2.2.3","v2.2.4","v2.3.2","v2.3.3"]}]
+[{"name":"carol","desc":"Build cross-platform desktop apps with Deno, HTML, and Chrome","repo":"https://github.com/uki00a","reg":"nest","vers":["v1.0.2","v1.0.3","v1.0.4","v1.0.5","v1.0.6","v1.0.7","v1.1.0","v1.1.1","v1.1.2"]}]
