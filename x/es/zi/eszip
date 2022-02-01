@@ -1,0 +1,1 @@
+{"name":"eszip","desc":"A compact file format to losslessly serialize an ECMAScript module graph into a single file","repo":"https://github.com/denoland/eszip","reg":"x","vers":"0.15.2"}
