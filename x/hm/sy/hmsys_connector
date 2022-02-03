@@ -1,3 +1,4 @@
 {"name":"hmsys_connector","desc":"a Deno Module to allow connect to the HmSYS Network. Used in lucsoft.de,HmSYS-Control and Panda2.0","repo":"https://github.com/lucsoft-DevTeam/hmsys-connector","reg":"x","vers":"v0.5.0"}
 {"name":"hmsys_connector","desc":"a Deno Module to allow connect to the HmSYS Network. Used in lucsoft.de,HmSYS-Control and Panda2.0","repo":"https://github.com/lucsoft-DevTeam/hmsys-connector","reg":"x","vers":"v0.5.1"}
 {"name":"hmsys_connector","desc":"a Deno Module to allow connect to the HmSYS Network. Used in lucsoft.de,HmSYS-Control and Panda2.0","repo":"https://github.com/lucsoft-DevTeam/hmsys-connector","reg":"x","vers":"v0.5.2"}
+{"name":"hmsys_connector","desc":"a Deno Module to allow connect to the HmSYS Network. Used in lucsoft.de,HmSYS-Control and Panda2.0","repo":"https://github.com/lucsoft-DevTeam/hmsys-connector","reg":"x","vers":"v0.6.0"}
