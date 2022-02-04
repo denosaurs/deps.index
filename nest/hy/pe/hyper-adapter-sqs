@@ -8,3 +8,4 @@
 {"name":"hyper-adapter-sqs","desc":"Hyper Queue port adapter for aws sqs","repo":"https://github.com/hyper63/hyper-adapter-sqs","reg":"nest","vers":"0.2.0"}
 {"name":"hyper-adapter-sqs","desc":"Hyper Queue port adapter for aws sqs","repo":"https://github.com/hyper63/hyper-adapter-sqs","reg":"nest","vers":"0.2.1"}
 {"name":"hyper-adapter-sqs","desc":"Hyper Queue port adapter for aws sqs","repo":"https://github.com/hyper63/hyper-adapter-sqs","reg":"nest","vers":"0.2.2"}
+{"name":"hyper-adapter-sqs","desc":"Hyper Queue port adapter for aws sqs","repo":"https://github.com/hyper63/hyper-adapter-sqs","reg":"nest","vers":"0.2.3"}
