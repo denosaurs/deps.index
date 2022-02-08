@@ -1,2 +1,3 @@
 {"name":"namedpipe","desc":"Asynchronous Named Pipes support for Deno, built on WinAPI using FFI.","repo":"https://github.com/DjDeveloperr/deno_namedpipe","reg":"x","vers":"0.0.1"}
 {"name":"namedpipe","desc":"Asynchronous Named Pipes support for Deno, built on WinAPI using FFI.","repo":"https://github.com/DjDeveloperr/deno_namedpipe","reg":"x","vers":"0.0.2"}
+{"name":"namedpipe","desc":"Asynchronous Named Pipes support for Deno, built on WinAPI using FFI.","repo":"https://github.com/DjDeveloperr/deno_namedpipe","reg":"x","vers":"0.0.3"}

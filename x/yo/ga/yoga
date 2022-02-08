@@ -1,1 +1,2 @@
 {"name":"yoga","desc":"Deno bindings for yoga, using Deno FFI.","repo":"https://github.com/justjavac/deno_yoga","reg":"x","vers":"0.1.0"}
+{"name":"yoga","desc":"Deno bindings for yoga, using Deno FFI.","repo":"https://github.com/justjavac/deno_yoga","reg":"x","vers":"0.1.1"}

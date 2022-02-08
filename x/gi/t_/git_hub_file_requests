@@ -1,3 +1,4 @@
 {"name":"git_hub_file_requests","desc":"Rest-Api-Calls for Uploading and Getting File Values from GitHub files via Deno","repo":"https://github.com/tkister/Deno-GitHub-Requests","reg":"x","vers":"v0.1.0"}
 {"name":"git_hub_file_requests","desc":"Rest-Api-Calls for Uploading and Getting File Values from GitHub files via Deno","repo":"https://github.com/tkister/Deno-GitHub-Requests","reg":"x","vers":"v0.1.1"}
 {"name":"git_hub_file_requests","desc":"Rest-Api-Calls for Uploading and Getting File Values from GitHub files via Deno","repo":"https://github.com/tkister/Deno-GitHub-Requests","reg":"x","vers":"v0.1.2"}
+{"name":"git_hub_file_requests","desc":"Rest-Api-Calls for Uploading and Getting File Values from GitHub files via Deno","repo":"https://github.com/tkister/Deno-GitHub-Requests","reg":"x","vers":"v0.1.3"}

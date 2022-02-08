@@ -1,2 +1,3 @@
 {"name":"discord_rpc","desc":"Discord RPC with Deno","repo":"https://github.com/littledivy/discordrpc_deno","reg":"x","vers":"0.1.0"}
 {"name":"discord_rpc","desc":"Discord RPC module for Deno.","repo":"https://github.com/harmonyland/discord_rpc","reg":"x","vers":"0.2.0"}
+{"name":"discord_rpc","desc":"Discord RPC module for Deno.","repo":"https://github.com/harmonyland/discord_rpc","reg":"x","vers":"0.2.1"}

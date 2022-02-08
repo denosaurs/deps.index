@@ -6,3 +6,4 @@
 {"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.2.4"}
 {"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.2.5"}
 {"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.3.0"}
+{"name":"sqlite3","desc":"Fast, native bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.3.1"}

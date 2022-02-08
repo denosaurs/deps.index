@@ -1,0 +1,2 @@
+{"name":"db_scan","desc":"This module allows you to process the DB-Scan algorithm on your n-dimensional dataset.","repo":"https://github.com/JanDN312/db_scan","reg":"x","vers":"1.0.1"}
+{"name":"db_scan","desc":"This module allows you to process the DB-Scan algorithm on your n-dimensional dataset.","repo":"https://github.com/JanDN312/db_scan","reg":"x","vers":"2.0.0"}
