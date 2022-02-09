@@ -2,3 +2,4 @@
 {"name":"msgpack_javascript","desc":"MessagePack for JavaScript/TypeScript/ECMA-262 / msgpack.org[JavaScript]","repo":"https://github.com/msgpack/msgpack-javascript","reg":"x","vers":"v2.6.3"}
 {"name":"msgpack_javascript","desc":"MessagePack for JavaScript/TypeScript/ECMA-262 / msgpack.org[JavaScript]","repo":"https://github.com/msgpack/msgpack-javascript","reg":"x","vers":"v2.7.0"}
 {"name":"msgpack_javascript","desc":"@msgpack/msgpack - MessagePack for JavaScript/TypeScript/ECMA-262 / msgpack.org[JavaScript]","repo":"https://github.com/msgpack/msgpack-javascript","reg":"x","vers":"v2.7.1"}
+{"name":"msgpack_javascript","desc":"@msgpack/msgpack - MessagePack for JavaScript/TypeScript/ECMA-262 / msgpack.org[JavaScript]","repo":"https://github.com/msgpack/msgpack-javascript","reg":"x","vers":"v2.7.2"}

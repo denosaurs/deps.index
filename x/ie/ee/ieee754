@@ -1,2 +1,3 @@
 {"name":"ieee754","desc":"Parse IEEE754 floating point numbers for Deno","repo":"justjavac/deno_ieee754","reg":"x","vers":"0.1.0"}
 {"name":"ieee754","desc":"Parse IEEE754 floating point numbers for Deno","repo":"https://github.com/justjavac/deno_ieee754","reg":"x","vers":"v1.0.0"}
+{"name":"ieee754","desc":"Parse IEEE754 floating point numbers for Deno","repo":"https://github.com/justjavac/deno_ieee754","reg":"x","vers":"1.1.0"}
