@@ -1,0 +1,2 @@
+{"name":"pouchdb_deno","desc":"PouchDB for Deno, leveraging polyfill for IndexedDB based on SQLite.","repo":"https://github.com/aaronhuggins/pouchdb_deno","reg":"x","vers":"v1.0.0-PouchDB+7.2.2"}
+{"name":"pouchdb_deno","desc":"PouchDB for Deno, leveraging polyfill for IndexedDB based on SQLite.","repo":"https://github.com/aaronhuggins/pouchdb_deno","reg":"x","vers":"v1.1.0-PouchDB+7.2.2"}
