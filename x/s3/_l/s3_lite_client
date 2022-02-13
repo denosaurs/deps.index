@@ -1,1 +1,2 @@
 {"name":"s3_lite_client","desc":"A lightweight S3 client for Deno","repo":"https://github.com/bradenmacdonald/deno-s3-lite-client","reg":"x","vers":"0.1.1"}
+{"name":"s3_lite_client","desc":"A lightweight S3 client for Deno","repo":"https://github.com/bradenmacdonald/deno-s3-lite-client","reg":"x","vers":"0.2.0"}
