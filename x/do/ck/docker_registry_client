@@ -4,3 +4,4 @@
 {"name":"docker_registry_client","desc":"Typescript client for the Docker Registry API. Useful for inspecting and managing images or tags.","repo":"https://github.com/cloudydeno/deno-docker_registry_client","reg":"x","vers":"v0.2.0"}
 {"name":"docker_registry_client","desc":"Typescript client for the OCI / Docker Registry API. Useful for inspecting and managing images or tags.","repo":"https://github.com/cloudydeno/deno-docker_registry_client","reg":"x","vers":"v0.3.0"}
 {"name":"docker_registry_client","desc":"Typescript client for the OCI / Docker Registry API. Useful for inspecting and managing images or tags.","repo":"https://github.com/cloudydeno/deno-docker_registry_client","reg":"x","vers":"v0.3.1"}
+{"name":"docker_registry_client","desc":"Typescript client for the OCI / Docker Registry API. Useful for inspecting and managing images or tags.","repo":"https://github.com/cloudydeno/deno-docker_registry_client","reg":"x","vers":"v0.3.2"}
