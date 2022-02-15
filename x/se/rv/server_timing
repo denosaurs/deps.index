@@ -1,0 +1,3 @@
+{"name":"server_timing","desc":"Oak middleware to generate server-timing header with tracing functions","repo":"https://github.com/FutureDrivenDev/deno-server-timing","reg":"x","vers":"v0.0.1"}
+{"name":"server_timing","desc":"Oak middleware to generate server-timing header with tracing functions","repo":"https://github.com/FutureDrivenDev/deno-server-timing","reg":"x","vers":"v0.0.2"}
+{"name":"server_timing","desc":"Oak middleware to generate server-timing header with tracing functions","repo":"https://github.com/FutureDrivenDev/deno-server-timing","reg":"x","vers":"v0.0.3"}
