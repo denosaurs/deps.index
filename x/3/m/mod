@@ -31,3 +31,4 @@
 {"name":"mod","desc":"Simple Command Line Interface to create Deno module entrypoints, CI, config and more.","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.3.1"}
 {"name":"mod","desc":"Simple Command Line Interface to create Deno module entrypoints, CI, config and more.","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.3.2"}
 {"name":"mod","desc":"Simple Command Line Interface to create Deno module entrypoints, CI, config and more.","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.3.3"}
+{"name":"mod","desc":"Simple Command Line Interface to create Deno module entrypoints, CI, config and more.","repo":"https://github.com/GJZwiers/mod","reg":"x","vers":"v2.3.4"}

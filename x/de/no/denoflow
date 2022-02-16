@@ -21,3 +21,4 @@
 {"name":"denoflow","desc":"Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.26"}
 {"name":"denoflow","desc":"Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.27"}
 {"name":"denoflow","desc":"Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.28"}
+{"name":"denoflow","desc":"Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes","repo":"https://github.com/denoflow/denoflow","reg":"x","vers":"0.0.29"}
