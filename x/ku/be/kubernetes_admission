@@ -1,0 +1,1 @@
+{"name":"kubernetes_admission","desc":"Create endpoints for the Kubernetes MutatingAdmissionWebhook and ValidatingAdmissionWebhook controllers","repo":"https://github.com/cloudydeno/deno-kubernetes_admission","reg":"x","vers":"v0.1.0"}
