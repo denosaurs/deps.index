@@ -40,3 +40,5 @@
 {"name":"deno_mongo_schema","desc":"Extend from deno_mongo, support Schema and extend some API","repo":"https://github.com/jiawei397/deno_mongo_schema","reg":"x","vers":"v0.6.5"}
 {"name":"deno_mongo_schema","desc":"Extend from deno_mongo, support Schema and extend some API","repo":"https://github.com/jiawei397/deno_mongo_schema","reg":"x","vers":"v0.6.6"}
 {"name":"deno_mongo_schema","desc":"Extend from deno_mongo, support Schema and extend some API","repo":"https://github.com/jiawei397/deno_mongo_schema","reg":"x","vers":"v0.7.0"}
+{"name":"deno_mongo_schema","desc":"Extend from deno_mongo, support Schema and extend some API","repo":"https://github.com/jiawei397/deno_mongo_schema","reg":"x","vers":"v0.7.1"}
+{"name":"deno_mongo_schema","desc":"Extend from deno_mongo, support Schema and extend some API","repo":"https://github.com/jiawei397/deno_mongo_schema","reg":"x","vers":"v0.7.2"}

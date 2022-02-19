@@ -4,3 +4,4 @@
 {"name":"wocket","desc":"A WebSocket library for Deno.","repo":"https://github.com/drashland/wocket","reg":"x","vers":"v0.6.3"}
 {"name":"wocket","desc":"A WebSocket library for Deno","repo":"https://github.com/drashland/wocket","reg":"x","vers":"v1.0.0-internal-1"}
 {"name":"wocket","desc":"A WebSocket library for Deno","repo":"https://github.com/drashland/wocket","reg":"x","vers":"v1.0.0-internal-2"}
+{"name":"wocket","desc":"A WebSocket library for Deno","repo":"https://github.com/drashland/wocket","reg":"x","vers":"v1.0.0"}
