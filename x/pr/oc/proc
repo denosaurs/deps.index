@@ -40,3 +40,4 @@
 {"name":"proc","desc":"A different approach to running child processes that is easy, flexible, powerful, and prevents resource leaks.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.14.3"}
 {"name":"proc","desc":"A different approach to running child processes that is easy, flexible, powerful, and prevents resource leaks.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.14.4"}
 {"name":"proc","desc":"A different approach to running child processes that is easy, flexible, powerful, and prevents resource leaks.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.15.0"}
+{"name":"proc","desc":"A high-level way to run child processes that is easy, flexible, powerful, and prevents resource leaks.","repo":"https://github.com/j50n/deno-proc","reg":"x","vers":"0.16.0"}
