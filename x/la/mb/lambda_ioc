@@ -4,3 +4,5 @@
 {"name":"lambda_ioc","desc":"Pure functional (λ) dependency injection 💉 for TypeScript (inspired by Diddly)","repo":"https://github.com/Coder-Spirit/lambda-ioc","reg":"x","vers":"0.4.0"}
 {"name":"lambda_ioc","desc":"Pure functional (λ) dependency injection 💉 for TypeScript (inspired by Diddly)","repo":"https://github.com/Coder-Spirit/lambda-ioc","reg":"x","vers":"0.5.0"}
 {"name":"lambda_ioc","desc":"Pure functional (λ) dependency injection 💉 for TypeScript (inspired by Diddly)","repo":"https://github.com/Coder-Spirit/lambda-ioc","reg":"x","vers":"0.5.1"}
+{"name":"lambda_ioc","desc":"Super type safe dependency injection 💉 for TypeScript (inspired by Diddly)","repo":"https://github.com/Coder-Spirit/lambda-ioc","reg":"x","vers":"0.6.0"}
+{"name":"lambda_ioc","desc":"Super type safe dependency injection 💉 for TypeScript (inspired by Diddly)","repo":"https://github.com/Coder-Spirit/lambda-ioc","reg":"x","vers":"0.7.0"}
