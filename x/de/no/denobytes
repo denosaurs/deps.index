@@ -1,0 +1,1 @@
+{"name":"denobytes","desc":"Buffer helper for Deno, inspired by Rust's `bytes` crate.","repo":"https://github.com/envis10n/denobytes","reg":"x","vers":"0.1.0"}

@@ -13,3 +13,4 @@
 {"name":"bob","desc":"A static site generator for the dynamic web - develop with TSX and build with Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.3.0-rc2"}
 {"name":"bob","desc":"A static site generator for the dynamic web - develop with TSX and build with Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.3.0"}
 {"name":"bob","desc":"A static site generator for the dynamic web - develop with TSX and build with Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.4.0"}
+{"name":"bob","desc":"A static site generator for the dynamic web - develop with TSX and build with Deno","repo":"https://github.com/ericselin/deno-ssg-bob","reg":"x","vers":"v2.4.1"}
