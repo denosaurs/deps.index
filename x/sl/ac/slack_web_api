@@ -12,3 +12,4 @@
 {"name":"slack_web_api","desc":"Slack Developer Kit for Node.js","repo":"https://github.com/slackapi/node-slack-sdk","reg":"x","vers":"6.5.1"}
 {"name":"slack_web_api","desc":"Slack Developer Kit for Node.js","repo":"https://github.com/slackapi/node-slack-sdk","reg":"x","vers":"6.5.1-hermesBeta.2"}
 {"name":"slack_web_api","desc":"Slack Developer Kit for Node.js","repo":"https://github.com/slackapi/node-slack-sdk","reg":"x","vers":"6.6.0"}
+{"name":"slack_web_api","desc":"Slack Developer Kit for Node.js","repo":"https://github.com/slackapi/node-slack-sdk","reg":"x","vers":"6.7.0"}

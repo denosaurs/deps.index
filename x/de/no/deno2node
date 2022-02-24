@@ -7,3 +7,5 @@
 {"name":"deno2node","desc":"Transpiles Deno projects into `.js` and `.d.ts` for Node.js.","repo":"https://github.com/wojpawlik/deno2node","reg":"x","vers":"v0.8.0"}
 {"name":"deno2node","desc":"Transpiles Deno projects into `.js` and `.d.ts` for Node.js.","repo":"https://github.com/wojpawlik/deno2node","reg":"x","vers":"v1.0.0"}
 {"name":"deno2node","desc":"Transpiles Deno projects into `.js` and `.d.ts` for Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.1.0"}
+{"name":"deno2node","desc":"Compile your Deno project to run on Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.2.0"}
+{"name":"deno2node","desc":"Compile your Deno project to run on Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.2.1"}
