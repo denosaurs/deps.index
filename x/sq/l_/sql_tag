@@ -1,1 +1,2 @@
 {"name":"sql_tag","desc":"","repo":"https://github.com/dsego/sql_tag","reg":"x","vers":"v0.1.0"}
+{"name":"sql_tag","desc":"JS tagged template literals for prepared SQL statements.","repo":"https://github.com/dsego/sql_tag","reg":"x","vers":"v0.2.0"}
