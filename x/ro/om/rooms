@@ -1,0 +1,1 @@
+{"name":"rooms","desc":"Basic Deno WebSocket server for WebRTC signaling or simply \"P2P\" communication.","repo":"https://github.com/weisrc/rooms","reg":"x","vers":"0.0.0"}
