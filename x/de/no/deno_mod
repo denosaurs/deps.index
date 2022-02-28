@@ -7,3 +7,5 @@
 {"name":"deno_mod","desc":"A collection of modules written in TypeScript for common Deno programming tasks.","repo":"https://github.com/wiremoons/deno_mod","reg":"x","vers":"0.7.3"}
 {"name":"deno_mod","desc":"A collection of modules written in TypeScript for common Deno programming tasks.","repo":"https://github.com/wiremoons/deno_mod","reg":"x","vers":"0.7.4"}
 {"name":"deno_mod","desc":"A collection of modules written in TypeScript for common Deno programming tasks.","repo":"https://github.com/wiremoons/deno_mod","reg":"x","vers":"0.7.5"}
+{"name":"deno_mod","desc":"A collection of modules written in TypeScript for common Deno programming tasks.","repo":"https://github.com/wiremoons/deno_mod","reg":"x","vers":"0.8.0"}
+{"name":"deno_mod","desc":"A collection of modules written in TypeScript for common Deno programming tasks.","repo":"https://github.com/wiremoons/deno_mod","reg":"x","vers":"0.8.1"}
