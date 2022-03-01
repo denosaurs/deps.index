@@ -1,2 +1,4 @@
 {"name":"ddirs","desc":"Deno wrapper over https://github.com/dirs-dev/dirs-rs","repo":"https://github.com/sigmaSd/ddirs2","reg":"x","vers":"0.1.0"}
 {"name":"ddirs","desc":"Deno wrapper over https://github.com/dirs-dev/dirs-rs","repo":"https://github.com/sigmaSd/ddirs2","reg":"x","vers":"0.1.1"}
+{"name":"ddirs","desc":"Deno wrapper over https://github.com/dirs-dev/dirs-rs","repo":"https://github.com/sigmaSd/ddirs2","reg":"x","vers":"0.1.2"}
+{"name":"ddirs","desc":"Deno wrapper over https://github.com/dirs-dev/dirs-rs","repo":"https://github.com/sigmaSd/ddirs2","reg":"x","vers":"0.1.3"}
