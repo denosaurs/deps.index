@@ -1,1 +1,1 @@
-[{"name":"postcss_js","desc":"Interconversion between JavaScript Object(CSS-in-JS) and PostCSS AST","repo":"https://github.com/TomokiMiyauci/postcss-js","reg":"nest","vers":["v1.0.0-beta.1"]}]
+[{"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":["7.0.4","7.0.5","7.0.6"]}]

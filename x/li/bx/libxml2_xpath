@@ -1,2 +1,3 @@
 {"name":"libxml2_xpath","desc":"libxml2's xpath bindings for Deno.","repo":"https://github.com/yskszk63/libxml2-xpath","reg":"x","vers":"v0.0.1"}
 {"name":"libxml2_xpath","desc":"libxml2's xpath bindings for Deno.","repo":"https://github.com/yskszk63/libxml2-xpath","reg":"x","vers":"v0.0.2"}
+{"name":"libxml2_xpath","desc":"libxml2's xpath bindings for Deno.","repo":"https://github.com/yskszk63/libxml2-xpath","reg":"x","vers":"v0.0.3"}
