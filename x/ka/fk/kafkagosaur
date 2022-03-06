@@ -3,3 +3,4 @@
 {"name":"kafkagosaur","desc":"Kafka client for Deno binding to kafka-go using WebAssembly","repo":"https://github.com/arjun-1/kafkagosaur","reg":"x","vers":"v0.0.3"}
 {"name":"kafkagosaur","desc":"Kafka client for Deno binding to kafka-go using WebAssembly","repo":"https://github.com/arjun-1/kafkagosaur","reg":"x","vers":"v0.0.4"}
 {"name":"kafkagosaur","desc":"Kafka client for Deno binding to kafka-go using WebAssembly","repo":"https://github.com/arjun-1/kafkagosaur","reg":"x","vers":"v0.0.5"}
+{"name":"kafkagosaur","desc":"Kafka client for Deno binding to kafka-go using WebAssembly","repo":"https://github.com/arjun-1/kafkagosaur","reg":"x","vers":"v0.0.6"}
