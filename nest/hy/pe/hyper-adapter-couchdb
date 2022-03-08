@@ -11,3 +11,4 @@
 {"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"0.0.24"}
 {"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"0.0.25"}
 {"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"2.0.0"}
+{"name":"hyper-adapter-couchdb","desc":"Hyper Data port adapter for CouchDB","repo":"https://github.com/hyper63/hyper-adapter-couchdb","reg":"nest","vers":"3.0.0"}

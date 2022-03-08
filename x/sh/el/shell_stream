@@ -17,3 +17,6 @@
 {"name":"shell_stream","desc":"ShellStream is a lib for Deno that mix I/O stream API and Shell pipe/redirects.","repo":"https://github.com/jersou/deno-shell-stream","reg":"x","vers":"v1.0.2"}
 {"name":"shell_stream","desc":"ShellStream is a lib for Deno that mix I/O stream API and Shell pipe/redirects.","repo":"https://github.com/jersou/deno-shell-stream","reg":"x","vers":"v1.0.3"}
 {"name":"shell_stream","desc":"ShellStream is a lib for Deno that mix I/O stream API and Shell pipe/redirects.","repo":"https://github.com/jersou/deno-shell-stream","reg":"x","vers":"v1.0.4"}
+{"name":"shell_stream","desc":"ShellStream is a lib for Deno that mix I/O stream API and Shell pipe/redirects.","repo":"https://github.com/jersou/deno-shell-stream","reg":"x","vers":"v1.0.5"}
+{"name":"shell_stream","desc":"ShellStream is a lib for Deno that mix I/O stream API and Shell pipe/redirects.","repo":"https://github.com/jersou/deno-shell-stream","reg":"x","vers":"v1.0.6"}
+{"name":"shell_stream","desc":"ShellStream is a lib for Deno that mix I/O stream API and Shell pipe/redirects.","repo":"https://github.com/jersou/deno-shell-stream","reg":"x","vers":"v1.0.7"}

@@ -1,3 +1,4 @@
 {"name":"earthstar_streaming_rpc","desc":"Like JSON-RPC, but supports streaming.","repo":"https://github.com/earthstar-project/earthstar-streaming-rpc","reg":"x","vers":"3.2.3"}
 {"name":"earthstar_streaming_rpc","desc":"Like JSON-RPC, but supports streaming.","repo":"https://github.com/earthstar-project/earthstar-streaming-rpc","reg":"x","vers":"v4.0.0"}
 {"name":"earthstar_streaming_rpc","desc":"Like JSON-RPC, but supports streaming.","repo":"https://github.com/earthstar-project/earthstar-streaming-rpc","reg":"x","vers":"v4.0.1"}
+{"name":"earthstar_streaming_rpc","desc":"Like JSON-RPC, but supports streaming.","repo":"https://github.com/earthstar-project/earthstar-streaming-rpc","reg":"x","vers":"v4.0.2"}
