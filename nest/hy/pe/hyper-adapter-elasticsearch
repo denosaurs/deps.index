@@ -7,3 +7,4 @@
 {"name":"hyper-adapter-elasticsearch","desc":"Hyper Search port adapter for Elasticsearch","repo":"https://github.com/hyper63/hyper-adapter-elasticsearch","reg":"nest","vers":"0.4.0"}
 {"name":"hyper-adapter-elasticsearch","desc":"Hyper Search port adapter for Elasticsearch","repo":"https://github.com/hyper63/hyper-adapter-elasticsearch","reg":"nest","vers":"1.0.0"}
 {"name":"hyper-adapter-elasticsearch","desc":"Hyper Search port adapter for Elasticsearch","repo":"https://github.com/hyper63/hyper-adapter-elasticsearch","reg":"nest","vers":"2.0.0"}
+{"name":"hyper-adapter-elasticsearch","desc":"Hyper Search port adapter for Elasticsearch","repo":"https://github.com/hyper63/hyper-adapter-elasticsearch","reg":"nest","vers":"2.0.1"}
