@@ -2,3 +2,4 @@
 {"name":"asynciter","desc":"Better AsyncIterables for Deno.","repo":"https://github.com/j50n/deno-asynciter","reg":"x","vers":"0.0.5"}
 {"name":"asynciter","desc":"Map, filter, reduce for AsyncIterables in Deno.","repo":"https://github.com/j50n/deno-asynciter","reg":"x","vers":"0.0.6"}
 {"name":"asynciter","desc":"Map, filter, reduce for AsyncIterables in Deno.","repo":"https://github.com/j50n/deno-asynciter","reg":"x","vers":"0.0.7"}
+{"name":"asynciter","desc":"Map, filter, reduce for AsyncIterables in Deno.","repo":"https://github.com/j50n/deno-asynciter","reg":"x","vers":"0.0.8"}

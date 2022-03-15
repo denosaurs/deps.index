@@ -1,1 +1,2 @@
 {"name":"socks5","desc":"","repo":"https://github.com/rclarey/socks5","reg":"x","vers":"v0.0.0"}
+{"name":"socks5","desc":"SOCKS5 Client library for Deno","repo":"https://github.com/rclarey/socks5","reg":"x","vers":"v0.0.1"}
