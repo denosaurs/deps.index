@@ -43,3 +43,4 @@
 {"name":"nhttp","desc":"An simple http framework for Deno, Deno Deploy and Cloudflare Workers.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"1.1.8"}
 {"name":"nhttp","desc":"An simple http framework for Deno, Deno Deploy and Cloudflare Workers.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"1.1.9"}
 {"name":"nhttp","desc":"An simple http framework for Deno, Deno Deploy and Cloudflare Workers.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"1.1.10"}
+{"name":"nhttp","desc":"An simple http framework for Deno, Deno Deploy and Cloudflare Workers.","repo":"https://github.com/nhttp/nhttp","reg":"nest","vers":"1.1.11"}
