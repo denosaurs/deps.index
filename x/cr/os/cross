@@ -18,3 +18,5 @@
 {"name":"cross","desc":"A tiny and strong framework for deno web application.","repo":"https://github.com/seatwork/deno-cross","reg":"x","vers":"0.0.18"}
 {"name":"cross","desc":"A tiny and strong framework for deno web application.","repo":"https://github.com/seatwork/deno-cross","reg":"x","vers":"0.0.19"}
 {"name":"cross","desc":"A tiny and strong framework for deno web application.","repo":"https://github.com/seatwork/deno-cross","reg":"x","vers":"0.0.20"}
+{"name":"cross","desc":"A tiny and strong framework for deno web application.","repo":"https://github.com/seatwork/deno-cross","reg":"x","vers":"0.1.0"}
+{"name":"cross","desc":"A tiny and strong framework for deno web application.","repo":"https://github.com/seatwork/deno-cross","reg":"x","vers":"0.1.1"}
