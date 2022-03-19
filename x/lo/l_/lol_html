@@ -1,2 +1,3 @@
 {"name":"lol_html","desc":"LOL(😂) HTML for Deno.","repo":"https://github.com/ije/deno-lol-html","reg":"x","vers":"0.0.1"}
 {"name":"lol_html","desc":"LOL(😂) HTML for Deno.","repo":"https://github.com/ije/deno-lol-html","reg":"x","vers":"0.0.2"}
+{"name":"lol_html","desc":"Low output latency streaming HTML parser/rewriter with CSS selector-based API in Deno, via Webassembly.","repo":"https://github.com/ije/deno-lol-html","reg":"x","vers":"0.0.3"}
