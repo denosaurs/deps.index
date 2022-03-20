@@ -1,0 +1,2 @@
+{"name":"haveibeenpwned","desc":"This is a small and simple CLI script to check against \"Have I Been Pwned\" (HIBP) if a given password has been involved in a breach.","repo":"https://github.com/BrunoBernardino/haveibeenpwned-cli-deno","reg":"x","vers":"v1.0.0"}
+{"name":"haveibeenpwned","desc":"This is a small and simple CLI script to check against \"Have I Been Pwned\" (HIBP) if a given password has been involved in a breach.","repo":"https://github.com/BrunoBernardino/haveibeenpwned-cli-deno","reg":"x","vers":"1.0.1"}

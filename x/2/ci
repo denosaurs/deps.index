@@ -1,2 +1,3 @@
 {"name":"ci","desc":"Get environment variables exposed by CI services","repo":"justjavac/deno-ci","reg":"x","vers":"1.1.0"}
 {"name":"ci","desc":"Get environment variables exposed by CI services","repo":"justjavac/deno-ci","reg":"x","vers":"1.1.1"}
+{"name":"ci","desc":"Get environment variables exposed by CI services","repo":"https://github.com/justjavac/deno-ci","reg":"x","vers":"1.1.2"}

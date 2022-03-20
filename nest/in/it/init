@@ -31,3 +31,5 @@
 {"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.3.1"}
 {"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.4.0"}
 {"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.4.1"}
+{"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.4.2"}
+{"name":"init","desc":"Generate a Deno configuration file.","repo":"https://github.com/GJZwiers/deno-init","reg":"nest","vers":"v2.4.3"}

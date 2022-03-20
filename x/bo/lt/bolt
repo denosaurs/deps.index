@@ -5,3 +5,4 @@
 {"name":"bolt","desc":"Use deno libraries that depends on rust dynamic libraries in a very convenient way","repo":"https://github.com/sigmaSd/Bolt","reg":"x","vers":"0.1.4"}
 {"name":"bolt","desc":"Use deno libraries that depends on rust dynamic libraries in a very convenient way","repo":"https://github.com/sigmaSd/Bolt","reg":"x","vers":"0.1.5"}
 {"name":"bolt","desc":"Use deno libraries that depends on rust dynamic libraries in a very convenient way","repo":"https://github.com/sigmaSd/Bolt","reg":"x","vers":"0.1.6"}
+{"name":"bolt","desc":"Use deno libraries that depends on rust dynamic libraries in a very convenient way","repo":"https://github.com/sigmaSd/Bolt","reg":"x","vers":"0.1.7"}
