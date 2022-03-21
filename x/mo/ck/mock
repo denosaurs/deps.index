@@ -22,3 +22,5 @@
 {"name":"mock","desc":"Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.12.1"}
 {"name":"mock","desc":"Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.12.2"}
 {"name":"mock","desc":"Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.13.0"}
+{"name":"mock","desc":"Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.14.0"}
+{"name":"mock","desc":"Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.","repo":"https://github.com/udibo/mock","reg":"x","vers":"0.15.0"}
