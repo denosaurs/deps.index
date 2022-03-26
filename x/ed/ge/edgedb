@@ -3,3 +3,4 @@
 {"name":"edgedb","desc":"EdgeDB driver for Deno","repo":"https://github.com/edgedb/edgedb-deno","reg":"x","vers":"v0.15.2"}
 {"name":"edgedb","desc":"EdgeDB driver for Deno","repo":"https://github.com/edgedb/edgedb-deno","reg":"x","vers":"v0.19.15"}
 {"name":"edgedb","desc":"EdgeDB driver for Deno","repo":"https://github.com/edgedb/edgedb-deno","reg":"x","vers":"v0.19.16"}
+{"name":"edgedb","desc":"EdgeDB driver for Deno","repo":"https://github.com/edgedb/edgedb-deno","reg":"x","vers":"v0.20.0"}
