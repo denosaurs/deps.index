@@ -2,3 +2,4 @@
 {"name":"esbuild_plugin_bundle","desc":"An esbuild plugin that bundles modules before importing them","repo":"https://github.com/jed/esbuild-plugin-bundle","reg":"x","vers":"v2.0.0"}
 {"name":"esbuild_plugin_bundle","desc":"An esbuild plugin that bundles modules before importing them","repo":"https://github.com/jed/esbuild-plugin-bundle","reg":"x","vers":"v3.0.0"}
 {"name":"esbuild_plugin_bundle","desc":"An esbuild plugin that bundles modules before importing them","repo":"https://github.com/jed/esbuild-plugin-bundle","reg":"x","vers":"v3.0.1"}
+{"name":"esbuild_plugin_bundle","desc":"An esbuild plugin that bundles modules before importing them","repo":"https://github.com/jed/esbuild-plugin-bundle","reg":"x","vers":"v3.0.2"}
