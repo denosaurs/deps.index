@@ -10,3 +10,4 @@
 {"name":"notion_sdk","desc":"Unofficial Notion Deno Client, port of the official Node.JS Client","repo":"https://github.com/cloudydeno/deno-notion_sdk","reg":"x","vers":"v0.4.9"}
 {"name":"notion_sdk","desc":"Unofficial Notion Deno Client, port of the official Node.JS Client","repo":"https://github.com/cloudydeno/deno-notion_sdk","reg":"x","vers":"v0.4.12"}
 {"name":"notion_sdk","desc":"Unofficial Notion Deno Client, port of the official Node.JS Client","repo":"https://github.com/cloudydeno/deno-notion_sdk","reg":"x","vers":"v1.0.3"}
+{"name":"notion_sdk","desc":"Unofficial Notion Deno Client, port of the official Node.JS Client","repo":"https://github.com/cloudydeno/deno-notion_sdk","reg":"x","vers":"v1.0.4"}

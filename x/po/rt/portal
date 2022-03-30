@@ -1,1 +1,2 @@
 {"name":"portal","desc":"","repo":"https://github.com/Zaubrik/portal","reg":"x","vers":"v0.0.1"}
+{"name":"portal","desc":"Fast and simple routing with the URLPattern interface for Deno.","repo":"https://github.com/Zaubrik/portal","reg":"x","vers":"v0.0.2"}
