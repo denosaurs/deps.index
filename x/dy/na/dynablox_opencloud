@@ -1,3 +1,5 @@
 {"name":"dynablox_opencloud","desc":"A Roblox OpenCloud API wrapper for Deno (and NodeJS) written in TypeScript.","repo":"https://github.com/JullianDev/dynablox_opencloud","reg":"x","vers":"v0.1.0"}
 {"name":"dynablox_opencloud","desc":"A Roblox OpenCloud API wrapper for Deno (and NodeJS) written in TypeScript.","repo":"https://github.com/JullianDev/dynablox_opencloud","reg":"x","vers":"v0.1.1"}
 {"name":"dynablox_opencloud","desc":"A Roblox OpenCloud API wrapper for Deno (and NodeJS) written in TypeScript.","repo":"https://github.com/dynabloxjs/dynablox_opencloud","reg":"x","vers":"v0.1.2"}
+{"name":"dynablox_opencloud","desc":"A Roblox OpenCloud API wrapper for Deno (and NodeJS) written in TypeScript.","repo":"https://github.com/dynabloxjs/dynablox_opencloud","reg":"x","vers":"v0.1.3"}
+{"name":"dynablox_opencloud","desc":"A Roblox OpenCloud API wrapper for Deno (and NodeJS) written in TypeScript.","repo":"https://github.com/dynabloxjs/dynablox_opencloud","reg":"x","vers":"v0.1.4"}
