@@ -4,3 +4,9 @@
 {"name":"embed","desc":"","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.1.2"}
 {"name":"embed","desc":"","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.1.3"}
 {"name":"embed","desc":"","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.1.4"}
+{"name":"embed","desc":"Embed files into demo applications by embedding them into a JSON file and importing natively into the demo app.","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.2.0"}
+{"name":"embed","desc":"Embed files into demo applications by embedding them into a JSON file and importing natively into the demo app.","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.2.1"}
+{"name":"embed","desc":"Embed files into demo applications by embedding them into a JSON file and importing natively into the demo app.","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.2.2"}
+{"name":"embed","desc":"Embed files into demo applications by embedding them into a JSON file and importing natively into the demo app.","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.2.3"}
+{"name":"embed","desc":"Embed files into demo applications by embedding them into a JSON file and importing natively into the demo app.","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.2.4"}
+{"name":"embed","desc":"Embed files into demo applications by embedding them into a JSON file and importing natively into the demo app.","repo":"https://github.com/leighmcculloch/deno-embed","reg":"x","vers":"0.2.5"}
