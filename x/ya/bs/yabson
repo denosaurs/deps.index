@@ -9,3 +9,4 @@
 {"name":"yabson","desc":"Binary-encoded serialization of JavaScript objects with generator-based parser and serializer","repo":"https://github.com/gildas-lormeau/yabson","reg":"x","vers":"v1.0.9"}
 {"name":"yabson","desc":"Binary-encoded serialization of JavaScript objects with generator-based parser and serializer","repo":"https://github.com/gildas-lormeau/yabson","reg":"x","vers":"v1.0.10"}
 {"name":"yabson","desc":"Binary-encoded serialization of JavaScript objects with generator-based parser and serializer","repo":"https://github.com/gildas-lormeau/yabson","reg":"x","vers":"v1.1.0"}
+{"name":"yabson","desc":"Binary-encoded serialization of JavaScript objects with generator-based parser and serializer","repo":"https://github.com/gildas-lormeau/yabson","reg":"x","vers":"v1.2.0"}
