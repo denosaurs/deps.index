@@ -10,3 +10,4 @@
 {"name":"csv","desc":"Streaming API for reading and writing CSV for https://deno.land/","repo":"https://github.com/vslinko/deno-csv","reg":"x","vers":"v0.7.1"}
 {"name":"csv","desc":"Streaming API for reading and writing CSV for https://deno.land/","repo":"https://github.com/vslinko/deno-csv","reg":"x","vers":"v0.7.2"}
 {"name":"csv","desc":"Streaming API for reading and writing CSV for https://deno.land/","repo":"https://github.com/vslinko/deno-csv","reg":"x","vers":"v0.7.3"}
+{"name":"csv","desc":"Streaming API for reading and writing CSV for https://deno.land/","repo":"https://github.com/vslinko/deno-csv","reg":"x","vers":"v0.7.4"}

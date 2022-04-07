@@ -7,3 +7,5 @@
 {"name":"emit_esm_server","desc":"Emits ESM from TypeScript URLs via Deno.emit(...)","repo":"https://github.com/cdaringe/deno-emit-esm-server","reg":"x","vers":"v1.3.0"}
 {"name":"emit_esm_server","desc":"Emits ESM from TypeScript URLs via Deno.emit(...)","repo":"https://github.com/cdaringe/deno-emit-esm-server","reg":"x","vers":"v1.3.1"}
 {"name":"emit_esm_server","desc":"Emits ESM from TypeScript URLs via Deno.emit(...)","repo":"https://github.com/cdaringe/deno-emit-esm-server","reg":"x","vers":"v1.4.0"}
+{"name":"emit_esm_server","desc":"Emits ESM from TypeScript URLs via Deno.emit(...)","repo":"https://github.com/cdaringe/deno-emit-esm-server","reg":"x","vers":"v1.4.1"}
+{"name":"emit_esm_server","desc":"Emits ESM from TypeScript URLs via Deno.emit(...)","repo":"https://github.com/cdaringe/deno-emit-esm-server","reg":"x","vers":"v1.4.2"}
