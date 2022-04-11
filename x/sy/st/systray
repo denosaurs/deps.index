@@ -23,3 +23,4 @@
 {"name":"systray","desc":"A cross-platform systray library for Deno.","repo":"https://github.com/wobsoriano/deno-systray","reg":"x","vers":"v0.1.26"}
 {"name":"systray","desc":"A cross-platform systray library for Deno.","repo":"https://github.com/wobsoriano/deno-systray","reg":"x","vers":"v0.2.0"}
 {"name":"systray","desc":"A cross-platform systray library for Deno.","repo":"https://github.com/wobsoriano/deno-systray","reg":"x","vers":"v0.2.1"}
+{"name":"systray","desc":"A cross-platform systray library for Deno.","repo":"https://github.com/wobsoriano/deno-systray","reg":"x","vers":"v0.2.2"}
