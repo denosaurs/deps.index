@@ -1,3 +1,5 @@
 {"name":"npm_bridge","desc":"Proof of concept for a bridge between Deno and npm packages","repo":"https://github.com/dsherret/npm_bridge","reg":"x","vers":"0.0.1"}
 {"name":"npm_bridge","desc":"Proof of concept for a bridge between Deno and npm packages","repo":"https://github.com/dsherret/npm_bridge","reg":"x","vers":"0.0.2"}
 {"name":"npm_bridge","desc":"Proof of concept for a bridge between Deno and npm packages","repo":"https://github.com/dsherret/npm_bridge","reg":"x","vers":"0.0.3"}
+{"name":"npm_bridge","desc":"Proof of concept for a bridge between Deno and npm packages","repo":"https://github.com/dsherret/npm_bridge","reg":"x","vers":"0.0.4"}
+{"name":"npm_bridge","desc":"Proof of concept for a bridge between Deno and npm packages","repo":"https://github.com/dsherret/npm_bridge","reg":"x","vers":"0.0.5"}
