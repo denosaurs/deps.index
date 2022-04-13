@@ -7,3 +7,5 @@
 {"name":"lume_plugin_squoosh","desc":"","repo":"https://github.com/enjikaka/lume_plugin_squoosh","reg":"x","vers":"v0.0.7"}
 {"name":"lume_plugin_squoosh","desc":"","repo":"https://github.com/enjikaka/lume_plugin_squoosh","reg":"x","vers":"v0.0.8"}
 {"name":"lume_plugin_squoosh","desc":"Plugin for static site generator Lume to resize and encode images with Squoosh.","repo":"https://github.com/enjikaka/lume_plugin_squoosh","reg":"x","vers":"v0.0.9"}
+{"name":"lume_plugin_squoosh","desc":"Plugin for static site generator Lume to resize and encode images with Squoosh.","repo":"https://github.com/enjikaka/lume_plugin_squoosh","reg":"x","vers":"v0.0.10"}
+{"name":"lume_plugin_squoosh","desc":"Plugin for static site generator Lume to resize and encode images with Squoosh.","repo":"https://github.com/enjikaka/lume_plugin_squoosh","reg":"x","vers":"v0.0.11"}

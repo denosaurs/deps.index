@@ -1,0 +1,2 @@
+{"name":"deno_slack_hooks","desc":"Helper library implementing the contract between the Slack CLI and Slack application SDKs","repo":"https://github.com/slackapi/deno-slack-hooks","reg":"x","vers":"0.0.1"}
+{"name":"deno_slack_hooks","desc":"Helper library implementing the contract between the Slack CLI and Slack application SDKs","repo":"https://github.com/slackapi/deno-slack-hooks","reg":"x","vers":"0.0.2"}
