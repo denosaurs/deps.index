@@ -2,3 +2,4 @@
 {"name":"cbor_redux","desc":"The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript, revived.","repo":"https://github.com/aaronhuggins/cbor-redux","reg":"x","vers":"0.2.1"}
 {"name":"cbor_redux","desc":"The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript, revived.","repo":"https://github.com/aaronhuggins/cbor-redux","reg":"x","vers":"0.3.0"}
 {"name":"cbor_redux","desc":"The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript, revived.","repo":"https://github.com/aaronhuggins/cbor-redux","reg":"x","vers":"0.4.0"}
+{"name":"cbor_redux","desc":"The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript, revived.","repo":"https://github.com/aaronhuggins/cbor-redux","reg":"x","vers":"1.0.0-0"}
