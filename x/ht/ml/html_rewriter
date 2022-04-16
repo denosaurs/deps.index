@@ -1,2 +1,6 @@
 {"name":"html_rewriter","desc":"WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.","repo":"https://github.com/worker-tools/html-rewriter","reg":"x","vers":"v0.1.0-pre.6"}
 {"name":"html_rewriter","desc":"WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.","repo":"https://github.com/worker-tools/html-rewriter","reg":"x","vers":"v0.1.0-pre.7"}
+{"name":"html_rewriter","desc":"WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.","repo":"https://github.com/worker-tools/html-rewriter","reg":"x","vers":"v0.1.0-pre.8"}
+{"name":"html_rewriter","desc":"WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.","repo":"https://github.com/worker-tools/html-rewriter","reg":"x","vers":"v0.1.0-pre.9"}
+{"name":"html_rewriter","desc":"WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.","repo":"https://github.com/worker-tools/html-rewriter","reg":"x","vers":"v0.1.0-pre.10"}
+{"name":"html_rewriter","desc":"WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.","repo":"https://github.com/worker-tools/html-rewriter","reg":"x","vers":"v0.1.0-pre.11"}

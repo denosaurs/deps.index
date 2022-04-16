@@ -1,0 +1,1 @@
+{"name":"resolvable_promise","desc":"A promise that is resolvable (or rejectable) after it was created.","repo":"https://github.com/worker-tools/resolvable-promise","reg":"x","vers":"v0.2.0-pre.4"}
