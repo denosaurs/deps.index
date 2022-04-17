@@ -29,3 +29,6 @@
 {"name":"beako","desc":"Web component tools with Data Binding, Template Engine and Virtual Dom for Deno and Web browsers.","repo":"https://github.com/ittedev/beako","reg":"x","vers":"0.11.0"}
 {"name":"beako","desc":"Web component tools with Data Binding, Template Engine and Virtual Dom for Deno and Web browsers.","repo":"https://github.com/ittedev/beako","reg":"x","vers":"0.11.1"}
 {"name":"beako","desc":"Web component tools with Data Binding, Template Engine and Virtual Dom for Deno and Web browsers.","repo":"https://github.com/ittedev/beako","reg":"x","vers":"0.12.0"}
+{"name":"beako","desc":"Web component tools with Data Binding, Template Engine and Virtual Dom for ESM.","repo":"https://github.com/ittedev/beako","reg":"x","vers":"0.13.0"}
+{"name":"beako","desc":"Web component tools with Data Binding, Template Engine and Virtual Dom for ESM.","repo":"https://github.com/ittedev/beako","reg":"x","vers":"0.13.1"}
+{"name":"beako","desc":"Web component tools with Data Binding, Template Engine and Virtual Dom for ESM.","repo":"https://github.com/ittedev/beako","reg":"x","vers":"0.13.2"}

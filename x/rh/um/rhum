@@ -17,3 +17,8 @@
 {"name":"rhum","desc":"A lightweight testing framework for Deno","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v1.1.12"}
 {"name":"rhum","desc":"A lightweight testing framework for Deno","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v1.1.13"}
 {"name":"rhum","desc":"A lightweight testing framework for Deno","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v1.1.14"}
+{"name":"rhum","desc":"A test double library","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v1.1.15"}
+{"name":"rhum","desc":"A test double library","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v2.0.0-alpha-1"}
+{"name":"rhum","desc":"A test double library","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v2.0.0-alpha-2"}
+{"name":"rhum","desc":"A test double library","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v2.0.0-alpha-3"}
+{"name":"rhum","desc":"A test double library","repo":"https://github.com/drashland/rhum","reg":"x","vers":"v2.0.0"}
