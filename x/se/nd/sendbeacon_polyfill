@@ -1,0 +1,1 @@
+{"name":"sendbeacon_polyfill","desc":"A polyfill for navigator.sendBeacon using fetch, for runtimes like Deno missing the former","repo":"https://github.com/Grunet/sendbeacon-polyfill","reg":"x","vers":"0.0.1"}

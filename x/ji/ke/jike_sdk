@@ -42,3 +42,4 @@
 {"name":"jike_sdk","desc":"Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器","repo":"https://github.com/open-jike/jike-sdk","reg":"x","vers":"v0.13.0-beta.2"}
 {"name":"jike_sdk","desc":"Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器","repo":"https://github.com/open-jike/jike-sdk","reg":"x","vers":"v0.13.0"}
 {"name":"jike_sdk","desc":"Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器","repo":"https://github.com/open-jike/jike-sdk","reg":"x","vers":"v0.13.1"}
+{"name":"jike_sdk","desc":"Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器","repo":"https://github.com/open-jike/jike-sdk","reg":"x","vers":"v0.14.0"}
