@@ -2,3 +2,5 @@
 {"name":"runtime_compat","desc":"Abstraction layer for compatibility of common operations between Node.js and Deno","repo":"https://github.com/primatejs/runtime-compat","reg":"x","vers":"0.1.1"}
 {"name":"runtime_compat","desc":"Abstraction layer for compatibility of common operations between Node.js and Deno","repo":"https://github.com/primatejs/runtime-compat","reg":"x","vers":"0.1.2"}
 {"name":"runtime_compat","desc":"Abstraction layer for compatibility of common operations between Node.js and Deno","repo":"https://github.com/primatejs/runtime-compat","reg":"x","vers":"0.1.3"}
+{"name":"runtime_compat","desc":"Abstraction layer for compatibility of common operations between Node.js and Deno","repo":"https://github.com/primatejs/runtime-compat","reg":"x","vers":"0.1.4"}
+{"name":"runtime_compat","desc":"Abstraction layer for compatibility of common operations between Node.js and Deno","repo":"https://github.com/primatejs/runtime-compat","reg":"x","vers":"0.1.5"}
