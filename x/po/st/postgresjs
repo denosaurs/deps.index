@@ -6,3 +6,4 @@
 {"name":"postgresjs","desc":"Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno","repo":"https://github.com/porsager/postgres","reg":"x","vers":"v3.0.4"}
 {"name":"postgresjs","desc":"Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno","repo":"https://github.com/porsager/postgres","reg":"x","vers":"v3.0.5"}
 {"name":"postgresjs","desc":"Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno","repo":"https://github.com/porsager/postgres","reg":"x","vers":"v3.0.6"}
+{"name":"postgresjs","desc":"Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno","repo":"https://github.com/porsager/postgres","reg":"x","vers":"v3.1.0"}
