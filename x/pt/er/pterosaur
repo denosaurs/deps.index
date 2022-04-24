@@ -4,3 +4,5 @@
 {"name":"pterosaur","desc":"A lightweight router for Deno built with Typescript Decorators.","repo":"https://github.com/lkwr/pterosaur","reg":"x","vers":"v0.0.4"}
 {"name":"pterosaur","desc":"A lightweight router for Deno built with Typescript Decorators.","repo":"https://github.com/lkwr/pterosaur","reg":"x","vers":"v0.0.5"}
 {"name":"pterosaur","desc":"A lightweight router for Deno built with Typescript Decorators.","repo":"https://github.com/lkwr/pterosaur","reg":"x","vers":"v0.0.6"}
+{"name":"pterosaur","desc":"A TypeScript Decorator based API router for Deno.","repo":"https://github.com/lkwr/dar","reg":"x","vers":"v0.0.7"}
+{"name":"pterosaur","desc":"A TypeScript Decorator based API router for Deno.","repo":"https://github.com/lkwr/dar","reg":"x","vers":"v0.1.0"}
