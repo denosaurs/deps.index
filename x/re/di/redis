@@ -66,3 +66,4 @@
 {"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"https://github.com/denodrivers/redis","reg":"x","vers":"v0.25.2"}
 {"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"https://github.com/denodrivers/redis","reg":"x","vers":"v0.25.3"}
 {"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"https://github.com/denodrivers/redis","reg":"x","vers":"v0.25.4"}
+{"name":"redis","desc":"🦕 Redis client for Deno 🍕","repo":"https://github.com/denodrivers/redis","reg":"x","vers":"v0.25.5"}

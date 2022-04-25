@@ -1,1 +1,2 @@
 {"name":"streaming_zip","desc":"Deno library for working with ZIP file streams","repo":"https://github.com/Macil/deno_streaming_zip","reg":"x","vers":"v0.1.0"}
+{"name":"streaming_zip","desc":"Deno library for working with ZIP file streams","repo":"https://github.com/Macil/deno_streaming_zip","reg":"x","vers":"v1.0.0"}
