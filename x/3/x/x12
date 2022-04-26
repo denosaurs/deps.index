@@ -1,0 +1,3 @@
+{"name":"x12","desc":"ASC X12 parser, generator, query engine, and mapper; now with support for streams.","repo":"https://github.com/aaronhuggins/node-x12","reg":"x","vers":"1.8.0-0"}
+{"name":"x12","desc":"ASC X12 parser, generator, query engine, and mapper; now with support for streams.","repo":"https://github.com/aaronhuggins/node-x12","reg":"x","vers":"1.8.0-1"}
+{"name":"x12","desc":"ASC X12 parser, generator, query engine, and mapper; now with support for streams.","repo":"https://github.com/aaronhuggins/node-x12","reg":"x","vers":"2.0.0-0"}

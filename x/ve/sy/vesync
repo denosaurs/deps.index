@@ -1,2 +1,3 @@
 {"name":"vesync","desc":"API module and CLI tool for interacting with Vesync based WiFi outlets, written in TypeScript using Deno.","repo":"https://github.com/CoryG89/deno-vesync","reg":"x","vers":"0.0.2"}
 {"name":"vesync","desc":"API module and CLI tool for interacting with Vesync based WiFi outlets, written in TypeScript using Deno.","repo":"https://github.com/CoryG89/deno-vesync","reg":"x","vers":"0.0.3"}
+{"name":"vesync","desc":"API module and CLI tool for interacting with Vesync based WiFi outlets, written in TypeScript using Deno.","repo":"https://github.com/CoryG89/deno-vesync","reg":"x","vers":"0.0.4"}

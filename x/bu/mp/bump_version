@@ -2,3 +2,4 @@
 {"name":"bump_version","desc":"Version bump tool for deno that matches npm version closesly","repo":"https://github.com/qwtel/deno-bump-version","reg":"x","vers":"v0.1.1"}
 {"name":"bump_version","desc":"Version bump tool for deno that matches npm version closesly","repo":"https://github.com/qwtel/deno-bump-version","reg":"x","vers":"v0.1.2"}
 {"name":"bump_version","desc":"Version bump tool for deno that matches npm version closesly","repo":"https://github.com/qwtel/deno-bump-version","reg":"x","vers":"v0.2.0"}
+{"name":"bump_version","desc":"Version bump tool for deno that matches npm version closesly","repo":"https://github.com/qwtel/deno-bump-version","reg":"x","vers":"v0.2.1"}
