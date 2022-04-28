@@ -1,0 +1,1 @@
+{"name":"asciidoctor_kroki","desc":"Patched version of asciidoctor-kroki to be used with Deno","repo":"https://github.com/fardjad/deno-asciidoctor-kroki","reg":"x","vers":"0.15.4"}

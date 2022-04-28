@@ -18,3 +18,6 @@
 {"name":"doauth","desc":"OAuth 2 / OpenID Connect Client for Web API runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.3.2"}
 {"name":"doauth","desc":"OAuth 2 / OpenID Connect Client for Web API runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.3.3"}
 {"name":"doauth","desc":"OAuth 2 / OpenID Connect Client for Web API runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.4.0"}
+{"name":"doauth","desc":"OAuth 2 / OpenID Connect Client for Web API runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.5.0"}
+{"name":"doauth","desc":"OAuth 2 / OpenID Connect Client for Web API runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.5.1"}
+{"name":"doauth","desc":"OAuth 2 / OpenID Connect Client for Web API runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.5.2"}

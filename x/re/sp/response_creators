@@ -1,1 +1,2 @@
 {"name":"response_creators","desc":"Helper functions to create Fetch API Response objects based on HTTP status codes","repo":"https://github.com/worker-tools/response-creators","reg":"x","vers":"v1.2.0-pre.4"}
+{"name":"response_creators","desc":"Helper functions to create Fetch API Response objects based on HTTP status codes","repo":"https://github.com/worker-tools/response-creators","reg":"x","vers":"v1.2.0-pre.5"}
