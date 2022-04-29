@@ -1,1 +1,2 @@
 {"name":"workers_router","desc":"A router for Worker Environments such and Cloudflare Workers or Service Workers.","repo":"https://github.com/worker-tools/router","reg":"x","vers":"v0.2.0-pre.5"}
+{"name":"workers_router","desc":"A router for Worker Environments such and Cloudflare Workers or Service Workers.","repo":"https://github.com/worker-tools/router","reg":"x","vers":"v0.2.0-pre.6"}
