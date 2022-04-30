@@ -1,3 +1,4 @@
 {"name":"asciidoctor","desc":"Patched version of Asciidoctor.js to be used with Deno","repo":"https://github.com/fardjad/deno-asciidoctor","reg":"x","vers":"v2.2.6-fixed"}
 {"name":"asciidoctor","desc":"Patched version of Asciidoctor.js to be used with Deno","repo":"https://github.com/fardjad/deno-asciidoctor","reg":"x","vers":"2.2.6"}
 {"name":"asciidoctor","desc":"Patched version of Asciidoctor.js to be used with Deno","repo":"https://github.com/fardjad/deno-asciidoctor","reg":"x","vers":"v2.2.6"}
+{"name":"asciidoctor","desc":"Patched version of Asciidoctor.js to be used with Deno","repo":"https://github.com/fardjad/deno-asciidoctor","reg":"x","vers":"2.2.6-xhr-fix"}
