@@ -1,3 +1,5 @@
 {"name":"denotation","desc":"Automated version release based on conventional commit history","repo":"https://github.com/GJZwiers/denotation","reg":"x","vers":"v0.0.0"}
 {"name":"denotation","desc":"Automated version release based on conventional commit history","repo":"https://github.com/GJZwiers/denotation","reg":"x","vers":"v0.1.0"}
 {"name":"denotation","desc":"Automated version release based on conventional commit history","repo":"https://github.com/GJZwiers/denotation","reg":"x","vers":"v0.1.1"}
+{"name":"denotation","desc":"Automated semantic versioning based on conventional commit history","repo":"https://github.com/GJZwiers/denotation","reg":"x","vers":"v0.2.0"}
+{"name":"denotation","desc":"Automated semantic versioning based on conventional commit history","repo":"https://github.com/GJZwiers/denotation","reg":"x","vers":"v0.2.1"}
