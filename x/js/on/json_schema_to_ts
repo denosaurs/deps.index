@@ -15,3 +15,5 @@
 {"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v2.1.1"}
 {"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v2.1.2"}
 {"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v2.2.0"}
+{"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v2.3.0-beta.0"}
+{"name":"json_schema_to_ts","desc":"Infer TS types from JSON schemas 📝","repo":"https://github.com/ThomasAribart/json-schema-to-ts","reg":"x","vers":"v2.3.0"}
