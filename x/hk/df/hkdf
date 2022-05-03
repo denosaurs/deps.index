@@ -1,2 +1,3 @@
 {"name":"hkdf","desc":"HKDF with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.","repo":"https://github.com/panva/hkdf","reg":"x","vers":"v1.0.0"}
 {"name":"hkdf","desc":"HKDF with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.","repo":"https://github.com/panva/hkdf","reg":"x","vers":"v1.0.1"}
+{"name":"hkdf","desc":"HKDF with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.","repo":"https://github.com/panva/hkdf","reg":"x","vers":"v1.0.2"}
