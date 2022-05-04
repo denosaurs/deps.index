@@ -1,0 +1,1 @@
+{"name":"plink","desc":"Lightweight wrapper around Plink (PuTTY Link), the command-line connection tool.","repo":"https://github.com/isyouaint/deno_plink","reg":"x","vers":"v0.0.1"}

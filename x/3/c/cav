@@ -13,3 +13,6 @@
 {"name":"cav","desc":"Experimental TypeScript web framework, made for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.12"}
 {"name":"cav","desc":"Experimental TypeScript web framework, made for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.13"}
 {"name":"cav","desc":"Experimental TypeScript web framework, made for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.14"}
+{"name":"cav","desc":"Full stack web framework for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.15"}
+{"name":"cav","desc":"Full stack web framework for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.16"}
+{"name":"cav","desc":"Full stack web framework for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.17"}
