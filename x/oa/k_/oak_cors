@@ -1,2 +1,3 @@
 {"name":"oak_cors","desc":"","repo":"https://github.com/jiawei397/oak_cors","reg":"x","vers":"v0.0.1"}
 {"name":"oak_cors","desc":"Forked from the nodejs package expressjs cors. Now it is just a simple and opinionated cors middleware for Deno oak.","repo":"https://github.com/jiawei397/oak_cors","reg":"x","vers":"v0.1.0"}
+{"name":"oak_cors","desc":"Forked from the nodejs package expressjs cors. Now it is just a simple and opinionated cors middleware for Deno oak.","repo":"https://github.com/jiawei397/oak_cors","reg":"x","vers":"v0.1.1"}

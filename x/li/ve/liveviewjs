@@ -1,2 +1,3 @@
 {"name":"liveviewjs","desc":"LiveViewJS brings the power of Phoenix LiveView to Typescript/Javascript developers.","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.3.0-rc.1"}
 {"name":"liveviewjs","desc":"LiveViewJS brings the power of Phoenix LiveView to Typescript/Javascript developers.","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.3.0-rc.2"}
+{"name":"liveviewjs","desc":"The anti-SPA library for reactive app development in NodeJS and Deno","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.3.0"}
