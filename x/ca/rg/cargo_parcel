@@ -16,3 +16,6 @@
 {"name":"cargo_parcel","desc":"Dynamic Frontend Components for Cargo","repo":"https://github.com/flowingones/cargo-parcel","reg":"x","vers":"0.1.28"}
 {"name":"cargo_parcel","desc":"Dynamic Frontend Components for Cargo","repo":"https://github.com/flowingones/cargo-parcel","reg":"x","vers":"0.1.29"}
 {"name":"cargo_parcel","desc":"Dynamic Frontend Components for Cargo","repo":"https://github.com/flowingones/cargo-parcel","reg":"x","vers":"0.1.30"}
+{"name":"cargo_parcel","desc":"Server side rendering for Cargo applications","repo":"https://github.com/flowingones/cargo-parcel","reg":"x","vers":"0.1.32"}
+{"name":"cargo_parcel","desc":"Server side rendering for Cargo applications","repo":"https://github.com/flowingones/cargo-parcel","reg":"x","vers":"0.1.33"}
+{"name":"cargo_parcel","desc":"Server side rendering for Cargo applications","repo":"https://github.com/flowingones/cargo-parcel","reg":"x","vers":"0.1.34"}

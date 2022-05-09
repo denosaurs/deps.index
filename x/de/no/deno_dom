@@ -25,3 +25,7 @@
 {"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.20-alpha"}
 {"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.21-alpha"}
 {"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.22-alpha"}
+{"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.23-alpha"}
+{"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.23-alpha-artifacts"}
+{"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.24-alpha"}
+{"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.25-alpha"}
