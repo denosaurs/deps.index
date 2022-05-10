@@ -4,3 +4,4 @@
 {"name":"denops_popup","desc":"vim/neovim's floating/popup window polyfill for denops.","repo":"https://github.com/hrsh7th/denops-popup","reg":"x","vers":"v2.0.0"}
 {"name":"denops_popup","desc":"vim/neovim's floating/popup window polyfill for denops.","repo":"https://github.com/hrsh7th/denops-popup","reg":"x","vers":"v2.0.1"}
 {"name":"denops_popup","desc":"vim/neovim's floating/popup window polyfill for denops.","repo":"https://github.com/hrsh7th/denops-popup","reg":"x","vers":"v2.1.0"}
+{"name":"denops_popup","desc":"https://deno.land/x/denops_popup","repo":"https://github.com/hrsh7th/denops-popup","reg":"x","vers":"v2.2.0"}
