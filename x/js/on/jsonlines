@@ -8,3 +8,5 @@
 {"name":"jsonlines","desc":"Web stream based jsonlines decoder/encoder","repo":"https://github.com/ayame113/jsonlines","reg":"x","vers":"v0.0.8"}
 {"name":"jsonlines","desc":"Web stream based jsonlines decoder/encoder","repo":"https://github.com/ayame113/jsonlines","reg":"x","vers":"v1.0.0"}
 {"name":"jsonlines","desc":"Web stream based jsonlines decoder/encoder","repo":"https://github.com/ayame113/jsonlines","reg":"x","vers":"v1.1.0"}
+{"name":"jsonlines","desc":"Web stream based jsonlines decoder/encoder","repo":"https://github.com/ayame113/jsonlines","reg":"x","vers":"v1.2.0"}
+{"name":"jsonlines","desc":"Web stream based jsonlines decoder/encoder","repo":"https://github.com/ayame113/jsonlines","reg":"x","vers":"v1.2.1"}

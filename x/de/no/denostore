@@ -7,3 +7,5 @@
 {"name":"denostore","desc":"","repo":"https://github.com/oslabs-beta/DenoStore","reg":"x","vers":"v1.0.6"}
 {"name":"denostore","desc":"","repo":"https://github.com/oslabs-beta/DenoStore","reg":"x","vers":"v1.0.7"}
 {"name":"denostore","desc":"","repo":"https://github.com/oslabs-beta/DenoStore","reg":"x","vers":"v1.0.8"}
+{"name":"denostore","desc":"GraphQL caching solution for a Deno/Oak runtime environment that is modular, efficient and lightweight.","repo":"https://github.com/oslabs-beta/DenoStore","reg":"x","vers":"v1.0.9"}
+{"name":"denostore","desc":"GraphQL caching solution for a Deno/Oak runtime environment that is modular, efficient and lightweight.","repo":"https://github.com/oslabs-beta/DenoStore","reg":"x","vers":"v1.0.10"}
