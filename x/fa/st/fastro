@@ -185,3 +185,6 @@
 {"name":"fastro","desc":"Fast and simple web application framework for deno","repo":"https://github.com/fastrodev/fastro","reg":"x","vers":"v0.57.4"}
 {"name":"fastro","desc":"Fast and simple web application framework for deno","repo":"https://github.com/fastrodev/fastro","reg":"x","vers":"v0.57.5"}
 {"name":"fastro","desc":"Fast and simple web application framework for deno","repo":"https://github.com/fastrodev/fastro","reg":"x","vers":"v0.57.6"}
+{"name":"fastro","desc":"Fast and simple web application framework for deno","repo":"https://github.com/fastrodev/fastro","reg":"x","vers":"v0.58.0"}
+{"name":"fastro","desc":"Fast and simple web application framework for deno","repo":"https://github.com/fastrodev/fastro","reg":"x","vers":"v0.58.1"}
+{"name":"fastro","desc":"Fast and simple web application framework for deno","repo":"https://github.com/fastrodev/fastro","reg":"x","vers":"v0.58.2"}

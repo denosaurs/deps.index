@@ -1,0 +1,1 @@
+{"name":"long","desc":"A Long class for representing a 64 bit two's-complement integer value derived from the Closure Library for stand-alone use and extended with unsigned support.","repo":"https://github.com/sail-sail/long","reg":"x","vers":"v1.0.0"}

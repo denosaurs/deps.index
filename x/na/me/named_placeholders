@@ -1,0 +1,1 @@
+{"name":"named_placeholders","desc":"compiles \"select foo where foo.id = :bar and foo.baz < :baz\" into \"select foo where foo.id = ? and foo.baz < ?\" + [\"bar\", \"baz\"]","repo":"https://github.com/sail-sail/named_placeholders","reg":"x","vers":"v1.0.0"}

@@ -5,3 +5,4 @@
 {"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.4.0"}
 {"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.4.1"}
 {"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.4.2"}
+{"name":"esbuild_deno_loader","desc":"Deno module resolution for `esbuild`","repo":"https://github.com/lucacasonato/esbuild_deno_loader","reg":"x","vers":"0.4.3"}
