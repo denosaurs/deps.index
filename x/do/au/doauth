@@ -30,3 +30,4 @@
 {"name":"doauth","desc":"OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.8.0"}
 {"name":"doauth","desc":"OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v0.9.0"}
 {"name":"doauth","desc":"OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v1.0.0"}
+{"name":"doauth","desc":"OAuth 2 / OpenID Connect for Web Platform API JavaScript runtimes","repo":"https://github.com/panva/oauth4webapi","reg":"x","vers":"v1.0.1"}

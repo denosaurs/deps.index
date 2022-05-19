@@ -1,0 +1,1 @@
+{"name":"for_awaitable_queue","desc":"Provides a way to convert processes that stream data asynchronously into an async iterable.","repo":"https://github.com/peetklecha/async-queue","reg":"x","vers":"1.0.0"}

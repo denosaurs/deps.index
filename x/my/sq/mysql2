@@ -1,0 +1,1 @@
+{"name":"mysql2","desc":"MySQL client for Deno with focus on performance. Supports prepared statements, non-utf8 encodings, binary log protocol, compression much more","repo":"https://github.com/sail-sail/mysql2","reg":"x","vers":"v1.0.0"}
