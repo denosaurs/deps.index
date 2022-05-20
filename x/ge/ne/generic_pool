@@ -1,0 +1,1 @@
+{"name":"generic_pool","desc":"Generic resource pool with Promise based API. Can be used to reuse or throttle usage of expensive resources such as database connections.","repo":"https://github.com/sail-sail/generic_pool","reg":"x","vers":"v1.0.0"}
