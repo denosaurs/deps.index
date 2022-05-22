@@ -8,3 +8,5 @@
 {"name":"hpke","desc":"A TypeScript HPKE (Hybrid Public Key Encryption) implementation for browser-based applications.","repo":"https://github.com/dajiaji/hpke-js","reg":"x","vers":"v0.4.1"}
 {"name":"hpke","desc":"A TypeScript HPKE (Hybrid Public Key Encryption) implementation for browser-based applications.","repo":"https://github.com/dajiaji/hpke-js","reg":"x","vers":"v0.5.0"}
 {"name":"hpke","desc":"A TypeScript HPKE (Hybrid Public Key Encryption) implementation for browser-based applications.","repo":"https://github.com/dajiaji/hpke-js","reg":"x","vers":"v0.5.1"}
+{"name":"hpke","desc":"A TypeScript HPKE (Hybrid Public Key Encryption) implementation for browser-based applications.","repo":"https://github.com/dajiaji/hpke-js","reg":"x","vers":"v0.6.0"}
+{"name":"hpke","desc":"A TypeScript HPKE (Hybrid Public Key Encryption) implementation for browser-based applications.","repo":"https://github.com/dajiaji/hpke-js","reg":"x","vers":"v0.7.0"}
