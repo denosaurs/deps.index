@@ -1,3 +1,4 @@
 {"name":"extendable_promise","desc":"A promise that can be delayed (extended) via repeated calls to waitUntil.","repo":"https://github.com/worker-tools/extendable-promise","reg":"x","vers":"v0.2.0-pre.7"}
 {"name":"extendable_promise","desc":"A promise that can be delayed (extended) via repeated calls to waitUntil.","repo":"https://github.com/worker-tools/extendable-promise","reg":"x","vers":"v0.2.0-pre.8"}
 {"name":"extendable_promise","desc":"A promise that can be delayed (extended) via repeated calls to waitUntil.","repo":"https://github.com/worker-tools/extendable-promise","reg":"x","vers":"v0.2.0-pre.9"}
+{"name":"extendable_promise","desc":"A promise that can be delayed (extended) via repeated calls to waitUntil.","repo":"https://github.com/worker-tools/extendable-promise","reg":"x","vers":"v0.2.0-pre.10"}
