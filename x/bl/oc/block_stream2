@@ -1,0 +1,1 @@
+{"name":"block_stream2","desc":"A stream of blocks.  Write data into it, and it'll output data in buffer blocks the size you specify, padding with zeroes if necessary.","repo":"https://github.com/sail-sail/block_stream2","reg":"x","vers":"v1.0.0"}

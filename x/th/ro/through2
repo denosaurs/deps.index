@@ -1,0 +1,1 @@
+{"name":"through2","desc":"A tiny wrapper around Node.js streams.Transform (Streams2/3) to avoid explicit subclassing noise","repo":"https://github.com/sail-sail/through2","reg":"x","vers":"v1.0.0"}

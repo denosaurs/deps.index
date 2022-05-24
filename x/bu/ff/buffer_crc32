@@ -1,0 +1,1 @@
+{"name":"buffer_crc32","desc":"crc32 that works with binary data and fancy character sets, outputs buffer, signed or unsigned data and has tests.  Derived from the sample CRC implementation in the PNG specification: http://www.w3.org/TR/PNG/#D-CRCAppendix","repo":"https://github.com/sail-sail/buffer_crc32","reg":"x","vers":"v1.0.0"}
