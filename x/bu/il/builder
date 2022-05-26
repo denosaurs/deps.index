@@ -6,3 +6,6 @@
 {"name":"builder","desc":"Prisma alternative (eventually)","repo":"https://github.com/danteissaias/bob","reg":"x","vers":"0.5.11"}
 {"name":"builder","desc":"Prisma alternative (eventually)","repo":"https://github.com/danteissaias/bob","reg":"x","vers":"0.5.12"}
 {"name":"builder","desc":"Prisma alternative (eventually)","repo":"https://github.com/danteissaias/bob","reg":"x","vers":"0.5.13"}
+{"name":"builder","desc":"pgSQL builder for deno","repo":"https://github.com/danteissaias/bob","reg":"x","vers":"0.6.0"}
+{"name":"builder","desc":"pgSQL builder for deno","repo":"https://github.com/danteissaias/bob","reg":"x","vers":"0.6.1"}
+{"name":"builder","desc":"pgSQL builder for deno","repo":"https://github.com/danteissaias/bob","reg":"x","vers":"0.6.2"}

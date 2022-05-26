@@ -1,3 +1,4 @@
 {"name":"sse_codec","desc":"A deno module which provides methods for encoding and decoding sse-events (server sent events), hopefully cross-posted to npm","repo":"https://github.com/bjesuiter/deno-sse-codec","reg":"x","vers":"0.1.0"}
 {"name":"sse_codec","desc":"A deno module which provides methods for encoding and decoding sse-events (server sent events), hopefully cross-posted to npm","repo":"https://github.com/bjesuiter/deno-sse-codec","reg":"x","vers":"0.2.0"}
 {"name":"sse_codec","desc":"A deno module which provides methods for encoding and decoding sse-events (server sent events), hopefully cross-posted to npm","repo":"https://github.com/bjesuiter/deno-sse-codec","reg":"x","vers":"0.2.1"}
+{"name":"sse_codec","desc":"A module which provides methods for encoding and decoding sse-events (Server Sent Events), cross-posted to npm as @codemonument/sse-codec","repo":"https://github.com/codemonument/deno-sse-codec","reg":"x","vers":"0.2.2"}
