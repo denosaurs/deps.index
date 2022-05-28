@@ -3,3 +3,4 @@
 {"name":"workers_html","desc":"HTML templating and streaming response library for Service Worker-like environments such as Cloudflare Workers.","repo":"https://github.com/worker-tools/html","reg":"x","vers":"v2.0.0-pre.10"}
 {"name":"workers_html","desc":"HTML templating and streaming response library for Service Worker-like environments such as Cloudflare Workers.","repo":"https://github.com/worker-tools/html","reg":"x","vers":"v2.0.0-pre.11"}
 {"name":"workers_html","desc":"HTML templating and streaming response library for Service Worker-like environments such as Cloudflare Workers.","repo":"https://github.com/worker-tools/html","reg":"x","vers":"v2.0.0-pre.12"}
+{"name":"workers_html","desc":"HTML templating and streaming response library for Service Worker-like environments such as Cloudflare Workers.","repo":"https://github.com/worker-tools/html","reg":"x","vers":"v2.0.0-pre.13"}

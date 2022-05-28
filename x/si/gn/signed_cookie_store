@@ -1,1 +1,2 @@
 {"name":"signed_cookie_store","desc":"A CookieStore implementation that transparently signs cookies via Web Cryptography API","repo":"https://github.com/worker-tools/signed-cookie-store","reg":"x","vers":"v0.3.0-pre.7"}
+{"name":"signed_cookie_store","desc":"A CookieStore implementation that transparently signs cookies via Web Cryptography API","repo":"https://github.com/worker-tools/signed-cookie-store","reg":"x","vers":"v0.3.0-pre.8"}

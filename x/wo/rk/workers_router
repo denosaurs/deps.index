@@ -4,3 +4,4 @@
 {"name":"workers_router","desc":"A router for Worker Environments such and Cloudflare Workers or Service Workers.","repo":"https://github.com/worker-tools/router","reg":"x","vers":"v0.2.0-pre.8"}
 {"name":"workers_router","desc":"A router for Worker Environments such and Cloudflare Workers or Service Workers.","repo":"https://github.com/worker-tools/router","reg":"x","vers":"v0.2.0-pre.9"}
 {"name":"workers_router","desc":"A router for Worker Runtimes such and Cloudflare Workers or Service Workers.","repo":"https://github.com/worker-tools/router","reg":"x","vers":"v0.3.0-pre.0"}
+{"name":"workers_router","desc":"A router for Worker Runtimes such and Cloudflare Workers or Service Workers.","repo":"https://github.com/worker-tools/router","reg":"x","vers":"v0.3.0-pre.1"}
