@@ -8,3 +8,4 @@
 {"name":"nano","desc":"A (semi) logic-less template engine for Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.0.8"}
 {"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.0.9"}
 {"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.0.10"}
+{"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.0.11"}
