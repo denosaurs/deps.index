@@ -1,2 +1,3 @@
 {"name":"encrypted_cookie_store","desc":"A CookieStore implementation that transparently encrypts cookie values via Web Cryptography API","repo":"https://github.com/worker-tools/encrypted-cookie-store","reg":"x","vers":"v0.3.0-pre.5"}
 {"name":"encrypted_cookie_store","desc":"A CookieStore implementation that transparently encrypts cookie values via Web Cryptography API","repo":"https://github.com/worker-tools/encrypted-cookie-store","reg":"x","vers":"v0.3.0-pre.6"}
+{"name":"encrypted_cookie_store","desc":"A CookieStore implementation that transparently encrypts cookie values via Web Cryptography API","repo":"https://github.com/worker-tools/encrypted-cookie-store","reg":"x","vers":"v0.3.0-pre.7"}
