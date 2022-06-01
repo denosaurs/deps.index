@@ -1,1 +1,2 @@
 {"name":"data_dir","desc":"Returns the path to the user's data directory.","repo":"justjavac/deno_data_dir","reg":"x","vers":"0.1.0"}
+{"name":"data_dir","desc":"Returns the path to the user's data directory.","repo":"https://github.com/justjavac/deno_data_dir","reg":"x","vers":"0.2.0"}

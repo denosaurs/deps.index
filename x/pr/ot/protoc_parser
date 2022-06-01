@@ -8,3 +8,4 @@
 {"name":"protoc_parser","desc":"Parse Google Protocol Buffer DSL into an AST, which can be converted into JSON or back into the Protocol Buffer DSL.","repo":"https://github.com/keithamus/deno-protoc-parser","reg":"x","vers":"v0.2.6"}
 {"name":"protoc_parser","desc":"Parse Google Protocol Buffer DSL into an AST, which can be converted into JSON or back into the Protocol Buffer DSL.","repo":"https://github.com/keithamus/deno-protoc-parser","reg":"x","vers":"v0.2.7"}
 {"name":"protoc_parser","desc":"Parse Google Protocol Buffer DSL into an AST, which can be converted into JSON or back into the Protocol Buffer DSL.","repo":"https://github.com/keithamus/deno-protoc-parser","reg":"x","vers":"v0.2.8"}
+{"name":"protoc_parser","desc":"Parse Google Protocol Buffer DSL into an AST, which can be converted into JSON or back into the Protocol Buffer DSL.","repo":"https://github.com/keithamus/deno-protoc-parser","reg":"x","vers":"v0.2.9"}

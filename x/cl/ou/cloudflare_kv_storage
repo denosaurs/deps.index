@@ -1,1 +1,3 @@
 {"name":"cloudflare_kv_storage","desc":"An implementation of the StorageArea interface using Cloudflare Worker's KV storage as a backing store","repo":"https://github.com/worker-tools/cloudflare-kv-storage","reg":"x","vers":"v0.9.0-pre.4"}
+{"name":"cloudflare_kv_storage","desc":"An implementation of the StorageArea interface using Cloudflare Worker's KV storage as a backing store","repo":"https://github.com/worker-tools/cloudflare-kv-storage","reg":"x","vers":"v0.9.0-pre.5"}
+{"name":"cloudflare_kv_storage","desc":"An implementation of the StorageArea interface using Cloudflare Worker's KV storage as a backing store","repo":"https://github.com/worker-tools/cloudflare-kv-storage","reg":"x","vers":"v0.9.0-pre.6"}

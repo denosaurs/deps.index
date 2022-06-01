@@ -16,3 +16,6 @@
 {"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.5.0-pre.2"}
 {"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.5.0-pre.3"}
 {"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.5.0-pre.4"}
+{"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.5.0-pre.5"}
+{"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.6.0-pre.0"}
+{"name":"kvstorage","desc":"An implementation of the StorageArea interface for Deno.","repo":"https://github.com/worker-tools/deno-kv-storage","reg":"x","vers":"v0.6.0-pre.1"}
