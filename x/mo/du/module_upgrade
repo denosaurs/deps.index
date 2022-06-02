@@ -1,0 +1,2 @@
+{"name":"module_upgrade","desc":"A CLI tool named `modup` to upgrade deno module binaries installed from deno.land/x via `deno install`","repo":"https://github.com/codemonument/deno-module-upgrade","reg":"x","vers":"0.0.0"}
+{"name":"module_upgrade","desc":"A CLI tool named `modup` to upgrade deno module binaries installed from deno.land/x via `deno install`","repo":"https://github.com/codemonument/deno-module-upgrade","reg":"x","vers":"1.0.0"}
