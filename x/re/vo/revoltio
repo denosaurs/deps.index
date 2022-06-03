@@ -7,3 +7,5 @@
 {"name":"revoltio","desc":"A Nodejs & Deno Revolt library","repo":"https://github.com/revolt-io/revolt.io","reg":"x","vers":"v1.0.9"}
 {"name":"revoltio","desc":"A Nodejs & Deno Revolt library","repo":"https://github.com/revolt-io/revolt.io","reg":"x","vers":"v1.0.10"}
 {"name":"revoltio","desc":"A Nodejs & Deno Revolt library","repo":"https://github.com/revolt-io/revolt.io","reg":"x","vers":"v1.0.11"}
+{"name":"revoltio","desc":"No-nonsense Revolt library for nodejs and deno.","repo":"https://github.com/revolt-io/revolt.io","reg":"x","vers":"v1.1.0"}
+{"name":"revoltio","desc":"No-nonsense Revolt library for nodejs and deno.","repo":"https://github.com/revolt-io/revolt.io","reg":"x","vers":"v1.1.1"}
