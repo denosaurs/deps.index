@@ -1,1 +1,2 @@
 {"name":"bplist_parser","desc":"Deno port for https://github.com/joeferner/node-bplist-parser","repo":"https://github.com/connorlogin/bplist-parser","reg":"x","vers":"0.1.0"}
+{"name":"bplist_parser","desc":"Deno port of https://github.com/joeferner/node-bplist-parser","repo":"https://github.com/connorlogin/bplist-parser","reg":"x","vers":"0.2.0"}

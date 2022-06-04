@@ -2,3 +2,5 @@
 {"name":"wasmbuild","desc":"tiny build tool for Deno and wasm_bindgen","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.1.1"}
 {"name":"wasmbuild","desc":"tiny build tool for Deno and wasm_bindgen","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.1.2"}
 {"name":"wasmbuild","desc":"tiny build tool for Deno and wasm_bindgen","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.2.0"}
+{"name":"wasmbuild","desc":"tiny build tool for Deno and wasm_bindgen","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.3.0"}
+{"name":"wasmbuild","desc":"tiny build tool for Deno and wasm_bindgen","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.4.0"}

@@ -4,3 +4,4 @@
 {"name":"xbar","desc":"Write xbar app plugins using JavaScript and Deno","repo":"https://github.com/theogainey/deno-xbar","reg":"x","vers":"v1.0.0"}
 {"name":"xbar","desc":"Write xbar app plugins using JavaScript and Deno","repo":"https://github.com/theogainey/deno-xbar","reg":"x","vers":"v2.0.0"}
 {"name":"xbar","desc":"Write xbar app plugins using TypeScript/JavaScript and Deno","repo":"https://github.com/theogainey/deno-xbar","reg":"x","vers":"v2.0.1"}
+{"name":"xbar","desc":"Write xbar app plugins using TypeScript/JavaScript and Deno","repo":"https://github.com/theogainey/deno-xbar","reg":"x","vers":"v2.1.0"}
