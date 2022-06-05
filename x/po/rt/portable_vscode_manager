@@ -1,2 +1,3 @@
 {"name":"portable_vscode_manager","desc":"\"codeup\" - A Portable VSCode Manager (currently for windows only)","repo":"https://github.com/codemonument/portable-vscode-manager","reg":"x","vers":"2.0.0-beta.3"}
 {"name":"portable_vscode_manager","desc":"\"codeup\" - A Portable VSCode Manager (currently for windows only)","repo":"https://github.com/codemonument/portable-vscode-manager","reg":"x","vers":"2.0.0-beta.4"}
+{"name":"portable_vscode_manager","desc":"\"codeup\" - A CLI Portable VSCode Manager (currently for windows only)","repo":"https://github.com/codemonument/portable-vscode-manager","reg":"x","vers":"2.0.0"}
