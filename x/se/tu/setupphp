@@ -1,1 +1,2 @@
 {"name":"setupphp","desc":"GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.","repo":"https://github.com/shivammathur/setup-php","reg":"x","vers":"2.19.0"}
+{"name":"setupphp","desc":"GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.","repo":"https://github.com/shivammathur/setup-php","reg":"x","vers":"2.19.1"}
