@@ -1,1 +1,2 @@
 {"name":"diff_kit","desc":"Deno lib that compares 2 strings and generates result like assertEquals(), also in HTML","repo":"https://github.com/jeremiah-shaulov/diff_kit","reg":"x","vers":"v0.0.1"}
+{"name":"diff_kit","desc":"Deno lib that compares 2 strings and generates result like assertEquals(), also in HTML","repo":"https://github.com/jeremiah-shaulov/diff_kit","reg":"x","vers":"v0.0.2"}
