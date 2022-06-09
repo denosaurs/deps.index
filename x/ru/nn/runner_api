@@ -1,1 +1,2 @@
 {"name":"runner_api","desc":"Vim plugin to run the current file with custom (typescript) scripts","repo":"https://github.com/sigmaSd/Runner","reg":"x","vers":"0.1.0"}
+{"name":"runner_api","desc":"Vim plugin to run the current file with custom (typescript) scripts","repo":"https://github.com/sigmaSd/Runner","reg":"x","vers":"0.2.0"}
