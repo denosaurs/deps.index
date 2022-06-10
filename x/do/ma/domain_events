@@ -1,1 +1,2 @@
 {"name":"domain_events","desc":"AMQP like domain events. This module allows you to implement domain events on your Deno applications.","repo":"https://github.com/d4nicoder/domain-events","reg":"x","vers":"1.0.1"}
+{"name":"domain_events","desc":"AMQP like domain events. This module allows you to implement domain events on your Deno applications.","repo":"https://github.com/d4nicoder/domain-events","reg":"x","vers":"2.0.0"}
