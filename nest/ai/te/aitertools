@@ -4,3 +4,4 @@
 {"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.2.1"}
 {"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.3.0"}
 {"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.3.1"}
+{"name":"aitertools","desc":"Well-tested utility functions dealing with async iterables","repo":"https://github.com/dahlia/aitertools","reg":"nest","vers":"0.4.0-dev.12+8c9339e"}
