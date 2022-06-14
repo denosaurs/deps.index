@@ -37,3 +37,4 @@
 {"name":"teyda_libonebot","desc":"Deno 的 LibOneBot 库","repo":"https://github.com/teyda/teyda_libonebot","reg":"x","vers":"0.2.8"}
 {"name":"teyda_libonebot","desc":"Deno 的 LibOneBot 库","repo":"https://github.com/teyda/teyda_libonebot","reg":"x","vers":"0.2.9"}
 {"name":"teyda_libonebot","desc":"Deno 的 LibOneBot 库","repo":"https://github.com/teyda/teyda_libonebot","reg":"x","vers":"0.3.0"}
+{"name":"teyda_libonebot","desc":"Deno 的 LibOneBot 库","repo":"https://github.com/teyda/dnlibob","reg":"x","vers":"0.3.1"}

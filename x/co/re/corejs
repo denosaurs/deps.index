@@ -33,3 +33,4 @@
 {"name":"corejs","desc":"Standard Library","repo":"https://github.com/zloirock/core-js","reg":"x","vers":"v3.22.6"}
 {"name":"corejs","desc":"Standard Library","repo":"https://github.com/zloirock/core-js","reg":"x","vers":"v3.22.7"}
 {"name":"corejs","desc":"Standard Library","repo":"https://github.com/zloirock/core-js","reg":"x","vers":"v3.22.8"}
+{"name":"corejs","desc":"Standard Library","repo":"https://github.com/zloirock/core-js","reg":"x","vers":"v3.23.0"}
