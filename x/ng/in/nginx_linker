@@ -1,0 +1,3 @@
+{"name":"nginx_linker","desc":"Deno utility tool to create dymbolic link for your project's nginx configuration file for deployment","repo":"https://github.com/kivS/nginx-project-linker","reg":"x","vers":"v1.0.0"}
+{"name":"nginx_linker","desc":"Deno utility tool to create dymbolic link for your project's nginx configuration file for deployment","repo":"https://github.com/kivS/nginx-project-linker","reg":"x","vers":"v1.0.1"}
+{"name":"nginx_linker","desc":"Deno utility tool to create dymbolic link for your project's nginx configuration file for deployment","repo":"https://github.com/kivS/nginx-project-linker","reg":"x","vers":"v1.0.2"}
