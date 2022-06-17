@@ -22,3 +22,5 @@
 {"name":"cav","desc":"Full stack web framework for Deno","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.21"}
 {"name":"cav","desc":"A freelancer's web framework","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.22"}
 {"name":"cav","desc":"A freelancer's web framework","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.23"}
+{"name":"cav","desc":"Web framework for solo developers","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.0.24"}
+{"name":"cav","desc":"Web framework for solo developers","repo":"https://github.com/connorlogin/cav","reg":"x","vers":"0.1.0"}
