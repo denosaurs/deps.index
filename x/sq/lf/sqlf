@@ -1,1 +1,2 @@
 {"name":"sqlf","desc":"Fast pgSQL generation for Deno.","repo":"https://github.com/danteissaias/sqlf","reg":"x","vers":"0.0.1"}
+{"name":"sqlf","desc":"Fast pgSQL generation","repo":"https://github.com/danteissaias/sqlf","reg":"x","vers":"0.0.2"}

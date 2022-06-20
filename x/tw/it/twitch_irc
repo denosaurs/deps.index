@@ -12,3 +12,5 @@
 {"name":"twitch_irc","desc":"Twitch chat client for Deno","repo":"https://github.com/jprochazk/twitch_irc","reg":"x","vers":"0.8.1"}
 {"name":"twitch_irc","desc":"Twitch chat client for Deno","repo":"https://github.com/jprochazk/twitch_irc","reg":"x","vers":"0.9.0"}
 {"name":"twitch_irc","desc":"Twitch chat client for Deno","repo":"https://github.com/jprochazk/twitch_irc","reg":"x","vers":"0.9.1"}
+{"name":"twitch_irc","desc":"Twitch chat client for Deno","repo":"https://github.com/jprochazk/twitch_irc","reg":"x","vers":"0.10.0"}
+{"name":"twitch_irc","desc":"Twitch chat client for Deno","repo":"https://github.com/jprochazk/twitch_irc","reg":"x","vers":"0.10.1"}
