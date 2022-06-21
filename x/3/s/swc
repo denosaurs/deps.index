@@ -1,2 +1,3 @@
 {"name":"swc","desc":" The SWC compiler for Deno. ","repo":"https://github.com/nestdotland/deno_swc","reg":"x","vers":"0.1.2"}
 {"name":"swc","desc":" The SWC compiler for Deno. ","repo":"https://github.com/nestdotland/deno_swc","reg":"x","vers":"0.1.4"}
+{"name":"swc","desc":" The SWC compiler for Deno. ","repo":"https://github.com/littledivy/deno_swc","reg":"x","vers":"0.2.0"}

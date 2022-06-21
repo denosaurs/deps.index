@@ -1,1 +1,2 @@
 {"name":"deno_actions_core","desc":"Deno port of the core package in github.com/actions/toolkit.","repo":"https://github.com/reeseschultz/deno_actions_core","reg":"x","vers":"0.1.0"}
+{"name":"deno_actions_core","desc":"Deno port of the core package in github.com/actions/toolkit.","repo":"https://github.com/reeseschultz/deno_actions_core","reg":"x","vers":"0.1.3"}
