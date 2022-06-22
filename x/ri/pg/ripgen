@@ -4,3 +4,4 @@
 {"name":"ripgen","desc":"A web/deno Wasm port of resyncgg/ripgen rust lib","repo":"https://github.com/hironichu/ripgen-deno","reg":"x","vers":"0.0.4"}
 {"name":"ripgen","desc":"A web/deno Wasm port of resyncgg/ripgen rust lib","repo":"https://github.com/hironichu/ripgen-deno","reg":"x","vers":"0.0.5"}
 {"name":"ripgen","desc":"A web/deno Wasm port of resyncgg/ripgen rust lib","repo":"https://github.com/hironichu/ripgen-deno","reg":"x","vers":"0.0.6"}
+{"name":"ripgen","desc":"A web/deno Wasm port of resyncgg/ripgen rust lib","repo":"https://github.com/hironichu/ripgen-wasm","reg":"x","vers":"0.0.7"}

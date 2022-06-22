@@ -7,3 +7,6 @@
 {"name":"oak_exception","desc":"A global exception filter middleware by oak.","repo":"https://github.com/jiawei397/oak_exception","reg":"x","vers":"v0.0.7"}
 {"name":"oak_exception","desc":"A global exception filter middleware by oak.","repo":"https://github.com/jiawei397/oak_exception","reg":"x","vers":"v0.0.8"}
 {"name":"oak_exception","desc":"A global exception filter middleware by oak.","repo":"https://github.com/jiawei397/oak_exception","reg":"x","vers":"v0.0.9"}
+{"name":"oak_exception","desc":"A global exception filter middleware by oak.","repo":"https://github.com/jiawei397/oak_exception","reg":"x","vers":"v0.1.0"}
+{"name":"oak_exception","desc":"A global exception filter middleware by oak.","repo":"https://github.com/jiawei397/oak_exception","reg":"x","vers":"v0.1.1"}
+{"name":"oak_exception","desc":"A global exception filter middleware by oak.","repo":"https://github.com/jiawei397/oak_exception","reg":"x","vers":"v0.1.2"}
