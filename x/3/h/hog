@@ -4,3 +4,5 @@
 {"name":"hog","desc":"CLI tool to check for memory hogs in MacOS","repo":"https://github.com/esturcke/hog","reg":"x","vers":"0.0.4"}
 {"name":"hog","desc":"CLI tool to check for memory hogs in MacOS","repo":"https://github.com/esturcke/hog","reg":"x","vers":"0.0.5"}
 {"name":"hog","desc":"CLI tool to check for memory hogs in MacOS","repo":"https://github.com/esturcke/hog","reg":"x","vers":"0.0.6"}
+{"name":"hog","desc":"CLI tool to check for memory hogs in MacOS","repo":"https://github.com/esturcke/hog","reg":"x","vers":"0.0.7"}
+{"name":"hog","desc":"CLI tool to check for memory hogs in MacOS","repo":"https://github.com/esturcke/hog","reg":"x","vers":"0.0.8"}
