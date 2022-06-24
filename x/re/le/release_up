@@ -5,3 +5,5 @@
 {"name":"release_up","desc":":seedling: Automate releases","repo":"https://github.com/sylc/release_up","reg":"x","vers":"0.3.1"}
 {"name":"release_up","desc":":seedling: Automate releases","repo":"https://github.com/sylc/release_up","reg":"x","vers":"0.3.2"}
 {"name":"release_up","desc":":seedling: Automate releases","repo":"https://github.com/sylc/release_up","reg":"x","vers":"0.4.0"}
+{"name":"release_up","desc":":seedling: Automate releases","repo":"https://github.com/sylc/release_up","reg":"x","vers":"0.4.1-canary.0"}
+{"name":"release_up","desc":":seedling: Automate releases","repo":"https://github.com/sylc/release_up","reg":"x","vers":"0.5.0"}

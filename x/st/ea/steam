@@ -1,2 +1,3 @@
 {"name":"steam","desc":"","repo":"https://github.com/MNLaugh/steam","reg":"x","vers":"1.0.0"}
 {"name":"steam","desc":"Deno Wrapper to communicate with Steam Web API","repo":"https://github.com/MNLaugh/steam","reg":"x","vers":"1.0.1"}
+{"name":"steam","desc":"Deno Wrapper to communicate with Steam Web API","repo":"https://github.com/MNLaugh/steam","reg":"x","vers":"2.0.0"}
