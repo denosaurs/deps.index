@@ -1,1 +1,2 @@
 {"name":"deno_machine_id","desc":"Unique machine (desktop) id (no admin privileges required)","repo":"justjavac/deno_machine_id","reg":"x","vers":"0.1.0"}
+{"name":"deno_machine_id","desc":"Unique machine (desktop) id (no admin privileges required)","repo":"https://github.com/justjavac/deno_machine_id","reg":"x","vers":"1.0.0"}
