@@ -1,0 +1,1 @@
+{"name":"podman","desc":"A podman / docker api wrapper for deno.","repo":"https://github.com/NowhereLTD/deno-podman","reg":"x","vers":"v0.1.0-alpha"}
