@@ -26,3 +26,4 @@
 {"name":"fast","desc":"Minimalist web framework ","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"0.0.26"}
 {"name":"fast","desc":"Minimalist web framework ","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"0.0.27"}
 {"name":"fast","desc":"Minimalist web framework ","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"0.1.0"}
+{"name":"fast","desc":"Small (<200L) web framework.","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"0.2.0"}
