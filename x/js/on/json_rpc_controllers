@@ -8,3 +8,5 @@
 {"name":"json_rpc_controllers","desc":"Create class-based JSON-RPC services and use them seamlessly on the client-side","repo":"https://github.com/ngruychev/json_rpc_controllers","reg":"x","vers":"0.0.9"}
 {"name":"json_rpc_controllers","desc":"Create class-based JSON-RPC services and use them seamlessly on the client-side","repo":"https://github.com/ngruychev/json_rpc_controllers","reg":"x","vers":"0.0.10"}
 {"name":"json_rpc_controllers","desc":"Create class-based JSON-RPC services and use them seamlessly on the client-side","repo":"https://github.com/ngruychev/json_rpc_controllers","reg":"x","vers":"0.0.11"}
+{"name":"json_rpc_controllers","desc":"Create class-based JSON-RPC services and use them seamlessly on the client-side","repo":"https://github.com/ngruychev/json_rpc_controllers","reg":"x","vers":"0.1.0"}
+{"name":"json_rpc_controllers","desc":"Create class-based JSON-RPC services and use them seamlessly on the client-side","repo":"https://github.com/ngruychev/json_rpc_controllers","reg":"x","vers":"0.1.1"}

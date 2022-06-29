@@ -3,3 +3,5 @@
 {"name":"liveviewjs","desc":"The anti-SPA library for reactive app development in NodeJS and Deno","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.3.0"}
 {"name":"liveviewjs","desc":"LiveView-based library for reactive app development in NodeJS and Deno","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.4.0"}
 {"name":"liveviewjs","desc":"LiveView-based library for reactive app development in NodeJS and Deno","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.4.1"}
+{"name":"liveviewjs","desc":"LiveView-based library for reactive app development in NodeJS and Deno","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.4.2"}
+{"name":"liveviewjs","desc":"LiveView-based library for reactive app development in NodeJS and Deno","repo":"https://github.com/floodfx/liveviewjs","reg":"x","vers":"0.4.3"}
