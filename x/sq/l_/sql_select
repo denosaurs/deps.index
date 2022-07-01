@@ -3,3 +3,5 @@
 {"name":"sql_select","desc":"A js library for performing SQL like queries on arrays of objects.","repo":"https://github.com/kismts/sql-select","reg":"x","vers":"v1.0.4"}
 {"name":"sql_select","desc":"A js library for performing SQL like queries on arrays of objects.","repo":"https://github.com/kismts/sql-select","reg":"x","vers":"v1.0.5"}
 {"name":"sql_select","desc":"A js library for performing SQL like queries on arrays of objects.","repo":"https://github.com/kismts/sql-select","reg":"x","vers":"v2.0.0"}
+{"name":"sql_select","desc":"A js library for performing SQL like queries on arrays of objects.","repo":"https://github.com/kismts/sql-select","reg":"x","vers":"v3.0.0"}
+{"name":"sql_select","desc":"A js library for performing SQL like queries on arrays of objects.","repo":"https://github.com/kismts/sql-select","reg":"x","vers":"v3.0.1"}
