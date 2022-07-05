@@ -1,1 +1,2 @@
 {"name":"pcsc","desc":"Deno FFI binding to the PCSC API","repo":"https://github.com/cryptographix/pcsc-deno","reg":"x","vers":"v0.1.0"}
+{"name":"pcsc","desc":"Deno FFI binding to the PCSC API","repo":"https://github.com/cryptographix/pcsc-deno","reg":"x","vers":"v0.3.1"}

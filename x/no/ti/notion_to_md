@@ -1,0 +1,1 @@
+{"name":"notion_to_md","desc":"Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)","repo":"https://github.com/5ika/notion-to-md-deno","reg":"x","vers":"v2.5.0"}

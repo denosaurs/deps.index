@@ -1,2 +1,4 @@
 {"name":"deno_actions_core","desc":"Deno port of the core package in github.com/actions/toolkit.","repo":"https://github.com/reeseschultz/deno_actions_core","reg":"x","vers":"0.1.0"}
 {"name":"deno_actions_core","desc":"Deno port of the core package in github.com/actions/toolkit.","repo":"https://github.com/reeseschultz/deno_actions_core","reg":"x","vers":"0.1.3"}
+{"name":"deno_actions_core","desc":"Deno port of the core package in github.com/actions/toolkit.","repo":"https://github.com/denorians/deno_actions_core","reg":"x","vers":"0.3.0"}
+{"name":"deno_actions_core","desc":"Deno port of the core package in github.com/actions/toolkit.","repo":"https://github.com/denorians/deno_actions_core","reg":"x","vers":"v0.3.0"}
