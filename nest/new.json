@@ -1,1 +1,1 @@
-[{"name":"uriware","desc":"Yet another RFC3986-aware URI utilities.","repo":"https://github.com/yuhr/uriware","reg":"nest","vers":["0.0.0"]}]
+[{"name":"combinatorics","desc":"Combinatorial generators including combinations, permutations, combinations with replacement, permutations with replacement, cartesian products, and power sets.","repo":null,"reg":"nest","vers":["1.1.3"]}]

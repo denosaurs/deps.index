@@ -1,0 +1,1 @@
+{"name":"batch_queue","desc":"Typescript implement of concurrent queue which maintains n concurrent jobs, pulling more when required","repo":"https://github.com/seanaye/batch-queue","reg":"x","vers":"v0.0.1"}

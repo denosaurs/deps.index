@@ -1,0 +1,4 @@
+{"name":"masx200_deno_serve_https","desc":"deno-serve-https 对于deno的低级api的封装,可以启动同时支持http/1.1和http/2的https服务,并且在一个端口上同时支持了http连接升级,websocket,connect方法.","repo":"https://github.com/masx200/deno-serve-https","reg":"x","vers":"1.0.0"}
+{"name":"masx200_deno_serve_https","desc":"deno-serve-https 对于deno的低级api的封装,可以启动同时支持http/1.1和http/2的https服务,并且在一个端口上同时支持了http连接升级,websocket,connect方法.","repo":"https://github.com/masx200/deno-serve-https","reg":"x","vers":"1.0.1"}
+{"name":"masx200_deno_serve_https","desc":"deno-serve-https 对于deno的低级api的封装,可以启动同时支持http/1.1和http/2的https服务,并且在一个端口上同时支持了http连接升级,websocket,connect方法.","repo":"https://github.com/masx200/deno-serve-https","reg":"x","vers":"1.0.2"}
+{"name":"masx200_deno_serve_https","desc":"deno-serve-https 对于deno的低级api的封装,可以启动同时支持http/1.1和http/2的https服务,并且在一个端口上同时支持了http连接升级,websocket,connect方法.","repo":"https://github.com/masx200/deno-serve-https","reg":"x","vers":"1.0.3"}
