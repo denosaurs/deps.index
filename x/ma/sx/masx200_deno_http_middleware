@@ -14,3 +14,4 @@
 {"name":"masx200_deno_http_middleware","desc":"Deno 原生 HTTP 服务器的中间件框架","repo":"https://github.com/masx200/deno-http-middleware","reg":"x","vers":"1.2.2"}
 {"name":"masx200_deno_http_middleware","desc":"Deno 原生 HTTP 服务器的中间件框架","repo":"https://github.com/masx200/deno-http-middleware","reg":"x","vers":"1.2.3"}
 {"name":"masx200_deno_http_middleware","desc":"Deno 原生 HTTP 服务器的中间件框架","repo":"https://github.com/masx200/deno-http-middleware","reg":"x","vers":"1.2.4"}
+{"name":"masx200_deno_http_middleware","desc":"Deno 原生 HTTP 服务器的中间件框架","repo":"https://github.com/masx200/deno-http-middleware","reg":"x","vers":"1.2.5"}

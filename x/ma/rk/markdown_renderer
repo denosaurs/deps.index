@@ -1,0 +1,2 @@
+{"name":"markdown_renderer","desc":"Deno server-side markdown rendering. Including HTML sanitization.","repo":"https://github.com/LinusJohannsen/deno-markdown-renderer","reg":"x","vers":"0.1.0"}
+{"name":"markdown_renderer","desc":"Deno server-side markdown rendering. Including HTML sanitization.","repo":"https://github.com/LinusJohannsen/deno-markdown-renderer","reg":"x","vers":"0.1.1"}
