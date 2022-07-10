@@ -42,3 +42,5 @@
 {"name":"fast","desc":"Small (<200L) web framework.","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"0.6.4"}
 {"name":"fast","desc":"Small web framework.","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"1.0.0"}
 {"name":"fast","desc":"Small web framework.","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"1.0.1"}
+{"name":"fast","desc":"Small web framework with near-native performance.","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"2.0.0"}
+{"name":"fast","desc":"Small web framework with near-native performance.","repo":"https://github.com/danteissaias/fast","reg":"x","vers":"2.1.0"}

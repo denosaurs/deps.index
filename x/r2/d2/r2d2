@@ -4,3 +4,4 @@
 {"name":"r2d2","desc":"Simple, lightweight Redis library for Deno.","repo":"https://github.com/iuioiua/r2d2","reg":"x","vers":"v0.0.4"}
 {"name":"r2d2","desc":"Simple, lightweight Redis library for Deno.","repo":"https://github.com/iuioiua/r2d2","reg":"x","vers":"v0.0.5"}
 {"name":"r2d2","desc":"Simple, lightweight Redis client library for Deno.","repo":"https://github.com/iuioiua/r2d2","reg":"x","vers":"v0.0.6"}
+{"name":"r2d2","desc":"Simple, lightweight Redis client library for Deno.","repo":"https://github.com/iuioiua/r2d2","reg":"x","vers":"v0.0.7"}

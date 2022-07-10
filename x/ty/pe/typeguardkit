@@ -1,1 +1,2 @@
 {"name":"typeguardkit","desc":"A TypeScript module to help create a type and its guards from a single source definition.","repo":"https://github.com/antonebbage/typeguardkit","reg":"x","vers":"0.1.0"}
+{"name":"typeguardkit","desc":"A TypeScript module to help create a type and its guards from a single source definition.","repo":"https://github.com/antonebbage/typeguardkit","reg":"x","vers":"0.2.0"}
