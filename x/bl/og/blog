@@ -6,3 +6,4 @@
 {"name":"blog","desc":"","repo":"https://github.com/denoland/deno_blog","reg":"x","vers":"0.3.1"}
 {"name":"blog","desc":"","repo":"https://github.com/denoland/deno_blog","reg":"x","vers":"0.3.2"}
 {"name":"blog","desc":"","repo":"https://github.com/denoland/deno_blog","reg":"x","vers":"0.3.3"}
+{"name":"blog","desc":"Minimal boilerplate blogging.","repo":"https://github.com/denoland/deno_blog","reg":"x","vers":"0.4.0"}

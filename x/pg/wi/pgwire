@@ -1,0 +1,1 @@
+{"name":"pgwire","desc":"PostgreSQL client library for Node.js which exposes all features of wire protocol","repo":"https://github.com/kagis/pgwire","reg":"x","vers":"v0.7.0"}

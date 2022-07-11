@@ -1,2 +1,4 @@
 {"name":"which","desc":"Finds the path to the specified command in Deno.","repo":"https://github.com/dsherret/deno_which","reg":"x","vers":"0.1.0"}
 {"name":"which","desc":"Finds the path to the specified command in Deno.","repo":"https://github.com/dsherret/deno_which","reg":"x","vers":"0.1.1"}
+{"name":"which","desc":"Finds the path to the specified command in Deno.","repo":"https://github.com/dsherret/deno_which","reg":"x","vers":"0.2.0"}
+{"name":"which","desc":"Finds the path to the specified command in Deno.","repo":"https://github.com/dsherret/deno_which","reg":"x","vers":"0.2.1"}

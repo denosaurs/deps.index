@@ -1,2 +1,3 @@
 {"name":"deno_exif","desc":"","repo":"https://github.com/FurryWolfX/deno_exif","reg":"x","vers":"0.0.1"}
 {"name":"deno_exif","desc":"","repo":"https://github.com/FurryWolfX/deno_exif","reg":"x","vers":"0.0.2"}
+{"name":"deno_exif","desc":"migrate exif-parser to Deno","repo":"https://github.com/FurryWolfX/deno_exif","reg":"x","vers":"0.0.3"}

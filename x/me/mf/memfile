@@ -1,0 +1,1 @@
+{"name":"memfile","desc":"Deno.FsFile like implementation for in-memory buffer","repo":"https://github.com/hyp3rflow/memfile","reg":"x","vers":"v0.0.1"}
