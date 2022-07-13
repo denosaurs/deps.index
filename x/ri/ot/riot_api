@@ -4,3 +4,5 @@
 {"name":"riot_api","desc":"","repo":"https://github.com/udon-code-studios/riot-api","reg":"x","vers":"v0.0.4-alpha"}
 {"name":"riot_api","desc":"","repo":"https://github.com/udon-code-studios/riot-api","reg":"x","vers":"v0.0.5-alpha"}
 {"name":"riot_api","desc":"","repo":"https://github.com/udon-code-studios/riot-api","reg":"x","vers":"v0.0.6-alpha"}
+{"name":"riot_api","desc":"A Deno (and Node) library which provides functions and response types (DTOs) to interact with the Riot Games API.","repo":"https://github.com/udon-code-studios/riot-api","reg":"x","vers":"v0.0.7-alpha"}
+{"name":"riot_api","desc":"A Deno (and Node) library which provides functions and response types (DTOs) to interact with the Riot Games API.","repo":"https://github.com/udon-code-studios/riot-api","reg":"x","vers":"v0.0.8-alpha"}

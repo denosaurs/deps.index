@@ -1,0 +1,1 @@
+{"name":"redis_hexastore","desc":"A lightweight hexastore implementation, uzing Redis sorted sets. Work in progress.","repo":"https://github.com/ClaudiuCeia/redis-hexastore","reg":"x","vers":"v0.0.1"}
