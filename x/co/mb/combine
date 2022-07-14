@@ -1,1 +1,2 @@
 {"name":"combine","desc":"","repo":"https://github.com/ClaudiuCeia/combine","reg":"x","vers":"v0.0.1"}
+{"name":"combine","desc":"An implementation of parser combinators for Deno. Very much a work in progress.","repo":"https://github.com/ClaudiuCeia/combine","reg":"x","vers":"v0.0.2"}
