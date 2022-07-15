@@ -1,2 +1,5 @@
 {"name":"rust","desc":"Example of using wasmbuild.","repo":"https://github.com/btwiuse/wasmbuild","reg":"x","vers":"0.0.0"}
 {"name":"rust","desc":"Example of calling Rust functions from Deno using wasmbuild.","repo":"https://github.com/btwiuse/wasmbuild","reg":"x","vers":"0.0.1"}
+{"name":"rust","desc":"Example of calling Rust functions from Deno using wasmbuild.","repo":"https://github.com/btwiuse/wasmbuild","reg":"x","vers":"0.0.2"}
+{"name":"rust","desc":"Example of calling Rust functions from Deno using wasmbuild.","repo":"https://github.com/btwiuse/wasmbuild","reg":"x","vers":"0.0.3"}
+{"name":"rust","desc":"Example of calling Rust functions from Deno using wasmbuild.","repo":"https://github.com/btwiuse/wasmbuild","reg":"x","vers":"0.0.4"}

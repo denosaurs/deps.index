@@ -1,2 +1,3 @@
 {"name":"fnv","desc":"An implementation of the 32 bit FNV-1a algorithm, for deno.","repo":"https://github.com/ClaudiuCeia/FNV","reg":"x","vers":"v0.0.1"}
 {"name":"fnv","desc":"An implementation of the 32 bit FNV-1a algorithm, for deno.","repo":"https://github.com/ClaudiuCeia/FNV","reg":"x","vers":"v0.0.2"}
+{"name":"fnv","desc":"An implementation of the 64 bit FNV-1a algorithm, for deno.","repo":"https://github.com/ClaudiuCeia/FNV","reg":"x","vers":"v0.0.3"}

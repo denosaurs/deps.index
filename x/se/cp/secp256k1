@@ -47,3 +47,4 @@
 {"name":"secp256k1","desc":"Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.","repo":"https://github.com/paulmillr/noble-secp256k1","reg":"x","vers":"1.6.0"}
 {"name":"secp256k1","desc":"Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.","repo":"https://github.com/paulmillr/noble-secp256k1","reg":"x","vers":"1.6.1"}
 {"name":"secp256k1","desc":"Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.","repo":"https://github.com/paulmillr/noble-secp256k1","reg":"x","vers":"1.6.2"}
+{"name":"secp256k1","desc":"Fastest JS implementation of secp256k1. Independently audited, high-security, 0-dependency ECDSA & Schnorr signatures.","repo":"https://github.com/paulmillr/noble-secp256k1","reg":"x","vers":"1.6.3"}
