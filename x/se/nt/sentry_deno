@@ -4,3 +4,5 @@
 {"name":"sentry_deno","desc":"Unofficial port of the Sentry SDK for JavaScript to Deno.","repo":"https://github.com/GJZwiers/sentry_deno","reg":"x","vers":"v0.1.3"}
 {"name":"sentry_deno","desc":"Unofficial port of the Sentry SDK for JavaScript to Deno.","repo":"https://github.com/GJZwiers/sentry_deno","reg":"x","vers":"v0.1.4"}
 {"name":"sentry_deno","desc":"Unofficial port of the Sentry SDK for JavaScript to Deno.","repo":"https://github.com/GJZwiers/sentry_deno","reg":"x","vers":"v0.1.5"}
+{"name":"sentry_deno","desc":"Unofficial port of the Sentry SDK for JavaScript to Deno.","repo":"https://github.com/GJZwiers/sentry_deno","reg":"x","vers":"v0.1.6"}
+{"name":"sentry_deno","desc":"Unofficial port of the Sentry SDK for JavaScript to Deno.","repo":"https://github.com/GJZwiers/sentry_deno","reg":"x","vers":"v0.1.7"}
