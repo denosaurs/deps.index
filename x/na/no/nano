@@ -14,3 +14,4 @@
 {"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.0.14"}
 {"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.0.15"}
 {"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.1.0"}
+{"name":"nano","desc":"Template engine compatible with Deno Deploy","repo":"https://github.com/alevroub/nano","reg":"x","vers":"v0.1.1"}

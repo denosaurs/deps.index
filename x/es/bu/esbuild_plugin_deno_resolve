@@ -2,3 +2,4 @@
 {"name":"esbuild_plugin_deno_resolve","desc":"Plugin to resolve deno import maps and URLs","repo":"https://github.com/LeoDog896/esbuild-plugin-deno-resolve","reg":"x","vers":"v0.0.2"}
 {"name":"esbuild_plugin_deno_resolve","desc":"Plugin to resolve deno import maps and URLs","repo":"https://github.com/LeoDog896/esbuild-plugin-deno-resolve","reg":"x","vers":"v0.0.3"}
 {"name":"esbuild_plugin_deno_resolve","desc":"Plugin to resolve deno import maps and URLs","repo":"https://github.com/LeoDog896/esbuild-plugin-deno-resolve","reg":"x","vers":"v0.0.4"}
+{"name":"esbuild_plugin_deno_resolve","desc":"Plugin to resolve deno import maps and URLs","repo":"https://github.com/LeoDog896/esbuild-plugin-deno-resolve","reg":"x","vers":"v0.0.5"}
