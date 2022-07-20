@@ -1,0 +1,1 @@
+{"name":"parse_dont_validate","desc":"Verify the integrity of the data and return it in expected shape, otherwise throw error or return a specified value","repo":"https://github.com/P-YNPM/parse-dont-validate","reg":"x","vers":"v2.0.3"}
