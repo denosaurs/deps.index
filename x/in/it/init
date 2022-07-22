@@ -71,3 +71,4 @@
 {"name":"init","desc":"Generate a Deno configuration file","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"v2.5.4"}
 {"name":"init","desc":"Generate a Deno configuration file","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"v2.5.5"}
 {"name":"init","desc":"Generate a Deno configuration file","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"v2.5.6"}
+{"name":"init","desc":"Generate a Deno configuration file","repo":"https://github.com/GJZwiers/deno-init","reg":"x","vers":"v2.6.0"}

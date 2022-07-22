@@ -9,3 +9,4 @@
 {"name":"graphql_http","desc":"GraphQL on HTTP middleware with built-in validations and GraphQL playground","repo":"https://github.com/TomokiMiyauci/graphql-http","reg":"x","vers":"1.0.0-beta.9"}
 {"name":"graphql_http","desc":"GraphQL on HTTP middleware with built-in validations and GraphQL playground","repo":"https://github.com/TomokiMiyauci/graphql-http","reg":"x","vers":"1.0.0-beta.10"}
 {"name":"graphql_http","desc":"GraphQL on HTTP middleware with built-in validations and GraphQL playground","repo":"https://github.com/TomokiMiyauci/graphql-http","reg":"x","vers":"1.0.0-beta.11"}
+{"name":"graphql_http","desc":"GraphQL client and handler compliant with GraphQL over HTTP specification","repo":"https://github.com/TomokiMiyauci/graphql-http","reg":"x","vers":"1.0.0-beta.12"}

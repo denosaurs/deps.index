@@ -1,2 +1,3 @@
 {"name":"random_number","desc":"🎡 Generate a random number, a list of them, or a generator with optional configuration","repo":"https://github.com/UltiRequiem/random_number","reg":"x","vers":"v0.1.0"}
 {"name":"random_number","desc":"🎡 REST API, CLI Tool and Deno Package to generate Random Numbers","repo":"https://github.com/UltiRequiem/random_number","reg":"x","vers":"0.1.1"}
+{"name":"random_number","desc":"🎡 Get a random number.","repo":"https://github.com/UltiRequiem/random_number","reg":"x","vers":"2.0.0"}
