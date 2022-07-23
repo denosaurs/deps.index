@@ -2,3 +2,4 @@
 {"name":"cross_dirname","desc":"Node.js module that returns the current script dirname (esm support)","repo":"https://github.com/JumpLink/cross-dirname","reg":"x","vers":"v0.0.4"}
 {"name":"cross_dirname","desc":"Node.js module that returns the current script dirname (esm support)","repo":"https://github.com/JumpLink/cross-dirname","reg":"x","vers":"v0.0.5"}
 {"name":"cross_dirname","desc":"Node.js module that returns the current script dirname (esm support)","repo":"https://github.com/JumpLink/cross-dirname","reg":"x","vers":"v0.0.6"}
+{"name":"cross_dirname","desc":"Node.js + Gjs + Deno module that returns the current script dirname. Similar to __dirname but also works in CommonJs and ES modules.","repo":"https://github.com/JumpLink/cross-dirname","reg":"x","vers":"v0.1.0"}
