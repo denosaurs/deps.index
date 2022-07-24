@@ -3,3 +3,5 @@
 {"name":"keywork","desc":"A library for building V8 Isolate web apps on Cloudflare Workers, Deno, and Node.JS","repo":"https://github.com/nirrius/keywork","reg":"x","vers":"3.1.7"}
 {"name":"keywork","desc":"A library for building V8 Isolate web apps on Cloudflare Workers, Deno, and Node.JS","repo":"https://github.com/nirrius/keywork","reg":"x","vers":"3.2.3"}
 {"name":"keywork","desc":"A library for building V8 Isolate web apps on Cloudflare Workers, Deno, and Node.JS","repo":"https://github.com/nirrius/keywork","reg":"x","vers":"3.3.0"}
+{"name":"keywork","desc":"A library for building V8 Isolate web apps on Cloudflare Workers, Deno, and Node.JS","repo":"https://github.com/nirrius/keywork","reg":"x","vers":"3.3.1"}
+{"name":"keywork","desc":"A library for building V8 Isolate web apps on Cloudflare Workers, Deno, and Node.JS","repo":"https://github.com/nirrius/keywork","reg":"x","vers":"3.3.2"}
