@@ -18,3 +18,4 @@
 {"name":"udd","desc":"Update Deno Dependencies - update dependency urls to their latest published versions","repo":"https://github.com/hayd/deno-udd","reg":"x","vers":"0.7.1"}
 {"name":"udd","desc":"Update Deno Dependencies - update dependency urls to their latest published versions","repo":"https://github.com/hayd/deno-udd","reg":"x","vers":"0.7.2"}
 {"name":"udd","desc":"Update Deno Dependencies - update dependency urls to their latest published versions","repo":"https://github.com/hayd/deno-udd","reg":"x","vers":"0.7.3"}
+{"name":"udd","desc":"Update Deno Dependencies - update dependency urls to their latest published versions","repo":"https://github.com/hayd/deno-udd","reg":"x","vers":"0.7.4"}

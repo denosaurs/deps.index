@@ -1,1 +1,3 @@
 {"name":"mailgun","desc":"","repo":"https://github.com/Schotsl/Mailgun","reg":"x","vers":"v1.0.0"}
+{"name":"mailgun","desc":"This simple and lightweight Deno package allows you to easily send emails using the Mailgun API!","repo":"https://github.com/Schotsl/Mailgun","reg":"x","vers":"v1.1.0"}
+{"name":"mailgun","desc":"This simple and lightweight Deno package allows you to easily send emails using the Mailgun API!","repo":"https://github.com/Schotsl/Mailgun","reg":"x","vers":"v1.1.1"}
