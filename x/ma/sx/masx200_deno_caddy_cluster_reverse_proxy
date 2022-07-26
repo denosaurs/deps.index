@@ -6,3 +6,4 @@
 {"name":"masx200_deno_caddy_cluster_reverse_proxy","desc":"deno-caddy-cluster-reverse-proxy,适用于Deno的分布式微服务注册与发现服务器和客户端.","repo":"https://github.com/masx200/deno-caddy-cluster-reverse-proxy","reg":"x","vers":"2.0.1"}
 {"name":"masx200_deno_caddy_cluster_reverse_proxy","desc":"deno-caddy-cluster-reverse-proxy,适用于Deno的分布式微服务注册与发现服务器和客户端.","repo":"https://github.com/masx200/deno-caddy-cluster-reverse-proxy","reg":"x","vers":"2.0.2"}
 {"name":"masx200_deno_caddy_cluster_reverse_proxy","desc":"deno-caddy-cluster-reverse-proxy,适用于Deno的分布式微服务注册与发现服务器和客户端.","repo":"https://github.com/masx200/deno-caddy-cluster-reverse-proxy","reg":"x","vers":"3.0.0"}
+{"name":"masx200_deno_caddy_cluster_reverse_proxy","desc":"deno-caddy-cluster-reverse-proxy,适用于Deno的分布式微服务注册与发现服务器和客户端.","repo":"https://github.com/masx200/deno-caddy-cluster-reverse-proxy","reg":"x","vers":"3.0.1"}
