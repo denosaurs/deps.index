@@ -17,3 +17,5 @@
 {"name":"grpc_basic","desc":"Very basic gRPC implementation for Deno ","repo":"https://github.com/prohazko2/deno-grpc","reg":"x","vers":"0.4.2"}
 {"name":"grpc_basic","desc":"Very basic gRPC implementation for Deno ","repo":"https://github.com/prohazko2/deno-grpc","reg":"x","vers":"0.4.3"}
 {"name":"grpc_basic","desc":"Very basic gRPC implementation for Deno ","repo":"https://github.com/prohazko2/deno-grpc","reg":"x","vers":"0.4.4"}
+{"name":"grpc_basic","desc":"Very basic gRPC implementation for Deno ","repo":"https://github.com/prohazko2/deno-grpc","reg":"x","vers":"0.4.5"}
+{"name":"grpc_basic","desc":"Very basic gRPC implementation for Deno ","repo":"https://github.com/prohazko2/deno-grpc","reg":"x","vers":"0.4.6"}

@@ -1,0 +1,1 @@
+{"name":"snowball_ts","desc":"A TypeScript interface to the stemming algorithms from the Snowball project, for Deno.","repo":"https://github.com/ClaudiuCeia/snowball-ts","reg":"x","vers":"v2.2.0"}
