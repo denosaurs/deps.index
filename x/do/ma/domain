@@ -1,1 +1,2 @@
 {"name":"domain","desc":"Get all the top-level domains, including gTLDs such as `.com`, and country-code TLDs such as `.uk`.","repo":"justjavac/deno_domain","reg":"x","vers":"0.1.0"}
+{"name":"domain","desc":"Get all the top-level domains, including gTLDs such as `.com`, and country-code TLDs such as `.uk`.","repo":"https://github.com/justjavac/deno_domain","reg":"x","vers":"0.2.0"}
