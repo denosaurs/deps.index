@@ -1,0 +1,1 @@
+{"name":"feathers_mongo","desc":"A Feathers database adapter for MongoDB using official Deno driver for MongoDB (deno-mongo)","repo":"https://github.com/vixalien/feathers-mongo","reg":"x","vers":"v0.1.0"}
