@@ -1,0 +1,1 @@
+{"name":"oak_middleware_request_id","desc":"A Deno Oak middleware for generating request ID","repo":"https://github.com/mayankchoubey/deno-oak-middleware-request-id","reg":"x","vers":"0.0.1"}
