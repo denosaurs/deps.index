@@ -1,2 +1,4 @@
 {"name":"logging","desc":"","repo":"https://github.com/BlackAsLight/logging","reg":"x","vers":"v0.0.0"}
 {"name":"logging","desc":"","repo":"https://github.com/BlackAsLight/logging","reg":"x","vers":"v0.0.1"}
+{"name":"logging","desc":"Writes console.log to a .log file.","repo":"https://github.com/BlackAsLight/logging","reg":"x","vers":"v0.0.2"}
+{"name":"logging","desc":"Writes console.log to a .log file.","repo":"https://github.com/BlackAsLight/logging","reg":"x","vers":"v0.0.3"}

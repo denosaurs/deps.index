@@ -6,3 +6,4 @@
 {"name":"cbor","desc":"Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning","repo":"https://github.com/kriszyp/cbor-x","reg":"x","vers":"v1.2.1"}
 {"name":"cbor","desc":"Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning","repo":"https://github.com/kriszyp/cbor-x","reg":"x","vers":"v1.5.0"}
 {"name":"cbor","desc":"Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning","repo":"https://github.com/kriszyp/cbor-x","reg":"x","vers":"v1.3.2"}
+{"name":"cbor","desc":"Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning","repo":"https://github.com/kriszyp/cbor-x","reg":"x","vers":"v1.3.3"}
