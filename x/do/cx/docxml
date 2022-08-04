@@ -11,3 +11,6 @@
 {"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"1.4.0"}
 {"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"1.5.0"}
 {"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"1.5.1"}
+{"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"1.6.0"}
+{"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"2.0.0"}
+{"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"2.0.1"}
