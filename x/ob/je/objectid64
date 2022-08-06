@@ -3,3 +3,4 @@
 {"name":"objectid64","desc":"The fastest way to convert UUID, MongoDB ObjectID, and serial ids into shorter, URL-friendly base64 and vice versa.","repo":"https://github.com/zandaqo/objectid64","reg":"x","vers":"3.0.2"}
 {"name":"objectid64","desc":"The fastest way to convert UUID, MongoDB ObjectID, and serial ids into shorter, URL-friendly base64 and vice versa.","repo":"https://github.com/zandaqo/objectid64","reg":"x","vers":"3.0.3"}
 {"name":"objectid64","desc":"The fastest way to convert UUID, MongoDB ObjectID, and serial ids into shorter, URL-friendly base64 and vice versa.","repo":"https://github.com/zandaqo/objectid64","reg":"x","vers":"3.1.0"}
+{"name":"objectid64","desc":"The fastest way to convert UUID, MongoDB ObjectID, and serial ids into shorter, URL-friendly base64 and vice versa.","repo":"https://github.com/zandaqo/objectid64","reg":"x","vers":"3.1.1"}

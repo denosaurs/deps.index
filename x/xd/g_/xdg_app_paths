@@ -3,3 +3,7 @@
 {"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v7.1.1"}
 {"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v7.2.0"}
 {"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v7.3.0"}
+{"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v2.2.1"}
+{"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v3.0.0"}
+{"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v8.0.0"}
+{"name":"xdg_app_paths","desc":"Determine (XDG-compatible) paths for storing application files (cache, config, data, etc)","repo":"https://github.com/rivy/js.xdg-app-paths","reg":"x","vers":"v8.0.1"}
