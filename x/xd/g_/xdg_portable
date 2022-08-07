@@ -4,3 +4,5 @@
 {"name":"xdg_portable","desc":"Determine XDG Base Directory paths (OS/platform portable)","repo":"https://github.com/rivy/js.xdg-portable","reg":"x","vers":"v9.3.0"}
 {"name":"xdg_portable","desc":"Determine XDG Base Directory paths (OS/platform portable)","repo":"https://github.com/rivy/js.xdg-portable","reg":"x","vers":"v9.4.0"}
 {"name":"xdg_portable","desc":"Determine XDG Base Directory paths (OS/platform portable)","repo":"https://github.com/rivy/js.xdg-portable","reg":"x","vers":"v10.0.0"}
+{"name":"xdg_portable","desc":"Determine XDG Base Directory paths (OS/platform portable)","repo":"https://github.com/rivy/js.xdg-portable","reg":"x","vers":"v10.1.0"}
+{"name":"xdg_portable","desc":"Determine XDG Base Directory paths (OS/platform portable)","repo":"https://github.com/rivy/js.xdg-portable","reg":"x","vers":"v10.2.0"}

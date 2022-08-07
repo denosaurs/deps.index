@@ -1,1 +1,2 @@
 {"name":"to_object","desc":"Reduce array of key/value pairs, to an object.","repo":"https://github.com/hugojosefson/to-object","reg":"x","vers":"0.0.1"}
+{"name":"to_object","desc":"Reduce array of key/value pairs, to an object.","repo":"https://github.com/hugojosefson/to-object","reg":"x","vers":"0.1.0"}
