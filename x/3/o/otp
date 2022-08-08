@@ -2,3 +2,4 @@
 {"name":"otp","desc":"","repo":"https://github.com/your-local-developer/deno_otp","reg":"x","vers":"0.1.1"}
 {"name":"otp","desc":"","repo":"https://github.com/your-local-developer/deno_otp","reg":"x","vers":"0.2.0"}
 {"name":"otp","desc":"","repo":"https://github.com/your-local-developer/deno_otp","reg":"x","vers":"0.2.1"}
+{"name":"otp","desc":"A truely RFC complient  HOTP (https://www.rfc-editor.org/rfc/rfc4226) and TOTP (https://www.rfc-editor.org/rfc/) implementation which can be used on the server and client.","repo":"https://github.com/your-local-developer/deno_otp","reg":"x","vers":"0.3.0"}

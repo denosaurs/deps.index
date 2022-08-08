@@ -3,3 +3,4 @@
 {"name":"graphql_transport_ws","desc":"The WebSocket graphql-transport-ws sub-protocol implementation","repo":"https://github.com/TomokiMiyauci/graphql-transport-ws","reg":"x","vers":"1.0.0-beta.3"}
 {"name":"graphql_transport_ws","desc":"The WebSocket graphql-transport-ws sub-protocol implementation","repo":"https://github.com/TomokiMiyauci/graphql-transport-ws","reg":"x","vers":"1.0.0-beta.4"}
 {"name":"graphql_transport_ws","desc":"The WebSocket graphql-transport-ws sub-protocol implementation","repo":"https://github.com/TomokiMiyauci/graphql-transport-ws","reg":"x","vers":"1.0.0-beta.5"}
+{"name":"graphql_transport_ws","desc":"The WebSocket graphql-transport-ws sub-protocol implementation","repo":"https://github.com/TomokiMiyauci/graphql-transport-ws","reg":"x","vers":"1.0.0-beta.6"}
