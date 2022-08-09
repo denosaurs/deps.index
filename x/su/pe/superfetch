@@ -13,3 +13,5 @@
 {"name":"superfetch","desc":"🐕 Superdeno-like superagent testing library based on Fetch API. Ported from node-supertest-fetch.","repo":"https://github.com/deno-libs/superfetch","reg":"x","vers":"0.1.1"}
 {"name":"superfetch","desc":"🐕 Superdeno-like superagent testing library based on Fetch API. Ported from node-supertest-fetch.","repo":"https://github.com/deno-libs/superfetch","reg":"x","vers":"0.1.2"}
 {"name":"superfetch","desc":"🐕 Superdeno-like superagent testing library based on Fetch API. Ported from node-supertest-fetch.","repo":"https://github.com/deno-libs/superfetch","reg":"x","vers":"0.1.3"}
+{"name":"superfetch","desc":"🐕 Superdeno-like superagent testing library based on Fetch API. Ported from node-supertest-fetch.","repo":"https://github.com/deno-libs/superfetch","reg":"x","vers":"0.1.4"}
+{"name":"superfetch","desc":"🐕 Superdeno-like superagent testing library based on Fetch API. Ported from node-supertest-fetch.","repo":"https://github.com/deno-libs/superfetch","reg":"x","vers":"0.1.6"}
