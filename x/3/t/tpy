@@ -14,3 +14,5 @@
 {"name":"tpy","desc":"A strongly typed Pylon API client. https://pylon.bot/","repo":"https://github.com/insyri/tpy","reg":"x","vers":"v0.1.0"}
 {"name":"tpy","desc":"A strongly typed Pylon API client. https://pylon.bot/","repo":"https://github.com/insyri/tpy","reg":"x","vers":"v0.1.1"}
 {"name":"tpy","desc":"🔑 A strongly typed Pylon API client.","repo":"https://github.com/insyri/tpy","reg":"x","vers":"v1.0.0-pre-release"}
+{"name":"tpy","desc":"🔑 A strongly typed Pylon API client.","repo":"https://github.com/insyri/tpy","reg":"x","vers":"v1.0.0-pre-release-2"}
+{"name":"tpy","desc":"🔑 A strongly typed Pylon API client.","repo":"https://github.com/insyri/tpy","reg":"x","vers":"v1.0.0-pre-release-3"}

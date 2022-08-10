@@ -1,3 +1,4 @@
 {"name":"dynamic_import_ponyfill","desc":"A ponyfill for using dynamic imports in Deno Deploy.","repo":"https://github.com/ayoreis/dynamic-import-ponyfill","reg":"x","vers":"v0.1.0"}
 {"name":"dynamic_import_ponyfill","desc":"A ponyfill for using dynamic imports in Deno Deploy.","repo":"https://github.com/ayoreis/dynamic-import-ponyfill","reg":"x","vers":"v0.1.1"}
 {"name":"dynamic_import_ponyfill","desc":"A ponyfill for using dynamic imports in Deno Deploy.","repo":"https://github.com/ayoreis/dynamic-import-ponyfill","reg":"x","vers":"v0.1.2"}
+{"name":"dynamic_import_ponyfill","desc":"🐎 A ponyfill for using dynamic imports within Deno Deploy.","repo":"https://github.com/ayoreis/dynamic-import-ponyfill","reg":"x","vers":"v0.1.3"}

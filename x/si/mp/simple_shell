@@ -8,3 +8,5 @@
 {"name":"simple_shell","desc":"Deno simple shell","repo":"https://github.com/sigmaSd/ds","reg":"x","vers":"0.9.0"}
 {"name":"simple_shell","desc":"Deno simple shell","repo":"https://github.com/sigmaSd/ds","reg":"x","vers":"0.10.0"}
 {"name":"simple_shell","desc":"Deno simple shell","repo":"https://github.com/sigmaSd/ds","reg":"x","vers":"0.11.0"}
+{"name":"simple_shell","desc":"Deno simple shell","repo":"https://github.com/sigmaSd/ds","reg":"x","vers":"0.12.0"}
+{"name":"simple_shell","desc":"Deno simple shell","repo":"https://github.com/sigmaSd/ds","reg":"x","vers":"0.13.0"}

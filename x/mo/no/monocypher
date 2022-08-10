@@ -1,0 +1,2 @@
+{"name":"monocypher","desc":"WebAssembly port and JS wrapper library for Monocypher (https://monocypher.org)","repo":"https://github.com/ar-nelson/monocypher-wasm","reg":"x","vers":"v3.1.2-4"}
+{"name":"monocypher","desc":"WebAssembly port and JS wrapper library for Monocypher (https://monocypher.org)","repo":"https://github.com/ar-nelson/monocypher-wasm","reg":"x","vers":"v3.1.3-0"}
