@@ -12,3 +12,4 @@
 {"name":"grm","desc":"Improved Deno port of GramJS — a MTProto API Telegram client library.","repo":"https://github.com/dcdunkan/grm","reg":"x","vers":"v0.3.0"}
 {"name":"grm","desc":"MTProto API Client for Deno 🦕","repo":"https://github.com/dcdunkan/grm","reg":"x","vers":"v0.3.1"}
 {"name":"grm","desc":"MTProto API Client for Deno 🦕","repo":"https://github.com/grmjs/grm","reg":"x","vers":"v0.3.2"}
+{"name":"grm","desc":"MTProto API Client for Deno 🦕","repo":"https://github.com/grmjs/grm","reg":"x","vers":"v0.3.3"}

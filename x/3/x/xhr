@@ -2,3 +2,4 @@
 {"name":"xhr","desc":"An XMLHttpRequest polyfill for Deno CLI and Deploy 🦕","repo":"https://github.com/kitsonk/xhr","reg":"x","vers":"0.1.1"}
 {"name":"xhr","desc":"An XMLHttpRequest polyfill for Deno CLI and Deploy 🦕","repo":"https://github.com/kitsonk/xhr","reg":"x","vers":"0.1.2"}
 {"name":"xhr","desc":"An XMLHttpRequest polyfill for Deno CLI and Deploy 🦕","repo":"https://github.com/kitsonk/xhr","reg":"x","vers":"0.2.0"}
+{"name":"xhr","desc":"An XMLHttpRequest polyfill for Deno CLI and Deploy 🦕","repo":"https://github.com/kitsonk/xhr","reg":"x","vers":"0.2.1"}
