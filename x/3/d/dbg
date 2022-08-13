@@ -1,0 +1,6 @@
+{"name":"dbg","desc":"A `dbg(…)` function for Deno. Heavily inspired by Rusts `dbg!(…)` macro","repo":"https://github.com/justjavac/deno_dbg","reg":"x","vers":"0.1.0"}
+{"name":"dbg","desc":"A `dbg(…)` function for Deno. Heavily inspired by Rusts `dbg!(…)` macro","repo":"https://github.com/justjavac/deno_dbg","reg":"x","vers":"0.1.1"}
+{"name":"dbg","desc":"A `dbg(…)` function for Deno. Heavily inspired by Rusts `dbg!(…)` macro","repo":"https://github.com/justjavac/deno_dbg","reg":"x","vers":"0.2.0"}
+{"name":"dbg","desc":"A `dbg(…)` function for Deno. Heavily inspired by Rusts `dbg!(…)` macro","repo":"https://github.com/justjavac/deno_dbg","reg":"x","vers":"0.2.1"}
+{"name":"dbg","desc":"A `dbg(…)` function for Deno. Heavily inspired by Rusts `dbg!(…)` macro","repo":"https://github.com/justjavac/deno_dbg","reg":"x","vers":"0.2.2"}
+{"name":"dbg","desc":"A `dbg(…)` function for Deno. Heavily inspired by Rusts `dbg!(…)` macro","repo":"https://github.com/justjavac/deno_dbg","reg":"x","vers":"0.3.0"}
