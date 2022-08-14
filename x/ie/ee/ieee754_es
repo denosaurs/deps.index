@@ -1,0 +1,1 @@
+{"name":"ieee754_es","desc":"Read/write IEEE754 floating point numbers from/to a Buffer or array-like object.","repo":"https://github.com/taisukef/ieee754","reg":"x","vers":"v1.3.0"}
