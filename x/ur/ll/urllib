@@ -1,0 +1,1 @@
+{"name":"urllib","desc":"基于 fetch 的 http 封装，仅支持 deno.js","repo":"https://github.com/zhengxs2018/urllib","reg":"x","vers":"v0.1.0"}

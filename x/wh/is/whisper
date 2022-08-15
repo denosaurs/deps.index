@@ -1,1 +1,2 @@
 {"name":"whisper","desc":"","repo":"https://github.com/p1atdev/whisper","reg":"x","vers":"0.1.0"}
+{"name":"whisper","desc":"A client that wraps the API behind Twitter.","repo":"https://github.com/p1atdev/whisper","reg":"x","vers":"0.1.1"}
