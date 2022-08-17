@@ -123,3 +123,5 @@
 {"name":"esbuild","desc":"","repo":"https://github.com/esbuild/deno-esbuild","reg":"x","vers":"v0.15.1"}
 {"name":"esbuild","desc":"","repo":"https://github.com/esbuild/deno-esbuild","reg":"x","vers":"v0.15.2"}
 {"name":"esbuild","desc":"","repo":"https://github.com/esbuild/deno-esbuild","reg":"x","vers":"v0.15.3"}
+{"name":"esbuild","desc":"","repo":"https://github.com/esbuild/deno-esbuild","reg":"x","vers":"v0.15.4"}
+{"name":"esbuild","desc":"","repo":"https://github.com/esbuild/deno-esbuild","reg":"x","vers":"v0.15.5"}

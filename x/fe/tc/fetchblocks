@@ -8,3 +8,4 @@
 {"name":"fetchblocks","desc":"Experimental - library cross compiled to node/web/deno","repo":"https://github.com/bgrins/fetchblocks","reg":"x","vers":"0.1.8"}
 {"name":"fetchblocks","desc":"Experimental - library cross compiled to node/web/deno","repo":"https://github.com/bgrins/fetchblocks","reg":"x","vers":"0.1.9"}
 {"name":"fetchblocks","desc":"Experimental - library cross compiled to node/web/deno","repo":"https://github.com/bgrins/fetchblocks","reg":"x","vers":"0.1.10"}
+{"name":"fetchblocks","desc":"Experimental - library cross compiled to node/web/deno","repo":"https://github.com/bgrins/fetchblocks","reg":"x","vers":"0.1.11"}
