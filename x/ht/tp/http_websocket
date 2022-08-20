@@ -1,1 +1,2 @@
 {"name":"http_websocket","desc":"HTTP request for websocket with standard Request and Response","repo":"https://github.com/httpland/http-websocket","reg":"x","vers":"1.0.0-beta.4"}
+{"name":"http_websocket","desc":"HTTP request for websocket with standard Request and Response","repo":"https://github.com/httpland/http-websocket","reg":"x","vers":"1.0.0-beta.5"}

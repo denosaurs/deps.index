@@ -62,3 +62,5 @@
 {"name":"helmet","desc":"Type-safe Helm - the right way to do Infrastructure as Code in Kubernetes ","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.14.0"}
 {"name":"helmet","desc":"Type-safe Helm - the right way to do Infrastructure as Code in Kubernetes ","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.15.0"}
 {"name":"helmet","desc":"Type-safe Helm - the right way to do Infrastructure as Code in Kubernetes ","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.15.1"}
+{"name":"helmet","desc":"Type-safe Helm - the right way to do Infrastructure as Code in Kubernetes ","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.16.0"}
+{"name":"helmet","desc":"Type-safe Helm - the right way to do Infrastructure as Code in Kubernetes ","repo":"https://github.com/shopstic/helmet","reg":"x","vers":"1.16.1"}
