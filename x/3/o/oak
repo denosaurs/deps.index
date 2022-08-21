@@ -63,3 +63,4 @@
 {"name":"oak","desc":"A middleware framework for handling HTTP with Deno 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v10.4.0"}
 {"name":"oak","desc":"A middleware framework for handling HTTP with Deno 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v10.5.1"}
 {"name":"oak","desc":"A middleware framework for handling HTTP with Deno 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v10.6.0"}
+{"name":"oak","desc":"A middleware framework for handling HTTP with Deno 🐿️ 🦕","repo":"https://github.com/oakserver/oak","reg":"x","vers":"v11.0.0"}

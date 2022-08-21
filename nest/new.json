@@ -1,1 +1,1 @@
-[{"name":"utilitiesmonorepo","desc":"A Deno Module with Multiple utility tools","repo":"https://github.com/mskian/deno-utilities-monorepo","reg":"nest","vers":["0.0.1"]}]
+[{"name":"beno","desc":"Do you want to manage the settings of your apps? Make it easy with the help of Beno","repo":"https://github.com/dpmland/beno","reg":"nest","vers":["1.0.0"]},{"name":"cheerio","desc":"Cheerio - Porting Cheerio Node Module To Deno","repo":"https://github.com/mskian/deno-cheerio-js","reg":"nest","vers":["0.0.1"]}]
