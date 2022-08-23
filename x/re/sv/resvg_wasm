@@ -1,1 +1,2 @@
 {"name":"resvg_wasm","desc":"Minimal resvg WASM bindings for Deno","repo":"https://github.com/kitsonk/resvg-wasm","reg":"x","vers":"0.1.0"}
+{"name":"resvg_wasm","desc":"Minimal resvg WASM bindings for Deno","repo":"https://github.com/kitsonk/resvg-wasm","reg":"x","vers":"0.2.0"}
