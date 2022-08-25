@@ -10,3 +10,6 @@
 {"name":"manual_tag_bumper","desc":"A CLI tool to easily bump tags in your git repository.","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.0.1"}
 {"name":"manual_tag_bumper","desc":"A CLI tool to easily bump tags in your git repository.","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.0.2"}
 {"name":"manual_tag_bumper","desc":"A CLI tool to easily bump tags in your git repository.","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.1.0"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.5.0"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.6.0"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.6.1"}

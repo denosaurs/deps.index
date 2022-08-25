@@ -1,3 +1,4 @@
 {"name":"basic_auth","desc":"Module for performing Basic Auth in Deno Deploy","repo":"https://github.com/kt3k/basic_auth","reg":"x","vers":"v1.0.0"}
 {"name":"basic_auth","desc":"Module for performing Basic Auth in Deno Deploy","repo":"https://github.com/kt3k/basic_auth","reg":"x","vers":"v1.0.1"}
 {"name":"basic_auth","desc":"Module for performing Basic Auth in Deno Deploy","repo":"https://github.com/kt3k/basic_auth","reg":"x","vers":"v1.0.2"}
+{"name":"basic_auth","desc":"Module for performing Basic Auth in Deno Deploy","repo":"https://github.com/kt3k/basic_auth","reg":"x","vers":"v1.1.0"}

@@ -33,3 +33,4 @@
 {"name":"deno_doc","desc":"Documentation generator for Deno","repo":"https://github.com/denoland/deno_doc","reg":"x","vers":"0.40.0"}
 {"name":"deno_doc","desc":"Documentation generator for Deno","repo":"https://github.com/denoland/deno_doc","reg":"x","vers":"0.41.0"}
 {"name":"deno_doc","desc":"Documentation generator for Deno","repo":"https://github.com/denoland/deno_doc","reg":"x","vers":"0.42.0"}
+{"name":"deno_doc","desc":"Documentation generator for Deno","repo":"https://github.com/denoland/deno_doc","reg":"x","vers":"0.43.0"}
