@@ -4,3 +4,4 @@
 {"name":"puppeteer","desc":"A port of puppeteer running on Deno","repo":"https://github.com/lucacasonato/deno-puppeteer","reg":"x","vers":"9.0.1"}
 {"name":"puppeteer","desc":"A port of puppeteer running on Deno","repo":"https://github.com/lucacasonato/deno-puppeteer","reg":"x","vers":"9.0.2"}
 {"name":"puppeteer","desc":"A port of puppeteer running on Deno","repo":"https://github.com/lucacasonato/deno-puppeteer","reg":"x","vers":"14.1.1"}
+{"name":"puppeteer","desc":"A port of puppeteer running on Deno","repo":"https://github.com/lucacasonato/deno-puppeteer","reg":"x","vers":"16.2.0"}

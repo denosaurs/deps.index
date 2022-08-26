@@ -1,1 +1,2 @@
 {"name":"copb","desc":"","repo":"https://github.com/jajaperson/copb","reg":"x","vers":"v1.0.0"}
+{"name":"copb","desc":"A functional composition framework built for TypesScript that provides type safety without the need for the usual countless overloads, thanks to some functional type trickery.","repo":"https://github.com/jajaperson/copb","reg":"x","vers":"v1.0.1"}
