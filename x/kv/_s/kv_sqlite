@@ -1,0 +1,4 @@
+{"name":"kv_sqlite","desc":"Key-Value storage backed by SQLite","repo":"https://github.com/jsejcksn/deno-kv-sqlite","reg":"x","vers":"v0.1.0"}
+{"name":"kv_sqlite","desc":"Key-Value storage backed by SQLite","repo":"https://github.com/jsejcksn/deno-kv-sqlite","reg":"x","vers":"v0.1.1"}
+{"name":"kv_sqlite","desc":"Key-Value storage backed by SQLite","repo":"https://github.com/jsejcksn/deno-kv-sqlite","reg":"x","vers":"v0.1.2"}
+{"name":"kv_sqlite","desc":"Key-Value storage backed by SQLite","repo":"https://github.com/jsejcksn/deno-kv-sqlite","reg":"x","vers":"v0.1.3"}
