@@ -3,3 +3,4 @@
 {"name":"deno_gi","desc":"Port of Gnome libraries (like Gtk) for Deno using gobject-introspection.","repo":"https://github.com/ahgilak/deno_gi","reg":"x","vers":"v0.2.1"}
 {"name":"deno_gi","desc":"Deno port of Gnome libraries (such as Gtk).","repo":"https://github.com/ahgilak/deno_gi","reg":"x","vers":"v0.2.2"}
 {"name":"deno_gi","desc":"Deno port of Gnome libraries (such as Gtk).","repo":"https://github.com/ahgilak/deno_gi","reg":"x","vers":"v0.3.0"}
+{"name":"deno_gi","desc":"Deno port of Gnome libraries (such as Gtk).","repo":"https://github.com/ahgilak/deno_gi","reg":"x","vers":"v0.4.0"}

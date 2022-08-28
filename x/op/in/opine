@@ -88,3 +88,6 @@
 {"name":"opine","desc":"Fast, minimalist web framework for Deno ported from ExpressJS.","repo":"https://github.com/cmorten/opine","reg":"x","vers":"2.1.5"}
 {"name":"opine","desc":"Fast, minimalist web framework for Deno ported from ExpressJS.","repo":"https://github.com/cmorten/opine","reg":"x","vers":"2.2.0"}
 {"name":"opine","desc":"Fast, minimalist web framework for Deno ported from ExpressJS.","repo":"https://github.com/cmorten/opine","reg":"x","vers":"2.3.0"}
+{"name":"opine","desc":"Minimalist web framework for Deno ported from ExpressJS.","repo":"https://github.com/cmorten/opine","reg":"x","vers":"2.3.1"}
+{"name":"opine","desc":"Minimalist web framework for Deno ported from ExpressJS.","repo":"https://github.com/cmorten/opine","reg":"x","vers":"2.3.2"}
+{"name":"opine","desc":"Minimalist web framework for Deno ported from ExpressJS.","repo":"https://github.com/cmorten/opine","reg":"x","vers":"2.3.3"}
