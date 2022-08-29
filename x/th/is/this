@@ -1,0 +1,1 @@
+{"name":"this","desc":"Inject variables/functions into the global scope of the Deno runtime.","repo":"https://github.com/deno911/this","reg":"x","vers":"0.153.0"}

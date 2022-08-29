@@ -1,1 +1,1 @@
-[]
+[{"name":"this","desc":"Extends the Deno global scope by injecting functions and variables into globalThis.","repo":"https://github.com/deno911/this","reg":"nest","vers":["0.153.0"]}]

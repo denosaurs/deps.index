@@ -1,2 +1,3 @@
 {"name":"oak_rate_limit","desc":"Rate-limiting middleware for Oak server on Deno","repo":"https://github.com/AdityaTD/oak-rate-limit","reg":"x","vers":"0.1.0-rc"}
 {"name":"oak_rate_limit","desc":"Rate-limiting middleware for Oak server on Deno","repo":"https://github.com/AdityaTD/oak-rate-limit","reg":"x","vers":"0.1.0-rc2"}
+{"name":"oak_rate_limit","desc":"Rate-limiting middleware for Oak server on Deno","repo":"https://github.com/AdityaTD/oak-rate-limit","reg":"x","vers":"v0.1.1"}
