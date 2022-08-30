@@ -17,3 +17,7 @@
 {"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.8.0"}
 {"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.9.0"}
 {"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"1.9.1"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"2.0.0"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"2.1.0-beta.1"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"2.1.0"}
+{"name":"manual_tag_bumper","desc":"Easily bump tags in your Git repository using the bump command","repo":"https://github.com/MiguelRipoll23/manual_tag_bumper","reg":"x","vers":"2.1.1"}

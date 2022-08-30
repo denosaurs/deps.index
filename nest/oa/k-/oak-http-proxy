@@ -7,3 +7,4 @@
 {"name":"oak-http-proxy","desc":"Proxy middleware for Deno Oak HTTP servers.","repo":"https://github.com/asos-craigmorten/oak-http-proxy","reg":"nest","vers":"1.4.1"}
 {"name":"oak-http-proxy","desc":"Proxy middleware for Deno Oak HTTP servers.","repo":"https://github.com/asos-craigmorten/oak-http-proxy","reg":"nest","vers":"2.0.0"}
 {"name":"oak-http-proxy","desc":"Proxy middleware for Deno Oak HTTP servers.","repo":"https://github.com/cmorten/oak-http-proxy","reg":"nest","vers":"2.0.1"}
+{"name":"oak-http-proxy","desc":"Proxy middleware for Deno Oak HTTP servers.","repo":"https://github.com/cmorten/oak-http-proxy","reg":"nest","vers":"2.1.0"}
