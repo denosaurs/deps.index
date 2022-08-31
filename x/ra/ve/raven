@@ -1,1 +1,2 @@
 {"name":"raven","desc":"","repo":"https://github.com/jhechtf/design-tokens","reg":"x","vers":"v0.1.0"}
+{"name":"raven","desc":"Design token generator written in Deno + TS","repo":"https://github.com/jhechtf/design-tokens","reg":"x","vers":"0.2.0"}

@@ -87,3 +87,5 @@
 {"name":"xpresser","desc":"Xpresser NodeJs Framework","repo":null,"reg":"x","vers":"v0.28.1"}
 {"name":"xpresser","desc":"Xpresser NodeJs Framework","repo":"https://github.com/xpresserjs/framework","reg":"x","vers":"v0.29.0"}
 {"name":"xpresser","desc":"Xpresser NodeJs Framework","repo":"https://github.com/xpresserjs/framework","reg":"x","vers":"v0.29.1"}
+{"name":"xpresser","desc":"Xpresser NodeJs Framework","repo":"https://github.com/xpresserjs/framework","reg":"x","vers":"v0.29.2"}
+{"name":"xpresser","desc":"Xpresser NodeJs Framework","repo":"https://github.com/xpresserjs/framework","reg":"x","vers":"v0.29.3"}
