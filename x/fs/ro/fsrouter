@@ -16,3 +16,6 @@
 {"name":"fsrouter","desc":"A file system based router for Deno.","repo":"https://github.com/justinawrey/fsrouter","reg":"x","vers":"2.8.0"}
 {"name":"fsrouter","desc":"A file system based router for Deno.","repo":"https://github.com/justinawrey/fsrouter","reg":"x","vers":"2.9.0"}
 {"name":"fsrouter","desc":"A file system based router for Deno.","repo":"https://github.com/justinawrey/fsrouter","reg":"x","vers":"2.9.1"}
+{"name":"fsrouter","desc":"A file system based router for Deno.","repo":"https://github.com/justinawrey/fsrouter","reg":"x","vers":"2.10.0"}
+{"name":"fsrouter","desc":"A file system based router for Deno.","repo":"https://github.com/justinawrey/fsrouter","reg":"x","vers":"2.10.1"}
+{"name":"fsrouter","desc":"A file system based router for Deno.","repo":"https://github.com/justinawrey/fsrouter","reg":"x","vers":"2.11.0"}

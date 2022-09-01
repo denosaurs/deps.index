@@ -3,3 +3,4 @@
 {"name":"openpgp","desc":"OpenPGP implementation for JavaScript","repo":"https://github.com/openpgpjs/openpgpjs","reg":"x","vers":"v5.3.0"}
 {"name":"openpgp","desc":"OpenPGP implementation for JavaScript","repo":"https://github.com/openpgpjs/openpgpjs","reg":"x","vers":"v5.3.1"}
 {"name":"openpgp","desc":"OpenPGP implementation for JavaScript","repo":"https://github.com/openpgpjs/openpgpjs","reg":"x","vers":"v5.4.0"}
+{"name":"openpgp","desc":"OpenPGP implementation for JavaScript","repo":"https://github.com/openpgpjs/openpgpjs","reg":"x","vers":"v5.5.0"}

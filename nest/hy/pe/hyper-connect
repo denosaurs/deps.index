@@ -38,3 +38,5 @@
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.2.2"}
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.3.0"}
 {"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.4.0"}
+{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.5.0"}
+{"name":"hyper-connect","desc":"hyper client to connect to hyper services","repo":"https://github.com/hyper63/hyper","reg":"nest","vers":"0.5.1"}

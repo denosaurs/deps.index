@@ -1,2 +1,3 @@
 {"name":"chdir_anywhere","desc":"Ensure your script runs from anywhere by changing the cwd to the folder of your script.","repo":"https://github.com/jespertheend/chdir-anywhere","reg":"x","vers":"v0.0.1"}
 {"name":"chdir_anywhere","desc":"Ensure your script runs from anywhere by changing the cwd to the folder of your script.","repo":"https://github.com/jespertheend/chdir-anywhere","reg":"x","vers":"v0.0.2"}
+{"name":"chdir_anywhere","desc":"Ensure your script runs from anywhere by changing the cwd to the folder of your script.","repo":"https://github.com/jespertheend/chdir-anywhere","reg":"x","vers":"v0.0.3"}
