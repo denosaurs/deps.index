@@ -1,2 +1,3 @@
 {"name":"type_of","desc":"A global method written in typescript to fix the javascript typeof operator. This code is written as a module for the deno runtime.","repo":"https://github.com/Codevendor/type_of","reg":"x","vers":"v1.0.0"}
 {"name":"type_of","desc":"A global method written in typescript to fix the javascript typeof operator. This code is written as a module for the deno runtime.","repo":"https://github.com/Codevendor/type_of","reg":"x","vers":"v2.0.0"}
+{"name":"type_of","desc":"An importable TypeScript method to fix the JavaScript typeof operator. This code is written as a module for the deno runtime.","repo":"https://github.com/Codevendor/type_of","reg":"x","vers":"v2.1.0"}
