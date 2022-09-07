@@ -21,3 +21,4 @@
 {"name":"earthstar","desc":"A specification and Javascript library for building online tools you can truly call your own.","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v9.3.1"}
 {"name":"earthstar","desc":"A specification and Javascript library for building online tools you can truly call your own.","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v9.3.2"}
 {"name":"earthstar","desc":"A specification and Javascript library for building online tools you can truly call your own.","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v9.3.3"}
+{"name":"earthstar","desc":"Earthstar is a tool for private, undiscoverable, offline-first networks. ","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v10.0.0-alpha.1"}
