@@ -7,3 +7,4 @@
 {"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"0.0.7-beta"}
 {"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.0"}
 {"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.1"}
+{"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.2"}

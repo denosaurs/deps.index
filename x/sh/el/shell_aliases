@@ -1,2 +1,3 @@
 {"name":"shell_aliases","desc":"Retrieve and parse zsh aliases from the environment or from a file","repo":"https://github.com/lttr/deno-shell-aliases","reg":"x","vers":"1.0.1"}
 {"name":"shell_aliases","desc":"Retrieve and parse zsh aliases from the environment or from a file","repo":"https://github.com/lttr/deno-shell-aliases","reg":"x","vers":"1.0.2"}
+{"name":"shell_aliases","desc":"Retrieve and parse zsh aliases from the environment or from a file","repo":"https://github.com/lttr/deno-shell-aliases","reg":"x","vers":"1.0.3"}
