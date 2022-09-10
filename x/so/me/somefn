@@ -26,3 +26,5 @@
 {"name":"somefn","desc":"some functions for deno","repo":"https://github.com/zsqk/deno-fn","reg":"x","vers":"v0.15.1"}
 {"name":"somefn","desc":"some functions for deno","repo":"https://github.com/zsqk/deno-fn","reg":"x","vers":"v0.16.0"}
 {"name":"somefn","desc":"some functions for deno","repo":"https://github.com/zsqk/deno-fn","reg":"x","vers":"v0.16.1"}
+{"name":"somefn","desc":"some functions for deno","repo":"https://github.com/zsqk/deno-fn","reg":"x","vers":"v0.17.0"}
+{"name":"somefn","desc":"some functions for deno","repo":"https://github.com/zsqk/deno-fn","reg":"x","vers":"v0.17.1"}
