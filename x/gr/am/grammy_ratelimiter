@@ -2,3 +2,4 @@
 {"name":"grammy_ratelimiter","desc":"🔌 A simple plugin for grammY and Telegraf frameworks to rate-limit users and avoid spamming requests to your Telegram bot.","repo":"https://github.com/grammyjs/rateLimiter","reg":"x","vers":"v1.1.3"}
 {"name":"grammy_ratelimiter","desc":"🔌 A simple plugin for grammY and Telegraf frameworks to rate-limit users and avoid spamming requests to your Telegram bot.","repo":"https://github.com/grammyjs/rateLimiter","reg":"x","vers":"v1.1.4"}
 {"name":"grammy_ratelimiter","desc":"🔌 A simple plugin for grammY and Telegraf frameworks to rate-limit users and avoid spamming requests to your Telegram bot.","repo":"https://github.com/grammyjs/rateLimiter","reg":"x","vers":"v1.1.5"}
+{"name":"grammy_ratelimiter","desc":"Protect grammY bots by limiting users","repo":"https://github.com/grammyjs/ratelimiter","reg":"x","vers":"v1.1.6"}

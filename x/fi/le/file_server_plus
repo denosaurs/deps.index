@@ -1,0 +1,2 @@
+{"name":"file_server_plus","desc":"`deno` static file webserver clone of `file_server.ts`, PLUS optional command line arg: `--handler FILE.ts` for \"404 handler\" ability to run arbitrary JS/TS","repo":"https://github.com/internetarchive/file_server_plus","reg":"x","vers":"0.2.0"}
+{"name":"file_server_plus","desc":"`deno` static file webserver clone of `file_server.ts`, PLUS optional command line arg: `--handler FILE.ts` for \"404 handler\" ability to run arbitrary JS/TS","repo":"https://github.com/internetarchive/file_server_plus","reg":"x","vers":"0.155.0"}
