@@ -4,3 +4,4 @@
 {"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":null,"reg":"nest","vers":"2.1.0"}
 {"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":null,"reg":"nest","vers":"2.2.0"}
 {"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":"https://github.com/duart38/Thread","reg":"nest","vers":"2.3.1"}
+{"name":"Thread","desc":"Type-safe multi-threading made 'easier'","repo":"https://github.com/duart38/Thread","reg":"nest","vers":"4.0.0"}

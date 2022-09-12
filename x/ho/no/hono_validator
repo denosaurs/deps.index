@@ -1,3 +1,4 @@
 {"name":"hono_validator","desc":"Validator Middleware for Hono","repo":"https://github.com/honojs/validator","reg":"x","vers":"v0.0.5"}
 {"name":"hono_validator","desc":"Validator Middleware for Hono","repo":"https://github.com/honojs/validator","reg":"x","vers":"v0.1.0"}
 {"name":"hono_validator","desc":"Validator Middleware for Hono","repo":"https://github.com/honojs/validator","reg":"x","vers":"v0.1.1"}
+{"name":"hono_validator","desc":"Validator Middleware for Hono","repo":"https://github.com/honojs/validator","reg":"x","vers":"v0.1.2"}
