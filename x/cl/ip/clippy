@@ -1,2 +1,3 @@
 {"name":"clippy","desc":"","repo":"https://github.com/skanehira/deno-clippy","reg":"x","vers":"v0.0.1"}
 {"name":"clippy","desc":"","repo":"https://github.com/skanehira/deno-clippy","reg":"x","vers":"v0.1.0"}
+{"name":"clippy","desc":"cross-platform Deno library for writing and reading clipboard.","repo":"https://github.com/skanehira/deno-clippy","reg":"x","vers":"v0.2.0"}
