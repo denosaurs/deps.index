@@ -38,3 +38,5 @@
 {"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.32-alpha"}
 {"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.33-alpha"}
 {"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.34-alpha"}
+{"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.35-alpha"}
+{"name":"deno_dom","desc":"Browser DOM & HTML parser in Deno","repo":"https://github.com/b-fuze/deno-dom","reg":"x","vers":"v0.1.35-alpha-artifacts"}

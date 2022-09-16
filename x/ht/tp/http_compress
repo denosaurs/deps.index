@@ -1,0 +1,3 @@
+{"name":"http_compress","desc":"Compress HTTP response, supported Web standard compression methods","repo":"https://github.com/httpland/http-compress","reg":"x","vers":"1.0.0-beta.1"}
+{"name":"http_compress","desc":"Compress HTTP response, supported Web standard compression methods","repo":"https://github.com/httpland/http-compress","reg":"x","vers":"1.0.0-beta.2"}
+{"name":"http_compress","desc":"Compress HTTP response, supported Web standard compression methods","repo":"https://github.com/httpland/http-compress","reg":"x","vers":"1.0.0-beta.3"}
