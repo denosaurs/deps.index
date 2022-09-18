@@ -33,3 +33,4 @@
 {"name":"polkadot","desc":"Package publishing for deno.land/x/polkadot","repo":"https://github.com/polkadot-js/build-deno.land","reg":"x","vers":"0.2.4"}
 {"name":"polkadot","desc":"Package publishing for deno.land/x/polkadot","repo":"https://github.com/polkadot-js/build-deno.land","reg":"x","vers":"0.2.5"}
 {"name":"polkadot","desc":"Package publishing for deno.land/x/polkadot","repo":"https://github.com/polkadot-js/build-deno.land","reg":"x","vers":"0.2.6"}
+{"name":"polkadot","desc":"Package publishing for deno.land/x/polkadot","repo":"https://github.com/polkadot-js/build-deno.land","reg":"x","vers":"0.2.7"}
