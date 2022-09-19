@@ -1,2 +1,3 @@
 {"name":"103_early_hints","desc":"A library that uses Deno's flash server (experimental) to serve 103 Early Hints.","repo":"https://github.com/ayame113/early-hints","reg":"x","vers":"v0.0.1"}
 {"name":"103_early_hints","desc":"A library that uses Deno's flash server (experimental) to serve 103 Early Hints.","repo":"https://github.com/ayame113/early-hints","reg":"x","vers":"v0.1.0"}
+{"name":"103_early_hints","desc":"A library that uses Deno's flash server (experimental) to serve 103 Early Hints.","repo":"https://github.com/ayame113/early-hints","reg":"x","vers":"v0.1.1"}
