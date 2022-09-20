@@ -1,3 +1,4 @@
 {"name":"arubaos_switch","desc":"Interact with the ArubaOS-Switch REST API using any JavaScript runtime.","repo":"https://github.com/isyouaint/arubaos_switch_js","reg":"x","vers":"v0.0.1"}
 {"name":"arubaos_switch","desc":"Interact with the ArubaOS-Switch REST API using any JavaScript runtime.","repo":"https://github.com/iuioiua/arubaos_switch_js","reg":"x","vers":"v0.0.2"}
 {"name":"arubaos_switch","desc":"Interact with the ArubaOS-Switch REST API using any JavaScript runtime.","repo":"https://github.com/iuioiua/arubaos_switch_js","reg":"x","vers":"v0.0.3"}
+{"name":"arubaos_switch","desc":"ArubaOS-Switch REST API client for Deno.","repo":"https://github.com/iuioiua/arubaos_switch_js","reg":"x","vers":"v1.0.0"}
