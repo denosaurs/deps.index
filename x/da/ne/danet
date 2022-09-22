@@ -19,3 +19,4 @@
 {"name":"danet","desc":"A savory web framework for Deno heavily inspired by Nest","repo":"https://github.com/Savory/Danet","reg":"x","vers":"v0.6.4"}
 {"name":"danet","desc":"A savory web framework for Deno heavily inspired by Nest","repo":"https://github.com/Savory/Danet","reg":"x","vers":"v0.7.0"}
 {"name":"danet","desc":"A savory web framework for Deno heavily inspired by Nest","repo":"https://github.com/Savory/Danet","reg":"x","vers":"v0.7.1"}
+{"name":"danet","desc":"A Savory web framework for Deno heavily inspired by Nest","repo":"https://github.com/Savory/Danet","reg":"x","vers":"v0.7.2"}

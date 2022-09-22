@@ -2,3 +2,4 @@
 {"name":"lucid_partialtx","desc":"Effortless BPI + Lucid production PAB that reuses Haskell Contracts","repo":"https://github.com/mlabs-haskell/plutus-partial-tx","reg":"x","vers":"v0.1.1"}
 {"name":"lucid_partialtx","desc":"Effortless BPI + Lucid production PAB that reuses Haskell Contracts","repo":"https://github.com/mlabs-haskell/plutus-partial-tx","reg":"x","vers":"0.1.2"}
 {"name":"lucid_partialtx","desc":"Effortless BPI + Lucid production PAB that reuses Haskell Contracts","repo":"https://github.com/mlabs-haskell/plutus-partial-tx","reg":"x","vers":"0.1.3"}
+{"name":"lucid_partialtx","desc":"Effortless BPI + Lucid production PAB that reuses Haskell Contracts","repo":"https://github.com/mlabs-haskell/plutus-partial-tx","reg":"x","vers":"0.2.0"}
