@@ -2,3 +2,5 @@
 {"name":"trellis","desc":"Write Dockerfiles, Jenkinsfiles, and more, in TypeScript.","repo":"https://github.com/charliermarsh/trellis","reg":"x","vers":"v0.0.3"}
 {"name":"trellis","desc":"Write Dockerfiles, Jenkinsfiles, and more, in TypeScript.","repo":"https://github.com/charliermarsh/trellis","reg":"x","vers":"v0.0.4"}
 {"name":"trellis","desc":"Write Dockerfiles, Jenkinsfiles, and more, in TypeScript.","repo":"https://github.com/charliermarsh/trellis","reg":"x","vers":"v0.0.5"}
+{"name":"trellis","desc":"Write Dockerfiles and CI pipelines in TypeScript.","repo":"https://github.com/charliermarsh/trellis","reg":"x","vers":"v0.0.6"}
+{"name":"trellis","desc":"Write Dockerfiles and CI pipelines in TypeScript.","repo":"https://github.com/charliermarsh/trellis","reg":"x","vers":"v0.0.7"}

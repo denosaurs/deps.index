@@ -8,3 +8,4 @@
 {"name":"b64","desc":"Base64 and base64url to string or arraybuffer, and back. Works in Node, Deno or browser.","repo":"https://github.com/Hexagon/base64","reg":"x","vers":"1.1.22"}
 {"name":"b64","desc":"Base64 and base64url to string or arraybuffer, and back. Works in Node, Deno or browser.","repo":"https://github.com/Hexagon/base64","reg":"x","vers":"1.1.23"}
 {"name":"b64","desc":"Base64 and base64url to string or arraybuffer, and back. Works in Node, Deno or browser.","repo":"https://github.com/Hexagon/base64","reg":"x","vers":"1.1.24"}
+{"name":"b64","desc":"Base64 and base64url to string or arraybuffer, and back. Works in Node, Deno or browser.","repo":"https://github.com/Hexagon/base64","reg":"x","vers":"1.1.25"}
