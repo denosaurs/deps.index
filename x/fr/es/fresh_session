@@ -6,3 +6,4 @@
 {"name":"fresh_session","desc":"Session middleware for Deno Fresh","repo":"https://github.com/xstevenyung/fresh-session","reg":"x","vers":"0.1.5"}
 {"name":"fresh_session","desc":"Session middleware for Deno Fresh","repo":"https://github.com/xstevenyung/fresh-session","reg":"x","vers":"0.1.6"}
 {"name":"fresh_session","desc":"Session middleware for Deno Fresh","repo":"https://github.com/xstevenyung/fresh-session","reg":"x","vers":"0.1.7"}
+{"name":"fresh_session","desc":"Dead simple cookie-based session for Deno Fresh.","repo":"https://github.com/xstevenyung/fresh-session","reg":"x","vers":"0.1.8"}
