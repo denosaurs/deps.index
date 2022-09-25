@@ -1,0 +1,1 @@
+{"name":"option_utils","desc":"non-intrusive and zero-cost way to handle null safety in TypeScript just like in Rust","repo":"https://github.com/Berylsoft/ts-option-utils","reg":"x","vers":"0.1.0"}
