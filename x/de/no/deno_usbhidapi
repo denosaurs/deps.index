@@ -1,0 +1,3 @@
+{"name":"deno_usbhidapi","desc":"🦕 Deno FFI bindings for the HIDAPI library to access USB devices.","repo":"https://github.com/dbushell/deno_usbhidapi","reg":"x","vers":"v0.1.0"}
+{"name":"deno_usbhidapi","desc":"🦕 Deno FFI bindings for the HIDAPI library to access USB devices.","repo":"https://github.com/dbushell/deno_usbhidapi","reg":"x","vers":"v0.2.0"}
+{"name":"deno_usbhidapi","desc":"🦕 Deno FFI bindings for the HIDAPI library to access USB devices.","repo":"https://github.com/dbushell/deno_usbhidapi","reg":"x","vers":"v0.2.1"}
