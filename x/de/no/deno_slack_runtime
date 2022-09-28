@@ -11,3 +11,4 @@
 {"name":"deno_slack_runtime","desc":"Helper library for running a Run on Slack Deno function","repo":"https://github.com/slackapi/deno-slack-runtime","reg":"x","vers":"0.1.1"}
 {"name":"deno_slack_runtime","desc":"Helper library for running a Run on Slack Deno function","repo":"https://github.com/slackapi/deno-slack-runtime","reg":"x","vers":"0.1.2"}
 {"name":"deno_slack_runtime","desc":"Helper library for running a Run on Slack Deno function","repo":"https://github.com/slackapi/deno-slack-runtime","reg":"x","vers":"0.2.0"}
+{"name":"deno_slack_runtime","desc":"Helper library for running a Run on Slack Deno function","repo":"https://github.com/slackapi/deno-slack-runtime","reg":"x","vers":"0.2.1"}
