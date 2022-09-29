@@ -1,2 +1,3 @@
 {"name":"githooks","desc":"Allows you to associate deno tasks with githooks by extending the native deno.json configuration file","repo":"https://github.com/deco-cx/deno-githooks","reg":"x","vers":"0.0.1"}
 {"name":"githooks","desc":"Allows you to associate deno tasks with githooks by extending the native deno.json configuration file","repo":"https://github.com/deco-cx/deno-githooks","reg":"x","vers":"0.0.2"}
+{"name":"githooks","desc":"Allows you to associate deno tasks with githooks by extending the native deno.json configuration file","repo":"https://github.com/deco-cx/deno-githooks","reg":"x","vers":"0.0.3"}

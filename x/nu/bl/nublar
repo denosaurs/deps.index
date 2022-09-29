@@ -1,2 +1,3 @@
 {"name":"nublar","desc":"A CLI tool to manage your scripts installed via deno install","repo":"https://github.com/hasundue/nublar","reg":"x","vers":"0.1.0"}
 {"name":"nublar","desc":"A CLI tool to manage your scripts installed via deno install","repo":"https://github.com/hasundue/nublar","reg":"x","vers":"0.1.1"}
+{"name":"nublar","desc":"A command-line tool to manage Deno scripts installed via deno install","repo":"https://github.com/hasundue/nublar","reg":"x","vers":"0.1.2"}

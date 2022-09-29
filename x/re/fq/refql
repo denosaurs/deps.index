@@ -1,2 +1,3 @@
 {"name":"refql","desc":"A Node.js library for retrieving data from a PostgreSQL database with an interesting query language included.","repo":"https://github.com/tureluren/refql","reg":"x","vers":"v1.0.7"}
 {"name":"refql","desc":"A Node.js library for retrieving data from a PostgreSQL database with an interesting query language included.","repo":"https://github.com/tureluren/refql","reg":"x","vers":"v1.0.8"}
+{"name":"refql","desc":"A Node.js and Deno library for composing and running SQL queries.","repo":"https://github.com/tureluren/refql","reg":"x","vers":"v2.0.0"}
