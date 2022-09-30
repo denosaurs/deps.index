@@ -16,3 +16,4 @@
 {"name":"wasmbuild","desc":"Build tool to use Rust code in Deno and the browser.","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.8.4"}
 {"name":"wasmbuild","desc":"Build tool to use Rust code in Deno and the browser.","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.8.5"}
 {"name":"wasmbuild","desc":"Build tool to use Rust code in Deno and the browser.","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.9.0"}
+{"name":"wasmbuild","desc":"Build tool to use Rust code in Deno and the browser.","repo":"https://github.com/denoland/wasmbuild","reg":"x","vers":"0.10.0"}

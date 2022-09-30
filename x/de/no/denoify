@@ -69,3 +69,4 @@
 {"name":"denoify","desc":"🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.","repo":"https://github.com/garronej/denoify","reg":"x","vers":"v1.1.3"}
 {"name":"denoify","desc":"🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.","repo":"https://github.com/garronej/denoify","reg":"x","vers":"v1.1.4"}
 {"name":"denoify","desc":"🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.","repo":"https://github.com/garronej/denoify","reg":"x","vers":"v1.2.0-beta.0"}
+{"name":"denoify","desc":"🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.","repo":"https://github.com/garronej/denoify","reg":"x","vers":"v1.1.5"}
