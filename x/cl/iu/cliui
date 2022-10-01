@@ -9,3 +9,7 @@
 {"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v7.0.3"}
 {"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v7.0.4-deno"}
 {"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v7.0.4"}
+{"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v8.0.0-deno"}
+{"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v8.0.0"}
+{"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v8.0.1-deno"}
+{"name":"cliui","desc":"easily create complex multi-column command-line-interfaces.","repo":"https://github.com/yargs/cliui","reg":"x","vers":"v8.0.1"}
