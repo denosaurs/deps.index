@@ -8,3 +8,5 @@
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.1.4"}
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.1.5"}
 {"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.1.6"}
+{"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.2.0"}
+{"name":"rambda","desc":"Lightweight and faster alternative to Ramda with included TS definitions","repo":"https://github.com/selfrefactor/rambda","reg":"nest","vers":"7.3.0"}
