@@ -1,1 +1,2 @@
 {"name":"ip2location","desc":"Deno module for IP2Location to lookup the geolocation information","repo":"https://github.com/ip2location/ip2location-deno","reg":"x","vers":"8.0.2"}
+{"name":"ip2location","desc":"Deno module for IP2Location to lookup the geolocation information","repo":"https://github.com/ip2location/ip2location-deno","reg":"x","vers":"8.0.3"}
