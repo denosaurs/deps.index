@@ -1,0 +1,1 @@
+{"name":"ip2proxy","desc":"IP2Proxy Deno module allows users to query an IP address to determine if it was being used as open proxy, web proxy, VPN anonymizer and TOR exits.","repo":"https://github.com/ip2location/ip2proxy-deno","reg":"x","vers":"3.0.1"}
