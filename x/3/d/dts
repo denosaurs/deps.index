@@ -1,0 +1,2 @@
+{"name":"dts","desc":"Deno module to generate a TypeScript types module file from JSON data (or a parsed JSON string).","repo":"https://github.com/stackql/generate-types","reg":"x","vers":"v1.0.0"}
+{"name":"dts","desc":"Deno module to generate a TypeScript types module file from JSON data (or a parsed JSON string).","repo":"https://github.com/stackql/generate-types","reg":"x","vers":"v1.0.1"}

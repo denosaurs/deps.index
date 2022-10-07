@@ -5,3 +5,4 @@
 {"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"1.0.1"}
 {"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"2.0.0"}
 {"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"2.0.1"}
+{"name":"hyper-adapter-sqlite","desc":"Hyper Cache port adapter for sqlite","repo":"https://github.com/hyper63/hyper-adapter-sqlite","reg":"nest","vers":"2.0.2"}
