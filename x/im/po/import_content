@@ -1,3 +1,4 @@
 {"name":"import_content","desc":"Import arbitrary file content in Deno using module resolution algorithms","repo":"https://github.com/jollytoad/deno_import_content","reg":"x","vers":"0.0.1"}
 {"name":"import_content","desc":"Import arbitrary file content in Deno using module resolution algorithms","repo":"https://github.com/jollytoad/deno_import_content","reg":"x","vers":"0.0.2"}
 {"name":"import_content","desc":"Import arbitrary file content in Deno using module resolution algorithms","repo":"https://github.com/jollytoad/deno_import_content","reg":"x","vers":"0.0.3"}
+{"name":"import_content","desc":"Import arbitrary file content in Deno using module resolution algorithms","repo":"https://github.com/jollytoad/deno_import_content","reg":"x","vers":"0.0.4"}
