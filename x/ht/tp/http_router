@@ -18,3 +18,7 @@
 {"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"2.0.0"}
 {"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"1.0.0-beta.6"}
 {"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"2.1.0-beta.1"}
+{"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"2.1.0-beta.2"}
+{"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"2.1.0-beta.3"}
+{"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"2.1.0"}
+{"name":"http_router","desc":"HTTP request router for standard Request and Response","repo":"https://github.com/httpland/http-router","reg":"x","vers":"3.0.0-beta.1"}

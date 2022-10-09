@@ -1,0 +1,1 @@
+{"name":"denobridge","desc":"Build bridge between Emacs and Deno, execution of JavaScript and Typescript within Emacs, this repo is TypeScript part for deno-bridge","repo":"https://github.com/manateelazycat/deno-bridge-ts","reg":"x","vers":"0.0.1"}
