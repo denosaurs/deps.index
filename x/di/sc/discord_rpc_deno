@@ -13,3 +13,5 @@
 {"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.5"}
 {"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.6"}
 {"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.7"}
+{"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.8"}
+{"name":"discord_rpc_deno","desc":"port of @xhayper/discord-rpc to deno","repo":"https://github.com/xhayper/discord-rpc-deno","reg":"x","vers":"1.0.9"}
