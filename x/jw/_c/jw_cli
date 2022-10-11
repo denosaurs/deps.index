@@ -27,3 +27,5 @@
 {"name":"jw_cli","desc":"some deno cli","repo":"https://github.com/jiawei397/deno_cli","reg":"x","vers":"v0.2.7"}
 {"name":"jw_cli","desc":"some deno cli","repo":"https://github.com/jiawei397/deno_cli","reg":"x","vers":"v0.3.0"}
 {"name":"jw_cli","desc":"some deno cli","repo":"https://github.com/jiawei397/deno_cli","reg":"x","vers":"v0.3.1"}
+{"name":"jw_cli","desc":"some deno cli","repo":"https://github.com/jiawei397/deno_cli","reg":"x","vers":"v0.4.0"}
+{"name":"jw_cli","desc":"some deno cli","repo":"https://github.com/jiawei397/deno_cli","reg":"x","vers":"v0.5.0"}
