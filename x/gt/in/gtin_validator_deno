@@ -1,0 +1,2 @@
+{"name":"gtin_validator_deno","desc":"gtin_validator_deno is a port of NodeJS package gtin-validator. This deno module allows you to validate and work with GTIN, UPC, and other product code formats.","repo":"https://github.com/GunCompare/gtin_validator_deno","reg":"x","vers":"0.0.2"}
+{"name":"gtin_validator_deno","desc":"gtin_validator_deno is a port of NodeJS package gtin-validator. This deno module allows you to validate and work with GTIN, UPC, and other product code formats.","repo":"https://github.com/GunCompare/gtin_validator_deno","reg":"x","vers":"1.0.0"}
