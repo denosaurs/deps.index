@@ -1,0 +1,1 @@
+{"name":"berith","desc":"WebAssembly port of Dalek's Ed25519, a Rust implementation of Ed25519 signatures","repo":"https://github.com/hazae41/berith","reg":"x","vers":"1.1.18"}
