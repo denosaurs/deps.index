@@ -1,1 +1,2 @@
 {"name":"shark","desc":"","repo":"https://github.com/graphteon/shark","reg":"x","vers":"1.0.0"}
+{"name":"shark","desc":"Graphql proxy for multiple graphql server.","repo":"https://github.com/graphteon/shark","reg":"x","vers":"1.1.0"}

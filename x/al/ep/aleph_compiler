@@ -26,3 +26,5 @@
 {"name":"aleph_compiler","desc":"","repo":"https://github.com/alephjs/aleph-compiler","reg":"x","vers":"0.7.5"}
 {"name":"aleph_compiler","desc":"","repo":"https://github.com/alephjs/aleph-compiler","reg":"x","vers":"0.7.6"}
 {"name":"aleph_compiler","desc":"","repo":"https://github.com/alephjs/aleph-compiler","reg":"x","vers":"0.8.0"}
+{"name":"aleph_compiler","desc":"","repo":"https://github.com/alephjs/aleph-compiler","reg":"x","vers":"0.8.1"}
+{"name":"aleph_compiler","desc":"","repo":"https://github.com/alephjs/aleph-compiler","reg":"x","vers":"0.8.2"}

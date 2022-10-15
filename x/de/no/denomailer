@@ -18,3 +18,4 @@
 {"name":"denomailer","desc":"A SMTP-Client implementation for deno (to send mails!)","repo":"https://github.com/EC-Nordbund/denomailer","reg":"x","vers":"1.1.0"}
 {"name":"denomailer","desc":"A SMTP-Client implementation for deno (to send mails!)","repo":"https://github.com/EC-Nordbund/denomailer","reg":"x","vers":"1.2.0"}
 {"name":"denomailer","desc":"A SMTP-Client implementation for deno (to send mails!)","repo":"https://github.com/EC-Nordbund/denomailer","reg":"x","vers":"1.3.0"}
+{"name":"denomailer","desc":"A SMTP-Client implementation for deno (to send mails!)","repo":"https://github.com/EC-Nordbund/denomailer","reg":"x","vers":"1.4.0"}

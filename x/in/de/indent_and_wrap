@@ -8,3 +8,4 @@
 {"name":"indent_and_wrap","desc":"Finds and replaces common indent, and hard-wraps text. Can work on text that contains terminal escape sequences.","repo":"https://github.com/jeremiah-shaulov/indent_and_wrap","reg":"x","vers":"v0.0.8"}
 {"name":"indent_and_wrap","desc":"Finds and replaces common indent, and hard-wraps text. Can work on text that contains terminal escape sequences.","repo":"https://github.com/jeremiah-shaulov/indent_and_wrap","reg":"x","vers":"v0.0.9"}
 {"name":"indent_and_wrap","desc":"Finds and replaces common indent, and hard-wraps text. Can work on text that contains terminal escape sequences.","repo":"https://github.com/jeremiah-shaulov/indent_and_wrap","reg":"x","vers":"v0.0.10"}
+{"name":"indent_and_wrap","desc":"Finds and replaces common indent, hard-wraps text, and generates text tables. Can work on text that contains terminal escape sequences.","repo":"https://github.com/jeremiah-shaulov/indent_and_wrap","reg":"x","vers":"v0.0.11"}
