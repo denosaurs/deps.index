@@ -1,1 +1,2 @@
 {"name":"masx200_serialize_circular_reference","desc":"序列化和深拷贝循环引用对象 Serialize and deep copy circular reference objects","repo":"https://github.com/masx200/Serialize-and-deep-copy-circular-reference-objects","reg":"x","vers":"1.0.1"}
+{"name":"masx200_serialize_circular_reference","desc":"序列化和深拷贝循环引用对象 Serialize and deep copy circular reference objects","repo":"https://github.com/masx200/Serialize-and-deep-copy-circular-reference-objects","reg":"x","vers":"1.0.2"}
