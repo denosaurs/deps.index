@@ -1,0 +1,1 @@
+{"name":"crs_queue","desc":"Coalescing, rate-limited, serializable/deserializable task queue for Node and Deno","repo":"https://github.com/jaredkrinke/crs_queue","reg":"x","vers":"1.0.1"}
