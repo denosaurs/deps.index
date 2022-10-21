@@ -1,2 +1,3 @@
 {"name":"crs_queue","desc":"Coalescing, rate-limited, serializable/deserializable task queue for Node and Deno","repo":"https://github.com/jaredkrinke/crs_queue","reg":"x","vers":"1.0.1"}
 {"name":"crs_queue","desc":"Coalescing, rate-limited, serializable/deserializable task queue for Node and Deno","repo":"https://github.com/jaredkrinke/crs_queue","reg":"x","vers":"2.0.0"}
+{"name":"crs_queue","desc":"Coalescing, rate-limited, serializable/deserializable task queue for Node and Deno","repo":"https://github.com/jaredkrinke/crs_queue","reg":"x","vers":"3.0.0"}
