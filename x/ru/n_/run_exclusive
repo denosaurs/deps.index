@@ -20,3 +20,4 @@
 {"name":"run_exclusive","desc":"⚡🔒 Generate functions that do not allow parallel executions 🔒 ⚡","repo":"https://github.com/garronej/run_exclusive","reg":"x","vers":"2.2.14"}
 {"name":"run_exclusive","desc":"⚡🔒 Wait queue for function execution 🔒 ⚡","repo":"https://github.com/garronej/run_exclusive","reg":"x","vers":"v2.2.15"}
 {"name":"run_exclusive","desc":"⚡🔒 Wait queue for function execution 🔒 ⚡","repo":"https://github.com/garronej/run_exclusive","reg":"x","vers":"v2.2.16"}
+{"name":"run_exclusive","desc":"⚡🔒 Wait queue for function execution 🔒 ⚡","repo":"https://github.com/garronej/run_exclusive","reg":"x","vers":"v2.2.17"}
