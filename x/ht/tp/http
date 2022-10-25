@@ -12,3 +12,5 @@
 {"name":"http","desc":"🌐 Light-weight http server","repo":"https://github.com/littlemods/http-server","reg":"x","vers":"v0.1.4"}
 {"name":"http","desc":"🌐 Light-weight http server","repo":"https://github.com/littlemods/http-server","reg":"x","vers":"v0.2.0-beta"}
 {"name":"http","desc":"🌐 Light-weight http server","repo":"https://github.com/littlemods/http-server","reg":"x","vers":"v0.2.0"}
+{"name":"http","desc":"🌐 Light-weight http server","repo":"https://github.com/agorushkin/http-server","reg":"x","vers":"v0.1.0-alpha"}
+{"name":"http","desc":"🌐 Light-weight http server","repo":"https://github.com/agorushkin/http-server","reg":"x","vers":"v0.1.1-alpha"}

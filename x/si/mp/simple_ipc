@@ -1,1 +1,2 @@
 {"name":"simple_ipc","desc":"","repo":"https://github.com/dojyorin/deno_simple_ipc","reg":"x","vers":"v0.0.1"}
+{"name":"simple_ipc","desc":"A simple and lightweight IPC module for Deno.","repo":"https://github.com/dojyorin/deno_simple_ipc","reg":"x","vers":"v0.0.2"}
