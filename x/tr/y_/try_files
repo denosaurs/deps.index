@@ -1,1 +1,5 @@
 {"name":"try_files","desc":"A Deno server for efficiently serving static files and passing unknown URLs to your app.","repo":"https://github.com/joe-hx/try_files","reg":"x","vers":"0.1.0"}
+{"name":"try_files","desc":"A Deno server for efficiently serving static files and passing unknown URLs to your app.","repo":"https://github.com/joe-hx/try_files","reg":"x","vers":"0.1.1"}
+{"name":"try_files","desc":"A Deno server for efficiently serving static files and passing unknown URLs to your app.","repo":"https://github.com/joe-hx/try_files","reg":"x","vers":"0.2.0"}
+{"name":"try_files","desc":"A Deno server for efficiently serving static files and passing unknown URLs to your app.","repo":"https://github.com/joe-hx/try_files","reg":"x","vers":"0.2.1"}
+{"name":"try_files","desc":"A Deno server for efficiently serving static files and passing unknown URLs to your app.","repo":"https://github.com/joe-hx/try_files","reg":"x","vers":"0.2.2"}
