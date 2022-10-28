@@ -8,3 +8,4 @@
 {"name":"wren","desc":"A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity","repo":"https://github.com/zaiste/wren","reg":"x","vers":"0.5.0"}
 {"name":"wren","desc":"A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity","repo":"https://github.com/zaiste/wren","reg":"x","vers":"0.6.0"}
 {"name":"wren","desc":"A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity","repo":"https://github.com/zaiste/wren","reg":"x","vers":"0.7.0"}
+{"name":"wren","desc":"A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity","repo":"https://github.com/zaiste/wren","reg":"x","vers":"0.8.0"}

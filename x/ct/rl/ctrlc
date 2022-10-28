@@ -3,3 +3,4 @@
 {"name":"ctrlc","desc":"Cross platform handling of Ctrl-C signals.","repo":"https://github.com/justjavac/deno_ctrlc","reg":"x","vers":"v0.1.2"}
 {"name":"ctrlc","desc":"Cross platform handling of Ctrl-C signals.","repo":"https://github.com/justjavac/deno_ctrlc","reg":"x","vers":"0.2.0"}
 {"name":"ctrlc","desc":"Cross platform handling of Ctrl-C signals.","repo":"https://github.com/justjavac/deno_ctrlc","reg":"x","vers":"0.3.0"}
+{"name":"ctrlc","desc":"Cross platform handling of Ctrl-C signals.","repo":"https://github.com/justjavac/deno_ctrlc","reg":"x","vers":"0.2.1"}
