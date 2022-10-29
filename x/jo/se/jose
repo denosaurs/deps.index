@@ -59,3 +59,4 @@
 {"name":"jose","desc":"\"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.","repo":"https://github.com/panva/jose","reg":"x","vers":"v4.10.1"}
 {"name":"jose","desc":"\"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.","repo":"https://github.com/panva/jose","reg":"x","vers":"v4.10.2"}
 {"name":"jose","desc":"\"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.","repo":"https://github.com/panva/jose","reg":"x","vers":"v4.10.3"}
+{"name":"jose","desc":"\"JSON Web Almost Everything\" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.","repo":"https://github.com/panva/jose","reg":"x","vers":"v4.10.4"}

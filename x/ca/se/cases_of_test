@@ -1,0 +1,1 @@
+{"name":"cases_of_test","desc":"Run test locally with only/skip flag similar to jest/vitest but with the condition that it can detect there are tests flagged with only and it will fail on CI/CD environment, or fail on any condition defined by developer","repo":"https://github.com/Packer-Man/cases-of-test","reg":"x","vers":"v0.1.0"}

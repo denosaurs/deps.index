@@ -6,3 +6,4 @@
 {"name":"superserial","desc":"superserial provides serialization in any way you can imagine.","repo":"https://github.com/denostack/superserial","reg":"x","vers":"0.2.0"}
 {"name":"superserial","desc":"superserial provides serialization in any way you can imagine.","repo":"https://github.com/denostack/superserial","reg":"x","vers":"0.3.0"}
 {"name":"superserial","desc":"Serializer/Deserializer that supports everything you can imagine.","repo":"https://github.com/denostack/superserial","reg":"x","vers":"0.3.1"}
+{"name":"superserial","desc":"Serializer/Deserializer that supports everything you can imagine.","repo":"https://github.com/denostack/superserial","reg":"x","vers":"0.3.2"}
