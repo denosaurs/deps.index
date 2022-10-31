@@ -1,0 +1,1 @@
+{"name":"esbuild_env_parsing","desc":"parse environment variable for esbuild API, or just parse any environment variable into the data type you expect it to be","repo":"https://github.com/Packer-Man/esbuild-env-parsing","reg":"x","vers":"v1.0.3"}

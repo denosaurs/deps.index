@@ -12,3 +12,6 @@
 {"name":"gokv","desc":"A global, low-latency, and druable key-value store.","repo":"https://github.com/esm-dev/gokv","reg":"x","vers":"0.0.12"}
 {"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.13"}
 {"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.14"}
+{"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.15"}
+{"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.16"}
+{"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.17"}
