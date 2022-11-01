@@ -1,1 +1,2 @@
 {"name":"grammy_validator","desc":"Validation logic for Telegram Web Bots and Login Widgets","repo":"https://github.com/grammyjs/validator","reg":"x","vers":"v1.0.0"}
+{"name":"grammy_validator","desc":"Validation logic for Telegram Web Apps and Login Widgets","repo":"https://github.com/grammyjs/validator","reg":"x","vers":"v1.0.1"}

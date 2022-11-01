@@ -17,3 +17,5 @@
 {"name":"license_checker","desc":":page_facing_up: CLI tool for checking license headers in files","repo":"https://github.com/kt3k/deno_license_checker","reg":"x","vers":"v3.1.6"}
 {"name":"license_checker","desc":":page_facing_up: CLI tool for checking license headers in files","repo":"https://github.com/kt3k/deno_license_checker","reg":"x","vers":"v3.1.7"}
 {"name":"license_checker","desc":":page_facing_up: CLI tool for checking license headers in files","repo":"https://github.com/kt3k/deno_license_checker","reg":"x","vers":"v3.2.0"}
+{"name":"license_checker","desc":":page_facing_up: CLI tool for checking license headers in files","repo":"https://github.com/kt3k/deno_license_checker","reg":"x","vers":"v3.2.1"}
+{"name":"license_checker","desc":":page_facing_up: CLI tool for checking license headers in files","repo":"https://github.com/kt3k/deno_license_checker","reg":"x","vers":"v3.2.2"}
