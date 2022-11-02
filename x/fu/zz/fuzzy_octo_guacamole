@@ -16,3 +16,7 @@
 {"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v1.3.0-rc.0"}
 {"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v1.3.0-rc.1"}
 {"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v1.3.0"}
+{"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v1.3.1-rc.0"}
+{"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v1.3.1"}
+{"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v1.4.0"}
+{"name":"fuzzy_octo_guacamole","desc":"A playground for testing CI setup that deploys on Deno and NPM","repo":"https://github.com/garronej/fuzzy-octo-guacamole","reg":"x","vers":"v2.0.0"}

@@ -1,2 +1,3 @@
 {"name":"zepar","desc":"WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode","repo":"https://github.com/hazae41/zepar","reg":"x","vers":"1.0.1"}
 {"name":"zepar","desc":"WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode","repo":"https://github.com/hazae41/zepar","reg":"x","vers":"1.0.2"}
+{"name":"zepar","desc":"WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode","repo":"https://github.com/hazae41/zepar","reg":"x","vers":"1.0.3"}

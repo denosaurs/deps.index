@@ -29,3 +29,5 @@
 {"name":"scale","desc":"A TypeScript Reference Implementation of SCALE Transcoding","repo":"https://github.com/paritytech/parity-scale-codec-ts","reg":"x","vers":"v0.7.0"}
 {"name":"scale","desc":"A TypeScript Reference Implementation of SCALE Transcoding","repo":"https://github.com/paritytech/parity-scale-codec-ts","reg":"x","vers":"v0.7.1"}
 {"name":"scale","desc":"A TypeScript Reference Implementation of SCALE Transcoding","repo":"https://github.com/paritytech/parity-scale-codec-ts","reg":"x","vers":"v0.8.0"}
+{"name":"scale","desc":"A TypeScript reference implementation of SCALE transcoding","repo":"https://github.com/paritytech/scale-ts","reg":"x","vers":"v0.8.1"}
+{"name":"scale","desc":"A TypeScript reference implementation of SCALE transcoding","repo":"https://github.com/paritytech/scale-ts","reg":"x","vers":"v0.8.2"}
