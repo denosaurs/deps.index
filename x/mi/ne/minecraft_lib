@@ -1,1 +1,3 @@
 {"name":"minecraft_lib","desc":"","repo":"https://github.com/janispritzkau/deno-minecraft","reg":"x","vers":"0.0.1"}
+{"name":"minecraft_lib","desc":"A collection of modules that can be used to build Minecraft servers, clients, utilities and other tools.","repo":"https://github.com/janispritzkau/deno-minecraft","reg":"x","vers":"0.0.2"}
+{"name":"minecraft_lib","desc":"A collection of modules that can be used to build Minecraft servers, clients, utilities and other tools.","repo":"https://github.com/janispritzkau/deno-minecraft","reg":"x","vers":"0.0.3"}

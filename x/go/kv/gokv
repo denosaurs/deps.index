@@ -18,3 +18,6 @@
 {"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.18"}
 {"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.19"}
 {"name":"gokv","desc":"[WIP] A global, low-latency, and druable key-value store.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.20"}
+{"name":"gokv","desc":"[WIP] Sync your data at edge.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.21"}
+{"name":"gokv","desc":"[WIP] Sync your data at edge.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.22"}
+{"name":"gokv","desc":"[WIP] Sync your data at edge.","repo":"https://github.com/ije/gokv","reg":"x","vers":"0.0.23"}
