@@ -3,3 +3,4 @@
 {"name":"zoic","desc":"A caching middeware library for Deno HTTP framework, Oak.","repo":"https://github.com/oslabs-beta/zoic","reg":"x","vers":"v1.0.2"}
 {"name":"zoic","desc":"A RESTful API-caching middleware library for Oak/Deno","repo":"https://github.com/oslabs-beta/zoic","reg":"x","vers":"v1.0.3"}
 {"name":"zoic","desc":"A RESTful API-caching middleware library for Oak/Deno","repo":"https://github.com/oslabs-beta/zoic","reg":"x","vers":"v1.0.4"}
+{"name":"zoic","desc":"A RESTful API-caching middleware library for Oak/Deno","repo":"https://github.com/oslabs-beta/zoic","reg":"x","vers":"v1.0.5"}

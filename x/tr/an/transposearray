@@ -1,0 +1,3 @@
+{"name":"transposearray","desc":"Perform the matrix operation transpose on an array respecting type information.","repo":"https://github.com/RebeccaStevens/transpose-array","reg":"x","vers":"v1.0.0-deno"}
+{"name":"transposearray","desc":"Perform the matrix operation transpose on an array respecting type information.","repo":"https://github.com/RebeccaStevens/transpose-array","reg":"x","vers":"v1.0.1-deno"}
+{"name":"transposearray","desc":"Perform the matrix operation transpose on an array respecting type information.","repo":"https://github.com/RebeccaStevens/transpose-array","reg":"x","vers":"v1.1.0"}

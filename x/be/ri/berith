@@ -7,3 +7,4 @@
 {"name":"berith","desc":"WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange","repo":"https://github.com/hazae41/berith","reg":"x","vers":"1.1.28"}
 {"name":"berith","desc":"WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange","repo":"https://github.com/hazae41/berith","reg":"x","vers":"1.1.29"}
 {"name":"berith","desc":"WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange","repo":"https://github.com/hazae41/berith","reg":"x","vers":"1.1.30"}
+{"name":"berith","desc":"WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange","repo":"https://github.com/hazae41/berith","reg":"x","vers":"1.1.31"}

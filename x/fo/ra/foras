@@ -1,1 +1,2 @@
 {"name":"foras","desc":"WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions","repo":"https://github.com/hazae41/foras","reg":"x","vers":"2.0.0"}
+{"name":"foras","desc":"WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions","repo":"https://github.com/hazae41/foras","reg":"x","vers":"2.0.1"}
