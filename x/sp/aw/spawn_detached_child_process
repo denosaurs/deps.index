@@ -1,0 +1,2 @@
+{"name":"spawn_detached_child_process","desc":"A wrapper to spawn and detach a child process so that all the process spawned by it can be killed also","repo":"https://github.com/Packer-Man/spawn-detached-child-process","reg":"x","vers":"v0.0.0"}
+{"name":"spawn_detached_child_process","desc":"A wrapper to spawn and detach a child process so that all the process spawned by it can be killed also","repo":"https://github.com/Packer-Man/spawn-detached-child-process","reg":"x","vers":"v0.0.1"}

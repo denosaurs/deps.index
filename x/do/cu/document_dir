@@ -1,1 +1,2 @@
 {"name":"document_dir","desc":"Returns the path to the user's document directory.","repo":"justjavac/deno_document_dir","reg":"x","vers":"0.1.0"}
+{"name":"document_dir","desc":"Returns the path to the user's document directory.","repo":"https://github.com/justjavac/deno_document_dir","reg":"x","vers":"0.2.0"}

@@ -26,3 +26,4 @@
 {"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v3.4.1"}
 {"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v3.5.0"}
 {"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v3.6.0"}
+{"name":"sqlite","desc":"Deno SQLite module","repo":"https://github.com/dyedgreen/deno-sqlite","reg":"x","vers":"v3.7.0"}
