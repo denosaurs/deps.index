@@ -1,1 +1,4 @@
 {"name":"downstream","desc":"A deno module for downloading files as a readable stream, which allows for flexible targets and progress display","repo":"https://github.com/codemonument/downstream","reg":"x","vers":"0.1.0"}
+{"name":"downstream","desc":"A deno module for downloading files as a readable stream, which allows for flexible targets and progress display","repo":"https://github.com/codemonument/downstream","reg":"x","vers":"0.2.0"}
+{"name":"downstream","desc":"A deno module for downloading files as a readable stream, which allows for flexible targets and progress display","repo":"https://github.com/codemonument/downstream","reg":"x","vers":"0.3.0"}
+{"name":"downstream","desc":"A deno module for downloading files as a readable stream, which allows for flexible targets and progress display","repo":"https://github.com/codemonument/downstream","reg":"x","vers":"0.3.1"}

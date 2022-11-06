@@ -1,3 +1,6 @@
 {"name":"lndconnect","desc":"","repo":"https://github.com/runcitadel/deno-lndconnect","reg":"x","vers":"v1.0.0"}
 {"name":"lndconnect","desc":"","repo":"https://github.com/runcitadel/deno-lndconnect","reg":"x","vers":"v1.0.1"}
 {"name":"lndconnect","desc":"","repo":"https://github.com/runcitadel/deno-lndconnect","reg":"x","vers":"v1.0.2"}
+{"name":"lndconnect","desc":"Generate and parse lndconnect URIs","repo":"https://github.com/runcitadel/deno-lndconnect","reg":"x","vers":"v1.0.3"}
+{"name":"lndconnect","desc":"Generate and parse lndconnect URIs","repo":"https://github.com/runcitadel/deno-lndconnect","reg":"x","vers":"v1.0.4"}
+{"name":"lndconnect","desc":"Generate and parse lndconnect URIs","repo":"https://github.com/runcitadel/deno-lndconnect","reg":"x","vers":"v1.0.5"}

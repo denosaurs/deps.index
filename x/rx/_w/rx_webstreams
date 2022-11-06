@@ -1,0 +1,1 @@
+{"name":"rx_webstreams","desc":"A deno module to provide rx-like functionalities based on webstreams, esp. transforms like `map()` by @codemonument","repo":"https://github.com/codemonument/deno_rx_webstreams","reg":"x","vers":"0.0.1"}

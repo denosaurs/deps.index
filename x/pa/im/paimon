@@ -6,3 +6,4 @@
 {"name":"paimon","desc":"WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures.","repo":"https://github.com/hazae41/paimon","reg":"x","vers":"1.0.7"}
 {"name":"paimon","desc":"WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures.","repo":"https://github.com/hazae41/paimon","reg":"x","vers":"1.0.8"}
 {"name":"paimon","desc":"WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures.","repo":"https://github.com/hazae41/paimon","reg":"x","vers":"1.0.9"}
+{"name":"paimon","desc":"WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures.","repo":"https://github.com/hazae41/paimon","reg":"x","vers":"1.0.10"}
