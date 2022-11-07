@@ -1,2 +1,4 @@
 {"name":"citadel","desc":"","repo":"https://github.com/runcitadel/sdk-deno","reg":"x","vers":"0.5.2"}
 {"name":"citadel","desc":"","repo":"https://github.com/runcitadel/sdk-deno","reg":"x","vers":"v0.5.3"}
+{"name":"citadel","desc":"The next version of the Citadel SDK","repo":"https://github.com/runcitadel/sdk-v2","reg":"x","vers":"v0.0.1"}
+{"name":"citadel","desc":"The next version of the Citadel SDK","repo":"https://github.com/runcitadel/sdk-v2","reg":"x","vers":"v0.0.2"}

@@ -8,3 +8,4 @@
 {"name":"hpke","desc":"A Hybrid Public Key Encryption (HPKE) module for web browsers, Node.js and Deno.","repo":"https://github.com/dajiaji/hpke-js","reg":"nest","vers":"0.12.1"}
 {"name":"hpke","desc":"A Hybrid Public Key Encryption (HPKE) module for web browsers, Node.js and Deno.","repo":"https://github.com/dajiaji/hpke-js","reg":"nest","vers":"0.13.0"}
 {"name":"hpke","desc":"A Hybrid Public Key Encryption (HPKE) module for web browsers, Node.js and Deno.","repo":"https://github.com/dajiaji/hpke-js","reg":"nest","vers":"v0.14.0"}
+{"name":"hpke","desc":"A Hybrid Public Key Encryption (HPKE) module for web browsers, Node.js and Deno.","repo":"https://github.com/dajiaji/hpke-js","reg":"nest","vers":"v0.15.0"}
