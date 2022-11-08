@@ -10,3 +10,4 @@
 {"name":"earthstar_cli","desc":"Command-line tool for working with Earthstar sqlite databases","repo":"https://github.com/earthstar-project/earthstar-cli","reg":"x","vers":"v8.3.3"}
 {"name":"earthstar_cli","desc":"A complete Earthstar toolbox in the console.","repo":"https://github.com/earthstar-project/earthstar-cli","reg":"x","vers":"v8.3.4"}
 {"name":"earthstar_cli","desc":"A complete Earthstar toolbox in the console.","repo":"https://github.com/earthstar-project/earthstar-cli","reg":"x","vers":"8.3.5"}
+{"name":"earthstar_cli","desc":"A complete Earthstar toolbox in the console.","repo":"https://github.com/earthstar-project/earthstar-cli","reg":"x","vers":"v8.3.6"}

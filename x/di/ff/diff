@@ -7,3 +7,4 @@
 {"name":"diff","desc":"A simple and fast typescript diff implementation for Deno","repo":"https://github.com/OlexG/diff","reg":"x","vers":"v0.3.2"}
 {"name":"diff","desc":"A simple and fast typescript diff implementation for Deno","repo":"https://github.com/OlexG/diff","reg":"x","vers":"v0.3.3"}
 {"name":"diff","desc":"A simple and fast typescript diff implementation for Deno","repo":"https://github.com/OlexG/diff","reg":"x","vers":"v0.3.4"}
+{"name":"diff","desc":"A simple and fast typescript diff implementation for Deno","repo":"https://github.com/dunosaurs/diff","reg":"x","vers":"v0.3.5"}
