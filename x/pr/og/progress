@@ -15,3 +15,6 @@
 {"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.2.9"}
 {"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.3.0"}
 {"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.3.1"}
+{"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.3.2"}
+{"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.3.3"}
+{"name":"progress","desc":"ProgressBar in terminal for deno","repo":"https://github.com/deno-library/progress","reg":"x","vers":"v1.3.4"}
