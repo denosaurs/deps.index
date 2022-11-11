@@ -15,3 +15,4 @@
 {"name":"eszip","desc":"A compact file format to losslessly serialize an ECMAScript module graph into a single file","repo":"https://github.com/denoland/eszip","reg":"x","vers":"v0.27.0"}
 {"name":"eszip","desc":"A compact file format to losslessly serialize an ECMAScript module graph into a single file","repo":"https://github.com/denoland/eszip","reg":"x","vers":"v0.28.0"}
 {"name":"eszip","desc":"A compact file format to losslessly serialize an ECMAScript module graph into a single file","repo":"https://github.com/denoland/eszip","reg":"x","vers":"v0.29.0"}
+{"name":"eszip","desc":"A compact file format to losslessly serialize an ECMAScript module graph into a single file","repo":"https://github.com/denoland/eszip","reg":"x","vers":"v0.30.0"}

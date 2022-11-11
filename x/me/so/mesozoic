@@ -54,3 +54,5 @@
 {"name":"mesozoic","desc":"A generic build system for Deno web apps","repo":"https://github.com/deckchairlabs/mesozoic","reg":"x","vers":"v1.0.3"}
 {"name":"mesozoic","desc":"A generic build system for Deno web apps","repo":"https://github.com/deckchairlabs/mesozoic","reg":"x","vers":"v1.0.4"}
 {"name":"mesozoic","desc":"A generic build system for Deno web apps","repo":"https://github.com/deckchairlabs/mesozoic","reg":"x","vers":"v1.0.5"}
+{"name":"mesozoic","desc":"A generic build system for Deno web apps","repo":"https://github.com/deckchairlabs/mesozoic","reg":"x","vers":"v1.1.0"}
+{"name":"mesozoic","desc":"A generic build system for Deno web apps","repo":"https://github.com/deckchairlabs/mesozoic","reg":"x","vers":"v1.1.1"}

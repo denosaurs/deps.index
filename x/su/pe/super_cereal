@@ -1,1 +1,2 @@
 {"name":"super_cereal","desc":"Serialize and deserialize any object and all of its references 🥣","repo":"https://github.com/sebringrose/super_cereal","reg":"x","vers":"v0.0.1"}
+{"name":"super_cereal","desc":"(De)serialize any in-memory graph to key value pairs 🥣","repo":"https://github.com/sebringrose/super_cereal","reg":"x","vers":"v0.1.0"}

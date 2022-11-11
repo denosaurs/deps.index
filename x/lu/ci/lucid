@@ -22,3 +22,4 @@
 {"name":"lucid","desc":"Lucid is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript, Deno and Node.js.","repo":"https://github.com/spacebudz/lucid","reg":"x","vers":"0.7.1"}
 {"name":"lucid","desc":"Lucid is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript, Deno and Node.js.","repo":"https://github.com/spacebudz/lucid","reg":"x","vers":"0.7.2"}
 {"name":"lucid","desc":"Lucid is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript, Deno and Node.js.","repo":"https://github.com/spacebudz/lucid","reg":"x","vers":"0.7.3"}
+{"name":"lucid","desc":"Lucid is a library, which allows you to create Cardano transactions and off-chain code for your Plutus contracts in JavaScript, Deno and Node.js.","repo":"https://github.com/spacebudz/lucid","reg":"x","vers":"0.7.4"}
