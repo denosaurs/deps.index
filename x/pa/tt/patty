@@ -3,3 +3,4 @@
 {"name":"patty","desc":"CLI tool for managing git and tmp directories written in Deno.","repo":"https://github.com/ryoo14/patty","reg":"x","vers":"0.1.2"}
 {"name":"patty","desc":"CLI tool for managing git and tmp directories written in Deno.","repo":"https://github.com/ryoo14/patty","reg":"x","vers":"0.1.3"}
 {"name":"patty","desc":"CLI tool for managing git and working directories written in Deno.","repo":"https://github.com/ryoo14/patty","reg":"x","vers":"0.1.4"}
+{"name":"patty","desc":"CLI tool for managing git and working directories written in Deno.","repo":"https://github.com/ryoo14/patty","reg":"x","vers":"0.1.5"}
