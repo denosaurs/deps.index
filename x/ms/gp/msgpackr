@@ -5,3 +5,4 @@
 {"name":"msgpackr","desc":"Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]","repo":"https://github.com/kriszyp/msgpackr","reg":"x","vers":"v1.5.7"}
 {"name":"msgpackr","desc":"Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]","repo":"https://github.com/kriszyp/msgpackr","reg":"x","vers":"v1.6.0"}
 {"name":"msgpackr","desc":"Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]","repo":"https://github.com/kriszyp/msgpackr","reg":"x","vers":"v1.7.0"}
+{"name":"msgpackr","desc":"Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]","repo":"https://github.com/kriszyp/msgpackr","reg":"x","vers":"v1.8.0"}

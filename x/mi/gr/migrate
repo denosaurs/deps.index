@@ -5,3 +5,4 @@
 {"name":"migrate","desc":"A postgres migration tool for Deno.","repo":"https://github.com/udibo/migrate","reg":"x","vers":"0.2.2"}
 {"name":"migrate","desc":"A postgres migration tool for Deno.","repo":"https://github.com/udibo/migrate","reg":"x","vers":"0.2.3"}
 {"name":"migrate","desc":"A postgres migration tool for Deno.","repo":"https://github.com/udibo/migrate","reg":"x","vers":"0.2.4"}
+{"name":"migrate","desc":"A postgres migration tool for Deno.","repo":"https://github.com/udibo/migrate","reg":"x","vers":"0.2.5"}

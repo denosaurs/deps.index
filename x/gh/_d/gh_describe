@@ -1,0 +1,1 @@
+{"name":"gh_describe","desc":"Emulate `git describe --tags` in shallow clone repository.","repo":"https://github.com/proudust/gh-describe","reg":"x","vers":"v1.5.2"}
