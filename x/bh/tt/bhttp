@@ -1,3 +1,4 @@
 {"name":"bhttp","desc":"","repo":"https://github.com/dajiaji/bhttp-js","reg":"x","vers":"v0.1.0"}
 {"name":"bhttp","desc":"","repo":"https://github.com/dajiaji/bhttp-js","reg":"x","vers":"v0.1.1"}
 {"name":"bhttp","desc":"A BHTTP (Binary Representation of HTTP Messages) Encoder and Decoder written in TypeScript.","repo":"https://github.com/dajiaji/bhttp-js","reg":"x","vers":"v0.2.0"}
+{"name":"bhttp","desc":"A BHTTP (Binary Representation of HTTP Messages) Encoder and Decoder written in TypeScript.","repo":"https://github.com/dajiaji/bhttp-js","reg":"x","vers":"v0.2.1"}
