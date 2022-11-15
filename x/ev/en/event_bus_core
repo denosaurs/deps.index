@@ -1,0 +1,2 @@
+{"name":"event_bus_core","desc":"A deno first library implementing an event bus, published to deno.land/x/event_bus_core and cross-posted to @codemonument/event-bus-core","repo":"https://github.com/codemonument/event-bus-core","reg":"x","vers":"1.0.0-beta.3"}
+{"name":"event_bus_core","desc":"A deno first library implementing an event bus, published to deno.land/x/event_bus_core and cross-posted to @codemonument/event-bus-core","repo":"https://github.com/codemonument/event-bus-core","reg":"x","vers":"1.0.0-beta.4"}
