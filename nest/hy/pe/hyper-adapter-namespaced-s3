@@ -10,3 +10,4 @@
 {"name":"hyper-adapter-namespaced-s3","desc":"Hyper Storage port adapter for aws s3 that uses a single namespaced s3 bucket","repo":"https://github.com/hyper63/hyper-adapter-namespaced-s3","reg":"nest","vers":"2.1.5"}
 {"name":"hyper-adapter-namespaced-s3","desc":"Hyper Storage port adapter for aws s3 that uses a single namespaced s3 bucket","repo":"https://github.com/hyper63/hyper-adapter-namespaced-s3","reg":"nest","vers":"2.2.0"}
 {"name":"hyper-adapter-namespaced-s3","desc":"Hyper Storage port adapter for aws s3 that uses a single namespaced s3 bucket","repo":"https://github.com/hyper63/hyper-adapter-namespaced-s3","reg":"nest","vers":"2.2.1"}
+{"name":"hyper-adapter-namespaced-s3","desc":"Hyper Storage port adapter for aws s3 that uses a single namespaced s3 bucket","repo":"https://github.com/hyper63/hyper-adapter-namespaced-s3","reg":"nest","vers":"2.2.2"}
