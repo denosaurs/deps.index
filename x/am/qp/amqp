@@ -19,3 +19,5 @@
 {"name":"amqp","desc":"","repo":"https://github.com/lenkan/deno-amqp","reg":"x","vers":"v0.15.0"}
 {"name":"amqp","desc":"","repo":"https://github.com/lenkan/deno-amqp","reg":"x","vers":"v0.16.0"}
 {"name":"amqp","desc":"","repo":"https://github.com/lenkan/deno-amqp","reg":"x","vers":"v0.17.0"}
+{"name":"amqp","desc":"","repo":"https://github.com/lenkan/deno-amqp","reg":"x","vers":"v0.18.0"}
+{"name":"amqp","desc":"","repo":"https://github.com/lenkan/deno-amqp","reg":"x","vers":"v0.19.0"}

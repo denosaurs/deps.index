@@ -1,2 +1,3 @@
 {"name":"sepa","desc":"","repo":"https://github.com/jerebtw/Sepa-Deno","reg":"x","vers":"v1.0.0"}
 {"name":"sepa","desc":"","repo":"https://github.com/jerebtw/Sepa-Deno","reg":"x","vers":"v1.0.1"}
+{"name":"sepa","desc":"This is a library to generate SEPA xml files","repo":"https://github.com/jerebtw/Sepa-Deno","reg":"x","vers":"v1.0.2"}
