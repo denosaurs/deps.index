@@ -3,3 +3,5 @@
 {"name":"dexonline","desc":"A lightweight Dexonline.ro parser to fetch information about words in the Romanian language.","repo":"https://github.com/Linguition/dexonline-parser","reg":"x","vers":"v2.0.0"}
 {"name":"dexonline","desc":"A lightweight Dexonline.ro parser to fetch information about words in the Romanian language.","repo":"https://github.com/Linguition/dexonline-parser","reg":"x","vers":"v2.1.0"}
 {"name":"dexonline","desc":"A lightweight Dexonline.ro parser to fetch information about words in the Romanian language.","repo":"https://github.com/Linguition/dexonline-parser","reg":"x","vers":"v3.0.0"}
+{"name":"dexonline","desc":"Monorepo containing various tools to work with and aggregate information from Dexonline.","repo":"https://github.com/Linguition/dexonline-parser","reg":"x","vers":"v3.1.0"}
+{"name":"dexonline","desc":"Monorepo containing various tools to work with and aggregate information from Dexonline.","repo":"https://github.com/Linguition/dexonline-parser","reg":"x","vers":"v3.2.0"}
