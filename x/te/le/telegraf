@@ -2,3 +2,5 @@
 {"name":"telegraf","desc":"Modern Telegram Bot Framework for Node.js","repo":"https://github.com/telegraf/telegraf","reg":"x","vers":"v4.9.2"}
 {"name":"telegraf","desc":"Modern Telegram Bot Framework for Node.js","repo":"https://github.com/telegraf/telegraf","reg":"x","vers":"v4.10.0"}
 {"name":"telegraf","desc":"Modern Telegram Bot Framework for Node.js","repo":"https://github.com/telegraf/telegraf","reg":"x","vers":"v4.11.0"}
+{"name":"telegraf","desc":"Modern Telegram Bot Framework for Node.js","repo":"https://github.com/telegraf/telegraf","reg":"x","vers":"v4.11.1"}
+{"name":"telegraf","desc":"Modern Telegram Bot Framework for Node.js","repo":"https://github.com/telegraf/telegraf","reg":"x","vers":"v4.11.2"}

@@ -12,3 +12,5 @@
 {"name":"dnlibob","desc":"适用于 Deno 的 LibOneBot 库","repo":"https://github.com/botuniverse/dnlibob","reg":"x","vers":"0.9.1"}
 {"name":"dnlibob","desc":"适用于 Deno 的 LibOneBot 库","repo":"https://github.com/botuniverse/dnlibob","reg":"x","vers":"0.10.0"}
 {"name":"dnlibob","desc":"适用于 Deno 的 LibOneBot 库","repo":"https://github.com/botuniverse/dnlibob","reg":"x","vers":"0.11.0"}
+{"name":"dnlibob","desc":"LibOneBot for Deno","repo":"https://github.com/botuniverse/dnlibob","reg":"x","vers":"0.11.1"}
+{"name":"dnlibob","desc":"LibOneBot for Deno","repo":"https://github.com/botuniverse/dnlibob","reg":"x","vers":"0.12.0"}

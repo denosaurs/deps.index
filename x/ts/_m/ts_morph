@@ -16,3 +16,4 @@
 {"name":"ts_morph","desc":"TypeScript Compiler API wrapper for static analysis and programmatic code changes.","repo":"https://github.com/dsherret/ts-morph","reg":"x","vers":"15.0.0"}
 {"name":"ts_morph","desc":"TypeScript Compiler API wrapper for static analysis and programmatic code changes.","repo":"https://github.com/dsherret/ts-morph","reg":"x","vers":"15.1.0"}
 {"name":"ts_morph","desc":"TypeScript Compiler API wrapper for static analysis and programmatic code changes.","repo":"https://github.com/dsherret/ts-morph","reg":"x","vers":"16.0.0"}
+{"name":"ts_morph","desc":"TypeScript Compiler API wrapper for static analysis and programmatic code changes.","repo":"https://github.com/dsherret/ts-morph","reg":"x","vers":"17.0.0"}
