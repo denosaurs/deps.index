@@ -1,0 +1,2 @@
+{"name":"combined_log_format","desc":"Combined Log Format (Apache, nginx) streaming parser for Deno","repo":"https://github.com/rentzsch/deno_combined_log_format","reg":"x","vers":"0.0.1"}
+{"name":"combined_log_format","desc":"Combined Log Format (Apache, nginx) streaming parser for Deno","repo":"https://github.com/rentzsch/deno_combined_log_format","reg":"x","vers":"v0.0.2"}
