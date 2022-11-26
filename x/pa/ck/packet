@@ -1,0 +1,1 @@
+{"name":"packet","desc":"An abstract-encoding compliant module for encoding / decoding DNS packets, for Deno.","repo":"https://github.com/NetOpWibby/packet","reg":"x","vers":"2022.11.25"}
