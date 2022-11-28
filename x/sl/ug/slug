@@ -1,3 +1,6 @@
 {"name":"slug","desc":"Deno library for converting arbitrary strings in valid slugs","repo":"https://github.com/lino-levan/slug","reg":"x","vers":"v0.1.0"}
 {"name":"slug","desc":"Deno library for converting arbitrary strings in valid slugs","repo":"https://github.com/lino-levan/slug","reg":"x","vers":"v0.1.1"}
 {"name":"slug","desc":"Deno library for converting arbitrary strings in valid slugs","repo":"https://github.com/dunosaurs/slug","reg":"x","vers":"v1.0.0"}
+{"name":"slug","desc":"Deno library for converting arbitrary strings into valid slugs","repo":"https://github.com/dunosaurs/slug","reg":"x","vers":"v1.0.1"}
+{"name":"slug","desc":"Deno library for converting arbitrary strings into valid slugs","repo":"https://github.com/dunosaurs/slug","reg":"x","vers":"v1.0.2"}
+{"name":"slug","desc":"Deno library for converting arbitrary strings into valid slugs","repo":"https://github.com/dunosaurs/slug","reg":"x","vers":"v1.1.0"}

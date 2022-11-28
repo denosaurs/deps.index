@@ -1,1 +1,2 @@
 {"name":"serialize","desc":"🦕 Serialize JS/TS without losing support for Date, BigInt, RegExp, Map, and much more.","repo":"https://github.com/deno911/serialize","reg":"x","vers":"1.0.0-rc.1"}
+{"name":"serialize","desc":"🦕 Serialize JS/TS without losing support for Date, BigInt, RegExp, Map, and much more.","repo":"https://github.com/deno911/serialize","reg":"x","vers":"1.0.0-rc.2"}

@@ -1,1 +1,1 @@
-[]
+[{"name":"serialize","desc":"Serialize JS/TS into a superset of JSON, supporting Date, BigInt, RegExp, Maps, and more.","repo":"https://github.com/deno911/serialize","reg":"nest","vers":["1.0.0-rc.1","1.0.0-rc.2"]},{"name":"eggy","desc":"Unofficial fork of the CLI used to publish and update modules on nest.land. Fixed for Deno 1.25+","repo":"https://github.com/deno911/eggs","reg":"nest","vers":["0.3.31","0.3.40"]}]
