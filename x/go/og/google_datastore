@@ -15,3 +15,4 @@
 {"name":"google_datastore","desc":"A set of APIs that allow interfacing to Google Datastore on GCP from Deno.","repo":"https://github.com/kitsonk/google-datastore","reg":"x","vers":"0.0.15"}
 {"name":"google_datastore","desc":"A set of APIs that allow interfacing to Google Datastore on GCP from Deno.","repo":"https://github.com/kitsonk/google-datastore","reg":"x","vers":"0.0.16"}
 {"name":"google_datastore","desc":"A set of APIs that allow interfacing to Google Datastore on GCP from Deno.","repo":"https://github.com/kitsonk/google-datastore","reg":"x","vers":"0.0.17"}
+{"name":"google_datastore","desc":"A set of APIs that allow interfacing to Google Datastore on GCP from Deno.","repo":"https://github.com/kitsonk/google-datastore","reg":"x","vers":"0.1.0"}

@@ -33,3 +33,5 @@
 {"name":"netzo","desc":"SDK for Netzo, the open Web platform to unify IoT devices, applications and services.","repo":"https://github.com/netzoio/sdk","reg":"x","vers":"v0.1.33"}
 {"name":"netzo","desc":"SDK for Netzo, the open Web platform to unify IoT devices, applications and services.","repo":"https://github.com/netzoio/sdk","reg":"x","vers":"v0.1.34"}
 {"name":"netzo","desc":"SDK for Netzo, the open Web platform to unify IoT devices, applications and services.","repo":"https://github.com/netzoio/sdk","reg":"x","vers":"v0.1.35"}
+{"name":"netzo","desc":"SDK for Netzo, the open platform to instantly deploy JavaScript and TypeScript to URL endpoints, connect essential APIs, automate business processes and build internal tools faster, without managing servers.","repo":"https://github.com/netzoio/sdk","reg":"x","vers":"v0.1.36"}
+{"name":"netzo","desc":"SDK for Netzo, the open platform to instantly deploy JavaScript and TypeScript to URL endpoints, connect essential APIs, automate business processes and build internal tools faster, without managing servers.","repo":"https://github.com/netzoio/sdk","reg":"x","vers":"v0.1.37"}
