@@ -11,3 +11,5 @@
 {"name":"cargo_load","desc":"Command line interface for your Cargo applications","repo":"https://github.com/flowingones/cargo-load","reg":"x","vers":"0.0.11"}
 {"name":"cargo_load","desc":"Command line interface for your Cargo applications","repo":"https://github.com/flowingones/cargo-load","reg":"x","vers":"0.0.12"}
 {"name":"cargo_load","desc":"Command line interface for your Cargo applications","repo":"https://github.com/flowingones/cargo-load","reg":"x","vers":"0.1.13"}
+{"name":"cargo_load","desc":"Command line interface for your Cargo applications","repo":"https://github.com/flowingones/cargo-load","reg":"x","vers":"0.1.14"}
+{"name":"cargo_load","desc":"Command line interface for your Cargo applications","repo":"https://github.com/flowingones/cargo-load","reg":"x","vers":"0.1.15"}

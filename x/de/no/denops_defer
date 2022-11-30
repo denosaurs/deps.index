@@ -1,0 +1,3 @@
+{"name":"denops_defer","desc":"`defer` resolves combined multiple denops calls like `gather`.","repo":"https://github.com/Milly/deno-denops-defer","reg":"x","vers":"v0.1.0"}
+{"name":"denops_defer","desc":"`defer` resolves combined multiple denops calls like `gather`.","repo":"https://github.com/Milly/deno-denops-defer","reg":"x","vers":"v0.2.0"}
+{"name":"denops_defer","desc":"`defer` resolves combined multiple denops calls like `gather`.","repo":"https://github.com/Milly/deno-denops-defer","reg":"x","vers":"v0.4.0"}
