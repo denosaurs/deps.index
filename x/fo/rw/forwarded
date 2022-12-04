@@ -17,3 +17,4 @@
 {"name":"forwarded","desc":"Deno port of `forwarded` library","repo":"https://github.com/deno-libs/forwarded","reg":"x","vers":"0.1.3"}
 {"name":"forwarded","desc":"Deno port of `forwarded` library","repo":"https://github.com/deno-libs/forwarded","reg":"x","vers":"0.1.4"}
 {"name":"forwarded","desc":"Deno port of `forwarded` library","repo":"https://github.com/deno-libs/forwarded","reg":"x","vers":"0.1.5"}
+{"name":"forwarded","desc":"Deno port of `forwarded` library","repo":"https://github.com/deno-libs/forwarded","reg":"x","vers":"0.1.6"}
