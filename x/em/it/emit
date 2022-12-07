@@ -12,3 +12,4 @@
 {"name":"emit","desc":"Transpile and bundle JavaScript and TypeScript under Deno and Deno Deploy","repo":"https://github.com/denoland/deno_emit","reg":"x","vers":"0.9.0"}
 {"name":"emit","desc":"Transpile and bundle JavaScript and TypeScript under Deno and Deno Deploy","repo":"https://github.com/denoland/deno_emit","reg":"x","vers":"0.10.0"}
 {"name":"emit","desc":"Transpile and bundle JavaScript and TypeScript under Deno and Deno Deploy","repo":"https://github.com/denoland/deno_emit","reg":"x","vers":"0.11.0"}
+{"name":"emit","desc":"Transpile and bundle JavaScript and TypeScript under Deno and Deno Deploy","repo":"https://github.com/denoland/deno_emit","reg":"x","vers":"0.12.0"}
