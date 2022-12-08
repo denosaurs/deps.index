@@ -9,3 +9,4 @@
 {"name":"esbuild_es5","desc":"minify JS/TS files using `esbuild` and `swc` down to ES5 (uses `deno`)","repo":"https://github.com/internetarchive/esbuild_es5","reg":"x","vers":"1.0.8"}
 {"name":"esbuild_es5","desc":"minify JS/TS files using `esbuild` and `swc` down to ES5 (uses `deno`)","repo":"https://github.com/internetarchive/esbuild_es5","reg":"x","vers":"1.0.9"}
 {"name":"esbuild_es5","desc":"minify JS/TS files using `esbuild` and `swc` down to ES5 (uses `deno`)","repo":"https://github.com/internetarchive/esbuild_es5","reg":"x","vers":"1.0.10"}
+{"name":"esbuild_es5","desc":"minify JS/TS files using `esbuild` and `swc` down to ES5 (uses `deno`)","repo":"https://github.com/internetarchive/esbuild_es5","reg":"x","vers":"1.0.11"}
