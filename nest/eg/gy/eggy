@@ -1,2 +1,3 @@
 {"name":"eggy","desc":"Unofficial fork of the CLI used to publish and update modules on nest.land. Fixed for Deno 1.25+","repo":"https://github.com/deno911/eggs","reg":"nest","vers":"0.3.31"}
 {"name":"eggy","desc":"Unofficial fork of the CLI used to publish and update modules on nest.land. Fixed for Deno 1.25+","repo":"https://github.com/deno911/eggs","reg":"nest","vers":"0.3.40"}
+{"name":"eggy","desc":"Unofficial fork of the CLI used to publish and update modules on nest.land. Fixed for Deno 1.25+","repo":"https://github.com/deno911/eggs","reg":"nest","vers":"0.3.50"}
