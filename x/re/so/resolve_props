@@ -1,0 +1,1 @@
+{"name":"resolve_props","desc":"Deno function to resolve all promise-like values in an object","repo":"https://github.com/callumlocke/deno_resolve_props","reg":"x","vers":"v0.1.0"}
