@@ -3,3 +3,4 @@
 {"name":"i18next_chained_backend","desc":"An i18next backend to chain multiple backends (add fallbacks, caches, ...)","repo":"https://github.com/i18next/i18next-chained-backend","reg":"x","vers":"v4.0.0"}
 {"name":"i18next_chained_backend","desc":"An i18next backend to chain multiple backends (add fallbacks, caches, ...)","repo":"https://github.com/i18next/i18next-chained-backend","reg":"x","vers":"v4.0.1"}
 {"name":"i18next_chained_backend","desc":"An i18next backend to chain multiple backends (add fallbacks, caches, ...)","repo":"https://github.com/i18next/i18next-chained-backend","reg":"x","vers":"v4.1.0"}
+{"name":"i18next_chained_backend","desc":"An i18next backend to chain multiple backends (add fallbacks, caches, ...)","repo":"https://github.com/i18next/i18next-chained-backend","reg":"x","vers":"v4.2.0"}
