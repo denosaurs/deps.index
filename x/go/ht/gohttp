@@ -1,1 +1,2 @@
 {"name":"gohttp","desc":"deno's go style http library","repo":"https://github.com/powerpuffpenguin/deno-go-http","reg":"x","vers":"0.0.1"}
+{"name":"gohttp","desc":"deno's go style http library","repo":"https://github.com/powerpuffpenguin/deno-go-http","reg":"x","vers":"0.1.0"}
