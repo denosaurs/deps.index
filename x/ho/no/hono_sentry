@@ -1,3 +1,4 @@
 {"name":"hono_sentry","desc":"Sentry Middleware for Hono","repo":"https://github.com/honojs/sentry","reg":"x","vers":"0.0.1"}
 {"name":"hono_sentry","desc":"Sentry Middleware for Hono","repo":"https://github.com/honojs/sentry","reg":"x","vers":"0.0.2"}
 {"name":"hono_sentry","desc":"Sentry Middleware for Hono","repo":"https://github.com/honojs/sentry","reg":"x","vers":"v0.0.3"}
+{"name":"hono_sentry","desc":"Sentry Middleware for Hono","repo":"https://github.com/honojs/sentry","reg":"x","vers":"v0.0.4"}
