@@ -1,1 +1,4 @@
 {"name":"dis","desc":"Typechecking with ease. An extended, hard fork of @sindresorhus/is, for Deno 🦕","repo":null,"reg":"nest","vers":"0.2.0"}
+{"name":"dis","desc":"Extensive collection of Typeguards and Assertions 🦕","repo":"https://github.com/deno911/dis","reg":"nest","vers":"0.3.0-rc.1"}
+{"name":"dis","desc":"Extensive collection of Typeguards and Assertions 🦕","repo":"https://github.com/deno911/dis","reg":"nest","vers":"0.3.0-rc.2"}
+{"name":"dis","desc":"Extensive collection of Typeguards and Assertions 🦕","repo":"https://github.com/deno911/dis","reg":"nest","vers":"0.3.0-rc.3"}

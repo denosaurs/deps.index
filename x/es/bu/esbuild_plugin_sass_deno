@@ -1,0 +1,1 @@
+{"name":"esbuild_plugin_sass_deno","desc":"Made for the poor souls trying to use SASS/SCSS on Deno using ESBuild as bundler who did not know `esbuild-sass-plugin` was not compatible with Deno due to Dart-SASS being a pain.","repo":"https://github.com/LePichu/esbuild-plugin-sass-deno","reg":"x","vers":"v0.1.0"}
