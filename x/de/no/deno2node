@@ -17,3 +17,4 @@
 {"name":"deno2node","desc":"Compile your Deno project to run on Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.5.2"}
 {"name":"deno2node","desc":"Compile your Deno project to run on Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.5.2"}
 {"name":"deno2node","desc":"Compile your Deno project to run on Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.6.0"}
+{"name":"deno2node","desc":"Compile your Deno project to run on Node.js.","repo":"https://github.com/fromdeno/deno2node","reg":"x","vers":"v1.7.0"}
