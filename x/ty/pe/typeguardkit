@@ -11,3 +11,4 @@
 {"name":"typeguardkit","desc":"A TypeScript module to help construct type assertion functions and type guards.","repo":"https://github.com/antonebbage/typeguardkit","reg":"x","vers":"0.9.0"}
 {"name":"typeguardkit","desc":"A TypeScript module to help construct type assertion functions and type guards.","repo":"https://github.com/antonebbage/typeguardkit","reg":"x","vers":"0.10.0"}
 {"name":"typeguardkit","desc":"A TypeScript module to help construct type assertion functions and type guards.","repo":"https://github.com/antonebbage/typeguardkit","reg":"x","vers":"0.10.1"}
+{"name":"typeguardkit","desc":"A TypeScript module to help construct type assertion functions and type guards.","repo":"https://github.com/antonebbage/typeguardkit","reg":"x","vers":"0.11.0"}
