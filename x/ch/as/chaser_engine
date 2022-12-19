@@ -1,1 +1,2 @@
 {"name":"chaser_engine","desc":"U-16プロコンで使う Chaser のサーバーを簡単に構築できるようにするためのライブラリ","repo":"https://github.com/riaf/chaser-engine","reg":"x","vers":"0.0.1"}
+{"name":"chaser_engine","desc":"U-16プロコンで使う Chaser のサーバーを簡単に構築できるようにするためのライブラリ","repo":"https://github.com/riaf/chaser-engine","reg":"x","vers":"0.0.2"}

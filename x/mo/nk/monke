@@ -1,2 +1,3 @@
 {"name":"monke","desc":"Get colors from image","repo":"https://github.com/la-lala-land/monke","reg":"x","vers":"v0.0.1"}
 {"name":"monke","desc":"Get colors from image","repo":"https://github.com/la-lala-land/monke","reg":"x","vers":"v0.0.3"}
+{"name":"monke","desc":"Color quantization and dithering in TypeScript.","repo":"https://github.com/retraigo/monke","reg":"x","vers":"v0.0.4"}
