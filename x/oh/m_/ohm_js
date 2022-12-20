@@ -6,3 +6,5 @@
 {"name":"ohm_js","desc":"A library and language for building parsers, interpreters, compilers, etc.","repo":"https://github.com/harc/ohm","reg":"x","vers":"v16.3.3"}
 {"name":"ohm_js","desc":"A library and language for building parsers, interpreters, compilers, etc.","repo":"https://github.com/harc/ohm","reg":"x","vers":"v16.3.4"}
 {"name":"ohm_js","desc":"A library and language for building parsers, interpreters, compilers, etc.","repo":"https://github.com/harc/ohm","reg":"x","vers":"v16.4.0"}
+{"name":"ohm_js","desc":"A library and language for building parsers, interpreters, compilers, etc.","repo":"https://github.com/harc/ohm","reg":"x","vers":"v16.5.0"}
+{"name":"ohm_js","desc":"A library and language for building parsers, interpreters, compilers, etc.","repo":"https://github.com/harc/ohm","reg":"x","vers":"v16.6.0"}

@@ -53,3 +53,8 @@
 {"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.0"}
 {"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.1-rc.0"}
 {"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.1"}
+{"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.2-rc.0"}
+{"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.2-rc.1"}
+{"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.2"}
+{"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.3"}
+{"name":"upstash_redis","desc":"HTTP based Redis Client for Serverless and Edge Functions","repo":"https://github.com/upstash/upstash-redis","reg":"x","vers":"v1.18.4"}
