@@ -54,3 +54,4 @@
 {"name":"cliffy","desc":"Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...","repo":"https://github.com/c4spar/deno-cliffy","reg":"x","vers":"v0.25.3"}
 {"name":"cliffy","desc":"Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...","repo":"https://github.com/c4spar/deno-cliffy","reg":"x","vers":"v0.25.4"}
 {"name":"cliffy","desc":"Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...","repo":"https://github.com/c4spar/deno-cliffy","reg":"x","vers":"v0.25.5"}
+{"name":"cliffy","desc":"Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...","repo":"https://github.com/c4spar/deno-cliffy","reg":"x","vers":"v0.25.6"}
