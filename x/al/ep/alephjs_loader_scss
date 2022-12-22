@@ -1,0 +1,1 @@
+{"name":"alephjs_loader_scss","desc":"A Custom SCSS Loader for Aleph.js which allows using SCSS in your Aleph.js project using `denosass` module.","repo":"https://github.com/LePichu/alephjs-loader-scss","reg":"x","vers":"v0.1.0"}

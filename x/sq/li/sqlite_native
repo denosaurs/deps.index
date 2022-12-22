@@ -1,0 +1,4 @@
+{"name":"sqlite_native","desc":"a deno sqlite library using ffi and an embedded sqlite binary","repo":"https://github.com/andykais/sqlite-native","reg":"x","vers":"0.1.0"}
+{"name":"sqlite_native","desc":"a deno sqlite library using ffi and an embedded sqlite binary","repo":"https://github.com/andykais/sqlite-native","reg":"x","vers":"1.0.0"}
+{"name":"sqlite_native","desc":"a deno sqlite library using ffi and an embedded sqlite binary","repo":"https://github.com/andykais/sqlite-native","reg":"x","vers":"1.0.1"}
+{"name":"sqlite_native","desc":"a deno sqlite library using ffi and an embedded sqlite binary","repo":"https://github.com/andykais/sqlite-native","reg":"x","vers":"1.0.2"}

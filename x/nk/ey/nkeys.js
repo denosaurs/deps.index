@@ -8,3 +8,4 @@
 {"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"https://github.com/nats-io/nkeys.js","reg":"x","vers":"v1.0.0-10"}
 {"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"https://github.com/nats-io/nkeys.js","reg":"x","vers":"v1.0.2"}
 {"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"https://github.com/nats-io/nkeys.js","reg":"x","vers":"v1.0.3"}
+{"name":"nkeys.js","desc":"NKeys for JavaScript - Node.js, Browsers, and Deno.","repo":"https://github.com/nats-io/nkeys.js","reg":"x","vers":"v1.0.4"}
