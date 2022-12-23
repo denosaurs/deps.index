@@ -1,1 +1,2 @@
 {"name":"mqttrouter","desc":"A deno variant of my mqtt-router project","repo":"https://github.com/erichardson-lee/mqtt-router-deno","reg":"x","vers":"v1.0.0"}
+{"name":"mqttrouter","desc":"A deno variant of my mqtt-router project","repo":"https://github.com/erichardson-lee/mqtt-router-deno","reg":"x","vers":"2.0.0"}
