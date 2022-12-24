@@ -1,3 +1,6 @@
 {"name":"decancer","desc":"A module that removes common confusables from strings without the use of Regexes.","repo":"https://github.com/null8626/decancer","reg":"x","vers":"v1.3.3"}
 {"name":"decancer","desc":"A module that removes common confusables from strings without the use of Regexes.","repo":"https://github.com/null8626/decancer","reg":"x","vers":"v1.4.0"}
 {"name":"decancer","desc":"A module that removes common confusables from strings without the use of Regexes.","repo":"https://github.com/null8626/decancer","reg":"x","vers":"v1.4.1"}
+{"name":"decancer","desc":"A tiny package that removes common confusables from strings.","repo":"https://github.com/null8626/decancer","reg":"x","vers":"v1.5.0"}
+{"name":"decancer","desc":"A tiny package that removes common confusables from strings.","repo":"https://github.com/null8626/decancer","reg":"x","vers":"v1.5.1"}
+{"name":"decancer","desc":"A tiny package that removes common confusables from strings.","repo":"https://github.com/null8626/decancer","reg":"x","vers":"v1.5.2"}
