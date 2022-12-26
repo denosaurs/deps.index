@@ -2,3 +2,4 @@
 {"name":"inthash","desc":"Integer Hashing Library based on Knuth's multiplicative hashing method for Javascript(& Typescript).","repo":"https://github.com/denostack/inthash","reg":"x","vers":"3.0.0-alpha.2"}
 {"name":"inthash","desc":"Integer Hashing Library based on Knuth's multiplicative hashing method for Javascript(& Typescript).","repo":"https://github.com/denostack/inthash","reg":"x","vers":"3.0.0"}
 {"name":"inthash","desc":"Integer Hashing Library based on Knuth's multiplicative hashing method for Javascript(& Typescript).","repo":"https://github.com/denostack/inthash","reg":"x","vers":"3.0.1"}
+{"name":"inthash","desc":"A library for generating integer hash values using Knuth's multiplicative method in Javascript and Typescript.","repo":"https://github.com/denostack/inthash","reg":"x","vers":"3.0.2"}
