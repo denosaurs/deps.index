@@ -18,3 +18,4 @@
 {"name":"appwrite","desc":"[READ-ONLY] Official Appwrite Deno SDK 🦕","repo":"https://github.com/appwrite/sdk-for-deno","reg":"x","vers":"6.0.0-RC1"}
 {"name":"appwrite","desc":"[READ-ONLY] Official Appwrite Deno SDK 🦕","repo":"https://github.com/appwrite/sdk-for-deno","reg":"x","vers":"6.0.0"}
 {"name":"appwrite","desc":"[READ-ONLY] Official Appwrite Deno SDK 🦕","repo":"https://github.com/appwrite/sdk-for-deno","reg":"x","vers":"6.1.0"}
+{"name":"appwrite","desc":"[READ-ONLY] Official Appwrite Deno SDK 🦕","repo":"https://github.com/appwrite/sdk-for-deno","reg":"x","vers":"6.2.0"}
