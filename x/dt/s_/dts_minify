@@ -1,1 +1,2 @@
 {"name":"dts_minify","desc":"Minifier for TypeScript declaration files (.d.ts)","repo":"https://github.com/dsherret/dts_minify","reg":"x","vers":"0.3.0"}
+{"name":"dts_minify","desc":"Minifier for TypeScript declaration files (.d.ts)","repo":"https://github.com/dsherret/dts_minify","reg":"x","vers":"0.3.1"}

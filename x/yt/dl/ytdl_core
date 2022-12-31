@@ -2,3 +2,4 @@
 {"name":"ytdl_core","desc":"A YouTube Video Downloader for Deno using Web Streams API.","repo":"https://github.com/DjDeveloperr/ytdl_core","reg":"x","vers":"v0.0.2"}
 {"name":"ytdl_core","desc":"YouTube Video Downloader module for Deno using Web Streams API.","repo":"https://github.com/DjDeveloperr/ytdl_core","reg":"x","vers":"v0.1.0"}
 {"name":"ytdl_core","desc":"YouTube Video Downloader module for Deno using Web Streams API.","repo":"https://github.com/DjDeveloperr/ytdl_core","reg":"x","vers":"v0.1.1"}
+{"name":"ytdl_core","desc":"YouTube Video Downloader module for Deno using Web Streams API.","repo":"https://github.com/DjDeveloperr/ytdl_core","reg":"x","vers":"v0.1.2"}

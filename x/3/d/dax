@@ -23,3 +23,4 @@
 {"name":"dax","desc":"Cross platform shell tools for Deno inspired by zx.","repo":"https://github.com/dsherret/dax","reg":"x","vers":"0.18.0"}
 {"name":"dax","desc":"Cross platform shell tools for Deno inspired by zx.","repo":"https://github.com/dsherret/dax","reg":"x","vers":"0.18.1"}
 {"name":"dax","desc":"Cross platform shell tools for Deno inspired by zx.","repo":"https://github.com/dsherret/dax","reg":"x","vers":"0.19.0"}
+{"name":"dax","desc":"Cross platform shell tools for Deno inspired by zx.","repo":"https://github.com/dsherret/dax","reg":"x","vers":"0.20.0"}

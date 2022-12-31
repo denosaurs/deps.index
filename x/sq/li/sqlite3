@@ -19,3 +19,5 @@
 {"name":"sqlite3","desc":"Fastest & correct JavaScript bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.5.3"}
 {"name":"sqlite3","desc":"Fastest & correct JavaScript bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.6.0"}
 {"name":"sqlite3","desc":"Fastest & correct JavaScript bindings to SQLite3 C API, using Deno FFI.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.6.1"}
+{"name":"sqlite3","desc":"The fastest and correct module for SQLite3 in Deno.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.7.0"}
+{"name":"sqlite3","desc":"The fastest and correct module for SQLite3 in Deno.","repo":"https://github.com/denodrivers/sqlite3","reg":"x","vers":"0.7.1"}
