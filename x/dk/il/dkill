@@ -14,3 +14,4 @@
 {"name":"dkill","desc":"kill processes and ports for Deno  🦕 with cli or programmatically","repo":"https://github.com/sylc/dkill","reg":"x","vers":"0.6.8"}
 {"name":"dkill","desc":"kill processes and ports for Deno  🦕 with cli or programmatically","repo":"https://github.com/sylc/dkill","reg":"x","vers":"0.6.9"}
 {"name":"dkill","desc":"🎯kill processes identified by port in Deno 🦕","repo":"https://github.com/sylc/dkill","reg":"x","vers":"0.7.0"}
+{"name":"dkill","desc":"🎯kill processes identified by port in Deno 🦕","repo":"https://github.com/sylc/dkill","reg":"x","vers":"0.8.0"}
