@@ -1,2 +1,3 @@
 {"name":"cookie_driver","desc":"A fast and correct cookiedb driver for deno","repo":"https://github.com/cookiedb/cookie_esm","reg":"x","vers":"0.1.0"}
 {"name":"cookie_driver","desc":"A fast and correct cookiedb driver for esm platforms","repo":"https://github.com/cookiedb/cookie_esm","reg":"x","vers":"0.2.0"}
+{"name":"cookie_driver","desc":"A fast and correct cookiedb driver for esm platforms","repo":"https://github.com/cookiedb/cookie_esm","reg":"x","vers":"0.3.0"}

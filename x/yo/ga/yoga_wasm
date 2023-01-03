@@ -1,2 +1,3 @@
 {"name":"yoga_wasm","desc":"Build Yoga to WASM for Deno","repo":"https://github.com/hugojosefson/yoga-wasm-deno","reg":"x","vers":"0.0.0"}
 {"name":"yoga_wasm","desc":"Build Yoga to WASM for Deno","repo":"https://github.com/hugojosefson/yoga-wasm-deno","reg":"x","vers":"0.0.1"}
+{"name":"yoga_wasm","desc":"WASM build of Yoga Flexbox layout engine, for Deno.","repo":"https://github.com/hugojosefson/yoga-wasm-deno","reg":"x","vers":"0.0.2"}
