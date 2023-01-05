@@ -50,3 +50,4 @@
 {"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v4.0.0"}
 {"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v4.1.0"}
 {"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v4.2.0"}
+{"name":"phonenumber","desc":"Google's libphonenumber pre-compiled with the closure compiler","repo":"https://github.com/grantila/awesome-phonenumber","reg":"x","vers":"v4.2.1"}
