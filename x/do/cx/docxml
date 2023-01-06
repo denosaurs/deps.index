@@ -38,3 +38,4 @@
 {"name":"docxml","desc":"An experimental Deno tool to transform XML to DOCX with a little XPath- and component based configuration","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.0.2"}
 {"name":"docxml","desc":"TypeScript library for parsing and building a DOCXML file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.1.0"}
 {"name":"docxml","desc":"TypeScript library for parsing and building a DOCXML file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.1.1"}
+{"name":"docxml","desc":"TypeScript library for parsing and building a DOCXML file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.2.0"}
