@@ -26,3 +26,4 @@
 {"name":"gfm","desc":"Server-side GitHub Flavored Markdown rendering for Deno","repo":"https://github.com/lucacasonato/deno-gfm","reg":"x","vers":"0.1.25"}
 {"name":"gfm","desc":"Server-side GitHub Flavored Markdown rendering for Deno","repo":"https://github.com/lucacasonato/deno-gfm","reg":"x","vers":"0.1.26"}
 {"name":"gfm","desc":"Server-side GitHub Flavored Markdown rendering for Deno","repo":"https://github.com/denoland/deno-gfm","reg":"x","vers":"0.1.27"}
+{"name":"gfm","desc":"Server-side GitHub Flavored Markdown rendering for Deno","repo":"https://github.com/denoland/deno-gfm","reg":"x","vers":"0.1.28"}

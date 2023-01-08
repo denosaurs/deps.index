@@ -7,3 +7,5 @@
 {"name":"nqlite","desc":"Easy, lightweight, relational database using SQLite and NATS JetStream","repo":"https://github.com/voxoco/nqlite","reg":"x","vers":"v1.2.2"}
 {"name":"nqlite","desc":"Easy, lightweight, relational database using SQLite and NATS JetStream","repo":"https://github.com/voxoco/nqlite","reg":"x","vers":"v1.3.0"}
 {"name":"nqlite","desc":"Easy, lightweight, relational database using SQLite and NATS JetStream","repo":"https://github.com/voxoco/nqlite","reg":"x","vers":"v1.3.1"}
+{"name":"nqlite","desc":"Easy, lightweight, relational database using SQLite and NATS JetStream","repo":"https://github.com/voxoco/nqlite","reg":"x","vers":"v1.4.0"}
+{"name":"nqlite","desc":"Easy, lightweight, relational database using SQLite and NATS JetStream","repo":"https://github.com/voxoco/nqlite","reg":"x","vers":"v1.4.1"}
