@@ -38,3 +38,4 @@
 {"name":"denodb","desc":"MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno","repo":"https://github.com/eveningkid/denodb","reg":"x","vers":"v1.0.39"}
 {"name":"denodb","desc":"MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno","repo":"https://github.com/eveningkid/denodb","reg":"x","vers":"v1.0.40"}
 {"name":"denodb","desc":"MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno","repo":"https://github.com/eveningkid/denodb","reg":"x","vers":"v1.1.0"}
+{"name":"denodb","desc":"MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno","repo":"https://github.com/eveningkid/denodb","reg":"x","vers":"v1.2.0"}

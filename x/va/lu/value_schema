@@ -59,3 +59,4 @@
 {"name":"value_schema","desc":"simple, easy-to-use, and declarative input validator; supports Node.js, TypeScript, and Deno","repo":"https://github.com/shimataro/value-schema","reg":"x","vers":"v3.1.1"}
 {"name":"value_schema","desc":"simple, easy-to-use, and declarative input validator; supports Node.js, TypeScript, and Deno","repo":"https://github.com/shimataro/value-schema","reg":"x","vers":"v4.0.0-rc.1"}
 {"name":"value_schema","desc":"simple, easy-to-use, and declarative input validator; supports Node.js, TypeScript, Deno, and Bun","repo":"https://github.com/shimataro/value-schema","reg":"x","vers":"v4.0.0-rc.2"}
+{"name":"value_schema","desc":"simple, easy-to-use, and declarative input validator; supports Node.js, TypeScript, Deno, and Bun","repo":"https://github.com/shimataro/value-schema","reg":"x","vers":"v3.1.2"}

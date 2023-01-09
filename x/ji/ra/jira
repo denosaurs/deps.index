@@ -52,3 +52,4 @@
 {"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.15.15"}
 {"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.15.16"}
 {"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.15.17"}
+{"name":"jira","desc":"A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API","repo":"https://github.com/MrRefactoring/jira.js","reg":"x","vers":"v2.16.0"}
