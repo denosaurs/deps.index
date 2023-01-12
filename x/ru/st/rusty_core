@@ -13,3 +13,4 @@
 {"name":"rusty_core","desc":"Option and Result as inspired by https://doc.rust-lang.org/stable/core","repo":"https://github.com/HaKr/rusty-core","reg":"x","vers":"v1.1.24"}
 {"name":"rusty_core","desc":"Option and Result as inspired by https://doc.rust-lang.org/stable/core","repo":"https://github.com/HaKr/rusty-core","reg":"x","vers":"v1.2.1"}
 {"name":"rusty_core","desc":"Option and Result as inspired by https://doc.rust-lang.org/stable/core","repo":"https://github.com/HaKr/rusty-core","reg":"x","vers":"v2.0.0"}
+{"name":"rusty_core","desc":"Option and Result as inspired by https://doc.rust-lang.org/stable/core","repo":"https://github.com/HaKr/rusty-core","reg":"x","vers":"v3.0.0"}
