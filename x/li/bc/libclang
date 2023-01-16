@@ -1,2 +1,3 @@
 {"name":"libclang","desc":"Deno FFI bindings for libclang","repo":"https://github.com/aapoalas/libclang-deno","reg":"x","vers":"1.0.0-beta.1"}
 {"name":"libclang","desc":"Deno FFI bindings for libclang","repo":"https://github.com/aapoalas/libclang-deno","reg":"x","vers":"1.0.0-beta.2"}
+{"name":"libclang","desc":"Deno FFI bindings for libclang","repo":"https://github.com/aapoalas/libclang-deno","reg":"x","vers":"1.0.0-beta.3"}

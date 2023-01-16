@@ -14,3 +14,4 @@
 {"name":"esbuild_serve","desc":"A Deno Web bundler.","repo":"https://github.com/lucsoft/esbuild_serve","reg":"x","vers":"1.0.0"}
 {"name":"esbuild_serve","desc":"A Deno Web bundler.","repo":"https://github.com/lucsoft/esbuild_serve","reg":"x","vers":"1.0.1"}
 {"name":"esbuild_serve","desc":"A Deno Web bundler.","repo":"https://github.com/lucsoft/esbuild_serve","reg":"x","vers":"1.1.0"}
+{"name":"esbuild_serve","desc":"A Deno Web bundler.","repo":"https://github.com/lucsoft/esbuild_serve","reg":"x","vers":"1.2.0"}
