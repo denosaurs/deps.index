@@ -17,3 +17,4 @@
 {"name":"deno_tsc_helper","desc":"Allows type checking of code meant for Deno with tsc.","repo":"https://github.com/jespertheend/deno-tsc-helper","reg":"x","vers":"v0.1.2"}
 {"name":"deno_tsc_helper","desc":"Allows type checking of code meant for Deno with tsc.","repo":"https://github.com/jespertheend/deno-tsc-helper","reg":"x","vers":"v0.2.0"}
 {"name":"deno_tsc_helper","desc":"Allows type checking of code meant for Deno with tsc.","repo":"https://github.com/jespertheend/deno-tsc-helper","reg":"x","vers":"v0.2.1"}
+{"name":"deno_tsc_helper","desc":"Allows type checking of code meant for Deno with tsc.","repo":"https://github.com/jespertheend/deno-tsc-helper","reg":"x","vers":"v0.3.0"}

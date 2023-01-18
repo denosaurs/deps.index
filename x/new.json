@@ -1,1 +1,1 @@
-[{"name":"tmdb_sdk","desc":"","repo":"https://github.com/pskfyi/tmdb-sdk","reg":"x","vers":["v0.1.0"]}]
+[{"name":"psjoin","desc":"Join several promises","repo":"https://github.com/tjconcept/psjoin","reg":"x","vers":["v1.0.0"]},{"name":"translite","desc":"🌎 A light, flexible, and dynamic translation library in Typescript","repo":"https://github.com/Jimdooz/translite","reg":"x","vers":["v0.0.1"]},{"name":"dimers","desc":"Deno timers utility library","repo":"https://github.com/TortitasT/dimers","reg":"x","vers":["1.2.0","1.1.0","1.0.0"]}]

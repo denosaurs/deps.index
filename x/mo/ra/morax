@@ -12,3 +12,4 @@
 {"name":"morax","desc":"WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.","repo":"https://github.com/hazae41/morax","reg":"x","vers":"1.0.13"}
 {"name":"morax","desc":"WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.","repo":"https://github.com/hazae41/morax","reg":"x","vers":"1.0.14"}
 {"name":"morax","desc":"WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.","repo":"https://github.com/hazae41/morax","reg":"x","vers":"1.0.15"}
+{"name":"morax","desc":"WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.","repo":"https://github.com/hazae41/morax","reg":"x","vers":"1.0.16"}

@@ -6,3 +6,5 @@
 {"name":"envconfig","desc":"golang envconfig syntax for deno","repo":"https://github.com/fernandolguevara/deno-envconfig","reg":"x","vers":"0.0.6"}
 {"name":"envconfig","desc":"golang envconfig syntax for deno","repo":"https://github.com/fernandolguevara/deno-envconfig","reg":"x","vers":"0.0.7"}
 {"name":"envconfig","desc":"golang envconfig syntax for deno","repo":"https://github.com/fernandolguevara/deno-envconfig","reg":"x","vers":"0.0.8"}
+{"name":"envconfig","desc":"golang envconfig syntax for deno","repo":"https://github.com/fernandolguevara/deno-envconfig","reg":"x","vers":"0.0.9"}
+{"name":"envconfig","desc":"golang envconfig syntax for deno","repo":"https://github.com/fernandolguevara/deno-envconfig","reg":"x","vers":"0.0.10"}
