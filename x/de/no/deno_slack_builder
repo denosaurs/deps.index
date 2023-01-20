@@ -13,3 +13,4 @@
 {"name":"deno_slack_builder","desc":"","repo":"https://github.com/slackapi/deno-slack-builder","reg":"x","vers":"0.0.13"}
 {"name":"deno_slack_builder","desc":"","repo":"https://github.com/slackapi/deno-slack-builder","reg":"x","vers":"0.0.14"}
 {"name":"deno_slack_builder","desc":"Library for building a Run on Slack Deno project.","repo":"https://github.com/slackapi/deno-slack-builder","reg":"x","vers":"0.1.0"}
+{"name":"deno_slack_builder","desc":"Library for building a Run on Slack Deno project.","repo":"https://github.com/slackapi/deno-slack-builder","reg":"x","vers":"0.2.0"}

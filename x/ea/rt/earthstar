@@ -35,3 +35,4 @@
 {"name":"earthstar","desc":"Earthstar is a tool for private, undiscoverable, offline-first networks. ","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v10.0.0-beta.8"}
 {"name":"earthstar","desc":"Earthstar is a tool for private, undiscoverable, offline-first networks. ","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v10.0.0-rc.1"}
 {"name":"earthstar","desc":"Earthstar is a tool for private, undiscoverable, offline-first networks. ","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v10.0.0"}
+{"name":"earthstar","desc":"Storage for private, distributed, offline-first applications.","repo":"https://github.com/earthstar-project/earthstar","reg":"x","vers":"v10.0.1"}
