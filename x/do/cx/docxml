@@ -41,3 +41,4 @@
 {"name":"docxml","desc":"TypeScript library for parsing and building a DOCXML file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.2.0"}
 {"name":"docxml","desc":"TypeScript (component) library for building and parsing a DOCX file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.2.1"}
 {"name":"docxml","desc":"TypeScript (component) library for building and parsing a DOCX file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.3.0"}
+{"name":"docxml","desc":"TypeScript (component) library for building and parsing a DOCX file","repo":"https://github.com/wvbe/docxml","reg":"x","vers":"5.3.1"}
