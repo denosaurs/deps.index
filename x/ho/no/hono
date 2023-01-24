@@ -58,3 +58,4 @@
 {"name":"hono","desc":"Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.","repo":"https://github.com/honojs/hono","reg":"x","vers":"v3.0.0-rc.7"}
 {"name":"hono","desc":"Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.","repo":"https://github.com/honojs/hono","reg":"x","vers":"v3.0.0-rc.8"}
 {"name":"hono","desc":"Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.","repo":"https://github.com/honojs/hono","reg":"x","vers":"v2.7.4"}
+{"name":"hono","desc":"Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js. Fast, but not only fast.","repo":"https://github.com/honojs/hono","reg":"x","vers":"v2.7.5"}
