@@ -8,3 +8,4 @@
 {"name":"mdrb","desc":"Execute markdown with Deno","repo":"https://github.com/andrewbrey/mdrb","reg":"x","vers":"1.0.8"}
 {"name":"mdrb","desc":"Execute markdown with Deno","repo":"https://github.com/andrewbrey/mdrb","reg":"x","vers":"1.0.9"}
 {"name":"mdrb","desc":"Execute markdown with Deno","repo":"https://github.com/andrewbrey/mdrb","reg":"x","vers":"1.0.10"}
+{"name":"mdrb","desc":"Turn your Markdown documentation into executable runbooks.","repo":"https://github.com/andrewbrey/mdrb","reg":"x","vers":"1.0.11"}
