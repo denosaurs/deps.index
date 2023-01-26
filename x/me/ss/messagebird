@@ -1,3 +1,6 @@
 {"name":"messagebird","desc":"The open source Node.js client for MessageBird's REST API","repo":"https://github.com/messagebird/messagebird-nodejs","reg":"x","vers":"v3.7.2"}
 {"name":"messagebird","desc":"The open source Node.js client for MessageBird's REST API","repo":"https://github.com/messagebird/messagebird-nodejs","reg":"x","vers":"v3.8.0"}
 {"name":"messagebird","desc":"The open source Node.js client for MessageBird's REST API","repo":"https://github.com/messagebird/messagebird-nodejs","reg":"x","vers":"v3.8.1"}
+{"name":"messagebird","desc":"The open source Node.js client for MessageBird's REST API","repo":"https://github.com/messagebird/messagebird-nodejs","reg":"x","vers":"v4.0.0-alpha"}
+{"name":"messagebird","desc":"The open source Node.js client for MessageBird's REST API","repo":"https://github.com/messagebird/messagebird-nodejs","reg":"x","vers":"v4.0.0"}
+{"name":"messagebird","desc":"The open source Node.js client for MessageBird's REST API","repo":"https://github.com/messagebird/messagebird-nodejs","reg":"x","vers":"v4.0.1"}

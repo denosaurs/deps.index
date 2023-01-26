@@ -8,3 +8,5 @@
 {"name":"upstash_ratelimit","desc":"Rate limiting library for serverless runtimes","repo":"https://github.com/upstash/ratelimit","reg":"x","vers":"v0.1.4"}
 {"name":"upstash_ratelimit","desc":"Rate limiting library for serverless runtimes","repo":"https://github.com/upstash/ratelimit","reg":"x","vers":"v0.1.5-next.1"}
 {"name":"upstash_ratelimit","desc":"Rate limiting library for serverless runtimes","repo":"https://github.com/upstash/ratelimit","reg":"x","vers":"v0.1.5"}
+{"name":"upstash_ratelimit","desc":"Rate limiting library for serverless runtimes","repo":"https://github.com/upstash/ratelimit","reg":"x","vers":"v0.2.0-rc.0"}
+{"name":"upstash_ratelimit","desc":"Rate limiting library for serverless runtimes","repo":"https://github.com/upstash/ratelimit","reg":"x","vers":"v0.2.0"}

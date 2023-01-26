@@ -1,1 +1,2 @@
 {"name":"tio","desc":"Evaluate code in a sandboxed environment everywhere with Node.js or Deno.","repo":"https://github.com/null8626/tio.js","reg":"x","vers":"v3.0.2"}
+{"name":"tio","desc":"A small TypeScript library that lets you evaluate code in a sandboxed environment everywhere.","repo":"https://github.com/null8626/tio.js","reg":"x","vers":"v3.1.0"}
